@@ -1,0 +1,476 @@
+{
+ "textura": "e/texture/mg_karaoke_menu01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    8,
+    337,
+    188,
+    391
+   ],
+   "en": "Song Settings",
+   "es": " ",
+   "solo_borrar": true,
+   "efecto": "nada",
+   "margen": 0
+  },
+  {
+   "caja": [
+    32,
+    2,
+    164,
+    37
+   ],
+   "en": "Song History",
+   "ocr": "Song History",
+   "es": "Historial de canciones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 130
+  },
+  {
+   "caja": [
+    25,
+    39,
+    172,
+    70
+   ],
+   "en": "Recommended",
+   "ocr": "Recommended",
+   "es": "Recomendado",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 151
+  },
+  {
+   "caja": [
+    212,
+    58,
+    261,
+    81
+   ],
+   "en": "Default",
+   "ocr": "Default",
+   "es": "Original",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49,
+   "color": [
+    215,
+    25,
+    25
+   ],
+   "fondo": "lama",
+   "mediana": false,
+   "alto": 11
+  },
+  {
+   "caja": [
+    32,
+    73,
+    166,
+    102
+   ],
+   "en": "Change Users",
+   "ocr": "→ChangeUsers",
+   "es": "Cambiar usuario",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 162
+  },
+  {
+   "caja": [
+    34,
+    108,
+    143,
+    140
+   ],
+   "en": "Rankings",
+   "ocr": "Rankings",
+   "es": "Clasificaciones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 109
+  },
+  {
+   "caja": [
+    187,
+    110,
+    257,
+    137
+   ],
+   "en": "Settings",
+   "ocr": "Settings",
+   "es": "Opciones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 81
+  },
+  {
+   "caja": [
+    0,
+    138,
+    258,
+    165
+   ],
+   "en": "選曲番號 JOYSOUND MAX 151231",
+   "ocr": "送曲番号JOYSOUnDMAX151231",
+   "es": "NÚMERO DE SONG JOYSOUND MAX 151231",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 258,
+   "dejar": true
+  },
+  {
+   "caja": [
+    79,
+    168,
+    171,
+    195
+   ],
+   "en": "LANGUAGE",
+   "ocr": "LANGUAGE",
+   "es": "IDIOMA",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 92
+  },
+  {
+   "caja": [
+    179,
+    161,
+    228,
+    201
+   ],
+   "en": "Play",
+   "ocr": "Play",
+   "es": "Iniciar",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 42
+  },
+  {
+   "caja": [
+    300,
+    165,
+    461,
+    188
+   ],
+   "en": "The perfect key",
+   "ocr": "Theperfectkey",
+   "es": "El tono perfecto",
+   "fuente": "segoeui.ttf",
+   "fondo": "blanco",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 161,
+   "color": [
+    115,
+    115,
+    115
+   ],
+   "margen": 1
+  },
+  {
+   "caja": [
+    71,
+    194,
+    170,
+    233
+   ],
+   "en": "English",
+   "ocr": "English Rank",
+   "es": "Inglés",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 97
+  },
+  {
+   "caja": [
+    388,
+    189,
+    507,
+    212
+   ],
+   "en": "for you is...",
+   "ocr": "for you is...",
+   "es": "para ti es...",
+   "fuente": "segoeui.ttf",
+   "fondo": "blanco",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 119,
+   "color": [
+    115,
+    115,
+    115
+   ],
+   "margen": 1
+  },
+  {
+   "caja": [
+    184,
+    232,
+    271,
+    266
+   ],
+   "en": "Return",
+   "ocr": "Return",
+   "es": "Volver",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 83
+  },
+  {
+   "caja": [
+    58,
+    274,
+    168,
+    306
+   ],
+   "en": "See Lyrics",
+   "ocr": "See Lyrics",
+   "es": "Ver letra",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 110
+  },
+  {
+   "caja": [
+    196,
+    266,
+    268,
+    297
+   ],
+   "en": "Queue",
+   "ocr": "Queue",
+   "es": "Cola",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 72
+  },
+  {
+   "caja": [
+    2,
+    280,
+    37,
+    301
+   ],
+   "en": "ABC",
+   "ocr": "DABC",
+   "es": "ABC",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    198,
+    297,
+    257,
+    333
+   ],
+   "en": "Stop",
+   "ocr": "Stop",
+   "es": "Detener",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 59
+  },
+  {
+   "caja": [
+    31,
+    310,
+    143,
+    339
+   ],
+   "en": "Phone Link",
+   "ocr": "Phone Link",
+   "es": "Enlazar teléfono",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 112
+  },
+  {
+   "caja": [
+    112,
+    339,
+    194,
+    360
+   ],
+   "en": "Songs",
+   "ocr": "Songs",
+   "es": "Canciones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 82,
+   "tam": 20,
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    10,
+    339,
+    100,
+    360
+   ],
+   "en": "Song",
+   "ocr": "Song",
+   "es": "Opciones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 90,
+   "tam": 17,
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    13,
+    361,
+    96,
+    389
+   ],
+   "en": "Settings",
+   "ocr": "Settings",
+   "es": "de canción",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 79,
+   "tam": 20,
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    123,
+    361,
+    185,
+    392
+   ],
+   "en": "to Top",
+   "ocr": "toTop",
+   "es": "al inicio",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 62,
+   "tam": 20,
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    3,
+    390,
+    119,
+    423
+   ],
+   "en": "Promotions",
+   "ocr": "Promotions",
+   "es": "Promociones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    144,
+    400,
+    327,
+    432
+   ],
+   "en": "Instrumentation",
+   "ocr": "Instrumentation",
+   "es": "Instrumentación",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 183
+  },
+  {
+   "caja": [
+    0,
+    420,
+    86,
+    448
+   ],
+   "en": "ON OFF",
+   "ocr": "ON OFF",
+   "es": "SÍ  NO",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 86
+  },
+  {
+   "caja": [
+    61,
+    465,
+    174,
+    503
+   ],
+   "en": "Utasuki",
+   "ocr": "Utasuki",
+   "es": "Utasuki",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 113,
+   "dejar": true
+  },
+  {
+   "caja": [
+    353,
+    476,
+    489,
+    510
+   ],
+   "en": "JOYTV",
+   "ocr": "JOYTV",
+   "es": "JOYTV",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 136,
+   "dejar": true
+  },
+  {
+   "caja": [
+    171,
+    194,
+    237,
+    233
+   ],
+   "en": "Rank",
+   "ocr": "English Rank",
+   "es": "Rango",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 64
+  }
+ ]
+}

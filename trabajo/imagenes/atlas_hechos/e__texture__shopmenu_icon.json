@@ -1,0 +1,71 @@
+{
+ "textura": "e/texture/shopmenu_icon",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    338,
+    18,
+    511,
+    155
+   ],
+   "en": "NEW",
+   "ocr": "★ ★★ NEW ★★",
+   "es": "NUEVO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 173,
+   "dejar": true
+  },
+  {
+   "caja": [
+    0,
+    28,
+    175,
+    139
+   ],
+   "en": "POPULAR!",
+   "ocr": "POPULAR!",
+   "es": "¡POPULAR!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 175,
+   "dejar": true
+  },
+  {
+   "caja": [
+    183,
+    96,
+    328,
+    145
+   ],
+   "en": "SPECIAL",
+   "ocr": "SPECIAL",
+   "es": "ESPECIAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 145
+  },
+  {
+   "caja": [
+    15,
+    206,
+    159,
+    307
+   ],
+   "en": "SALE!",
+   "ocr": "SALE!",
+   "es": "¡REBAJA!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 144,
+   "dejar": true
+  }
+ ]
+}

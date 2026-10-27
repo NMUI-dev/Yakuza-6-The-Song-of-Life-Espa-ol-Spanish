@@ -1,0 +1,2390 @@
+[
+{
+"id": 28098,
+"en": "So I was curious 'bout your childhoods.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28099,
+"en": "I get it now.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28100,
+"en": "More lies!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28101,
+"en": "Back it up a sec.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28102,
+"en": "Oh, that's what this is about.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28103,
+"en": "I never went to a reunion. Y'oughta have fun.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28104,
+"en": "In fact, why're ya wastin' yer time here!? Hurry on over!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28105,
+"en": "Nah, it's not fer a little while.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28106,
+"en": "I see how it is.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28107,
+"en": "Don't then.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28108,
+"en": "'Sides, I'm not sure I wanna go...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28109,
+"en": "I don't wanna see the effects of age on someone I admired...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28110,
+"en": "She's right.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28111,
+"en": "I don't age either.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28112,
+"en": "You gonna take that?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28113,
+"en": "Wait a sec. Wouldn't that apply to you, too?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28114,
+"en": "Yeah, you've gone n' aged just as much, y'know.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28115,
+"en": "Probably not.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28116,
+"en": "Give yourself some credit.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28117,
+"en": "Give up already.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28118,
+"en": "No one's gonna care one way or the other 'bout me!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28119,
+"en": "That's a real nice thing t' hear!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28120,
+"en": "'Cept the \"strangely\" part.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28121,
+"en": "Answer the question!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28122,
+"en": "Just stay home.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28123,
+"en": "Yeah, are you?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28124,
+"en": "Well, part of me is curious 'bout it...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28125,
+"en": "But my memories are at war with reality...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28126,
+"en": "What the hell're you on about?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28127,
+"en": "He's right.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28128,
+"en": "Memories are a curse...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28129,
+"en": "What just happened?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28130,
+"en": "You're only 30, aren't ya? Couldn't be that big a war!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28131,
+"en": "You're still a spring chicken at that age. You're young!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28132,
+"en": "Makin' yerself feel better, Mama?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28133,
+"en": "Because of time travel?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28134,
+"en": "Because you're immortal?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28135,
+"en": "Explain.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28136,
+"en": "Y-Y'don't get it. There's an age discrepancy!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28137,
+"en": "How would y'know?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28138,
+"en": "'Cause... I'm talkin' about an old teacher!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28139,
+"en": "Nooow I see.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28140,
+"en": "It's a trap!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28141,
+"en": "Who says an experienced adult is bad?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28142,
+"en": "When a man loves a woman...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28143,
+"en": "How should I put this...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28144,
+"en": "True enough.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28145,
+"en": "Oh really?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28146,
+"en": "Yikes.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28147,
+"en": "I'm calling the cops.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28148,
+"en": "Heck, I heard a pro ball player married his friend's mom last year.",
+"ctx": "talk",
+"max": 79
+},
+{
+"id": 28149,
+"en": "Ain't I always told ya not to worry 'bout age n' looks?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28150,
+"en": "You haven't...! How is any of this even relevant?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28151,
+"en": "He's sayin' age shouldn't matter!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28152,
+"en": "I'll drink to that.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28153,
+"en": "I'll drink to anything.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28154,
+"en": "Oh, should we open a new bottle!?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28155,
+"en": "Y'all just want another reason t'drink!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28156,
+"en": "Busted.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28157,
+"en": "Haha!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28158,
+"en": "Anyway, so y'don't wanna see your teacher all old now huh?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28159,
+"en": "That's fair.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28160,
+"en": "That's weak.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28161,
+"en": "My ice is melting.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28162,
+"en": "Just do it, Akiyoshi-san!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28163,
+"en": "Just do it, Akiyoshi-san.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28164,
+"en": "All in all, you'll just reminisce about the good old days.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28165,
+"en": "Y'think that's it? I got all worked up over nothin'?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28166,
+"en": "All righty then! I'll go to my class reunion!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28167,
+"en": "Sounds like you've made up your mind.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28168,
+"en": "So, y'gonna go on the defensive now, Mama?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28169,
+"en": "Me? Why would I?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28170,
+"en": "If him and his teach' get too close, he'll stop comin'.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28171,
+"en": "I don't follow! What are y'even gettin' at!?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28172,
+"en": "What? She mutterin' about sales?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28173,
+"en": "I'm gonna put a little more thought into this...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28174,
+"en": "Guess that's just how much he values the memory.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28175,
+"en": "Do what y'need, but y'better not have any regrets in the end.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28176,
+"en": "Mama, y'know what my hobby is?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28177,
+"en": "Tell me about it.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28178,
+"en": "The neighbors know it too.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28179,
+"en": "Even I know that.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28180,
+"en": "Anyone who's ever set foot here'd know that.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28181,
+"en": "He's been practicin' his vocal stylings too.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28182,
+"en": "Yeah? That's good.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28183,
+"en": "Aren't y'glad it got upgraded?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28184,
+"en": "I splurged on it! Y'best be gettin' your money's worth.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28185,
+"en": "Too chicken?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28186,
+"en": "Too intimidated?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28187,
+"en": "I can't sing on it! No darn way...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28188,
+"en": "Yeah, why not?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28189,
+"en": "He had to pass?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28190,
+"en": "He has gas!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28191,
+"en": "He hasn't?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28192,
+"en": "But don't y'enjoy listenin' to other folks singing?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28193,
+"en": "Sure, I like listening 'bout as much as I like singin'.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28194,
+"en": "It really is.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28195,
+"en": "It kinda is.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28196,
+"en": "It kinda sucks.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28197,
+"en": "If I can't, you can't.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28198,
+"en": "If I can, you can.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28199,
+"en": "If you can't, I can.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28200,
+"en": "There's jus' no way I can use that fancy machine.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28201,
+"en": "I disagree.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28202,
+"en": "I need to pee.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28203,
+"en": "Yeah, have me?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28204,
+"en": "Yeah, have you?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28205,
+"en": "Wait, have you even tried singin' on the new machine?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28206,
+"en": "I haven't. The shower's my only concert hall now.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28207,
+"en": "For real?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28208,
+"en": "I can't believe you're complainin' about a better machine.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28209,
+"en": "I like spaghetti.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28210,
+"en": "It's better to try on shoes at night.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28211,
+"en": "Why don't you give it a shot?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28212,
+"en": "Yeah, ya ain't even tried.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28213,
+"en": "I jus' don't care much fer newfangled gadgetry.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28214,
+"en": "I'm still warmin' up to my cordless phone...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28215,
+"en": "Time is relative.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28216,
+"en": "I may have met a time leaper...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28217,
+"en": "Well, are you?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28218,
+"en": "Gen-san, are ya some kinda time leaper?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28219,
+"en": "Geez! I mostly bought it for you, y'know, Gen-san!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28220,
+"en": "Ah, figures it comes down to money.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28221,
+"en": "I ran a business once.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28222,
+"en": "A shady business!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28223,
+"en": "Hey, I'm runnin' a business here.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28224,
+"en": "C'mon, I jus' don't wanna depend on machines fer everything!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28225,
+"en": "We're just askin' for the robot uprising, y'know.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28226,
+"en": "Good robots would save us.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28227,
+"en": "Good thing I punch robots.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28228,
+"en": "The last karaoke machine was still a machine...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28229,
+"en": "A landmine is a powerful too.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28230,
+"en": "Machines are pretty useful too.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28231,
+"en": "Airplanes are nice and comfy.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28232,
+"en": "Machines have their uses if you let them.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28233,
+"en": "It took me by surprise when it showed up here too.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28234,
+"en": "But y'stayed with the times, right? Y'got used to it?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28235,
+"en": "I know the feeling.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28236,
+"en": "I know the karaoke king.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28237,
+"en": "I know a lot of songs.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28238,
+"en": "Yeah, I got real worked up trying to get a good rank.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28239,
+"en": "Ain't like this bar has a lot of customers t'compete with...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28240,
+"en": "Shut yer trap.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28241,
+"en": "Not the bar's ranking! The national ranking!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28242,
+"en": "That machine ranks your score against the whole country online.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28243,
+"en": "The bar may be small, but I can sing against everyone!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28244,
+"en": "Size matters.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28245,
+"en": "Size doesn't matter.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28246,
+"en": "It's the motion in the ocean.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28247,
+"en": "D'ya guys got a problem with the size of my bar?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28248,
+"en": "Good one!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28249,
+"en": "She's busting your balls.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28250,
+"en": "She's gonna blow!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28251,
+"en": "Maybe because y'were too busy whinin' to listen!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28252,
+"en": "It really ain't that complicated.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28253,
+"en": "Let's just sing on it!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28254,
+"en": "Let's sing on it, Gen-san. I do karaoke from time to time.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28255,
+"en": "Yeah... Guess I'll give it a shot.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28256,
+"en": "Yup, you'll have it down in no time.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28257,
+"en": "Say, Gen-san... What kind of songs do you sing?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28258,
+"en": "Y'used to sing a lot of enka, right?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28259,
+"en": "I do like me some enka, but I wanna do the other song.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28260,
+"en": "Which one?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28261,
+"en": "Gen-san, you actually like pop music?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28262,
+"en": "First I'm hearin' it.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28263,
+"en": "Yeah, I listen to pop every now n' again.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28264,
+"en": "'Course it does! I sang it jus' yesterday.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28265,
+"en": "But then, something about using a new machine.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28266,
+"en": "It's not gonna explode!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28267,
+"en": "Thanks...",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28268,
+"en": "So, what's wrong, Ando-san? What's got y'down?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28269,
+"en": "Something happen at the pawn shop earlier?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28270,
+"en": "Yerp.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28271,
+"en": "Yolo.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28272,
+"en": "A customer?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28273,
+"en": "Care to talk? No promises, but maybe it'll help.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28274,
+"en": "It'd be a miracle if we actually solved a problem.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28275,
+"en": "True that.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28276,
+"en": "Trunk that.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28277,
+"en": "That old popstar?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28278,
+"en": "Aw, you're really upset.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28279,
+"en": "That guy from earlier came t'sell something...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28280,
+"en": "Oh shit.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28281,
+"en": "Oh hell no.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28282,
+"en": "A wedding ring... 'Cept it had my ex-wife's and my names on it.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28283,
+"en": "Wha? Ex-wife? Meaning y'got divorced?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28284,
+"en": "You can't!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28285,
+"en": "She probably died.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28286,
+"en": "You were?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28287,
+"en": "But weren't y'talkin' about gettin' her back jus' recently?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28288,
+"en": "Oh, y'must be real broken up then...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28289,
+"en": "So wrong.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28290,
+"en": "Soda pop.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28291,
+"en": "Sometimes y'don't know what ya got until ya lose it!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28292,
+"en": "But by the time y'realize it, it's usually too late...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28293,
+"en": "Mama... Y'don't gotta rub salt in his wounds...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28294,
+"en": "Not if she's dead.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28295,
+"en": "Still, the relationship ain't beyond repair, right?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28296,
+"en": "We even talked about meetin' up over dinner...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28297,
+"en": "Sounds like a tease t'me. She some kinda witch?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28298,
+"en": "I wouldn't say she's a tease, though.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28299,
+"en": "Damn.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28300,
+"en": "Women, am I right?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28301,
+"en": "Men, am I right?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28302,
+"en": "Maybe y'never even got to see who she really was.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28303,
+"en": "Wow Mama, that's deep.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28304,
+"en": "It jus' takes time. Pay her no mind.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28305,
+"en": "No more open tabs for you nitwits.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28306,
+"en": "It's bad to crack your knuckles.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28307,
+"en": "It's all speculation.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28308,
+"en": "What happened to the ring?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28309,
+"en": "I'm still a businessman, so I bought it off him. 10,000 yen.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28310,
+"en": "It sure is.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28311,
+"en": "I'll give you TRAGIC.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28312,
+"en": "Oh no, that's tragic...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28313,
+"en": "Some young, suave type.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28314,
+"en": "Y'think he's her new husband?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28315,
+"en": "Am I her type?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28316,
+"en": "Are you her type?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28317,
+"en": "No way she remarried!  ...He's not her type!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28318,
+"en": "Women do like t'change things up though...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28319,
+"en": "Did the love fade?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28320,
+"en": "Too personal!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28321,
+"en": "Can we ask that?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28322,
+"en": "I was a workaholic, so I didn't come home much.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28323,
+"en": "I knew she was lonely, but I thought she understood...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28324,
+"en": "A divorce kinda makes sense in that case.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28325,
+"en": "But I did some soul searchin', and I quit my job.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28326,
+"en": "I get you.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28327,
+"en": "I get the chills.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28328,
+"en": "I'll get your coat.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28329,
+"en": "I opened my pawn shop t'spend more time with family.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28330,
+"en": "Business is good, so I thought maybe we could start over...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28331,
+"en": "Pain don't hurt.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28332,
+"en": "Don't lie!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28333,
+"en": "I'm seriously startin' to feel sorry for you...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28334,
+"en": "Yeah, I feel bad I wasn't paying attention...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28335,
+"en": "Hey, hey, hey.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28336,
+"en": "Hey now.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28337,
+"en": "Hey is for horses.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28338,
+"en": "Pay attention, then! C'mon, at least pretend t'care.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28339,
+"en": "Anyone got New Years plans?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28340,
+"en": "You should talk to your ex.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28341,
+"en": "Who's got the bill tonight?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28342,
+"en": "What if she shows up t'introduce her new man?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28343,
+"en": "You mean you'll run away.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28344,
+"en": "You mean to Mars?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28345,
+"en": "You mean that?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28346,
+"en": "Maybe I'll jus' travel.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28347,
+"en": "Join the yakuza instead.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28348,
+"en": "Open an orphanage instead.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28349,
+"en": "Hey, don't go down that path!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28350,
+"en": "The hell is he raving about?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28351,
+"en": "Ando-san...",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28352,
+"en": "It's still too early to give up!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28353,
+"en": "But, I don't got a choice...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28354,
+"en": "That ring raised more questions than answers.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28355,
+"en": "Can't you wait until we have a clear picture?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28356,
+"en": "Damn straight.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28357,
+"en": "'Sides, if you close, where else am I gonna buy tableware?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28358,
+"en": "So y'got these from the pawn shop...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28359,
+"en": "I really like your store, y'know? Y'oughta rethink this.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28360,
+"en": "Guys... Okay, I'll think it through some more.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28361,
+"en": "You've worked hard, Ando-san. Yer luck's bound to change.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28362,
+"en": "Then raise a glass to Ando-san findin' his happiness...!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28363,
+"en": "Where can I find a boat to the nearest deserted island?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28364,
+"en": "C'mon now, let's just start with this drink.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28365,
+"en": "We'll keep ya company today.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28366,
+"en": "(We couldn't cheer him up...)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28367,
+"en": "Kiryu-san, do y'ever go to shrines?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28368,
+"en": "Shrines? Sometimes, I guess.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28369,
+"en": "It's great.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28370,
+"en": "It grinds.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28371,
+"en": "It grates.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28372,
+"en": "Me too. The breeze is so nice up there.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28373,
+"en": "Since yer askin', do you ever go?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28374,
+"en": "I jus' went yesterday. Hopin' I'd get blessed with good luck.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28375,
+"en": "What a jackass.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28376,
+"en": "A lucky duck?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28377,
+"en": "A sucky day?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28378,
+"en": "A lucky day?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28379,
+"en": "And did you?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28380,
+"en": "Not really, but I did see the strangest thing.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28381,
+"en": "Strange?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28382,
+"en": "Uh oh.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28383,
+"en": "Oh uh.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28384,
+"en": "Ruh roh.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28385,
+"en": "Must really love bowling.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28386,
+"en": "Must really love running.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28387,
+"en": "Must really love boxing.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28388,
+"en": "We all punch the air.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28389,
+"en": "We all punch street thugs.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28390,
+"en": "We all punch our problems.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28391,
+"en": "Ain't nothin' to be embarrassed about.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28392,
+"en": "You just said it was strange...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28393,
+"en": "I boxed my lamp too.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28394,
+"en": "I boxed my bro too.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28395,
+"en": "I boxed my boss too.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28396,
+"en": "I used t'shadowbox my lamp as a kid.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28397,
+"en": "Don't compare me to your childhood! Geez.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28398,
+"en": "Like my old boss?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28399,
+"en": "Like the Jackal?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28400,
+"en": "Like a pro?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28401,
+"en": "Kaneko-san was an actual boxer you know.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28402,
+"en": "There's nothing I don't know.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28403,
+"en": "Do we want to know?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28404,
+"en": "Check please.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28405,
+"en": "Can you do it?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28406,
+"en": "Then what're my bust, waist, and hip sizes?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28407,
+"en": "I doubt that's right. Forget it...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28408,
+"en": "A boxer, huh? Didya have'ta watch yer weight and stuff?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28409,
+"en": "Whoa.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28410,
+"en": "Weird.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28411,
+"en": "Wow, so hardcore.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28412,
+"en": "Probably.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28413,
+"en": "Tasty meals...",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28414,
+"en": "Not how it works.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28415,
+"en": "But then y'go all out on a tasty meal after a match, right?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28416,
+"en": "Yeah, that true, Kaneko-san?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28417,
+"en": "After a match, the stomach rejects food, so I couldn't eat right away.",
+"ctx": "talk",
+"max": 79
+},
+{
+"id": 28418,
+"en": "I didn't know that.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28419,
+"en": "But tasty meals...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28420,
+"en": "Let's go back to punching.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28421,
+"en": "Well, ain't that a bummer...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28422,
+"en": "Nowadays, guys work it all out with their personal trainers.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28423,
+"en": "Didya quit because it got too tough?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28424,
+"en": "You idiot. Of course not.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28425,
+"en": "I went through a lot of shit.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28426,
+"en": "Mama, maybe y'oughta take up boxing.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28427,
+"en": "That's rad.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28428,
+"en": "That's impossible.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28429,
+"en": "That's possible.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28430,
+"en": "I hear it's all the rage with women these days.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28431,
+"en": "Oh, that boxercise thing?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28432,
+"en": "I saw a TV thing sayin' it gives ya good body shape.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28433,
+"en": "Mama could get all toned up.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28434,
+"en": "No thank you, I'll skip dessert today.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28435,
+"en": "Chicken tastes better on the bone.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28436,
+"en": "Mama boxercising...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28437,
+"en": "Y'think so?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28438,
+"en": "I'd like another drink.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28439,
+"en": "I'd like it actually.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28440,
+"en": "I'd like to know why.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28441,
+"en": "I have mixed feelings about Mama bein' able to kick my ass.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28442,
+"en": "I could fight off all your bullies, Akiyoshi-kun!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28443,
+"en": "B-But I'd be a loser! I'd have t'box too!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28444,
+"en": "Jackass confirmed.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28445,
+"en": "Jackass in a box.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28446,
+"en": "Jackass of all trades.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28447,
+"en": "Y'really are a jackass...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28448,
+"en": "But Kaneko-san, donch'ya feel yerself gettin' flabby?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28449,
+"en": "Are you funky?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28450,
+"en": "Are you fattening?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28451,
+"en": "Are you fat?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28452,
+"en": "Is that your mid-life crisis fat?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28453,
+"en": "With you?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28454,
+"en": "Yeah, I find ways to stay active.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28455,
+"en": "Good idea, yeah? Y'gotta fight the battle of the bulge!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28456,
+"en": "Oh c'mon, knock it off.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28457,
+"en": "Shadowboxing won't burn enough calories, Kaneko-san!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28458,
+"en": "Y'can't keep drinking and not exercising. It's unhealthy.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28459,
+"en": "You'll never get a lady like that.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28460,
+"en": "Shut up, leave me alone...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28461,
+"en": "(That didn't go anywhere...)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28462,
+"en": "Seriously. Y'fit in so well, it's hard to imagine you not being here.",
+"ctx": "talk",
+"max": 79
+},
+{
+"id": 28463,
+"en": "Yer one to talk. You gave him the cold shoulder.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28464,
+"en": "That's wrong.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28465,
+"en": "That's how you get hurt.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28466,
+"en": "Kindness is the best way to deal with strangers.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28467,
+"en": "Yeah, or y'might treat someone bad and regret it later.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28468,
+"en": "Hearing you say that kinda ticks me off...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28469,
+"en": "Bein' afraid of strangers is baked into my personality now.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28470,
+"en": "At age 20 I was president.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28471,
+"en": "At age 20 I was a thug.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28472,
+"en": "At age 20?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28473,
+"en": "They say your personality's set in stone by age 20, y'know.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28474,
+"en": "So 20's the turning point, huh?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28475,
+"en": "Yeah, man.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28476,
+"en": "Yeah, asshole.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28477,
+"en": "Well, I guess I could be more tolerant of new people.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28478,
+"en": "Wow, what a good way to think, Kaneko-san.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28479,
+"en": "Oh snap!",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28480,
+"en": "Guess I won't be nicer to you, anyway.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28481,
+"en": "Aw, why not!?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28482,
+"en": "Isn't life better when everyone's unique, though?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28483,
+"en": "Everyone goes to work.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28484,
+"en": "Everyone tends to smirk.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28485,
+"en": "Yeah, good or bad, differences are important t'have.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28486,
+"en": "That's life, man.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28487,
+"en": "I was rich by 20.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28488,
+"en": "Why'd you do that?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28489,
+"en": "Personality's one thing, but I gave up my dreams at age 20 too.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28490,
+"en": "Did reality hit ya like a ton o' bricks?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28491,
+"en": "I still dream of becoming a singin' n' dancin' carpenter!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28492,
+"en": "I'll change the channel.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28493,
+"en": "Gen-san the idol carpenter!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28494,
+"en": "Someday, you'll see me singin' on TV for New Year's Eve!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28495,
+"en": "I forgot Gen-san actually worked. That's quite a vision.",
+"ctx": "talk",
+"max": 63
+}
+]

@@ -1,0 +1,1730 @@
+{
+ "textura": "e/texture/qloc/keyboard/pc_all_48",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1769,
+    10,
+    1864,
+    45
+   ],
+   "en": "Enter",
+   "ocr": "Enter",
+   "es": "Entrar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 95,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1737,
+    50,
+    1873,
+    100
+   ],
+   "en": "Scroll",
+   "ocr": "Ins",
+   "es": "Despl",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 136,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1791,
+    104,
+    1836,
+    134
+   ],
+   "en": "Lock",
+   "ocr": "Ctrl",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1890,
+    9,
+    1950,
+    46
+   ],
+   "en": "Esc",
+   "ocr": "Esc",
+   "es": "Esc",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    2,
+    55,
+    114,
+    84
+   ],
+   "en": "Backspace",
+   "ocr": "Backspace",
+   "es": "Retroceso",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 112,
+   "dejar": true
+  },
+  {
+   "caja": [
+    137,
+    53,
+    181,
+    82
+   ],
+   "en": "Tab",
+   "ocr": "Tab",
+   "es": "Tab",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    251,
+    56,
+    319,
+    84
+   ],
+   "en": "Space",
+   "ocr": "Space",
+   "es": "Espacio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 68,
+   "dejar": true
+  },
+  {
+   "caja": [
+    896,
+    48,
+    949,
+    81
+   ],
+   "en": "Caps",
+   "ocr": "Caps",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1888,
+    57,
+    1991,
+    94
+   ],
+   "en": "Home",
+   "ocr": "Home",
+   "es": "Inicio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 103,
+   "dejar": true
+  },
+  {
+   "caja": [
+    898,
+    72,
+    948,
+    100
+   ],
+   "en": "Lock",
+   "ocr": "Lock",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 50,
+   "dejar": true
+  },
+  {
+   "caja": [
+    2,
+    99,
+    57,
+    128
+   ],
+   "en": "Page",
+   "ocr": "Page",
+   "es": "Pág",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 55,
+   "dejar": true
+  },
+  {
+   "caja": [
+    233,
+    100,
+    285,
+    127
+   ],
+   "en": "Page",
+   "ocr": "Page",
+   "es": "Pág",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    495,
+    96,
+    551,
+    129
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "Num",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    72,
+    106,
+    134,
+    142
+   ],
+   "en": "Del",
+   "ocr": "Del",
+   "es": "Supr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 62,
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    106,
+    217,
+    143
+   ],
+   "en": "End",
+   "ocr": "End",
+   "es": "Fin",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 63,
+   "dejar": true
+  },
+  {
+   "caja": [
+    557,
+    100,
+    609,
+    127
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "Num",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    615,
+    97,
+    670,
+    129
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "Num",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 55,
+   "dejar": true
+  },
+  {
+   "caja": [
+    678,
+    100,
+    729,
+    127
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    736,
+    97,
+    790,
+    129
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 54,
+   "dejar": true
+  },
+  {
+   "caja": [
+    797,
+    99,
+    849,
+    128
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    861,
+    99,
+    913,
+    128
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    920,
+    99,
+    973,
+    128
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    980,
+    99,
+    1033,
+    128
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1041,
+    99,
+    1093,
+    128
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1100,
+    99,
+    1152,
+    128
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1161,
+    100,
+    1212,
+    127
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1221,
+    99,
+    1273,
+    127
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1281,
+    99,
+    1334,
+    127
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1339,
+    99,
+    1392,
+    127
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1401,
+    99,
+    1454,
+    128
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1460,
+    100,
+    1512,
+    127
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "NÚM",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1523,
+    104,
+    1601,
+    148
+   ],
+   "en": "App",
+   "ocr": "App",
+   "es": "APL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 78,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1883,
+    102,
+    1937,
+    131
+   ],
+   "en": "Shift",
+   "ocr": "Shift",
+   "es": "MAYÚS",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 54,
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    121,
+    41,
+    148
+   ],
+   "en": "Up",
+   "ocr": "Up",
+   "es": "Arriba",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    232,
+    120,
+    293,
+    151
+   ],
+   "en": "Down",
+   "ocr": "Down",
+   "es": "Abajo",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    496,
+    120,
+    549,
+    148
+   ],
+   "en": "Lock",
+   "ocr": "Lock",
+   "es": "BLOQ",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    798,
+    120,
+    850,
+    148
+   ],
+   "en": "Enter",
+   "ocr": "Enter",
+   "es": "Entrar",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1,
+    152,
+    43,
+    182
+   ],
+   "en": "Alt",
+   "ocr": "Alt",
+   "es": "ALT",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    131,
+    152,
+    179,
+    182
+   ],
+   "en": "Ctrl",
+   "ocr": "Ctrl",
+   "es": "CTRL",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  },
+  {
+   "caja": [
+    246,
+    150,
+    300,
+    179
+   ],
+   "en": "Shift",
+   "ocr": "Shift",
+   "es": "MAYÚS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 54,
+   "dejar": true
+  },
+  {
+   "caja": [
+    342,
+    151,
+    384,
+    181
+   ],
+   "en": "Alt",
+   "ocr": "Alt",
+   "es": "ALT",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    461,
+    148,
+    751,
+    195
+   ],
+   "en": "A B X Y LT RT",
+   "ocr": "ABXYLTRT",
+   "es": "A B X Y LT RT",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 290,
+   "dejar": true
+  },
+  {
+   "caja": [
+    770,
+    160,
+    816,
+    185
+   ],
+   "en": "LB",
+   "ocr": "LB",
+   "es": "LB",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 46,
+   "dejar": true
+  },
+  {
+   "caja": [
+    822,
+    159,
+    873,
+    187
+   ],
+   "en": "RB",
+   "ocr": "RB",
+   "es": "RB",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1119,
+    200,
+    1619,
+    240
+   ],
+   "en": "L L R R R R L L R R R",
+   "ocr": "LLRRRRLLRR",
+   "es": "L L R R R R L L R R R",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 500,
+   "dejar": true
+  },
+  {
+   "caja": [
+    986,
+    262,
+    1018,
+    279
+   ],
+   "en": "RZ+",
+   "ocr": "RZ",
+   "es": "RZ+",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1035,
+    261,
+    1070,
+    281
+   ],
+   "en": "RZ-",
+   "ocr": "RZ",
+   "es": "RZ-",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1082,
+    259,
+    1123,
+    283
+   ],
+   "en": "RX-",
+   "ocr": "RX-",
+   "es": "RX-",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1131,
+    259,
+    1173,
+    283
+   ],
+   "en": "RX+",
+   "ocr": "RX+",
+   "es": "RX+",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1277,
+    259,
+    1322,
+    283
+   ],
+   "en": "RX±",
+   "ocr": "RX+",
+   "es": "RX±",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1327,
+    260,
+    1366,
+    281
+   ],
+   "en": "RZ±",
+   "ocr": "RZ",
+   "es": "RZ±",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 39,
+   "dejar": true
+  },
+  {
+   "caja": [
+    21,
+    303,
+    65,
+    337
+   ],
+   "en": "ZR",
+   "ocr": "ZR",
+   "es": "ZR",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1038,
+    353,
+    1151,
+    388
+   ],
+   "en": "Entrée",
+   "ocr": "Entree",
+   "es": "Intro",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 113,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1175,
+    345,
+    1283,
+    395
+   ],
+   "en": "Échap",
+   "ocr": "Echap",
+   "es": "Esc",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 108,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1216,
+    399,
+    1312,
+    438
+   ],
+   "en": "Invio",
+   "ocr": "Invio",
+   "es": "Entrar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 96,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1464,
+    347,
+    1543,
+    381
+   ],
+   "en": "Espace",
+   "ocr": "Espace",
+   "es": "Espacio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 79,
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    393,
+    207,
+    421
+   ],
+   "en": "Arrêt",
+   "ocr": "Arret",
+   "es": "Detener",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    217,
+    400,
+    315,
+    437
+   ],
+   "en": "Inser",
+   "ocr": "Inser",
+   "es": "Ins",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 98,
+   "dejar": true
+  },
+  {
+   "caja": [
+    430,
+    399,
+    617,
+    439
+   ],
+   "en": "Inser",
+   "ocr": "Suppr",
+   "es": "Ins",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 187,
+   "dejar": true
+  },
+  {
+   "caja": [
+    255,
+    442,
+    626,
+    494
+   ],
+   "en": "Canc",
+   "ocr": "Fine",
+   "es": "Canc",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 371,
+   "dejar": true
+  },
+  {
+   "caja": [
+    322,
+    490,
+    621,
+    541
+   ],
+   "en": "Fine",
+   "ocr": "Strg",
+   "es": "Fin",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 299,
+   "dejar": true
+  },
+  {
+   "caja": [
+    541,
+    548,
+    643,
+    583
+   ],
+   "en": "Strg",
+   "ocr": "Alt Gr",
+   "es": "Mayú",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 102,
+   "dejar": true
+  },
+  {
+   "caja": [
+    500,
+    586,
+    665,
+    621
+   ],
+   "en": "Supr",
+   "ocr": "Bloq",
+   "es": "Supr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 165,
+   "dejar": true
+  },
+  {
+   "caja": [
+    499,
+    608,
+    663,
+    641
+   ],
+   "en": "Fin",
+   "ocr": "Paa",
+   "es": "Fin",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 164,
+   "dejar": true
+  },
+  {
+   "caja": [
+    679,
+    394,
+    724,
+    420
+   ],
+   "en": "Verr",
+   "ocr": "Verr",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    739,
+    395,
+    799,
+    420
+   ],
+   "en": "Entrée",
+   "ocr": "Entree",
+   "es": "Intro",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    995,
+    399,
+    1100,
+    438
+   ],
+   "en": "Alt Gr",
+   "ocr": "Alt Gr",
+   "es": "Alt Gr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 105,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1498,
+    399,
+    1572,
+    427
+   ],
+   "en": "Spazio",
+   "ocr": "Spazio",
+   "es": "Espacio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 74,
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    415,
+    201,
+    443
+   ],
+   "en": "défil",
+   "ocr": "defil",
+   "es": "Despl",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    678,
+    415,
+    728,
+    442
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "Num",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 50,
+   "dejar": true
+  },
+  {
+   "caja": [
+    737,
+    414,
+    789,
+    443
+   ],
+   "en": "Num",
+   "ocr": "Num",
+   "es": "Num",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1,
+    438,
+    54,
+    472
+   ],
+   "en": "Bloc",
+   "ocr": "Bloc",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    70,
+    446,
+    176,
+    487
+   ],
+   "en": "Inizio",
+   "ocr": "Inizio",
+   "es": "Inicio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 106,
+   "dejar": true
+  },
+  {
+   "caja": [
+    817,
+    446,
+    924,
+    487
+   ],
+   "en": "Alt Gr",
+   "ocr": "Alt Gr",
+   "es": "Alt Gr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 107,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1170,
+    448,
+    1226,
+    476
+   ],
+   "en": "Leer",
+   "ocr": "Leer",
+   "es": "Leer",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1808,
+    445,
+    1901,
+    490
+   ],
+   "en": "Einfg",
+   "ocr": "Einfg",
+   "es": "Ins",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 93,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1753,
+    496,
+    1936,
+    537
+   ],
+   "en": "Ins Inicio",
+   "ocr": "Inicio",
+   "es": "Ins Inicio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 183,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1920,
+    449,
+    2009,
+    487
+   ],
+   "en": "Pos 1",
+   "ocr": "Pos 1",
+   "es": "Inicio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 89,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1955,
+    491,
+    1989,
+    519
+   ],
+   "en": "Re",
+   "ocr": "Re",
+   "es": "Re",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1955,
+    513,
+    1998,
+    541
+   ],
+   "en": "Pág",
+   "ocr": "paa",
+   "es": "Pág",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1971,
+    537,
+    2025,
+    570
+   ],
+   "en": "Bloq",
+   "ocr": "Bloq",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 54,
+   "dejar": true
+  },
+  {
+   "caja": [
+    3,
+    464,
+    59,
+    492
+   ],
+   "en": "scorr",
+   "ocr": "Scorr",
+   "es": "Despl",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    192,
+    466,
+    245,
+    495
+   ],
+   "en": "Pag",
+   "ocr": "Pagt",
+   "es": "Pág",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    161,
+    497,
+    249,
+    535
+   ],
+   "en": "Ende",
+   "ocr": "Ende",
+   "es": "Fin",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 88,
+   "dejar": true
+  },
+  {
+   "caja": [
+    181,
+    538,
+    346,
+    571
+   ],
+   "en": "Bild",
+   "ocr": "Intro",
+   "es": "Pág",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 165,
+   "dejar": true
+  },
+  {
+   "caja": [
+    181,
+    561,
+    342,
+    589
+   ],
+   "en": "Av Pág",
+   "ocr": "Num",
+   "es": "Av Pág",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 161,
+   "dejar": true
+  },
+  {
+   "caja": [
+    150,
+    590,
+    413,
+    639
+   ],
+   "en": "Inicio",
+   "ocr": "Inicio",
+   "es": "Inicio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 263,
+   "dejar": true
+  },
+  {
+   "caja": [
+    758,
+    497,
+    863,
+    535
+   ],
+   "en": "Alt Gr",
+   "ocr": "Alt Gr",
+   "es": "Alt Gr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 105,
+   "dejar": true
+  },
+  {
+   "caja": [
+    927,
+    495,
+    1028,
+    540
+   ],
+   "en": "Intro",
+   "ocr": "Intro",
+   "es": "Ins",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 101,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1207,
+    496,
+    1292,
+    527
+   ],
+   "en": "Espacio",
+   "ocr": "Espacio",
+   "es": "Espacio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 85,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1616,
+    488,
+    1737,
+    522
+   ],
+   "en": "Bloq",
+   "ocr": "Bloq",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 121,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1618,
+    515,
+    1742,
+    539
+   ],
+   "en": "Mayú",
+   "ocr": "Mayu",
+   "es": "Mayú",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 124,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1566,
+    547,
+    1647,
+    573
+   ],
+   "en": "Bloq Despl",
+   "ocr": "Espacio",
+   "es": "Bloq Despl",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 81,
+   "dejar": true
+  },
+  {
+   "caja": [
+    68,
+    499,
+    145,
+    535
+   ],
+   "en": "Entf",
+   "ocr": "Entf",
+   "es": "Supr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 77,
+   "dejar": true
+  },
+  {
+   "caja": [
+    2,
+    502,
+    47,
+    532
+   ],
+   "en": "Bild",
+   "ocr": "Bild",
+   "es": "Imagen",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    4,
+    546,
+    93,
+    587
+   ],
+   "en": "Supr",
+   "ocr": "Supr",
+   "es": "Supr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 89,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1,
+    586,
+    55,
+    620
+   ],
+   "en": "Bloq",
+   "ocr": "Bloq",
+   "es": "Bloq",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 54,
+   "dejar": true
+  },
+  {
+   "caja": [
+    3,
+    611,
+    62,
+    640
+   ],
+   "en": "Despl",
+   "ocr": "Despl",
+   "es": "Despl",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 59,
+   "dejar": true
+  },
+  {
+   "caja": [
+    110,
+    546,
+    170,
+    584
+   ],
+   "en": "Fin",
+   "ocr": "Fin",
+   "es": "Fin",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1030,
+    545,
+    1105,
+    575
+   ],
+   "en": "Spacja",
+   "ocr": "Spacja",
+   "es": "Espacio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 75,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1289,
+    549,
+    1383,
+    584
+   ],
+   "en": "Intro",
+   "ocr": "Intro",
+   "es": "Intro",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 94,
+   "dejar": true
+  },
+  {
+   "caja": [
+    74,
+    597,
+    139,
+    633
+   ],
+   "en": "Ins",
+   "ocr": "Ins",
+   "es": "Ins",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 65,
+   "dejar": true
+  },
+  {
+   "caja": [
+    433,
+    596,
+    489,
+    633
+   ],
+   "en": "Fin",
+   "ocr": "Fin",
+   "es": "Fin",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    857,
+    593,
+    964,
+    634
+   ],
+   "en": "Alt Gr",
+   "ocr": "Alt Gr",
+   "es": "Alt Gr",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 107,
+   "dejar": true
+  }
+ ]
+}

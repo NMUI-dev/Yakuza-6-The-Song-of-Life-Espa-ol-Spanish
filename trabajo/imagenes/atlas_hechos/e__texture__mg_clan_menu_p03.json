@@ -1,0 +1,525 @@
+{
+ "textura": "e/texture/mg_clan_menu_p03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    240,
+    19,
+    292,
+    38
+   ],
+   "en": "Org Chart",
+   "ocr": "Org Chart",
+   "es": "Organigrama",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 52,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    415,
+    19,
+    480,
+    37
+   ],
+   "en": "Total Strength",
+   "ocr": "Total Strength",
+   "es": "Fuerza total",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 61,
+   "color": [
+    175,
+    165,
+    165
+   ]
+  },
+  {
+   "caja": [
+    111,
+    39,
+    143,
+    60
+   ],
+   "en": "Lv.1",
+   "ocr": "Lv.l",
+   "es": "Nv.1",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    344,
+    42,
+    387,
+    58
+   ],
+   "en": "Chairman",
+   "ocr": "Chairman",
+   "es": "Presidente",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 39,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    91,
+    60,
+    142,
+    83
+   ],
+   "en": "Captain",
+   "ocr": "Captain",
+   "es": "Capitán",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 47,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    252,
+    86,
+    330,
+    118
+   ],
+   "en": "10%UP",
+   "ocr": "10%UP",
+   "es": "10% MÁS",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 75,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    327,
+    115,
+    400,
+    138
+   ],
+   "en": "10%UP",
+   "ocr": "10%UP",
+   "es": "10% MÁS",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 73,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    112,
+    133,
+    143,
+    154
+   ],
+   "en": "ant",
+   "ocr": "LVI",
+   "es": "hormiga",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 31,
+   "dejar": true
+  },
+  {
+   "caja": [
+    80,
+    154,
+    150,
+    174
+   ],
+   "en": "10%UP",
+   "ocr": "Lieutenant",
+   "es": "Teniente",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 70,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    13,
+    171,
+    88,
+    194
+   ],
+   "en": "Lieutenant",
+   "ocr": "10%UP",
+   "es": "10% MÁS",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 75,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    211,
+    153,
+    244,
+    176
+   ],
+   "en": "Lieu",
+   "ocr": "Lieu",
+   "es": "Tenie",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33
+  },
+  {
+   "caja": [
+    453,
+    152,
+    478,
+    171
+   ],
+   "en": "LVI",
+   "ocr": "Lv.l",
+   "es": "LVI",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 25,
+   "dejar": true
+  },
+  {
+   "caja": [
+    249,
+    169,
+    300,
+    182
+   ],
+   "en": "Lieutenant",
+   "ocr": "Lieutenant",
+   "es": "Teniente",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 47,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "alto": 11
+  },
+  {
+   "caja": [
+    340,
+    169,
+    392,
+    182
+   ],
+   "en": "Lieutenant",
+   "ocr": "Lieutenant",
+   "es": "Teniente",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "alto": 11
+  },
+  {
+   "caja": [
+    432,
+    169,
+    480,
+    182
+   ],
+   "en": "Lieutenant",
+   "ocr": "Lieutenant",
+   "es": "Teniente",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 44,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "alto": 11
+  },
+  {
+   "caja": [
+    265,
+    182,
+    339,
+    203
+   ],
+   "en": "10%UP",
+   "ocr": "10%UP",
+   "es": "10% MÁS",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 74,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    394,
+    182,
+    468,
+    202
+   ],
+   "en": "10%UP",
+   "ocr": "10%UP",
+   "es": "10% MÁS",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 74,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    51,
+    220,
+    76,
+    237
+   ],
+   "en": "Lv.1",
+   "ocr": "Lv.l",
+   "es": "Nv.1",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 25,
+   "dejar": true
+  },
+  {
+   "caja": [
+    177,
+    220,
+    201,
+    237
+   ],
+   "en": "Lv.1",
+   "ocr": "LV.1",
+   "es": "Nv.1",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 24,
+   "dejar": true
+  },
+  {
+   "caja": [
+    319,
+    215,
+    339,
+    230
+   ],
+   "en": "lvl",
+   "ocr": "Lwl",
+   "es": "nvl",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 20,
+   "dejar": true
+  },
+  {
+   "caja": [
+    402,
+    214,
+    428,
+    231
+   ],
+   "en": "Lv.1",
+   "ocr": "FAT",
+   "es": "Nv.1",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 26,
+   "dejar": true
+  },
+  {
+   "caja": [
+    391,
+    231,
+    429,
+    247
+   ],
+   "en": "Soldier",
+   "ocr": "Soldier",
+   "es": "Soldado",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 38,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    302,
+    231,
+    340,
+    247
+   ],
+   "en": "Soldier",
+   "ocr": "Soldier",
+   "es": "Soldado",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 34,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    30,
+    237,
+    78,
+    259
+   ],
+   "en": "Soldier",
+   "ocr": "Soldier",
+   "es": "Soldado",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 44,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    155,
+    237,
+    202,
+    259
+   ],
+   "en": "Soldier",
+   "ocr": "Soldier",
+   "es": "Soldado",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  },
+  {
+   "caja": [
+    400,
+    86,
+    475,
+    118
+   ],
+   "en": "10%UP",
+   "ocr": "10%UP",
+   "es": "10% MÁS",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 75,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  }
+ ],
+ "contraste": true
+}

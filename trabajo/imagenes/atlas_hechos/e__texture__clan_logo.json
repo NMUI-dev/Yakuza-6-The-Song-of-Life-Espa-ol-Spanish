@@ -1,0 +1,68 @@
+{
+ "textura": "e/texture/clan_logo",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    200,
+    105,
+    247
+   ],
+   "en": "KIRYU",
+   "ocr": "KIRYU",
+   "es": "KIRYU",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 101
+  },
+  {
+   "caja": [
+    185,
+    200,
+    293,
+    247
+   ],
+   "en": "KIRYU",
+   "ocr": "KIRYU",
+   "es": "KIRYU",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 104
+  },
+  {
+   "caja": [
+    0,
+    238,
+    102,
+    281
+   ],
+   "en": "CLAN",
+   "ocr": "CLAN",
+   "es": "CLAN",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 102
+  },
+  {
+   "caja": [
+    185,
+    236,
+    291,
+    283
+   ],
+   "en": "CLAN",
+   "ocr": "CLAN",
+   "es": "CLAN",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 106
+  }
+ ]
+}

@@ -1,0 +1,410 @@
+[
+{
+"id": 4256,
+"en": "Winning a Round (Completing a Hand)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4257,
+"en": "In order to declare a victory (ron or tsumo), your hand must be worth at least\n1 yaku. This means it is possible to meet the 14-tile requirement of 4 groups\nof 3-tile sets and a pair, but still be unable to win.\n\nYou cannot win by stealing a tile (ron) if you had discarded that\ntile previously in that round. However, you can still win through\nself-draw (tsumo).\n\nAdditionally, if you can win by declaring Ron but choose instead not\nto steal, you will be unable to declare Ron on any discard until the\nnext turn.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4258,
+"en": "Additional Rules",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4259,
+"en": "<color=mg_relu_topic>End the Corruption of JUSTIS!</color>\n    Clan Battles are large-scale fights, pitting Kiryu and the members of\n    his clan against the evil JUSTIS!\n\n<color=mg_relu_topic>You Are the Clan Commander!</color>\n    It's up to you to issue orders to the numerous unique members of your\n    clan and lead them to victory!\n\n<color=mg_relu_topic>Build Your Clan!</color>\n    The city is full of people willing to fight for your cause. Recruit,\n    strengthen, and raise your clan to greatness!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4260,
+"en": "Welcome to Clan Creator",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4261,
+"en": "<color=mg_relu_topic>Fulfill the Victory Conditions!</color>\n    Wipe out the enemies or defeat the boss in order to fulfill the victory\n    conditions (displayed in the top-left). If you can do this in time,\n    you win! Keep an eye on the remaining enemies and choke points and crush\n    them!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4262,
+"en": "Rules of Engagement",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4263,
+"en": "<color=mg_relu_topic>Deploy Your Clan!</color>\n    Select clan members and press <symbol=button_decide,Minigame_ClanCreator> to deploy them.\n    This consumes your Deployment Gauge, so watch the cost of each member\n    closely. Clan members deploy at the cursor, which you can move around\n    with <symbol=button_l_stick,Minigame_ClanCreator>.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4264,
+"en": "Deploying Allies",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4265,
+"en": "<color=mg_relu_topic>The Low Cost Option: Soldiers</color>\n    <color=mg_relu_point><symbol=bullet_point></color>You can deploy up to 100 soldiers!\n    <color=mg_relu_point><symbol=bullet_point></color>Soldiers have fairly low combat ability.\n    <color=mg_relu_point><symbol=bullet_point></color>There are five soldier types to choose from.\n       <color=mg_relu_strong>Turn the page for more on that!</color>",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4266,
+"en": "<color=mg_relu_topic>The High Cost Option: Leaders</color>\n    <color=mg_relu_point><symbol=bullet_point></color>Higher cost equals higher combat ability!\n    <color=mg_relu_point><symbol=bullet_point></color>You can only deploy one of each leader at a time.\n    <color=mg_relu_point><symbol=bullet_point></color>They can turn the tide with powerful skills.\n    <color=mg_relu_point><symbol=bullet_point></color>Give them orders after you deploy them!\n       <color=mg_relu_strong>More details on page 6!</color>",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4267,
+"en": "Soldiers and Leaders",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4268,
+"en": "<color=mg_relu_topic>Soldier Types</color>\n\n<color=mg_relu_strong>Brawlers</color>\n    <color=mg_relu_point><symbol=bullet_point></color>Well-balanced with average stats.\n<color=mg_relu_strong>Gunners</color>\n    <color=mg_relu_point><symbol=bullet_point></color>Capable of long-range attacks.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4269,
+"en": "<color=mg_relu_strong>Heavies</color>\n    <color=mg_relu_point><symbol=bullet_point></color>Damage sponges with high health.\n<color=mg_relu_strong>Rushers</color>\n    <color=mg_relu_point><symbol=bullet_point></color>Offensive soldiers with high attack.\n<color=mg_relu_strong>Grenadiers</color>\n    <color=mg_relu_point><symbol=bullet_point></color>Lobs grenades for damage over an area.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4270,
+"en": "Soldier Types",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4271,
+"en": "<color=mg_relu_strong><symbol=button_sankaku,Minigame_ClanCreator> Activating Skills</color>\n  <color=mg_relu_point><symbol=bullet_point></color>Activate a skill when the gauge is full!\n  <color=mg_relu_point><symbol=bullet_point></color>The gauge resets after the skill is used.\n  <color=mg_relu_point><symbol=bullet_point></color>The gauge's speed is affected by the skill.\n\n<color=mg_relu_strong><symbol=button_decide,Minigame_ClanCreator> Movement</color>\n　 <color=mg_relu_point><symbol=bullet_point></color>Move leaders toward the cursor.\n\n<color=mg_relu_strong><symbol=button_shikaku,Minigame_ClanCreator> Camera Movement</color>\n　 <color=mg_relu_point><symbol=bullet_point></color>Instantly move camera to the selected leader.\n\n   <color=mg_relu_strong>When Leaders Go Down</color>\n　 <color=mg_relu_point><symbol=bullet_point></color>When a leader's health reaches 0, he goes into recovery.\n　 <color=mg_relu_point><symbol=bullet_point></color>When the Recovery Gauge is full, he can be redeployed.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4272,
+"en": "Controlling Leaders",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4273,
+"en": "<color=mg_relu_topic>Deploy or Die!</color>\n    If you only deploy one clan member at a time,\n    you'll find yourself on the path to defeat. \n    \n    Give the Deployment Gauge <color=mg_relu_strong>time to fill up a little\n    so you can deploy multiple members at a time!</color>",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4274,
+"en": "<color=mg_relu_topic>Use the Leader's Skills!</color>\n    These are your best moves! For now, focus on\n    <color=mg_relu_strong>Joe's powerful skill, \"Ultimate Dropkick\"!</color>\n\n    When you can't seem to win, give it a try!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4275,
+"en": "Tips for Victory",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4276,
+"en": "In this game, you rapidly press <symbol=button_l1,Minigame_Gym_BenchPress> <symbol=button_r1,Minigame_Gym_BenchPress> to increase the\npower gauge on both sides and lift the barbell.\n\nYour score is based on how many times you lift the barbell\nwithin the time limit.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4277,
+"en": "Time pressing <symbol=button_maru,Minigame_Gym_Squats> so the falling bar and\nsuccess range overlap to perform a successful squat.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4278,
+"en": "There are two parts to the success range: red and green.\nRed will be rated as Great.\nGreen will be rated as Good.\n\nPress <symbol=button_maru,Minigame_Gym_Squats> when the bar overlaps with the red zone for a higher score.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4279,
+"en": "Rapidly press <symbol=button_maru,Minigame_Gym_DeadLift> to increase the power gauge.\nWhen it fills, you'll lift the barbell... once. See how many times you\ncan lift it before time is up. You've trained your whole life for this!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4280,
+"en": "In this game, you'll need to time your button press\nto match it with the shrinking ring.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4281,
+"en": "When the ring and the button's outer border overlap,\npress the button displayed. Your score is based on\nhow accurately you time your button presses.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4282,
+"en": "When multiple buttons are displayed, you have to get them all right in order to\nperform the jump squat. Feel the burn!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4283,
+"en": "Press <symbol=button_l1,Minigame_Gym_LatPulldowns> and <symbol=button_r1,Minigame_Gym_LatPulldowns> at the same time when the gauge reaches the bottom.\nThe larger red zone is worth more than the smaller green zones.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4284,
+"en": "After you do that, the gauge will head back to the zone at the top.\nPress <symbol=button_l1,Minigame_Gym_LatPulldowns> and <symbol=button_r1,Minigame_Gym_LatPulldowns> at the same time again to keep the momentum\ngoing into your next rep!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4285,
+"en": "Hold <symbol=button_r1,Minigame_Gym_SeatedRow> to fill the gauge and try to release it\nwhen the bar is within the target zone.\n\nRelease within the red zone for a better rating!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4286,
+"en": "<color=mg_relu_topic>No-Points Hand (Pinfu):</color>\nA concealed hand composed entirely of straights and a valueless pair.\nAlso the hand must be ready on an open-ended wait.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4287,
+"en": "<color=mg_relu_topic>All Simples (Tan'yaochuu):</color>\nUses suit tiles 2 through 8 to make four sets and one pair.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4288,
+"en": "Scoring Elements (1 Han)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4289,
+"en": "<color=mg_relu_topic>Identical Sequences (Iipeikou):</color>\n\nA concealed hand with identical straights (same suit and same 3-number sequence).",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4290,
+"en": "\n<color=mg_relu_topic>Fully Concealed Hand (Tsumo):</color>\nA concealed hand with the winning tile self-drawn.\n\n<color=mg_relu_topic>Ready Hand (Riichi):</color>\nA concealed hand that a player chooses to lock. Upon a win, ura-dora are revealed for each visible dora,\nincreasing potential for points. \n\n<color=mg_relu_topic>One-Shot (Ippatsu):</color>\nA hand completed within one turn of declaring riichi. But ippatsu is canceled if any exposed meld is declared.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4291,
+"en": "<color=mg_relu_topic>Dragon Triplet (Yakuhai):</color>\nA triplet (or quad) of white, green, or red dragon tiles.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4292,
+"en": "<color=mg_relu_topic>Round Wind/Seat Wind (Kazehai):</color>\nA triplet (or quad) of the round wind or your seat wind.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4293,
+"en": "<color=mg_relu_topic>Last Tile Draw (Haitei):</color>\nA hand completed by drawing the last tile from the wall.\n\n<color=mg_relu_topic>Last Tile Discard (Houtei):</color>\nA hand completed with the last tile discarded by an opponent.\n\n<color=mg_relu_topic>Dead Wall Draw (Rinshan Kaihou):</color>\nA hand completed using a drawn tile when declaring Kan.\"\n\n<color=mg_relu_topic>Robbing a Quad (Chankan):</color>\nA hand completed using the tile another player used to upgrade a pon to a kan.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4294,
+"en": "<color=mg_relu_topic>All Triplet Hand (Toitoi):</color>\nA hand with four triplets and one pair.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4295,
+"en": "<color=mg_relu_topic>Mixed Outside Hand (Chanta):</color>\nAll sets include a 1, 9, or honor tile.\nConcealed: 2 han. Exposed: 1 han.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4296,
+"en": "Scoring Elements (2 Han)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4297,
+"en": "<color=mg_relu_topic>Full Straight (Ikkitsuukan):</color>\nSequences of 123, 456, and 789 in the same suit.\nConcealed: 2 han. Exposed: 1 han.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4298,
+"en": "<color=mg_relu_topic>Seven Pairs (Chiitoitsu):</color>\nA concealed hand of 7 pairs. All seven pairs must be unique.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4299,
+"en": "<color=mg_relu_topic>Three Color Straight (Sanshoku Doujun):</color>\nThree straights of the same number sequence, one in each suit.\nConcealed: 2 han. Exposed: 1 han.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4300,
+"en": "<color=mg_relu_topic>Double Wind (Renpuuhai):</color>\nA triplet or quad of the Wind tile that is both the round wind and your seat wind.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4301,
+"en": "<color=mg_relu_topic>Three Concealed Triplets (San Ankou):</color>\nThree triplets consisting of self-drawn tiles. You cannot call ron to form the third triplet.\nAll three triplets must be concealed.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4302,
+"en": "<color=mg_relu_topic>All Terminals and Honors (Honroutou):</color>\nAll triplets or quads of 1s, 9s, and honors.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4303,
+"en": "<color=mg_relu_topic>Little Three Dragons (Shousangen):</color>\nA hand with any two dragon triplets and using the third dragon as a pair.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4304,
+"en": "<color=mg_relu_topic>Three Color Triplets (Sanshoku Doukou):</color>\nA hand with three triplets of the same number, one in each suit.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4305,
+"en": "<color=mg_relu_topic>Three Quads (San Kantsu):</color>\nA hand with three quads that are either concealed or exposed.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4306,
+"en": "<color=mg_relu_topic>Double Riichi:</color>\nWhen you declare riichi on your first discard.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4307,
+"en": "<color=mg_relu_topic>Pure Outside Hand (Junchan):</color>\nAll sets include a 1 or a 9.\nConcealed: 3 han. Exposed: 2 han.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4308,
+"en": "<color=mg_relu_topic>Half Flush (Hon'itsu):</color>\nA hand consisting of only one suit and any combination of honors. \nConcealed: 3 han. Exposed: 2 han.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4309,
+"en": "Scoring Elements (3 Han)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4310,
+"en": "<color=mg_relu_topic>Double Identical Sequences (Ryanpeikou):</color>\nA concealed hand with two Identical Sequences. This scoring element takes precedence over Seven Pairs.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4311,
+"en": "<color=mg_relu_topic>Terminal and Honor Discards (Nagashi Mangan):</color>\nA hand formed when the round is a draw. In order to qualify, you must have not discarded any number tiles\n2 through 8, and you must not have formed any exposed melds. Additionally, no other player must have\nclaimed any of your terminal/honor discards.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4312,
+"en": "Scoring Elements (Mangan)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4313,
+"en": "<color=mg_relu_topic>Full Flush (Chin'itsu):</color>\nA hand consisting of one suit.\nConcealed: 6 han. Exposed: 5 han.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4314,
+"en": "Scoring Elements (6 Han)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4315,
+"en": "<color=mg_relu_topic>Four Concealed Triplets (Suu Ankou):</color>\nFour triplets consisting of self-drawn tiles. You cannot call ron to form the fourth triplet.\nAll four triplets must be concealed.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4316,
+"en": "<color=mg_relu_topic>All Honors (Tsuuiisou):</color>\nA hand consisting entirely of honors.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4317,
+"en": "Scoring Elements (Limit Hands)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4318,
+"en": "<color=mg_relu_topic>Big Three Dragons (Daisangen):</color>\nA hand with one triplet each of white, green, and red dragons.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4319,
+"en": "<color=mg_relu_topic>All Green (Ryuuiisou):</color>\nA hand consisting entirely of green tiles (only green dragons and 2, 3, 4, 6, and 8 of Bamboo tiles).",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4320,
+"en": "<color=mg_relu_topic>Thirteen Orphans (Kokushi Musou):</color>\nA hand with one of each terminal and honor tile, plus a duplicate of any one.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4321,
+"en": "<color=mg_relu_topic>Little Four Winds (Shousuushii):</color>\nA hand with any three wind triplets and a pair winds.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4322,
+"en": "<color=mg_relu_topic>All Terminals (Chinroutou):</color>\nA hand consisting of only 1 and 9 tiles to form 4 sets and 1 pair.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4323,
+"en": "<color=mg_relu_topic>Big Wheel (Dai Sharin):</color>\nA concealed hand consisting of seven pairs of dots 2 through 8.",
+"ctx": "manual|table/#//#",
+"max": null
+}
+]

@@ -1,0 +1,1712 @@
+[
+{
+"id": 5487,
+"en": "Final Night in Kamurocho",
+"ctx": "mission_kind|title",
+"max": null
+},
+{
+"id": 5488,
+"en": "Vs. JUSTIS",
+"ctx": "mission_kind|title",
+"max": null
+},
+{
+"id": 5489,
+"en": "Talk to Big Lo",
+"ctx": "mission_kind|title",
+"max": null
+},
+{
+"id": 5490,
+"en": "Talk to Matsunaga",
+"ctx": "mission_kind|title",
+"max": null
+},
+{
+"id": 5491,
+"en": "Wait for Akiyama's Call",
+"ctx": "mission_kind|title",
+"max": null
+},
+{
+"id": 5492,
+"en": "Find Someya",
+"ctx": "mission_kind|title",
+"max": null
+},
+{
+"id": 5493,
+"en": "Go to Ed's Room",
+"ctx": "mission_kind|title",
+"max": null
+},
+{
+"id": 5494,
+"en": "${value}",
+"ctx": "msg_unit|message",
+"max": null
+},
+{
+"id": 5495,
+"en": "±${value}",
+"ctx": "msg_unit|message",
+"max": null
+},
+{
+"id": 5496,
+"en": "<Sign:C>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5497,
+"en": "<Sign:D>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5498,
+"en": "<Sign:3>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5499,
+"en": "<Sign:0>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5500,
+"en": "<Sign:2>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5501,
+"en": "<Sign:1>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5502,
+"en": "<Sign:7>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5503,
+"en": "<Sign:5>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5504,
+"en": "<Sign:6>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5505,
+"en": "<Sign:12>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5506,
+"en": "<Sign:13>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5507,
+"en": "<Sign:9>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5508,
+"en": "<Sign:8>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5509,
+"en": "<Sign:16>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5510,
+"en": "<Sign:17>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5511,
+"en": "<Sign:14>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5512,
+"en": "<Sign:15>",
+"ctx": "pad_button|info",
+"max": null
+},
+{
+"id": 5513,
+"en": "Installation must complete\nto proceed beyond here.\n(Time remaining: ${hour} hour(s) ${min} minute(s))",
+"ctx": "play_go_message|text",
+"max": null
+},
+{
+"id": 5514,
+"en": "Installation complete.",
+"ctx": "play_go_message|text",
+"max": null
+},
+{
+"id": 5515,
+"en": "Installation must complete to play here.\n(Time remaining: ${hour} hour(s) ${min} minute(s))",
+"ctx": "play_go_message|text",
+"max": null
+},
+{
+"id": 5516,
+"en": "You cannot proceed beyond\nthis point in the trial version.",
+"ctx": "play_go_message|text",
+"max": null
+},
+{
+"id": 5517,
+"en": "This content is not available\nin the trial version.",
+"ctx": "play_go_message|text",
+"max": null
+},
+{
+"id": 5518,
+"en": "Blade Resistance",
+"ctx": "player_ability|name + player_point|title",
+"max": null
+},
+{
+"id": 5519,
+"en": "Gun Resistance",
+"ctx": "player_ability|name + player_point|title",
+"max": null
+},
+{
+"id": 5520,
+"en": "Hunger",
+"ctx": "player_point|title",
+"max": null
+},
+{
+"id": 5521,
+"en": "Mahjong Points",
+"ctx": "player_point|title",
+"max": null
+},
+{
+"id": 5522,
+"en": "Training Tickets",
+"ctx": "player_point|title",
+"max": null
+},
+{
+"id": 5523,
+"en": "Equipment",
+"ctx": "player_skill_category|name",
+"max": null
+},
+{
+"id": 5524,
+"en": "Increases maximum health.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5525,
+"en": "Increases attack damage.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5526,
+"en": "Increases defense.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5527,
+"en": "Increases evasion.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5528,
+"en": "Increases Heat Gauge gain rate.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5529,
+"en": "Increases attack speed slightly.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5530,
+"en": "Increases attack speed further.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5531,
+"en": "Increases attack speed to its fullest.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5532,
+"en": "Attack immediately after sprinting.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5533,
+"en": "Attack immediately after recovering from knock down.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5534,
+"en": "Recover while getting knocked down.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5535,
+"en": "Regain your stance quickly after an enemy blocks your attack.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5536,
+"en": "Quickly regain ability to guard after guard is\nbroken.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5537,
+"en": "Parry an enemy's attack.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5538,
+"en": "Your parry stance lasts longer.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5539,
+"en": "Attack immediately after a Quickstep.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5540,
+"en": "Perform two Quicksteps back-to-back.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5541,
+"en": "Perform three consecutive Quicksteps.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5542,
+"en": "Lunge forward while running to gain a lot of distance quickly.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5543,
+"en": "An attack performed directly from a lunge.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5544,
+"en": "Perform powerful counterattacks.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5545,
+"en": "Lengthens the window during which you can execute\na Tiger Drop.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5546,
+"en": "By timing your attack just right, you'll strike with enough\npower to break through the enemy's guard.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5547,
+"en": "Dynamically throw an enemy after a Finishing Blow.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5548,
+"en": "Shorten the time it takes to recover from being stunned.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5549,
+"en": "Perform a charge attack with all your might.\nYour movements will be limited while charging.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5550,
+"en": "Perform a Quickstep to cancel certain actions.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5551,
+"en": "Damage is increased to any additional enemies hit by\nyour attacks.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5552,
+"en": "Deal more damage when you hit enemies while they\nare attacking.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5553,
+"en": "Your Rush Combo during Extreme Heat Mode increases\nfrom 4 hits to 8 hits.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5554,
+"en": "Increase Heat Orbs by one.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5555,
+"en": "Increase damage for attacks using the Heat Gauge.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5556,
+"en": "Increase damage for attacks using the Heat Gauge even further.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5557,
+"en": "Increase damage for attacks using the Heat Gauge to their\nfullest.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5558,
+"en": "Increases the amount of EXP obtained.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5559,
+"en": "Increases stamina to sprint longer.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5560,
+"en": "Increases the amount of money you can gain from encounters.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5561,
+"en": "Increases the amount of EXP that can be obtained by eating.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5562,
+"en": "Increases the maximum hunger gauge.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5563,
+"en": "Become hungry faster and obtain more EXP through meals.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5564,
+"en": "Increases special effects gained from vending machine drinks.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5565,
+"en": "Increases your chance of getting a good effect when having \na Mystery Drink from the vending machine.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5566,
+"en": "Your tolerance toward alcohol becomes stronger and your\nmaximum alcohol intake increases.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5567,
+"en": "Increases the amount of EXP your clan members gain in a clan battle.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5568,
+"en": "Gain an edge with the ladies at the cabaret club.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5569,
+"en": "Become a smooth talker with the ladies at the cabaret club.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5570,
+"en": "More Topic Cards become available in the cabaret club.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5571,
+"en": "Even more Topic Cards become available in the cabaret club.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5572,
+"en": "All Topic Cards are available in the cabaret club.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5573,
+"en": "Making friends at the bar becomes easier.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5574,
+"en": "Making friends at the bar becomes even easier.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5575,
+"en": "Making friends at the bar becomes second nature.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5576,
+"en": "Escape and counterattack certain grabs performed by a weak enemy.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5577,
+"en": "Extreme Heat Mode lasts a little longer.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5578,
+"en": "Extreme Heat Mode lasts even longer.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5579,
+"en": "Extreme Heat Mode has maximum duration.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5580,
+"en": "Parry an attack from an enemy wielding a blunt object,\nthen seize the weapon to perform a devastating attack.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5581,
+"en": "Parry an attack from an enemy wielding a blade, then\nseize the weapon to perform a devastating attack.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5582,
+"en": "Parry an attack from an enemy wielding a gun, then\nseize the weapon to perform a devastating attack.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5583,
+"en": "Launch a powerful attack against an enemy who faltered\nbecause their attack was parried.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5584,
+"en": "Activate this vicious attack after performing a front kick while\nin Extreme Heat Mode, kneeing your enemy continuously.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5585,
+"en": "Activate this brutal attack after performing a standing charge attack\nwhile in Extreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5586,
+"en": "Activate this dynamic kick after beginning a dash attack while in\nExtreme Heat Mode. It uses your full force of motion in one strike.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5587,
+"en": "Activate after performing a dash attack while in Extreme Heat Mode.\nThis kick does most of its damage from the impact of the landing.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5588,
+"en": "Activate this attack fluidly by performing a Quickstep while in\nExtreme Heat Mode. It doesn't work against strong enemies.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5589,
+"en": "Activate this attack by grabbing an enemy during Extreme Heat Mode.\nSwing your victim around while knocking down surrounding enemies.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5590,
+"en": "When you have an enemy in a neck lock, put them to use\nas a weapon by throwing them into another enemy.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5591,
+"en": "Brutally throw an enemy to the ground and, while\nstepping on them, slam another right on top of them.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5592,
+"en": "Activated while holding an enemy in Extreme Heat Mode. Take out\ntwo opponents at once by whipping one foe into the other.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5593,
+"en": "Catch the enemy's arm with chopsticks, then exploit their \ninability to move by attacking quickly. A highly technical skill.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5594,
+"en": "Throw an enemy head first into a convenience store microwave,\nhave a store clerk turn it on and let radiation do the rest.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5595,
+"en": "Use this merciless attack to kick an enemy down the stairs from\nthe top step without remorse.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5596,
+"en": "A powerful attack where you jump from higher ground and slam\nyour arm into the enemy.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5597,
+"en": "Master all weapons to perform an attack that changes depending\non what weapon you currently have in hand.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5598,
+"en": "Lift an enemy overhead, then throw them into nearby objects\nwith all your might. The impact will cause serious damage.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5599,
+"en": "Show no mercy as you slam into an enemy with a painful\nuppercut during Extreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5600,
+"en": "Pick up a stunned enemy and throw them back to the ground\nwith no remorse during Extreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5601,
+"en": "A fierce kick slammed into a fallen enemy's head during\nExtreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5602,
+"en": "Cruelly take out a weakened foe with an axe kick during\nExtreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5603,
+"en": "Perform a devastating suplex on a stunned enemy during\nExtreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5604,
+"en": "Viciously slam a stunned enemy's face into the ground\nduring Extreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5605,
+"en": "A powerful attack in which you grab a stunned enemy\nleaning on a wall, then slam them into the ground.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5606,
+"en": "Smash an enemy's face into a wall with all your might.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5607,
+"en": "Smash an enemy's head into a stand with full force.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5608,
+"en": "Grab an enemy and mercilessly throw them straight into\na pole, smashing their crotch against it.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5609,
+"en": "Leap from the top of a railing and let gravity do the brunt\nof the work as you drop your foe face-first into the ground.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5610,
+"en": "Brutalize your enemy by tripping them into a corner, then\nkick with enough force to break their spine.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5611,
+"en": "A cooperative attack with specific allies. You and your\nally swing two enemies into each other.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5612,
+"en": "A cooperative attack with Akiyama. Put the power of your\nkicks on display as you strike two enemies at the same time.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5613,
+"en": "Throw an enemy from a high place they won't be\ncoming back from. It can't be used on strong enemies.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5614,
+"en": "A cooperative attack with an ally. The attack changes\ndepending on who you fight with.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5615,
+"en": "Hell hath no fury like a woman scorned, as your enemy\nwill learn all too late.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5616,
+"en": "Swing an enemy you've grabbed with enough force to knock\ndown surrounding enemies during Extreme Heat Mode.",
+"ctx": "player_skill|explanation",
+"max": null
+},
+{
+"id": 5617,
+"en": "Unlocked after learning Boost Combo Speed Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5618,
+"en": "Unlocked after learning Boost Combo Speed Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5619,
+"en": "Unlocked after learning Quick Recovery.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5620,
+"en": "Unlocked after Attack is over 150.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5621,
+"en": "Unlocked after learning Parry.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5622,
+"en": "Unlocked after Evasion is over 110.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5623,
+"en": "Unlocked after learning Double Quickstep and Evasion is over 200.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5624,
+"en": "Unlocked after learning Lunge.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5625,
+"en": "Unlocked after Attack is over 180.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5626,
+"en": "Unlocked after learning Tiger Drop and Attack is over 200.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5627,
+"en": "Unlocked after Defense is over 120.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5628,
+"en": "Unlocked after Evasion is over 160.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5629,
+"en": "Unlocked after Heat Gauge is over 110.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5630,
+"en": "Unlocked after Heat Gauge is over 120.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5631,
+"en": "Unlocked after learning Boost Heat Orbs Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5632,
+"en": "Unlocked after learning Boost Heat Orbs Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5633,
+"en": "Unlocked after learning Boost Heat Actions Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5634,
+"en": "Unlocked after learning Boost Heat Actions Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5635,
+"en": "Unlocked after Health is over 120.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5636,
+"en": "Unlocked after learning Boost EXP Gain Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5637,
+"en": "Unlocked after learning Boost EXP Gain Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5638,
+"en": "Unlocked after learning Boost EXP Gain Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5639,
+"en": "Unlocked after learning Boost EXP Gain Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5640,
+"en": "Unlocked after learning Boost Sprint Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5641,
+"en": "Unlocked after learning Boost Sprint Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5642,
+"en": "Unlocked after learning Boost Sprint Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5643,
+"en": "Unlocked after learning Boost Sprint Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5644,
+"en": "Unlocked after learning Boost Fortune Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5645,
+"en": "Unlocked after learning Boost Fortune Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5646,
+"en": "Unlocked after learning Boost Fortune Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5647,
+"en": "Unlocked after learning Boost Fortune Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5648,
+"en": "Unlocked after learning Boost Meal EXP Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5649,
+"en": "Unlocked after learning Boost Meal EXP Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5650,
+"en": "Unlocked after learning Boost Meal EXP Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5651,
+"en": "Unlocked after learning Boost Meal EXP Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5652,
+"en": "Unlocked after learning Boost Hunger Gauge Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5653,
+"en": "Unlocked after learning Boost Hunger Gauge Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5654,
+"en": "Unlocked after learning Boost Hunger Gauge Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5655,
+"en": "Unlocked after learning Boost Hunger Gauge Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5656,
+"en": "Unlocked after learning Boost Digestion Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5657,
+"en": "Unlocked after learning Boost Digestion Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5658,
+"en": "Unlocked after learning Boost Digestion Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5659,
+"en": "Unlocked after learning Boost Digestion Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5660,
+"en": "Unlocked after learning Boost Vending Machine Drink Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5661,
+"en": "Unlocked after learning Boost Vending Machine Drink Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5662,
+"en": "Unlocked after learning Boost Vending Machine Drink Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5663,
+"en": "Unlocked after learning Boost Vending Machine Drink Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5664,
+"en": "Unlocked after learning Alcohol Tolerance Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5665,
+"en": "Unlocked after learning Alcohol Tolerance Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5666,
+"en": "Unlocked after learning Boost Clan Member Growth Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5667,
+"en": "Unlocked after learning Boost Clan Member Growth Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5668,
+"en": "Unlocked after learning Boost Clan Member Growth Lv. 3.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5669,
+"en": "Unlocked after learning Boost Clan Member Growth Lv. 4.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5670,
+"en": "Unlocked after learning Ladies' Man.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5671,
+"en": "Unlocked after learning Art of Conversation Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5672,
+"en": "Unlocked after learning Art of Conversation Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5673,
+"en": "Unlocked after learning Social Skills Lv. 1.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5674,
+"en": "Unlocked after learning Social Skills Lv. 2.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5675,
+"en": "Unlocked after Heat Gauge is over 130.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5676,
+"en": "Unlocked after learning the former and Heat Gauge is over 150.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5677,
+"en": "Unlocked after learning the former and Heat Gauge is over 200.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5678,
+"en": "Unlocked after learning Charge Attack.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5679,
+"en": "Unlocked after learning Dash Attack.",
+"ctx": "player_skill|locked_message",
+"max": null
+},
+{
+"id": 5680,
+"en": "Boost Health",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5681,
+"en": "Boost Attack",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5682,
+"en": "Boost Defense",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5683,
+"en": "Boost Evasion",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5684,
+"en": "Boost Heat Gauge",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5685,
+"en": "Boost Combo Speed Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5686,
+"en": "Boost Combo Speed Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5687,
+"en": "Boost Combo Speed Ultimate",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5688,
+"en": "Dash Attack",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5689,
+"en": "Rising Tornado",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5690,
+"en": "Quick Recovery",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5691,
+"en": "Relentless Blows",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5692,
+"en": "Re-Guard",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5693,
+"en": "Parry",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5694,
+"en": "Parry Mastery",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5695,
+"en": "Evasion Strike",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5696,
+"en": "Double Quickstep",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5697,
+"en": "Triple Quickstep",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5698,
+"en": "Lunge",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5699,
+"en": "Leaping Fist",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5700,
+"en": "Tiger Drop",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5701,
+"en": "Tiger Drop Mastery",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5702,
+"en": "Guard Crush Mastery",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5703,
+"en": "Finishing Hold",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5704,
+"en": "Stun Resistance",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5705,
+"en": "Charge Attack",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5706,
+"en": "Quickstep Cancel",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5707,
+"en": "Collateral Damage",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5708,
+"en": "Enhanced Counter",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5709,
+"en": "Heat Rush",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5710,
+"en": "Boost Heat Orbs Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5711,
+"en": "Boost Heat Orbs Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5712,
+"en": "Boost Heat Orbs Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5713,
+"en": "Boost Heat Actions Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5714,
+"en": "Boost Heat Actions Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5715,
+"en": "Boost Heat Actions Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5716,
+"en": "Boost EXP Gain Lv. 1 (Strength)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5717,
+"en": "Boost EXP Gain Lv. 2 (Strength)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5718,
+"en": "Boost EXP Gain Lv. 3 (Strength)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5719,
+"en": "Boost EXP Gain Lv. 4 (Strength)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5720,
+"en": "Boost EXP Gain Max (Strength)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5721,
+"en": "Boost EXP Gain Lv. 1 (Agility)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5722,
+"en": "Boost EXP Gain Lv. 2 (Agility)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5723,
+"en": "Boost EXP Gain Lv. 3 (Agility)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5724,
+"en": "Boost EXP Gain Lv. 4 (Agility)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5725,
+"en": "Boost EXP Gain Max (Agility)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5726,
+"en": "Boost EXP Gain Lv. 1 (Spirit)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5727,
+"en": "Boost EXP Gain Lv. 2 (Spirit)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5728,
+"en": "Boost EXP Gain Lv. 3 (Spirit)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5729,
+"en": "Boost EXP Gain Lv. 4 (Spirit)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5730,
+"en": "Boost EXP Gain Max (Spirit)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5731,
+"en": "Boost EXP Gain Lv. 1 (Technique)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5732,
+"en": "Boost EXP Gain Lv. 2 (Technique)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5733,
+"en": "Boost EXP Gain Lv. 3 (Technique)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5734,
+"en": "Boost EXP Gain Lv. 4 (Technique)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5735,
+"en": "Boost EXP Gain Max (Technique)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5736,
+"en": "Boost EXP Gain Lv. 1 (Charm)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5737,
+"en": "Boost EXP Gain Lv. 2 (Charm)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5738,
+"en": "Boost EXP Gain Lv. 3 (Charm)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5739,
+"en": "Boost EXP Gain Lv. 4 (Charm)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5740,
+"en": "Boost EXP Gain Max (Charm)",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5741,
+"en": "Boost Sprint Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5742,
+"en": "Boost Sprint Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5743,
+"en": "Boost Sprint Lv. 3",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5744,
+"en": "Boost Sprint Lv. 4",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5745,
+"en": "Boost Sprint Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5746,
+"en": "Boost Fortune Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5747,
+"en": "Boost Fortune Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5748,
+"en": "Boost Fortune Lv. 3",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5749,
+"en": "Boost Fortune Lv. 4",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5750,
+"en": "Boost Fortune Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5751,
+"en": "Boost Meal EXP Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5752,
+"en": "Boost Meal EXP Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5753,
+"en": "Boost Meal EXP Lv. 3",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5754,
+"en": "Boost Meal EXP Lv. 4",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5755,
+"en": "Boost Meal EXP Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5756,
+"en": "Boost Hunger Gauge Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5757,
+"en": "Boost Hunger Gauge Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5758,
+"en": "Boost Hunger Gauge Lv. 3",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5759,
+"en": "Boost Hunger Gauge Lv. 4",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5760,
+"en": "Boost Hunger Gauge Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5761,
+"en": "Boost Digestion Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5762,
+"en": "Boost Digestion Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5763,
+"en": "Boost Digestion Lv. 3",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5764,
+"en": "Boost Digestion Lv. 4",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5765,
+"en": "Boost Digestion Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5766,
+"en": "Boost Vending Machine Drink Lv. 1",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5767,
+"en": "Boost Vending Machine Drink Lv. 2",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5768,
+"en": "Boost Vending Machine Drink Lv. 3",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5769,
+"en": "Boost Vending Machine Drink Lv. 4",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5770,
+"en": "Boost Vending Machine Drink Max",
+"ctx": "player_skill|name",
+"max": null
+},
+{
+"id": 5771,
+"en": "Boost Vending Machine Luck",
+"ctx": "player_skill|name",
+"max": null
+}
+]

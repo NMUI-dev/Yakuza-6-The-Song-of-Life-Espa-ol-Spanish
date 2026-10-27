@@ -1,0 +1,129 @@
+{
+ "textura": "e/texture/mg_darts_anm_result_logo",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    14,
+    10,
+    342,
+    91
+   ],
+   "en": "ROUND",
+   "ocr": "ROUND",
+   "es": "¡FIN DE",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 328
+  },
+  {
+   "caja": [
+    376,
+    12,
+    671,
+    87
+   ],
+   "en": "OVER!",
+   "ocr": "OVER!",
+   "es": "RONDA!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 295
+  },
+  {
+   "caja": [
+    688,
+    14,
+    1009,
+    86
+   ],
+   "en": "COOL!",
+   "ocr": "COOL!",
+   "es": "¡GENIAL!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 321
+  },
+  {
+   "caja": [
+    26,
+    121,
+    516,
+    196
+   ],
+   "en": "FANTASTIC!",
+   "ocr": "FANTASTIC!",
+   "es": "¡FANTÁSTICO!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 490,
+   "mediana": false
+  },
+  {
+   "caja": [
+    551,
+    122,
+    1008,
+    195
+   ],
+   "en": "EXCELLENT!",
+   "ocr": "EXCELLENT!",
+   "es": "¡EXCELENTE!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 453
+  },
+  {
+   "caja": [
+    23,
+    237,
+    630,
+    320
+   ],
+   "en": "WONDERFUL!",
+   "ocr": "WONDERFUL!",
+   "es": "¡MARAVILLOSO!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 607
+  },
+  {
+   "caja": [
+    669,
+    228,
+    1008,
+    309
+   ],
+   "en": "GOOD!",
+   "ocr": "GOOD!",
+   "es": "¡BIEN!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 339
+  },
+  {
+   "caja": [
+    109,
+    344,
+    636,
+    429
+   ],
+   "en": "SHANGHAI!",
+   "ocr": "SHANGHAI!",
+   "es": "¡SHANGHAI!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 527
+  }
+ ]
+}

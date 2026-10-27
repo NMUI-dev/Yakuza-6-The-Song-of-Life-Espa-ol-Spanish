@@ -1,0 +1,1184 @@
+[
+{
+"id": 23766,
+"en": "A RIZAP membership...\nWhat should I do?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23767,
+"en": "I'll join.\nTraining like this is too good to resist.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23768,
+"en": "Ah, thank you very much!\nI'll process your membership right away!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23769,
+"en": "(I don't have enough money...\nMaybe I should come back later.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23770,
+"en": "Sorry, but I think I'll pass.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23771,
+"en": "I see.\nThat's quite a shame...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23772,
+"en": "Please come back if you change your mind, though.\nWe'll welcome you with open arms!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23773,
+"en": "Great. Looking forward to it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23774,
+"en": "(I should talk to the RIZAP trainer\nagain if I want to join.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23775,
+"en": "Welcome, sir.\nHow can I help you today?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23776,
+"en": "I'm looking to join RIZAP.\nIs that all right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23777,
+"en": "Ah, but of course!\nI'll process your membership right away!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23778,
+"en": "Actually, I don't need anything right now.\nSorry to bother you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23779,
+"en": "Understood.\nJust let me know if you want to bulk up!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23780,
+"en": "Thank you again for joining us!\nIn case you forgot, I'm your trainer, Makuta.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23781,
+"en": "Right. Looking forward to starting up.\nGive me everything you've got, okay?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23782,
+"en": "But of course!\nDon't forget, I'm the best trainer in town!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23783,
+"en": "Your muscles'll slice through diamonds\nonce I'm through with you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23784,
+"en": "Y-Yeah... Nice.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23785,
+"en": "Now then, let me explain\njust how you train here!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23786,
+"en": "Whenever you're in the mood,\ncome talk to me here at RIZAP HQ.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23787,
+"en": "Then once you pick your routine of choice,\nthe sweat will start flowing!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23788,
+"en": "Ah, by the way, one session will\nconsist of two separate training routines.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23789,
+"en": "Got it. So when I want to train,\nI just drop by and talk to you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23790,
+"en": "That's right! Don't forget, there'll be\ndietary advice after each session as well.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23791,
+"en": "But we can talk about that when we come to it.\nI think I've crammed enough info in here already.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23792,
+"en": "Now then, let's get sweating!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23793,
+"en": "Kiryu-san!\nAre you ready to start training?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23794,
+"en": "Yeah, let's do it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|# + sound_auth_subtitles_speech_list_sub_b13|# …",
+"max": 63
+},
+{
+"id": 23795,
+"en": "To the training room, then!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23796,
+"en": "Tell me, Kiryu-san.\nWhat routine would you like to do?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23797,
+"en": "Let's go with this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23798,
+"en": "Perfect!\nTo the training room!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23799,
+"en": "Nah, not right now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23800,
+"en": "Understood. Please come back\nwhen you're in the mood!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23801,
+"en": "Tell me, Kiryu-san!\nWhich routine comes next?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23802,
+"en": "This one looks good.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23803,
+"en": "Perfect!\nJust give me a second to set up!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23804,
+"en": "All right, that's it for today's session!\nNow let's see how you did...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23805,
+"en": "That was perfect, Kiryu-san!\nYou must be in excellent shape!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23806,
+"en": "You did a great job!\nNo slacking though<symbol=em_dash_with_outline>try even harder next time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23807,
+"en": "Things really didn't go so well, huh?\nRelax, recharge, and try harder next time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23808,
+"en": "Next, let's talk about your diet!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|# + talk",
+"max": 47
+},
+{
+"id": 23809,
+"en": "Kiryu-san, you should eat whatever\nyou think is the healthiest option.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23810,
+"en": "Oh, but be sure to take photos of your food!\nAnd don't forget to send them to me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23811,
+"en": "Only then will I be able to assess whether\nor not your diet is on the right track.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23812,
+"en": "<font_kind=yakuza_italic>I</font_kind> have to decide?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23813,
+"en": "I thought you'd be the one telling me\nwhat I'm supposed to eat.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23814,
+"en": "I certainly <font_kind=yakuza_italic>could</font_kind> do that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23815,
+"en": "But if you don't form the right eating habits now,\nRIZAP's training will never help you slim down.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23816,
+"en": "As your trainer and mentor,\nit's vital that I guide you toward a healthy future.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23817,
+"en": "Huh. You're actually pretty legit.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23818,
+"en": "Didn't I tell you?\nI'm the best trainer in town!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23819,
+"en": "Although, I imagine most people don't\nhave a grasp on what the healthiest options are.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23820,
+"en": "That's why I'll be dropping hints for you.\nFollow them carefully to boost your training to the max!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23821,
+"en": "All right, then. Sounds good.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23822,
+"en": "Now then, let's talk about your diet!\nYour recommendation for today is...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23823,
+"en": "I'll also text my hints to the number you\nprovided upon registering as a RIZAP member.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23824,
+"en": "Farewell, Kiryu-san!\nYou can do it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23825,
+"en": "What's up, Kiryu-san?\nYou should be out eating!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23826,
+"en": "Please come see me once you're finished.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23827,
+"en": "Welcome back, Kiryu-san!\nLet's see how that meal of yours was...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23828,
+"en": "Now then, let's see how this round\nof the RIZAP Challenge turned out.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23829,
+"en": "That was fantastic, Kiryu-san!\nBoth your diet and training were flawless!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23830,
+"en": "Your training was absolutely perfect,\nand your meal was well-balanced, too!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23831,
+"en": "Your training was absolutely perfect,\nbut watch what you eat next time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23832,
+"en": "Your training was absolutely perfect,\nbut, uh... your diet leaves a lot to be desired.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23833,
+"en": "I can't complain much about your diet!\nYour training was pretty good, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23834,
+"en": "It turned out pretty good overall!\nGive it 110% next time, though!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23835,
+"en": "Your training was really impressive,\nbut your diet could use a little work.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23836,
+"en": "Your training was definitely good,\nbut watch what you eat next time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23837,
+"en": "Your diet was wonderful! Now just tighten up\nyour training and you'll be all set!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23838,
+"en": "Your diet turned out great!\nNow just put some more effort into training...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23839,
+"en": "You should try a little harder during training!\nAnd maybe in your diet as well...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23840,
+"en": "You have issues on both sides of things...\nbut with my help, we'll hammer them out in no time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23841,
+"en": "Now then, that brings our first round\nof the RIZAP Challenge to an end!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23842,
+"en": "How do you feel, Kiryu-san?\nIs RIZAP everything you hoped it would be?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23843,
+"en": "Let me see...\nI guess I <font_kind=yakuza_italic>do</font_kind> feel a little more toned.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23844,
+"en": "That's great news!\nYou're one step closer to that diamond-cutting body!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23845,
+"en": "But it's important to rest as well.\nYou should hold off a while until your next session.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23846,
+"en": "All right, I'll come back later.\nLet's keep this going strong.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23847,
+"en": "Of course! With my help,\nyou'll have the finest body in all of Kamurocho!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23848,
+"en": "We're committed to results, after all.\nThat's RIZAP's mission statement!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23849,
+"en": "Committed to results, huh? I can tell.\nI hope it makes a difference.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23850,
+"en": "As do I!\nWell, keep up the hard work!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23851,
+"en": "(I should hold off on training until\nI see my results from the last session.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23852,
+"en": "Welcome back, Kiryu-san!\nAre you looking to train today?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23853,
+"en": "Excellent!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23854,
+"en": "I see.\nPlease come again if you have the time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23855,
+"en": "Oh yeah, this was a great session!\nLet's aim even higher next time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23856,
+"en": "That concludes today's RIZAP Challenge.\nNicely done!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23857,
+"en": "Wow, Kiryu-san!\nYou've done every single RIZAP Challenge!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23858,
+"en": "Huh. So that was the last one?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23859,
+"en": "Yes, the 12th and final challenge is complete!\nNow let's see how far you've come!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23860,
+"en": "So what did you think of RIZAP?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23861,
+"en": "I'm glad I decided to join.\nI didn't expect such a personal touch.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23862,
+"en": "I learned a lot about my diet, too.\nYou weren't kidding about being committed to results.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23863,
+"en": "It's nice to hear such high praise!\nMore importantly, today marks your RIZAP graduation!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23864,
+"en": "However, Kiryu-san! You can re-enroll\nas a member whenever you'd like.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23865,
+"en": "Come talk to me if you're feeling out of shape!\nWe can start from the very beginning again!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23866,
+"en": "Hopefully it doesn't come to that...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23867,
+"en": "Don't be a stranger, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23868,
+"en": "Ah, Kiryu-san! Are you looking\nto re-enroll in the RIZAP program?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23869,
+"en": "I am...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23870,
+"en": "I'm feeling kinda rusty, to be honest.\nGet me back on the plan.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23871,
+"en": "A wonderful decision!\nI'll process your membership right away!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23872,
+"en": "Please talk to me when you want to train!\nI'll help you get the body you've always dreamed of!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23873,
+"en": "Actually, I was just checking in.\nSorry to bother you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23874,
+"en": "It's no problem.\nJust come again if you ever want to train!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23875,
+"en": "Hold the freakin' phone!\nIs that you, Kiryu-san!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23876,
+"en": "Wowee! It really <font_kind=yakuza_italic>is</font_kind> you!\nIt's been ages, man!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23877,
+"en": "C'mon, bro!\nYou can't have forgotten <font_kind=yakuza_italic>me</font_kind>!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23878,
+"en": "It's me, Sodachi! So, da, chi!\nY'know, the head honcho of the Sodachi Dojo!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23879,
+"en": "Sodachi? Sodachi...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23880,
+"en": "<font_kind=yakuza_italic>Yeah</font_kind>!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23881,
+"en": "I have no idea who you are.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23882,
+"en": "God, you're the worst! Don't you remember\nour epic flurry of fists back at the arena?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23883,
+"en": "It <font_kind=yakuza_italic>was</font_kind> just one time, though.\nCan't really blame you for forgetting...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23884,
+"en": "Sorry, I wish I remembered.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23885,
+"en": "No worries!\nI just gotta give you a little reminder!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23886,
+"en": "Folks 'round here call me Yasuo Sodachi.\nI used to head up the Sodachi Dojo.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23887,
+"en": "I was real close to your friend\nSaejima-san back in the good ol' days.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23888,
+"en": "Oh, you know Saejima?\nLet's start over. It's good to meet you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23889,
+"en": "I'm not surprised you ran a dojo.\nThose muscles are incredible.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23890,
+"en": "Ain't they the best?\nBut y'know, I actually closed the dojo down.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23891,
+"en": "I still miss the ol' stomping grounds...\nI've got tons of memories of Saejima-san there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23892,
+"en": "That's too bad.\nDid... something happen to make you close?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23893,
+"en": "Oh not at all, unless you count the surging\nland prices! It was high time to sell, baby!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23894,
+"en": "I wasn't keen on doing it, but at that price?\nSometimes you gotta make sacrifices.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23895,
+"en": "And now thanks to a little investment I made\nhere at RIZAP, I've got this killer bod!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23896,
+"en": "They really <font_kind=yakuza_italic>are</font_kind> good at getting results!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23897,
+"en": "Wait, you got stronger <font_kind=yakuza_italic>here</font_kind> of all places?\nWouldn't running a dojo keep you in shape?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23898,
+"en": "Not at all! I might've been the master,\nbut I was kind of a piss-poor fighter.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23899,
+"en": "I gotta say though, I made the right call.\nThis gym's way better than our dingy dojo.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23900,
+"en": "And look what it did to my body!\nI'm the shining example of buffness!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23901,
+"en": "Right. Well, I've gotta go.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23902,
+"en": "But Kiryu-san! Listen to me!\nG-G-Get your ass back here!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23903,
+"en": "Huh? What do you want?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23904,
+"en": "So scary...!\nC'mon Sodachi, you can do this... And go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23905,
+"en": "Hey there, Kiryu-san! Wait... <font_kind=yakuza_italic>Kiryu</font_kind>!\nPlease... Er, I wanna lock fists with you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23906,
+"en": "You want a fight?\nWith me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23907,
+"en": "Damn skippy! I've looked up to strong dudes\nlike you and Saejima-san my whole life!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23908,
+"en": "I wanna get as strong as you guys someday...\nThen beat you! That's my dream.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23909,
+"en": "I'd given up on that dream for years...\nBut things're different now that I'm a beefcake!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23910,
+"en": "My power's outta control compared to my past self!\nI'm really itching to put it to the test.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23911,
+"en": "I've gotta see how close I am to\nthe one and only Kazuma Kiryu!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23912,
+"en": "Hey, wait up!\nDon't leave!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23913,
+"en": "What a pain in the ass.\nI'm sorry, but I don't have time for this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23914,
+"en": "Whatever, man!\nIn that case, I'll have to make the first move!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23915,
+"en": "No freaking way...\nI don't stand a chance against <font_kind=yakuza_italic>you</font_kind>.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23916,
+"en": "You're strong, but your footwork needs practice.\nRight now you're just wasting your strength.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23917,
+"en": "I know... My dojo training's made me\nwell-versed in all that technical stuff.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23918,
+"en": "But... even though I know what to do,\nmy body just ain't quick enough to do it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23919,
+"en": "Some pickle this is...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23920,
+"en": "You should keep practicing.\nExperience is the only way to improve.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23921,
+"en": "Yeah, you're right...\nAh, I've got it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23922,
+"en": "Kiryu-san! I'm gonna practice extra hard\nso I can make use of these sweet muscles!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23923,
+"en": "And once I'm done, we're gonna tussle again!\nI hope you're ready for more!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23924,
+"en": "Yeah...\nWait, what? We're gonna fight <font_kind=yakuza_italic>again</font_kind>?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23925,
+"en": "Of course we are! Beating you's the only way\nto prove I've got the fighting skills to fighting thrill!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23926,
+"en": "If I can do that, and show the world\nthe hurt I'm packing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23927,
+"en": "I'll be able to make a super dojo\nand get stupidly rich!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23928,
+"en": "I'm gonna make it rain on these Kamurocho civvies!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23929,
+"en": "Anyways, I'll be training till next time!\nSeeya later, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23930,
+"en": "What a mess.\nHow do I always get wrapped up in this stuff...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23931,
+"en": "I've tightened up my stance a bit!\nHow 'bout we go another round?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23932,
+"en": "I'm really starting to get good!\nHow 'bout we go another round?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23933,
+"en": "My body's never been this pumped up!\nHow 'bout we go another round?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23934,
+"en": "I can't right now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23935,
+"en": "Huh? C'mon, man!\nAnyway, lemme know if you change your mind!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23936,
+"en": "Ah, Kiryu-san!\nDo you feel like fighting me now?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23937,
+"en": "Yeah, I'll take you on.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23938,
+"en": "Sweet!\nThanks a ton!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23939,
+"en": "Now, then...\nDieee, Kiryuuu!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23940,
+"en": "Dammittt... I lost again.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23941,
+"en": "You're definitely stronger than last time, though.\nThat's progress.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23942,
+"en": "You mean it!? All right, then!\nThis isn't the last you see of me!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23943,
+"en": "No way... I beat Kiryu-san!\nI really did it! Yay!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23944,
+"en": "I underestimated you.\nTurns out you're pretty tough.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23945,
+"en": "No way were you in tip-top form today,\nbut it doesn't matter. A win's a win in my book!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23946,
+"en": "And as the winner of our match,\nlet me say one thing, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23947,
+"en": "Your luck ran out today!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23948,
+"en": "Make sure you're pumped up next time, okay?\nBye now!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23949,
+"en": "Dammit, I should never have underestimated him.\nHow embarrassing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23950,
+"en": "It's from Sodachi.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23951,
+"en": "How did he get my contact info...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23952,
+"en": "Whatever. I'll head over to the park\nand humor him when I have some time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23953,
+"en": "Yo, Kiryu-san!\nThanks for coming all the way out here!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23954,
+"en": "It's nothing.\nWell? What do you want?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23955,
+"en": "Hold up, man!\nDidn't you read my freakin' email!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23956,
+"en": "Today's the day we settle this.\nJust me... and you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23957,
+"en": "Well, thanks to all my training at RIZAP,\nI've finally unlocked my true potential.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23958,
+"en": "Anything I imagine, I can make into reality.\nThis is, so to speak, my final form!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23959,
+"en": "So today, I'm gonna whoop you, Kiryu-san!\nThe world's gonna see how tough I am!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23960,
+"en": "Nobody'll be able to deny my ability once\nI've taken down the toughest dude in the world!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23961,
+"en": "My new gym's gonna skyrocket to the top!\nOh, and I'll make fat stacks off my fighting book, too!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+},
+{
+"id": 23962,
+"en": "Some plan you have there.\nI'd rather you didn't use my name, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a26|#",
+"max": null
+}
+]

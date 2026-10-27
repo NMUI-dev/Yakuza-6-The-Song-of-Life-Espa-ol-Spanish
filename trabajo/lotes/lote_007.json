@@ -1,0 +1,4070 @@
+[
+{
+"id": 1191,
+"en": "Press Rapidly to Raise Barbell Left",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1192,
+"en": "Press Rapidly to Raise Barbell Right",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1193,
+"en": "Jump Squat - 1",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1194,
+"en": "Jump Squat - 2",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1195,
+"en": "Jump Squat - 3",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1196,
+"en": "Jump Squat - 4",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1197,
+"en": "Raise and Lower Bar Left",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1198,
+"en": "Raise and Lower Bar Right",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1199,
+"en": "Hold to Increase Gauge; Release to Stop Gauge",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1200,
+"en": "Press / Rapid Press / Hold to Sing - 1",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1201,
+"en": "Press / Rapid Press / Hold to Sing - 2",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1202,
+"en": "Press / Rapid Press / Hold to Sing - 3",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1203,
+"en": "Press / Rapid Press / Hold to Sing - 4",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1204,
+"en": "Enter Message - 1",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1205,
+"en": "Enter Message - 2",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1206,
+"en": "Enter Message - 3",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1207,
+"en": "Enter Message - 4",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1208,
+"en": "Select Tile Right",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1209,
+"en": "Select Tile Left",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1210,
+"en": "Select Tile Right (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1211,
+"en": "Select Tile Left (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1212,
+"en": "Substitute",
+"ctx": "qloc_qloc_binding_actions|name + ui_text|text",
+"max": null
+},
+{
+"id": 1213,
+"en": "Swing",
+"ctx": "qloc_qloc_binding_actions|name + ui_text|text",
+"max": null
+},
+{
+"id": 1214,
+"en": "Lift",
+"ctx": "qloc_qloc_binding_actions|name + ui_text|text",
+"max": null
+},
+{
+"id": 1215,
+"en": "Upsy-Daisy",
+"ctx": "qloc_qloc_binding_actions|name + title_movie|title + ui_text|text",
+"max": null
+},
+{
+"id": 1216,
+"en": "Rub (show cursor)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1217,
+"en": "Rub (move cursor)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1218,
+"en": "Select Unit Left (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1219,
+"en": "Select Unit Right (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1220,
+"en": "Select Response - 1",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1221,
+"en": "Select Response - 2",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1222,
+"en": "Select Response - 3",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1223,
+"en": "Select Response - 4",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1224,
+"en": "Throw Money Trigger",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1225,
+"en": "Shoot (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1226,
+"en": "Reload (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1227,
+"en": "Move Left (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1228,
+"en": "Move Right (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1229,
+"en": "Turn Left",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1230,
+"en": "Turn Right",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1231,
+"en": "Turn Left (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1232,
+"en": "Turn Right (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1233,
+"en": "Move Up",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1234,
+"en": "Move Down",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1235,
+"en": "Move Up (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1236,
+"en": "Move Down (alternative)",
+"ctx": "qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 1237,
+"en": "Start the game from the beginning.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1238,
+"en": "Continue a saved game.\nThe autosave feature will overwrite your file as you play.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1239,
+"en": "View previously seen story events.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1240,
+"en": "Catch up on the Yakuza series to date.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1241,
+"en": "Start the main story from the beginning.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1242,
+"en": "Explore the world without the main story.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1243,
+"en": "Recommended for players who are new to action games or the Yakuza series.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1244,
+"en": "This is the standard difficulty level.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1245,
+"en": "Recommended for players who are skilled at action games.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1246,
+"en": "A difficulty reserved for true legends of Yakuza.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1247,
+"en": "Two players face off in Puyo Puyo or Virtua Fighter 5 Final Showdown.\n*Requires two input devices.\n*Does not count toward your in-game Awards.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1248,
+"en": "Aim to make the best chains in Puyo-popping mayhem!",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1249,
+"en": "The definitive entry in the Virtua Fighter series!",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1250,
+"en": "Read a summary of Yakuza, which took place in 2005.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1251,
+"en": "Read a summary of Yakuza 2, which took place in 2006.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1252,
+"en": "Read a summary of Yakuza 3, which took place in 2009.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1253,
+"en": "Read a summary of Yakuza 4, which took place in 2010.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1254,
+"en": "Read a summary of Yakuza 5, which took place in 2012.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1255,
+"en": "Experience the main story.\n*This option is cutscene heavy.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1256,
+"en": "Experience life in the city.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1257,
+"en": "Continue a saved game or start a New Game+ from a clear file.\nThe autosave feature will overwrite the autosave file as you play.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1258,
+"en": "Change settings that affect gameplay.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1259,
+"en": "Change audio settings.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1260,
+"en": "Customize game settings.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1261,
+"en": "Exit to desktop.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1262,
+"en": "Change graphical options.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1263,
+"en": "Change the audio settings.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1264,
+"en": "Display license information.",
+"ctx": "title_root|explanation",
+"max": null
+},
+{
+"id": 1265,
+"en": "Start the game from the beginning. \nYou will need to overwite a save file to proceed. (30 files max.)",
+"ctx": "title_root|explanation2",
+"max": null
+},
+{
+"id": 1266,
+"en": "Start the game from the beginning.\nYou can explore the world without the main story.",
+"ctx": "title_root|explanation2",
+"max": null
+},
+{
+"id": 1267,
+"en": "NEW GAME",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1268,
+"en": "CONTINUE",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1269,
+"en": "REPLAY",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1270,
+"en": "MEMORIES",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1271,
+"en": "EASY",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1272,
+"en": "NORMAL",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1273,
+"en": "HARD",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1274,
+"en": "LEGEND",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1275,
+"en": "2-PLAYER VS. MINIGAMES",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1276,
+"en": "Yakuza",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1277,
+"en": "Yakuza 2",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1278,
+"en": "Yakuza 3",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1279,
+"en": "Yakuza 4",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1280,
+"en": "Yakuza 5",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1281,
+"en": "ONOMICHI - THE MAIN STORY",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1282,
+"en": "KAMUROCHO - FREE PLAY",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1283,
+"en": "GAME SETTINGS",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1284,
+"en": "AUDIO SETTINGS",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1285,
+"en": "SETTINGS",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1286,
+"en": "QUIT GAME",
+"ctx": "title_root|name",
+"max": null
+},
+{
+"id": 1287,
+"en": "GRAPHICS SETTINGS",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1288,
+"en": "CONTROLS",
+"ctx": "title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 1289,
+"en": "INSTANT MISSION",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1290,
+"en": "tips\n",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1291,
+"en": "01234567890123456789\n01234567890123456789\n\n",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1292,
+"en": "YES",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1293,
+"en": "RESUME",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1294,
+"en": "100\n",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1295,
+"en": "LOCATION",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1296,
+"en": "color[1]\nsize[32]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1297,
+"en": "color[18]\nsize[28]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1298,
+"en": "size[28\n]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1299,
+"en": "color[18]\nsize[32]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1300,
+"en": "color[1]\nsize[28]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1301,
+"en": "color[10]\nsize[28]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1302,
+"en": "color[default]\nsize[32]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1303,
+"en": "color[light_gray]\nsize[28]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1304,
+"en": "color[11]\nsize[28]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1305,
+"en": "size[42]\ncolor[1]",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1306,
+"en": "SAVING",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1307,
+"en": "CHECK POINT",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1308,
+"en": "999\n",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1309,
+"en": "1\n",
+"ctx": "ui_preview_text|text",
+"max": null
+},
+{
+"id": 1310,
+"en": "PRESS ANY BUTTON",
+"ctx": "ui_preview_text|text + ui_text|text",
+"max": null
+},
+{
+"id": 1311,
+"en": "Current EXP",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1312,
+"en": "Zoom Out",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1313,
+"en": "Zoom In",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1314,
+"en": "Expression",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1315,
+"en": "Filter:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1316,
+"en": "Saving",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1317,
+"en": "Grab",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1318,
+"en": "Skip",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1319,
+"en": "Zoom",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1320,
+"en": "Send Sticker",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1321,
+"en": "Send",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1322,
+"en": "Start Trouble Mission",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1323,
+"en": "Trouble Mission In Progress",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1324,
+"en": "Cancel Trouble Mission",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1325,
+"en": "Resume",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1326,
+"en": "Pause",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1327,
+"en": "Speed",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1328,
+"en": "Start a Game",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1329,
+"en": "Bonus",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1330,
+"en": "First Time Bonus: +",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1331,
+"en": "Training Tickets:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1332,
+"en": "Results",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1333,
+"en": "Fielders",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1334,
+"en": "Total AVG",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1335,
+"en": "Total HR",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1336,
+"en": "AB",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1337,
+"en": "RBI",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1338,
+"en": "AVG",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1339,
+"en": "EXP",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1340,
+"en": "Level Up",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1341,
+"en": "Pitchers",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1342,
+"en": "ERA",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1343,
+"en": "IP",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1344,
+"en": "Contact",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1345,
+"en": "Power",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1346,
+"en": "Fast",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1347,
+"en": "Velocity",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1348,
+"en": "Control",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1349,
+"en": "Curve",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1350,
+"en": "Train",
+"ctx": "ui_text|text + talk",
+"max": 63
+},
+{
+"id": 1351,
+"en": "Team Menu",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1352,
+"en": "Manage Roster",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1353,
+"en": "Bullpen",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1354,
+"en": "Tickets:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1355,
+"en": "Interventions",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1356,
+"en": "Pitches",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1357,
+"en": "SB",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1358,
+"en": "BB:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1359,
+"en": "ERA:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1360,
+"en": "Draw",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1361,
+"en": "Losing Pitcher",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1362,
+"en": "Winning Pitcher",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1363,
+"en": "Match",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1364,
+"en": "VS",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1365,
+"en": "Lineup Card",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1366,
+"en": "Knuckleball",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1367,
+"en": "Lv",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1368,
+"en": "To Next Level:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1369,
+"en": "Training Tickets:　",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1370,
+"en": "Singles",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1371,
+"en": "Doubles",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1372,
+"en": "Triples",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1373,
+"en": "Balls Remaining",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1374,
+"en": "Select a hostess to request.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1375,
+"en": "Area 1 Clear",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1376,
+"en": "Area 2 Clear",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1377,
+"en": "Area 3 Clear",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1378,
+"en": "Area 4 Clear",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1379,
+"en": "Move Leader",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1380,
+"en": "Deploy",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1381,
+"en": "Activate Skill",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1382,
+"en": "Jump to Leader",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1383,
+"en": "Enemies Left",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1384,
+"en": "You cannot deploy any more units.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1385,
+"en": "Start Battle",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1386,
+"en": "Raid Failed",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1387,
+"en": "Leader Stats",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1388,
+"en": "Influence",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1389,
+"en": "Skill",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1390,
+"en": "Kills",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1391,
+"en": "Soldiers",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1392,
+"en": "Leaders",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1393,
+"en": "Kiryu Clan Org Chart",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1394,
+"en": "Total Strength",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1395,
+"en": "Leader List",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1396,
+"en": "Select",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1397,
+"en": "Skill Info",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1398,
+"en": "Defense Result",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1399,
+"en": "Raid Result",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1400,
+"en": "Event Battle Result",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1401,
+"en": "Ranked Battle Result",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1402,
+"en": "Streak Bonus",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1403,
+"en": "Total Score",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1404,
+"en": "Areas",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1405,
+"en": "Area Boss",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1406,
+"en": "Time Limit",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1407,
+"en": "Victory Condition",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1408,
+"en": "To Next Rank:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1409,
+"en": "Raids",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1410,
+"en": "Victory Rate",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1411,
+"en": "Records",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1412,
+"en": "Current Defense Rate",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1413,
+"en": "Total Defense Rate",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1414,
+"en": "Name",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1415,
+"en": "Level up this unit?",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1416,
+"en": "Leader",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1417,
+"en": "Total strength",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1418,
+"en": "Advisor",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1419,
+"en": "Chief Advisor",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1420,
+"en": "EXP\nx1.5",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1421,
+"en": "EXP\nx2",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1422,
+"en": "Move out with this team?",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1423,
+"en": "Select Strike Team",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1424,
+"en": "Move Out",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1425,
+"en": "Clear Bonus",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1426,
+"en": "Clear Time",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1427,
+"en": "Upload",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1428,
+"en": "Difficulty:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1429,
+"en": "Time:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1430,
+"en": "Enemies Down:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1431,
+"en": "Money Gained:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1432,
+"en": "Awards Earned:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1433,
+"en": "Select Dart Type",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1434,
+"en": "Drink",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1435,
+"en": "Personal Trainer",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1436,
+"en": "Start Training",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1437,
+"en": "Ask About RIZAP",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1438,
+"en": "Don't Train Yet",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1439,
+"en": "Reps",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1440,
+"en": "Training Evaluation",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1441,
+"en": "Challenge Results",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1442,
+"en": "Evaluation",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1443,
+"en": "Meal Plan",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1444,
+"en": "Hold Down",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1445,
+"en": "Let Go",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1446,
+"en": "Rub",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1447,
+"en": "Use Rattle",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1448,
+"en": "Use Milk",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1449,
+"en": "Cart",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1450,
+"en": "Replay",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1451,
+"en": "Song History",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1452,
+"en": "Most Played",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1453,
+"en": "Kazuma-san",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1454,
+"en": "Top Score",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1455,
+"en": "Top Rank",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1456,
+"en": "Play Count",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1457,
+"en": "Arrangement",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1458,
+"en": "Our karaoke exclusive\nsound will blow you away!",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1459,
+"en": "Adjust Pitch",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1460,
+"en": "Vocal Assistance",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1461,
+"en": "A guide will show you the basic melody.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1462,
+"en": "View Lyrics",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1463,
+"en": "Prev",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1464,
+"en": "Movie List",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1465,
+"en": "High Scores",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1466,
+"en": "Please select a song.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1467,
+"en": "Points used: Peeping is Free!",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1468,
+"en": "Party",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1469,
+"en": "Party Peeping 100pt/60 sec  2 shot 150pt/60 sec  2 shot 150pt/60sec  Two-way 150pt60 sec",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1470,
+"en": "Profile",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1471,
+"en": "Gallery (4 Items)",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1472,
+"en": "Movie (4 Items)",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1473,
+"en": "Message",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1474,
+"en": "Notes",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1475,
+"en": "Age",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1476,
+"en": "Measurements",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1477,
+"en": "Last login",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1478,
+"en": "Members",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1479,
+"en": "Lurkers",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1480,
+"en": "<symbol=heart_with_outline>Favorite",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1481,
+"en": "Chat",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1482,
+"en": "DMM Live Chat",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1483,
+"en": "Unavailable",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1484,
+"en": "Current Points",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1485,
+"en": "How to Purchase Points",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1486,
+"en": "Add Points",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1487,
+"en": "Select a point amount.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1488,
+"en": "<color=#000000>Close</color>",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1489,
+"en": "View Movies",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1490,
+"en": "Return to Top",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1491,
+"en": "All Movies",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1492,
+"en": "Services",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1493,
+"en": "Login",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1494,
+"en": "Rewatch scenes you've already experienced.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1495,
+"en": "All Girls",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1496,
+"en": "Amateur",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1497,
+"en": "Busty",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1498,
+"en": "Face Visible",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1499,
+"en": "Advanced Search",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1500,
+"en": "Welcome to DMM, Japan's largest live chat provider! <symbol=note_with_outline>",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1501,
+"en": "Information",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1502,
+"en": "Available Girls",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1503,
+"en": "These girls are ready and waiting. Start chatting now!",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1504,
+"en": "Winning Tiles Left",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1505,
+"en": "Hide Window",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1506,
+"en": "Close Window",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1507,
+"en": "Full",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1508,
+"en": "Half",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1509,
+"en": "Game Length",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1510,
+"en": "Settings",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1511,
+"en": "Your Total Points",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1512,
+"en": "Location List",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1513,
+"en": "Place/Remove Pin",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1514,
+"en": "Toggle Street Names",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1515,
+"en": "Map",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1516,
+"en": "Current Location",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1517,
+"en": "Adjust brightness until icon is barely visible.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1518,
+"en": "Select card(s) to swap",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1519,
+"en": "Swap Card",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1520,
+"en": "Select Card",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1521,
+"en": "Result",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1522,
+"en": "OPTIONS button",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1523,
+"en": "Other Controls",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1524,
+"en": "End Game",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1525,
+"en": "Touch pad button",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1526,
+"en": "Don't Agree",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1527,
+"en": "Agree",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1528,
+"en": "End User License Agreement",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1529,
+"en": "Previous Photo",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1530,
+"en": "Next Photo",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1531,
+"en": "Times Played",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1532,
+"en": "Onomichi Missions Cleared",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1533,
+"en": "Total Defeated",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1534,
+"en": "Kamurocho Missions Cleared",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1535,
+"en": "Details",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1536,
+"en": "Level",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1537,
+"en": "List",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1538,
+"en": "Heat",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1539,
+"en": "Others",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1540,
+"en": "Valuables",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1541,
+"en": "Recovery",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1542,
+"en": "Move controller horizontally",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1543,
+"en": "Move controller vertically",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1544,
+"en": "View Rules",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1545,
+"en": "Sort",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1546,
+"en": "Equip",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1547,
+"en": "Total Rank:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1548,
+"en": "Skill Details",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1549,
+"en": "ALL",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1550,
+"en": "Can Buy",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1551,
+"en": "Not Owned",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1552,
+"en": "Bought",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1553,
+"en": "Blade Resist",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1554,
+"en": "Gun Resist",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1555,
+"en": "Items",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1556,
+"en": "Effect",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1557,
+"en": "Kamurocho",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1558,
+"en": "Tojo Clan",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1559,
+"en": "Yomei Alliance",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1560,
+"en": "Reset",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1561,
+"en": "Trouble Missions",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1562,
+"en": "Reward",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1563,
+"en": "Mission Details",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1564,
+"en": "Album",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1565,
+"en": "Total Leaders",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1566,
+"en": "Total Kills",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1567,
+"en": "Kamurocho Missions",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1568,
+"en": "Onomichi Missions",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1569,
+"en": "Awards",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1570,
+"en": "Inbox",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1571,
+"en": "Unread Messages:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1572,
+"en": "Troublr",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1573,
+"en": "Tasks",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1574,
+"en": "Speaker Direction",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1575,
+"en": "Adjust brightness and saturation to your preference.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1576,
+"en": "Press <Sign:1> to view minigame guide",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1577,
+"en": "Show/Hide Details",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1578,
+"en": "Add to Cart",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1579,
+"en": "Quantity",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1580,
+"en": "Liveliness",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1581,
+"en": "Good",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1582,
+"en": "Bad",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1583,
+"en": "Order Status",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1584,
+"en": "Buy",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1585,
+"en": "<color=#000000>Next</color>",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1586,
+"en": "Today's Haul",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1587,
+"en": "Air Capacity",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1588,
+"en": "Select a fishing spot.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1589,
+"en": "Marine Life",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1590,
+"en": "High Score",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1591,
+"en": "Strength:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1592,
+"en": "<color=#000000>Back</color>",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1593,
+"en": "<color=#000000>Select</color>",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1594,
+"en": "Spear Count:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1595,
+"en": "Aiming Speed:",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1596,
+"en": "Checkpoint",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1597,
+"en": "Start",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1598,
+"en": "Mission",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1599,
+"en": "You can use the merchant password in the full game.\n\nSay the password to the black market merchant hiding somewhere\nin Kamurocho to do business with them and buy rare items.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1600,
+"en": "Passwords",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1601,
+"en": "Look around the environment with the right stick.\nIf the Focus Icon appears, press the corresponding button to\nfocus on that point of interest, which may trigger an event.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1602,
+"en": "Focus",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1603,
+"en": "※You cannot use EXP to upgrade abilities in the demo.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1604,
+"en": "EXP is obtained by defeating enemies and clearing missions.\nThere are five types of EXP that apply to Kiryu's five skills.\nYou can also obtain EXP by eating.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1605,
+"en": "Experience Points",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1606,
+"en": "Eating at a restaurant recovers your health and gives you EXP.\nDifferent foods generate different types of EXP.\n\nSome menu combinations will even give you bonus EXP,\nso try eating stuff that goes well together.\n\nBut remember, you won't gain any EXP if Kiryu is full.\nGetting into fights is the best way to work up an appetite.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1607,
+"en": "Restaurants",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1608,
+"en": "Filling up your Heat Orbs enough will allow you to press R2\nto enter Heat Mode. While in Extreme Heat Mode, Kiryu becomes\nmore powerful and can execute special Heat Action as well\nas flurries of strikes. Use this to your advantage in tough fights.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1609,
+"en": "Eating will recover your health and a full meal will even\ngrant EXP. If you throw away or drop the food before\nyou've eaten it all, though, you won't recover health or\ngain any EXP.\n",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1610,
+"en": "Obtaining Food",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1611,
+"en": "Eating Food",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1612,
+"en": "Food",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1613,
+"en": "Your progress is tracked through \"Missions\" which will\nstate your objective in the upper-right. This applies to\nboth main story objectives and substory objectives.\nIf you need to look at them again, you can find them\nin the Pause Menu.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1614,
+"en": "Active Mission",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1615,
+"en": "Mission Cleared",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1616,
+"en": "Mission Display",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1617,
+"en": "Convenience Stores are unavailable in the demo.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1618,
+"en": "Convenience Store",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1619,
+"en": "Destination List",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1620,
+"en": "One Throw",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1621,
+"en": "Select a difficulty.",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1622,
+"en": "Configure Settings",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1623,
+"en": "Demo Version",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1624,
+"en": "2-PLAYER VS MINIGAMES",
+"ctx": "ui_text|text",
+"max": null
+},
+{
+"id": 1625,
+"en": "Talk",
+"ctx": "access_type|info + instant_mission_kind|message_select_maru + minigame_snack_talk_event|button_info",
+"max": null
+},
+{
+"id": 1626,
+"en": "Check",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1627,
+"en": "Listen",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1628,
+"en": "Enter",
+"ctx": "access_type|info + minigame_live_chat_message|text + talk",
+"max": 63
+},
+{
+"id": 1629,
+"en": "Look Around",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1630,
+"en": "Answer",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1631,
+"en": "Ultimate",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1632,
+"en": "Test",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1633,
+"en": "Give Food",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1634,
+"en": "Play",
+"ctx": "access_type|info + minigame_snack_talk_event|button_info",
+"max": null
+},
+{
+"id": 1635,
+"en": "Take Photo",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1636,
+"en": "Small Parcel",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1637,
+"en": "Untie",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1638,
+"en": "Sit",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1639,
+"en": "To 6th Floor",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1640,
+"en": "To 2nd Floor",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1641,
+"en": "To 1st Floor",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1642,
+"en": "To Senkoji",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1643,
+"en": "To Kanrai",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1644,
+"en": "To the Roof",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1645,
+"en": "To Observation Deck",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1646,
+"en": "To Onomichi",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1647,
+"en": "To Basement",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1648,
+"en": "Ride Taxi",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1649,
+"en": "Extinguish",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1650,
+"en": "Pass Time",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1651,
+"en": "Change Outfit",
+"ctx": "access_type|info",
+"max": null
+},
+{
+"id": 1652,
+"en": "Amp",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1653,
+"en": "Bunny plush",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1654,
+"en": "Espresso maker",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1655,
+"en": "Towel warmer",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1656,
+"en": "Gas stove",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1657,
+"en": "Gas canister",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1658,
+"en": "Capsule toy machines",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1659,
+"en": "Karambit knife",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1660,
+"en": "Crash cushion",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1661,
+"en": "Teddy bear",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1662,
+"en": "Coffee pot",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1663,
+"en": "Coffee maker",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1664,
+"en": "Traffic cone",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1665,
+"en": "Trash can",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1666,
+"en": "Concrete block",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1667,
+"en": "Signpost",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1668,
+"en": "Soccer ball",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1669,
+"en": "Submachine gun",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1670,
+"en": "Cocktail shaker",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1671,
+"en": "Watering can",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1672,
+"en": "Stool",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1673,
+"en": "Speaker",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1674,
+"en": "Spotlight",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1675,
+"en": "Loveseat",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1676,
+"en": "Sofa",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1677,
+"en": "Tire",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1678,
+"en": "Cardboard box",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1679,
+"en": "Cooler",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1680,
+"en": "Table",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1681,
+"en": "Model gun",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1682,
+"en": "TV",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1683,
+"en": "Dagger",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1684,
+"en": "Steel drum",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1685,
+"en": "Drink dispenser",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1686,
+"en": "Knife",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1687,
+"en": "Crowbar",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1688,
+"en": "Basket",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1689,
+"en": "Computer",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1690,
+"en": "Hammer",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1691,
+"en": "Beer keg",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1692,
+"en": "Bottle",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1693,
+"en": "Plastic case",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1694,
+"en": "Plate",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1695,
+"en": "Buoy",
+"ctx": "asset_asset_name|arms_name + item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 1696,
+"en": "Plastic bottle",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1697,
+"en": "Pot",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1698,
+"en": "Flashlight",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1699,
+"en": "Monitor",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1700,
+"en": "Lamp",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1701,
+"en": "Lamp stand",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1702,
+"en": "Record player",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1703,
+"en": "Rocket launcher",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1704,
+"en": "Wagon",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1705,
+"en": "Chair",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1706,
+"en": "Medical equipment",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1707,
+"en": "18-liter can",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1708,
+"en": "Broken bottle",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1709,
+"en": "Broken bench",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1710,
+"en": "Ashtray",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1711,
+"en": "Shattered bottle",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1712,
+"en": "Sign",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1713,
+"en": "Can",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1714,
+"en": "Houseplant",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1715,
+"en": "Chef's knife",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1716,
+"en": "Giant traffic cone",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1717,
+"en": "Metal bat",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1718,
+"en": "Pistol",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1719,
+"en": "Construction sign",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1720,
+"en": "Umbrella holder",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1721,
+"en": "Child seat",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1722,
+"en": "Office supplies",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1723,
+"en": "Bicycle",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1724,
+"en": "Wheelchair",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1725,
+"en": "Boom gate",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1726,
+"en": "Hand grenade",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1727,
+"en": "Cask",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1728,
+"en": "Sand weight",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1729,
+"en": "Small accessory",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1730,
+"en": "Crutch",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1731,
+"en": "Fire extinguisher",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1732,
+"en": "Rice cooker",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1733,
+"en": "Large pot",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1734,
+"en": "Ice machine",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1735,
+"en": "Crescent blade",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1736,
+"en": "File cabinet",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1737,
+"en": "Hand cart",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1738,
+"en": "Shelf",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1739,
+"en": "Wok",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1740,
+"en": "Chinese cleaver",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1741,
+"en": "Iron pipe",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1742,
+"en": "Steel plate",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1743,
+"en": "Electric pot",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1744,
+"en": "Microwave",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1745,
+"en": "Meat",
+"ctx": "asset_asset_name|arms_name + minigame_cabaret_cabaret|table/#/riona/favorite_food",
+"max": null
+},
+{
+"id": 1746,
+"en": "Katana",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1747,
+"en": "Generator",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1748,
+"en": "Ice bucket",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1749,
+"en": "Wooden bucket",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1750,
+"en": "Powder bag",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1751,
+"en": "Arrow sign",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1752,
+"en": "Wooden sword",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1753,
+"en": "Infusion pump",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1754,
+"en": "Traffic wand",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1755,
+"en": "Vase",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1756,
+"en": "Selfie stick",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1757,
+"en": "Chopsticks",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1758,
+"en": "Amon drone",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1759,
+"en": "Amon cleaning drone",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1760,
+"en": "Soji bomb",
+"ctx": "asset_asset_name|arms_name",
+"max": null
+},
+{
+"id": 1761,
+"en": "Haruto!",
+"ctx": "auth|cinema_telop/#//# + mission_kind|mission",
+"max": null
+},
+{
+"id": 1762,
+"en": "YAKUZA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1763,
+"en": "GORO MAJIMA\nPATRIARCH OF THE MAJIMA FAMILY,\nA TOJO CLAN SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1764,
+"en": "MAN IN BLACK",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1765,
+"en": "MEN IN BLACK",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1766,
+"en": "SHADY MEN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1767,
+"en": "MENACING MEN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1768,
+"en": "THREATENING MEN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1769,
+"en": "HOOLIGANS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1770,
+"en": "THUGS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1771,
+"en": "DEFEAT THE ROBBER",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1772,
+"en": "HEAD TO THE TOP FLOOR",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1773,
+"en": "PURSUE THE MAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1774,
+"en": "FIND THE SOURCE OF THE SCREAM",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1775,
+"en": "SEARCH FOR THE SIGN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1776,
+"en": "LOOK FOR XUEMEI",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1777,
+"en": "HAS-BEEN HOSTS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1778,
+"en": "CHAPTER 1\nTHE PRICE OF FREEDOM",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1779,
+"en": "CHAPTER 2\nLIFE BLOOMS ANEW",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1780,
+"en": "CHAPTER 3\nFOREIGN INFLUENCE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1781,
+"en": "CHAPTER 4\nDECEPTION",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1782,
+"en": "CHAPTER 5\nMASKED",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1783,
+"en": "CHAPTER 6\nFOOTSTEPS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1784,
+"en": "CHAPTER 7\nHEIHAIZI",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1785,
+"en": "CHAPTER 8\nCONSPIRACY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1786,
+"en": "CHAPTER 9\nDISAPPEARANCE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1787,
+"en": "CHAPTER 10\nBLOOD LAW",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1788,
+"en": "CHAPTER 11\nFATHER AND SON",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1789,
+"en": "CHAPTER 12\nTHE SLEEPING GIANT",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1790,
+"en": "FINALE\nTHE UNFORGIVEN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1791,
+"en": "SHADY MAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1792,
+"en": "MENACING MAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1793,
+"en": "STREET GANGSTERS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1794,
+"en": "CIVILIANS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1795,
+"en": "YOMEI ALLIANCE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1796,
+"en": "SHIPBUILDERS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1797,
+"en": "JO AMON",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1798,
+"en": "RUFFIANS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1799,
+"en": "SAIO TRIAD",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1800,
+"en": "JINGWEON MAFIA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1801,
+"en": "SOMEYA FAMILY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1802,
+"en": "DRUNKARDS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1803,
+"en": "TRAINING",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1804,
+"en": "DEFEAT THE PURSUERS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1805,
+"en": "DELIVER ON TIME",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1806,
+"en": "GO TO THE EXIT",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1807,
+"en": "PROTECT THE TARGET",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1808,
+"en": "TSUYOSHI NAGUMO\nCAPTAIN OF THE HIROSE FAMILY,\nA MASUZOE FAMILY SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1809,
+"en": "JOON-GI HAN\nLEADER OF THE JINGWEON MAFIA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1810,
+"en": "TSUNEO IWAMI\nCEO OF IWAMI SHIPBUILDING",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1811,
+"en": "KANJI KOSHIMIZU\nCAPTAIN OF THE YOMEI ALLIANCE,\nPATRIARCH OF THE KOSHIMIZU FAMILY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1812,
+"en": "KOJI MASUZOE\nPATRIARCH OF THE MASUZOE FAMILY,\nA YOMEI ALLIANCE SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1813,
+"en": "TAKUMI SOMEYA\nPATRIARCH OF THE SOMEYA FAMILY,\nA TOJO CLAN SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1814,
+"en": "THUG",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1815,
+"en": "HURRY TO LITTLE ASIA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1816,
+"en": "GATHER INFO ON AKIYAMA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1817,
+"en": "GO TO THE SPOT MARKED BY THE CODE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1818,
+"en": "GATHER INFO ON THE CODE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1819,
+"en": "CATCH THE SUSPICIOUS MAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1820,
+"en": "GO TO LITTLE ASIA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1821,
+"en": "GO TO THE APA HOTEL",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1822,
+"en": "GO TO THE APA HOTEL 6TH FLOOR",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1823,
+"en": "GO TO CAFÉ ALPS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1824,
+"en": "GO TO THE ROOF",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1825,
+"en": "GO TO THE CEMETERY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1826,
+"en": "GO TO THE DOCK",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1827,
+"en": "GO TO THE SEWER",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1828,
+"en": "GO TO THE EMERGENCY EXIT",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1829,
+"en": "GO TO THE HIROSE FAMILY OFFICE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1830,
+"en": "GO TO THE CHILDREN'S PARK",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1831,
+"en": "GO TO THE SECOND FLOOR",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1832,
+"en": "GO TO THE POLICE HOSPITAL",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1833,
+"en": "GO TO KIYOMI'S BAR",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1834,
+"en": "GO TO MORENO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1835,
+"en": "GO TO NEW SERENA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1836,
+"en": "GO TO THE TOP OF THE HILL",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1837,
+"en": "GO TO THE OKA BUILDING",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1838,
+"en": "GO TO THE ROPEWAY STATION",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1839,
+"en": "GO TO RYUNAN SHRINE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1840,
+"en": "GO TO THE NAVY APARTMENTS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1841,
+"en": "GO TO SKY FINANCE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1842,
+"en": "GO TO SNACK HOURGLASS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1843,
+"en": "GO TO STARDUST",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1844,
+"en": "GO TO THE BARBER SHOP",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1845,
+"en": "GO TO SHANGRI-LA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1846,
+"en": "GO TO TOJO CLAN HQ",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1847,
+"en": "GO TO TOUTO HOSPITAL",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1848,
+"en": "GO TO THE PHARMACY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1849,
+"en": "TAKE BACK HARUTO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1850,
+"en": "HURRY TO THE HIROSE FAMILY OFFICE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1851,
+"en": "INVESTIGATE HIROSE'S ROOM",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1852,
+"en": "INVESTIGATE THE ACCIDENT",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1853,
+"en": "INFILTRATE THE SECOND FLOOR",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1854,
+"en": "RESCUE KIYOMI",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1855,
+"en": "TALK TO THE KIDS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1856,
+"en": "GET A BENTO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1857,
+"en": "GATHER INFO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1858,
+"en": "GET SOME MILK",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1859,
+"en": "GO TO THE TOP FLOOR",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1860,
+"en": "FIND HIROSE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1861,
+"en": "FIND MATSUNAGA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1862,
+"en": "FIND NAGUMO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1863,
+"en": "FIND BIG LO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1864,
+"en": "CATCH SOMEYA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1865,
+"en": "FIND YUTA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1866,
+"en": "JOON-GI HAN\nOWNER OF CLUB STARDUST",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1867,
+"en": "TORU HIROSE\nPATRIARCH OF THE HIROSE FAMILY,\nA MASUZOE FAMILY SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1868,
+"en": "TAKAAKI MATSUNAGA\nOF THE HIROSE FAMILY,\nA MASUZOE FAMILY SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+}
+]

@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_04_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    390,
+    0,
+    1024,
+    104
+   ],
+   "en": "te ta hibi mo o wa ri",
+   "ocr": "下右日点繁 mo Na",
+   "es": "los días que sigues también terminan",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 634,
+   "dejar": true
+  }
+ ]
+}

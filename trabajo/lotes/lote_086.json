@@ -1,0 +1,1754 @@
+[
+{
+"id": 21269,
+"en": "N-National karaoke ranking...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 31
+},
+{
+"id": 21270,
+"en": "That's incredible! Is that really a thing!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 47
+},
+{
+"id": 21271,
+"en": "Yeah, it is.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + sound_auth_subtitles_speech_list_sub_b16|# …",
+"max": 15
+},
+{
+"id": 21272,
+"en": "Why didn't you tell me!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 31
+},
+{
+"id": 21273,
+"en": "Maybe because you were whining and not listening?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21274,
+"en": "It really isn't that complicated.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21275,
+"en": "Let's try it, Gen-san! I sing karaoke from time to time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21276,
+"en": "Yeah... I guess I'll give it a shot.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21277,
+"en": "Yep yep, you'll figure it out in no time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21278,
+"en": "By the way, what type of songs do you sing, Gen-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21279,
+"en": "You used to sing a lot of enka, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21280,
+"en": "Well, I like enka, but I want to sing this one song right now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21281,
+"en": "Which song?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21282,
+"en": "It's called \"Today is a Diamond.\"",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 47
+},
+{
+"id": 21283,
+"en": "Wait, you actually like pop music!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21284,
+"en": "I've never heard of it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21285,
+"en": "Yeah, I listen to pop songs now and then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21286,
+"en": "It's been stuck in my head ever since I heard it on the radio.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 63
+},
+{
+"id": 21287,
+"en": "Does that karaoke machine have \"Today is a Diamond\" in it?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 63
+},
+{
+"id": 21288,
+"en": "Of course it does! I just sang it yesterday.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21289,
+"en": "All right, then I'm gonna give it a go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 47
+},
+{
+"id": 21290,
+"en": "Let's teach you karaoke and take on Japan with \"Today is a Diamond\"!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 79
+},
+{
+"id": 21291,
+"en": "OH!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21292,
+"en": "But then, something about using a new machine...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21293,
+"en": "I'd probably make it explode if I used it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 47
+},
+{
+"id": 21294,
+"en": "It's not going to explode.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|#",
+"max": null
+},
+{
+"id": 21295,
+"en": "I'm sure I'll be fine once I start using it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 47
+},
+{
+"id": 21296,
+"en": "But I'll give it a try when I'm in the mood.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + talk",
+"max": 47
+},
+{
+"id": 21297,
+"en": "(That was a rather dull ending...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21298,
+"en": "So, what's wrong, Ando-san? What's got you down?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21299,
+"en": "Something happen with that guy looking to pawn stuff earlier?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21300,
+"en": "A guy here?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21301,
+"en": "Want to talk? Can't guarantee a solution, but it might help.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21302,
+"en": "It'd be a miracle if we came up with a solution to a problem.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21303,
+"en": "That's true.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 15
+},
+{
+"id": 21304,
+"en": "Hey, you're really upset.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21305,
+"en": "That guy from earlier came to sell something...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21306,
+"en": "A wedding ring... My ex-wife and I, our names were engraved on it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21307,
+"en": "Wha? Ex-wife? Meaning you were divorced once?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21308,
+"en": "That's right. We split up a while back though...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 63
+},
+{
+"id": 21309,
+"en": "Didn't you say something like \"Maybe I can get her back!\" recently?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21310,
+"en": "Oh, you must be full of regret.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21311,
+"en": "Sometimes you don't notice what you had until you lose it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21312,
+"en": "But by the time you realize it, it's usually too late...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21313,
+"en": "Mama... you don't have to rub salt in his wounds...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21314,
+"en": "Still, you might be able to repair the relationship, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21315,
+"en": "Yeah, she's been slowly replying to my messages.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 63
+},
+{
+"id": 21316,
+"en": "We even talked about meeting up for dinner to catch up...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21317,
+"en": "She sounds shrewd. She an enchantress or something?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21318,
+"en": "I don't think she's shrewd though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21319,
+"en": "Women hide behind lots of different masks in life.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 63
+},
+{
+"id": 21320,
+"en": "She may never have shown you who she really is...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21321,
+"en": "Wow, Mama made a point.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21322,
+"en": "It'll take time. Don't listen to her.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21323,
+"en": "You guys are banned from keeping open tabs.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21324,
+"en": "Whaaat?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 15
+},
+{
+"id": 21325,
+"en": "Well, anyway...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 15
+},
+{
+"id": 21326,
+"en": "What happened to that ring?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21327,
+"en": "Did you turn it down?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21328,
+"en": "N-No, sorry. Ignore what I said...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 47
+},
+{
+"id": 21329,
+"en": "I'm still a businessman, so I bought it off him; 10,000 yen.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21330,
+"en": "Oh no, that's so sad...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21331,
+"en": "Who came to sell it? It wasn't your ex, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 47
+},
+{
+"id": 21332,
+"en": "Some young, charming guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21333,
+"en": "So is that her new husband?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21334,
+"en": "I don't think she re-married... He's not her type.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21335,
+"en": "Women like to change things up...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21336,
+"en": "Okay, enough of that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21337,
+"en": "Why'd you two split up anyway?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21338,
+"en": "I was busy with work, so I was almost never home.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21339,
+"en": "I knew she was lonely, but I assumed she'd understand...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21340,
+"en": "A divorce kinda makes a lot of sense in that case.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21341,
+"en": "It made me reflect on my actions and quit being a salaryman.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21342,
+"en": "I opened this business so I could spend time with family.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21343,
+"en": "Business is good, so I thought about starting over with her, but...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21344,
+"en": "I'm seriously starting to feel sorry for you...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21345,
+"en": "Yeah... I feel bad that I've been listening halfheartedly...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21346,
+"en": "Listen fullheartedly, then! Come on, act like you care...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21347,
+"en": "Why don't you go talk it out with your ex?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 47
+},
+{
+"id": 21348,
+"en": "Yeah, you'll have to talk to her to get the truth.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 63
+},
+{
+"id": 21349,
+"en": "S-Sorry, I dozed off for a bit.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + sound_auth_subtitles_speech_list_snack_b21|# …",
+"max": 31
+},
+{
+"id": 21350,
+"en": "Keep it together. Why don't you try calling her first?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 63
+},
+{
+"id": 21351,
+"en": "Actually, I've been calling all day. She won't answer...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 63
+},
+{
+"id": 21352,
+"en": "That doesn't sound good.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21353,
+"en": "What if she shows up to introduce her new man?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21354,
+"en": "Come on, Akiyoshi-kun.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21355,
+"en": "Oh, sorry...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 15
+},
+{
+"id": 21356,
+"en": "Maybe I'll go travel.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21357,
+"en": "I came out here so we could start over, but this is just...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 63
+},
+{
+"id": 21358,
+"en": "Hey, don't feel so down!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21359,
+"en": "No, I already decided. I'm gonna get a fresh start in a new city!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 79
+},
+{
+"id": 21360,
+"en": "What the hell is he saying...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21361,
+"en": "It's too early to give up!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21362,
+"en": "I don't really have a choice...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21363,
+"en": "We have more questions than answers right now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21364,
+"en": "Can't you hold off until you know what's going on?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21365,
+"en": "Yep yep.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21366,
+"en": "Besides, where else will I buy tableware if your shop goes away?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21367,
+"en": "So you got these from the pawn shop...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21368,
+"en": "I really like your store, y'know? You should rethink this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21369,
+"en": "Guys... Okay, I'll think it through a little more.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21370,
+"en": "You've worked hard, Ando-san. Something good is bound to happen.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21371,
+"en": "All right, in hopes of Ando-san regaining his happy liiife...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21372,
+"en": "No... It's fine.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|# + talk",
+"max": 31
+},
+{
+"id": 21373,
+"en": "Where can I get on a boat that takes me to a deserted island?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21374,
+"en": "Now now, let's just have a drink for now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21375,
+"en": "We'll keep you company today.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21376,
+"en": "(We couldn't really cheer him up...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b20|#",
+"max": null
+},
+{
+"id": 21377,
+"en": "Kiryu-san, do you go to shrines?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21378,
+"en": "Shrines... Yeah, I visit them sometimes.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21379,
+"en": "Me too. The wind feels so good over there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21380,
+"en": "Since you asked, do you ever go to them?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21381,
+"en": "I just went yesterday. Hoping it'll bless me with good luck.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21382,
+"en": "You're so small-minded.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21383,
+"en": "So did something good happen?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21384,
+"en": "Nothing really, but I did witness something odd.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21385,
+"en": "Odd?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21386,
+"en": "I saw Kaneko-san shadowboxing earlier.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 47
+},
+{
+"id": 21387,
+"en": "Y-You saw that...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21388,
+"en": "Kaneko-san... you...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21389,
+"en": "You must really love boxing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21390,
+"en": "Well, it's not something to be embarassed about.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21391,
+"en": "He's right. All men do that now and then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 47
+},
+{
+"id": 21392,
+"en": "You said it was odd...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21393,
+"en": "I used to shadowbox against my room lamp as a kid.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21394,
+"en": "Don't compare me to you as a kid! Geez.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21395,
+"en": "Kaneko-san used to be an actual boxer.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21396,
+"en": "Wh-Whaaaaaat!? Seriously!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21397,
+"en": "First I'm hearing of it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21398,
+"en": "It was a long time ago.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21399,
+"en": "Wait, why does only Mama know?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21400,
+"en": "I know everything.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21401,
+"en": "Then tell me my bust, waist, and hip measurements.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21402,
+"en": "All about 129.3 cm probably.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21403,
+"en": "I don't think so. Forget it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21404,
+"en": "A boxer, huh? Did you have to watch your weight and stuff?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21405,
+"en": "Of course. There were times I even had to limit my water intake.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 79
+},
+{
+"id": 21406,
+"en": "Wooow, what a stoic life.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21407,
+"en": "But then you go all out on delicious meals after a match, no?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21408,
+"en": "Yeah, is that true, Kaneko-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21409,
+"en": "After a match, the stomach rejects food, so I can't eat right away.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21410,
+"en": "Well... that's something...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21411,
+"en": "Nowadays, I hear people make diet adjustments with their trainers.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21412,
+"en": "Did you quit because it was too tough?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21413,
+"en": "Don't be an idiot. Of course not.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21414,
+"en": "I went through a lot of other shit.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21415,
+"en": "Why don't you give boxing a try too, Mama?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21416,
+"en": "I hear that women are getting into it lately.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21417,
+"en": "Oh, that boxer-cize thing?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21418,
+"en": "I saw on TV that it's effective for shaping your body.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21419,
+"en": "Mama boxer-cizing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21420,
+"en": "Mama might look good toned.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21421,
+"en": "You think so?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 15
+},
+{
+"id": 21422,
+"en": "But I'd have mixed feelings if Mama was stronger than me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21423,
+"en": "As a man, you know...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21424,
+"en": "I'll fight people off who mess with you, Akiyoshi-kun!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21425,
+"en": "I-I'll look like a loser! I'll pick up boxing too!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21426,
+"en": "You're seriously small-minded...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21427,
+"en": "I guess I'll have Kaneko-san teach me then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 47
+},
+{
+"id": 21428,
+"en": "Hell no. I'm already a retired man.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 47
+},
+{
+"id": 21429,
+"en": "Just let me forget about boxing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 47
+},
+{
+"id": 21430,
+"en": "But Kaneko-san, don't you think you seem kinda flabby?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21431,
+"en": "Do ya think he let himself go?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21432,
+"en": "Do I seem out of shape...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21433,
+"en": "In that case...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 15
+},
+{
+"id": 21434,
+"en": "Why don't you exercise with me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21435,
+"en": "With Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21436,
+"en": "Yeah, I always try to keep active.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21437,
+"en": "Sounds like a good idea to avoid putting on more weight!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21438,
+"en": "Whoa whoa, knock it off.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21439,
+"en": "Shadowboxing isn't enough to slim you down, Kaneko-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21440,
+"en": "Shut up! Enough about that!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21441,
+"en": "Hahah!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 15
+},
+{
+"id": 21442,
+"en": "No, it's fine...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|# + talk",
+"max": 31
+},
+{
+"id": 21443,
+"en": "You can't keep boozing without exercising. It's unhealthy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21444,
+"en": "You're not gonna attract the ladies like that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21445,
+"en": "Shut up. Leave me alone...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b21|#",
+"max": null
+},
+{
+"id": 21446,
+"en": "Kiryu-san, you've become a regular like the rest of us.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 63
+},
+{
+"id": 21447,
+"en": "Seriously. You fit in so well, it's hard to imagine you not being here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21448,
+"en": "You're one to talk. You were so cold to him at first.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21449,
+"en": "Th-That's not true. Right, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 47
+},
+{
+"id": 21450,
+"en": "Heh, I dunno.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 15
+},
+{
+"id": 21451,
+"en": "Being kind is the best way to deal with strangers.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21452,
+"en": "Yeah. Otherwise you might treat someone in a way you regret.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21453,
+"en": "Hearing that from you kinda pisses me off...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21454,
+"en": "Being afraid of strangers is pretty much part of my personality now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21455,
+"en": "They say it's hard to change your personality once you're over 20.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21456,
+"en": "So age 20 is like a turning point...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21457,
+"en": "I need to be more accepting of new people.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21458,
+"en": "Oh my, what a positive mindset, Kaneko-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21459,
+"en": "Did hell just freeze over?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 31
+},
+{
+"id": 21460,
+"en": "Guess I shouldn't be nice to you, then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21461,
+"en": "Wha- Why...!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21462,
+"en": "Isn't life better when everyone has a different personality?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21463,
+"en": "Everyone has their quirks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 31
+},
+{
+"id": 21464,
+"en": "Yeah, good or bad, it's better to have a bunch of unique people.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21465,
+"en": "You might be right.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + sound_auth_subtitles_speech_list_sub_a03|#",
+"max": null
+},
+{
+"id": 21466,
+"en": "Sheesh, pay attention.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 31
+},
+{
+"id": 21467,
+"en": "The personality thing is true, but I also gave up on dreams after 20.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21468,
+"en": "Maybe you woke up to reality?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21469,
+"en": "I still dream of becoming a singing and dancing carpenter!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21470,
+"en": "Someday, you'll see me singing on TV for New Year's Eve!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21471,
+"en": "I forgot Gen-san was a carpenter. First I've heard of New Year's, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21472,
+"en": "People's personalities really show in their ambitions.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21473,
+"en": "Gen-san's sounds kinda irresponsible...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21474,
+"en": "Do you have any ambitions, Mama?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21475,
+"en": "Ambitions, hm.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21476,
+"en": "Maybe build up a second and third bar to conquer Onomichi!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21477,
+"en": "You could open up in Tokyo's business district! Kamurocho, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21478,
+"en": "Tokyo, huh? I've never thought about that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21479,
+"en": "Hm, I dunno if I like the idea of Mama becoming super successful.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21480,
+"en": "I get it. I don't really like the thought either.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21481,
+"en": "Whaaat? Why not?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21482,
+"en": "You know, it's kinda like when a band you love starts selling out.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21483,
+"en": "Am I the same as a band?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21484,
+"en": "You're similar in the way that we're all your fans.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 63
+},
+{
+"id": 21485,
+"en": "Oh my, that was sweet of you to say.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21486,
+"en": "That's what I was gonna saaay.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21487,
+"en": "Oh, sorry. I couldn't organize my thoughts...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 47
+},
+{
+"id": 21488,
+"en": "Geez, pay attention...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 31
+},
+{
+"id": 21489,
+"en": "Don't expand the business, Mama. Don't go to Tokyo either.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21490,
+"en": "Yeah, you'd be too far away from us.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21491,
+"en": "What? You guys are being silly.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21492,
+"en": "A simple life by the water is perfect for me, so don't worry.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 63
+},
+{
+"id": 21493,
+"en": "But wouldn't to you guys just find another bar if I left?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21494,
+"en": "We're gonna stay devoted to your bar, Mama.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 47
+},
+{
+"id": 21495,
+"en": "Really? Then it makes sense to stay here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21496,
+"en": "You guys better keep stopping by to support me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21497,
+"en": "We know that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 15
+},
+{
+"id": 21498,
+"en": "Leave it to us.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 15
+},
+{
+"id": 21499,
+"en": "This place calms me down. You guys are like my family.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21500,
+"en": "You HAVE a family, Hatakeyama-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21501,
+"en": "So I have two families.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 31
+},
+{
+"id": 21502,
+"en": "Can you say that in front of your daughter?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21503,
+"en": "Er... well...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21504,
+"en": "Haha, but you're more or less right. This place feels like home.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21505,
+"en": "My worries go away when I drink with the rest of the regulars.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21506,
+"en": "\"Regulars\" are a surprisingly important thing for a bar to have.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21507,
+"en": "Y'know, I've never even thought about that until now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 63
+},
+{
+"id": 21508,
+"en": "Maybe it's because a new wind blew through.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 47
+},
+{
+"id": 21509,
+"en": "A new wind?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 15
+},
+{
+"id": 21510,
+"en": "That's obviously Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21511,
+"en": "Absolutely. Kiryu-san listened to all of our troubles.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21512,
+"en": "You're a broad-minded man.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21513,
+"en": "Sounds like you've really helped everyone here, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21514,
+"en": "I'm lookin' forward to more great times with you, rookie!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21515,
+"en": "He doesn't really come off as a rookie.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21516,
+"en": "You guys...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + sound_auth_subtitles_speech_list_sub_b07|# …",
+"max": 15
+},
+{
+"id": 21517,
+"en": "To a future filled with delicious drinks!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 47
+},
+{
+"id": 21518,
+"en": "So let's toast!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 15
+},
+{
+"id": 21519,
+"en": "Wait, I lost my train of thought...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 47
+},
+{
+"id": 21520,
+"en": "Come on, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 31
+},
+{
+"id": 21521,
+"en": "You have to end with a baaaang.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|#",
+"max": null
+},
+{
+"id": 21522,
+"en": "(If only I had something to say...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b22|# + talk",
+"max": 47
+},
+{
+"id": 21523,
+"en": "You got a great voice.\nIt really pulled me in.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21524,
+"en": "Really? Thanks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21525,
+"en": "I'm a bit of a singer myself.\nFolks call me Gen.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21526,
+"en": "I'm Kiryu.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|# + sound_auth_subtitles_speech_list_sub_a13|# …",
+"max": null
+},
+{
+"id": 21527,
+"en": "Kiryu-san, huh? I like ya.\nWe oughta drink together.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21528,
+"en": "Yeah, next time I'll sit by you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21529,
+"en": "Great! Lookin' forward to it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21530,
+"en": "Oh, Kiryu-san.\nI was just telling this guy 'bout you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21531,
+"en": "Hm? About me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21532,
+"en": "Nice to meet you, I'm Akiyoshi.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21533,
+"en": "Kiryu-san, I heard y'helped Hatakeyama-san\nwith his troubles and cheered him right up.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21534,
+"en": "I thought y'were kinda scary,\nso I avoided ya...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21535,
+"en": "But now that I know yer a fine fella,\nwe oughta talk sometime!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21536,
+"en": "That all it takes to change yer tune?\nMaybe y'oughta talk to this guy, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21537,
+"en": "Lookin' forward to it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21538,
+"en": "Heh, nice. I could always use new drinking\nbuddies. We'll talk soon, Akiyoshi-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21539,
+"en": "Great!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21540,
+"en": "Yo, Kiryu-san... Right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21541,
+"en": "I didn't take you for being too invested in\nthis place. Figured you'd leave, but I was wrong.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21542,
+"en": "Meaning what?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21543,
+"en": "Sometimes we do get some new\npeople in outside of the regulars.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21544,
+"en": "But most come t'flirt with Mama or\nignore us and talk about themselves...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21545,
+"en": "They hog the karaoke and then\ndisappear. That's the type we usually get.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21546,
+"en": "That sounds terrible.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21547,
+"en": "But you seem to have good manners and\na decent reputation with the others.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21548,
+"en": "Maybe we were off the mark on ya...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21549,
+"en": "Sorry fer the cold shoulder. It's a little late,\nbut y'mind sharing a few drinks?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21550,
+"en": "I'd like to apologize for being so rude, too.\nThink you'd want to have a drink with us?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21551,
+"en": "Both of you... Of course.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21552,
+"en": "All right, then let's get some drinks!\nI'm Kaneko, by the way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21553,
+"en": "An' I'm Ando.\nI own a shop called Otafuku Pawn.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21554,
+"en": "Kaneko-san and Ando-san.\nLooking forward to sharing a drink.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_kikkake|#",
+"max": null
+},
+{
+"id": 21555,
+"en": "You piece of shit... Whaddya think\nyou were doing to our Yuka-chan!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a01|#",
+"max": null
+},
+{
+"id": 21556,
+"en": "You might be the Kabedon Prince, but\nthat don't give ya the right to mess with her!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a01|#",
+"max": null
+},
+{
+"id": 21557,
+"en": "Kabedon...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a01|#",
+"max": null
+},
+{
+"id": 21558,
+"en": "I told you, it was just for the show!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a01|#",
+"max": null
+},
+{
+"id": 21559,
+"en": "Yuka-san and I have nothing\ngoing on in real life, I swear!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a01|#",
+"max": null
+},
+{
+"id": 21560,
+"en": "Shut your face! I don't care if it's real or not.\nYou... You kabedon'd our sweet Yuka-chan!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a01|#",
+"max": null
+}
+]

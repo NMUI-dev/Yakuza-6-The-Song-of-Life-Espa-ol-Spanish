@@ -1,0 +1,174 @@
+{
+ "textura": "e/texture/mg_karaoke_menu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    8,
+    177,
+    40
+   ],
+   "en": "High Scores",
+   "ocr": "HighScores",
+   "es": "Récords",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 166
+  },
+  {
+   "caja": [
+    19,
+    42,
+    104,
+    84
+   ],
+   "en": "Sing",
+   "ocr": "Sing",
+   "es": "Cantar",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 81
+  },
+  {
+   "caja": [
+    145,
+    47,
+    223,
+    75
+   ],
+   "en": "Casual",
+   "ocr": "Casual",
+   "es": "Casual",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78
+  },
+  {
+   "caja": [
+    15,
+    85,
+    105,
+    116
+   ],
+   "en": "Movies",
+   "ocr": "Movies",
+   "es": "Películas",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 86,
+   "mediana": false
+  },
+  {
+   "caja": [
+    143,
+    80,
+    231,
+    109
+   ],
+   "en": "Back up",
+   "ocr": "Backup",
+   "es": "Coros",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 88
+  },
+  {
+   "caja": [
+    29,
+    121,
+    96,
+    150
+   ],
+   "en": "Back",
+   "ocr": "Back",
+   "es": "Atrás",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 63
+  },
+  {
+   "caja": [
+    131,
+    118,
+    248,
+    145
+   ],
+   "en": "Passionate",
+   "ocr": "Passionate",
+   "es": "Apasionado",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 117
+  },
+  {
+   "caja": [
+    142,
+    149,
+    232,
+    180
+   ],
+   "en": "Back up",
+   "ocr": "Backup",
+   "es": "Coros",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 90
+  },
+  {
+   "caja": [
+    3,
+    160,
+    119,
+    185
+   ],
+   "en": "instructions",
+   "ocr": "Instructions",
+   "es": "Instrucciones",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    0,
+    215,
+    79,
+    252
+   ],
+   "en": "Live",
+   "ocr": "Live",
+   "es": "En vivo",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 62
+  },
+  {
+   "caja": [
+    75,
+    232,
+    161,
+    256
+   ],
+   "en": "Song No.",
+   "ocr": "Song No.",
+   "es": "N.º de canción",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 86
+  }
+ ]
+}

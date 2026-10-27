@@ -1,0 +1,148 @@
+{
+ "textura": "e/texture/batting_logo",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    19,
+    20,
+    626,
+    118
+   ],
+   "en": "HOME RUN",
+   "ocr": "HOME RUN",
+   "es": "JONRÓN",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 607,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     235
+    ],
+    "abajo": [
+     215,
+     20,
+     30
+    ],
+    "contorno": [
+     [
+      15,
+      0,
+      0
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    651,
+    39,
+    891,
+    114
+   ],
+   "en": "SINGLE",
+   "ocr": "SINGLE",
+   "es": "SENCILLO",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 240,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     235
+    ],
+    "abajo": [
+     215,
+     20,
+     30
+    ],
+    "contorno": [
+     [
+      15,
+      0,
+      0
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    16,
+    296,
+    478,
+    405
+   ],
+   "en": "DOUBLE",
+   "ocr": "DOUBLE",
+   "es": "DOBLE",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 462,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     235
+    ],
+    "abajo": [
+     215,
+     20,
+     30
+    ],
+    "contorno": [
+     [
+      15,
+      0,
+      0
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    523,
+    294,
+    932,
+    405
+   ],
+   "en": "TRIPLE",
+   "ocr": "TRIPLE",
+   "es": "TRIPLE",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 409,
+   "estilo": {
+    "arriba": [
+     255,
+     235,
+     235
+    ],
+    "abajo": [
+     215,
+     20,
+     30
+    ],
+    "contorno": [
+     [
+      15,
+      0,
+      0
+     ],
+     4
+    ]
+   }
+  }
+ ]
+}

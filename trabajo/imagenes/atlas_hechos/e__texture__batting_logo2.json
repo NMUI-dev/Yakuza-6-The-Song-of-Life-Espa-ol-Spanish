@@ -1,0 +1,107 @@
+{
+ "textura": "e/texture/batting_logo2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    420,
+    139
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "SUPERADO",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 416,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     160
+    ],
+    "abajo": [
+     205,
+     180,
+     0
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    424,
+    4,
+    975,
+    92
+   ],
+   "en": "2 3 STRIKE",
+   "ocr": " 2 3 STRIKE",
+   "es": "2 3 STRIKE",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 551,
+   "dejar": true
+  },
+  {
+   "caja": [
+    446,
+    97,
+    532,
+    137
+   ],
+   "en": "S",
+   "ocr": "SS",
+   "es": "S",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 86,
+   "dejar": true
+  },
+  {
+   "caja": [
+    195,
+    147,
+    403,
+    227
+   ],
+   "en": "OUT",
+   "ocr": "OUT",
+   "es": "FUERA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 208,
+   "dejar": true
+  },
+  {
+   "caja": [
+    600,
+    149,
+    852,
+    226
+   ],
+   "en": "FOUL",
+   "ocr": "FOUL",
+   "es": "FALTA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 248,
+   "dejar": true
+  }
+ ]
+}

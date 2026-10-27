@@ -1,0 +1,104 @@
+{
+ "textura": "e/texture/livechat_00",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    258,
+    2,
+    388,
+    32
+   ],
+   "en": "DMM.com",
+   "ocr": "DMM",
+   "es": "DMM.com",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 130
+  },
+  {
+   "caja": [
+    165,
+    298,
+    270,
+    346
+   ],
+   "en": "Send",
+   "ocr": "Send",
+   "es": "Enviar",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 101
+  },
+  {
+   "caja": [
+    245,
+    381,
+    362,
+    436
+   ],
+   "en": "SUCCESS",
+   "ocr": "SUCCESS",
+   "es": "ÉXITO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 117,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     200,
+     230
+    ],
+    "contorno": [
+     [
+      230,
+      30,
+      120
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    8,
+    547,
+    228,
+    600
+   ],
+   "en": "FAIL",
+   "ocr": "FaIL",
+   "es": "FRACASO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 220,
+   "dejar": true
+  },
+  {
+   "caja": [
+    5,
+    605,
+    215,
+    647
+   ],
+   "en": "DMM Live Chat",
+   "ocr": "DMM Live Chat",
+   "es": "DMM Live Chat",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 206
+  }
+ ]
+}

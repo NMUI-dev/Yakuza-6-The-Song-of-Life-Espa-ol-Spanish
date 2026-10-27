@@ -1,0 +1,512 @@
+[
+{
+"id": 853,
+"en": "Change settings related to audio.",
+"ctx": "pause_others|explanation",
+"max": null
+},
+{
+"id": 854,
+"en": "View information on primary characters.",
+"ctx": "pause_others|explanation",
+"max": null
+},
+{
+"id": 855,
+"en": "Check how to use the controls.",
+"ctx": "pause_others|explanation",
+"max": null
+},
+{
+"id": 856,
+"en": "Configure graphics settings.",
+"ctx": "pause_others|explanation",
+"max": null
+},
+{
+"id": 857,
+"en": "Customize game controls.",
+"ctx": "pause_others|explanation + title_root|explanation",
+"max": null
+},
+{
+"id": 858,
+"en": "Game Settings",
+"ctx": "pause_others|name",
+"max": null
+},
+{
+"id": 859,
+"en": "Audio Settings",
+"ctx": "pause_others|name",
+"max": null
+},
+{
+"id": 860,
+"en": "Character Profiles",
+"ctx": "pause_others|name",
+"max": null
+},
+{
+"id": 861,
+"en": "Graphics Settings",
+"ctx": "pause_others|name",
+"max": null
+},
+{
+"id": 862,
+"en": "The former 4th chairman of the Tojo Clan, a yakuza organization in control of \neastern Japan. Kiryu is a legend in the Japanese underworld, known throughout as\nthe Dragon of Dojima. He left the yakuza life behind to run the Morning Glory \norphanage in Okinawa alongside Haruka Sawamura, the daughter of his late love, \nYumi. However, his pursuit of a peaceful life was continuously disrupted by his \nyakuza days catching up to him. In 2012, he was a central figure in the \nnationwide conflict over who would be the next chairman of the Omi Alliance.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 863,
+"en": "The man behind Sky Finance, a loan company in Kamurocho. Known as the \"Lifeline\nof Kamurocho,\" he presents those looking for money with a condition they must \nmeet before he approves a loan. He met Kiryu through Saejima's stepsister, \nYasuko. In 2012, he went to Sotenbori, Osaka to open a branch office and \nreunited with Haruka, who was in the entertainment industry at the time. He \nhelped her when the president of her talent agency died under mysterious \ncircumstances.\n",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 864,
+"en": "The leader of the Saio Triad, who quickly rebuilt Little Asia after the huge \nfire and has made it his home base. His son Jimmy Lo was murdered while fighting\nthe Tojo Clan for control of Kamurocho. Lo seems to have some sort of deep \nconnection with Onomichi, as he has been sending undocumented Chinese people, \nsuch as Masuzoe and Tatsukawa, into the Yomei Alliance for many years.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 865,
+"en": "A legendary yakuza, Saejima spent 25 years in prison for murdering 18 enemy \nyakuza. After doing his time, he returned to the Tojo Clan intending to set up \nhis own family. He decided he needed to cleanse himself of all past sins to \naccomplish this, voluntarily going back to prison. However, after hearing the \nrumors that Goro Majima had died, he was targeted by a conspiracy\norchestrated by the 7th chairman of the Omi Alliance. He decided to escape from \nprison and helped put a stop to the conflict, but in doing so, became a fugitive.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 866,
+"en": "The unpredictably violent yakuza known as the Mad Dog of Shimano, once \nfeared across the criminal underworld. Sworn brother of Taiga Saejima, he \nis a man of his own code who yearns to fight against those who claim to be\nstrong. Majima views himself as Kiryu's greatest rival, having battled him\ncountless times over the years. In 2012, there were rumors of his demise,\nbut in reality he was working with Daigo Dojima to end the yakuza conflict.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 867,
+"en": "A veteran member of the Tojo Clan relegated to an advisory role for years before\nascending to acting chairman. His rise to power was made possible by the arrest \nof key Tojo Clan figures, Daigo Dojima, Goro Majima, and Taiga Saejima. He has \nslowly brought the whole clan under his control in order to wage war against a \nChinese mafia organization called the Saio Triad.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 868,
+"en": "A confidant of Sugai, the acting 6th chairman of the Tojo Clan. He used the \nconflict between the Tojo Clan and the Saio Triad to his advantage and rose to \nbe a direct patriarch despite only being in his thirties.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 869,
+"en": "An officer of the Saio Triad who is one of the few to have the privilege of \ntalking directly to their boss. Ed is an alias; his real name is unknown.\nHis weapon of choice is a Southeast Asian knife called a karambit. Ed is an \nintimidating, giant man who kills without hesitation.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 870,
+"en": "The son of the leader of the Saio Triad and successor to the organization. He \nwas found dead three months ago in Kamurocho. It's believed that he was murdered\nby members of the Tojo Clan, which intensified the conflict in Kamurocho.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 871,
+"en": "The captain of the Hirose Family, a small subsidiary of the Masuzoe Family\nwithin the Yomei Alliance that controls all of Hiroshima. Nagumo is a\nsmall-town yakuza who's impulsive and outspoken. The run-down bar district\nof Onomichi is his territory, but he never seems to get much done outside\nof drinking all day.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 872,
+"en": "One of the five members of the Hirose Family. Even though Yuta was raised in \nOnomichi, he speaks with only a light Hiroshiman accent. He shows little\nrespect for Nagumo because of the captain's irresponsible nature. As a result, \nYuta often talks back to Nagumo at the risk of getting smacked.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 873,
+"en": "A member of the Hirose Family who is next in rank after Nagumo. He is easygoing\nand speaks with a plain Hiroshima accent.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 874,
+"en": "The elderly patriarch of the Hirose Family. Despite being a veteran yakuza,\nhe lives a retired lifestyle and earns cash from insurance fraud.\nAll of the duties of running the family are left completely to his captain,\nNagumo. It's rumored that, in his younger days, he fought on the front\nlines in the conflict with the Omi Alliance, though no one knows whether\nto believe that.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 875,
+"en": "One of the five Hirose Family members. Tagashira is far more knowledgeable\nabout the internet and social media than the others. Rather than Nagumo, he\nlooks up to the responsible Matsunaga to learn the ways of being a yakuza.\nWhile he respects Matsunaga, he also secretly feels the need to look after\nhim, as Matsunaga is not the sharpest tool in the shed.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 876,
+"en": "The patriarch of the Masuzoe Family within the Yomei Alliance. He is known\nto be a man of small caliber; oppressive toward the weak, and a coward\naround those stronger than he is. He's especially harsh toward the\nHirose Family for not earning much.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 877,
+"en": "The second most powerful yakuza in Hiroshima under Takeru Kurusu, the\nchairman of the Yomei Alliance. He places utmost importance on Iwami\nShipbuilding, a top-class company that has turned Onomichi into a corporate\ncastle town. Because of that, he shows up to settle a score with the Hirose\nFamily for Matsunaga punching an Iwami Shipbuilding worker. He recognized\nKiryu with just one look, and as the captain of the Yomei Alliance, he doesn't\nthink much of the Tojo Clan.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 878,
+"en": "Founder and chairman of the mysterious Yomei Alliance which acts independently　\nand stays distant from all other yakuza organizations in Japan. Although they \nare the third largest organization after the Omi Alliance and Tojo Clan, they \nhave never failed to drive away invaders and their inner workings are shrouded \nin secrecy. Takeru Kurusu is his yakuza name; his public persona is Heizo Iwami,\nchairman of Iwami Shipbuilding. Using those two identities, he controls all of\nHiroshima both publicly and from the shadows.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 879,
+"en": "The CEO of Iwami Shipbuilding, inherited from his father, Heizo Iwami, who\nfounded the world-class company. As Heizo's son, the members of the Yomei\nAlliance below Koshimizu bow down to him, and he often takes advantage of\nthat by throwing his weight around. He has the temperament of a cool-headed\nbusinessman, also an inheritance from his father. Many businesses in Hiroshima\nwere started by Tsuneo, and it's said that there isn't a soul in Hiroshima not\nassociated with the Iwami Group in some fashion.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 880,
+"en": "A former yakuza who left the Hirose Family six months ago and became a host\nin Kamurocho. He is a young man around the same age as Yuta and Tagashira,\nand he is rumored to be the father of Haruto.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 881,
+"en": "Date has been an ally to Kiryu over the years ever since the Ten Billion Yen \nIncident of 2005, and there is a strong bond of trust between them. He had \nretired from detective work to chase political cases as a journalist, but he's \nreturned to his position as a police officer. Younger officers respect him as a \nsophisticated, veteran detective. His relationship with the Mama of New Serena \nseems to be going well.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 882,
+"en": "When Haruka was involved with the hit-and-run in Kamurocho, he was the first to\nnotify Date about the accident. He's an experienced detective and is \nknowledgeable about Kamurocho's underworld. However, he believes in upholding \nthe law above all else, so he disapproves of Date and Kiryu's relationship, \nseeing it as collusion.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 883,
+"en": "The daughter of the late Yumi Sawamura, Kiryu's love. After the Ten Billion Yen \nIncident, she moved to Okinawa with Kiryu and began living with the children at \nthe Morning Glory orphanage. She became an idol after being scouted by the Osaka\ntalent agency Dyna Chair, but the president of the firm, Mirei Park, died after \ngetting caught up in a conflict between the yakuza. Afterwards, she publicly \nrecognized Kiryu as her family while on stage at the Japan Dome and retired on \nthe spot.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 884,
+"en": "Haruka's baby, who Haruka risked her own life to protect during the hit-and-run\nin Kamurocho. He looks to be under a year old.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 885,
+"en": "The children of Morning Glory, an orphanage in Okinawa, who Kiryu takes care of.\nThe oldest is Ayako, followed by Taichi, Koji, Mitsuo, Eri, Shiro, Riona and \nIzumi. When Haruka became an idol, Kiryu left Morning Glory and tried to bury \nhis past as a yakuza for Haruka's sake. He worked as a taxi driver for some time,\nsending the money he made to the children.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 886,
+"en": "The young leader of the Jingweon Mafia, a Korean mafia organization which Kiryu\ndestroyed in 2006. Now, the Jingweon Mafia has changed hands to the younger\ngeneration, who no longer holds a grudge against Kiryu. They are in the \nprocess of expanding into Kamurocho's sex industry using their vast financial \nresources, exemplified by buying out Club Stardust.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 887,
+"en": "The man who became known as the Fixer for his political backroom dealings after\nthe end of World War II. As a former imperial navy officer, he ordered Iwami \nShipbuilding to construct the Yamato Mk. II without government sanction. \nHowever, the war ended just before it was to be completed, and he covered up the\nexistence of the battleship for his own protection. When he later made a name \nfor himself as a politician, he colluded with Takeru Kurusu in order to hide the\nbattleship, referred to as the secret of Onomichi. However, when the secret was \nrevealed, he cut ties with Kurusu and ordered Kurusu's son, Tsuneo Iwami, to get\nrid of Kiryu.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 888,
+"en": "Kiyomi runs a small bar in the run-down bar district of Onomichi. She welcomes \nKiryu, who was taking care of baby Haruto, and tries to help him out in any way \nshe can.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 889,
+"en": "The manager of the Navy Apartments who has connections to the Jingaicho \nneighborhood association. Ino is a childhood friend of Nagumo and Kiyomi<symbol=em_dash_with_outline>he and \nNagumo are rivals for Kiyomi's affection. He runs an amateur baseball team that \nalways struggles with a lack of members.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 890,
+"en": "The 6th chairman of the Tojo Clan and only son of Dojima Family\n patriarch,\nSohei Dojima. Daigo tried to stay out of the yakuza lifestyle, but after the\ndeath of the 5th chairman, Yukio Terada, Kiryu put the Tojo Clan in his hands.\nDuring the 2012 Omi Alliance conflict, he worked hard to bring all yakuza\norganizations across Japan together, leading the conflict to its conclusion.",
+"ctx": "pause_profile|explanation",
+"max": null
+},
+{
+"id": 891,
+"en": "Big Lo",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 892,
+"en": "Jimmy Lo",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 893,
+"en": "Shu Tatsukawa",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 894,
+"en": "Jiro Honjo",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 895,
+"en": "Haruka Sawamura",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 896,
+"en": "Haruto Sawamura",
+"ctx": "pause_profile|name + title_movie|title",
+"max": null
+},
+{
+"id": 897,
+"en": "Children of Morning Glory",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 898,
+"en": "Minoru Daidoji",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 899,
+"en": "Kiyomi Kasahara",
+"ctx": "pause_profile|name",
+"max": null
+},
+{
+"id": 900,
+"en": "I'll check it out.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 901,
+"en": "I'll look into it.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 902,
+"en": "Sounds dangerous. I'll check it out.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 903,
+"en": "I'll get to the bottom of it.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 904,
+"en": "I'll see what the problem is.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 905,
+"en": "I know how to handle this.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 906,
+"en": "He couldn't have gone far. I'll have a look.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 907,
+"en": "Got it, I'll go help.\nWait for me.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 908,
+"en": "Got it. I'm on my way.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 909,
+"en": "Got it. I don't tolerate shakedowns.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 910,
+"en": "They'll be lucky if they can still walk.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 911,
+"en": "Time to flush the rats out of the sewers.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 912,
+"en": "They won't get away with it.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 913,
+"en": "On it. And no nicknames, please.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 914,
+"en": "...The \"champion\" is on it. Happy?",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 915,
+"en": "Not on my watch.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 916,
+"en": "I'll shut them down as many times\nas it takes.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 917,
+"en": "This is the last straw.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 918,
+"en": "I won't let that happen.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 919,
+"en": "I won't let anyone die.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 920,
+"en": "On my way.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 921,
+"en": "I'm on it. Give me a sec.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 922,
+"en": "I'll see what I can do.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 923,
+"en": "Sit tight, I'm on it.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 924,
+"en": "I'll put a stop to it.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 925,
+"en": "The dead don't deserve that. I'll check it out.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 926,
+"en": "Not sure why, but I'll help.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 927,
+"en": "Got it, I'll go check.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 928,
+"en": "I'll make sure it doesn't spread.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 929,
+"en": "I'll go. Wait for me.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 930,
+"en": "Yeah, this guy needs to be stopped.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 931,
+"en": "Challenge accepted. You can't hurt this city.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 932,
+"en": "I'll put it out before that happens.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 933,
+"en": "I've had it with fires. I'm on it.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 934,
+"en": "That's close to home. I'll go.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 935,
+"en": "Sounds dangerous. I'm on it.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 936,
+"en": "I'll go have a look.",
+"ctx": "pause_sns|table/#/accept/#",
+"max": null
+},
+{
+"id": 937,
+"en": "Even though they must have been in\nexcruciating pain, no one came to help...\nPeople are so heartless...",
+"ctx": "pause_sns|table/#/failure/#",
+"max": null
+}
+]

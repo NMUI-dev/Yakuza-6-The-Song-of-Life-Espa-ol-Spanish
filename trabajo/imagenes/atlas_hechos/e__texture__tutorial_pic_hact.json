@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/tutorial_pic_hact",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    79,
+    435,
+    121,
+    474
+   ],
+   "en": "RT",
+   "ocr": "RT",
+   "es": "RT",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42
+  }
+ ]
+}

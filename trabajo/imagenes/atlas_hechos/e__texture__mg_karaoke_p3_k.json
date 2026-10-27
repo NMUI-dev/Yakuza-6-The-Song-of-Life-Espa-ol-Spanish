@@ -1,0 +1,42 @@
+{
+ "textura": "e/texture/mg_karaoke_p3_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    10,
+    133,
+    53,
+    149
+   ],
+   "en": "COMBO",
+   "ocr": "COMBO",
+   "es": "COMBO",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    116,
+    252,
+    164,
+    269
+   ],
+   "en": "Tano mu",
+   "ocr": "TanoYmu",
+   "es": "Tano mu",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  }
+ ]
+}

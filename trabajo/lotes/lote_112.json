@@ -1,0 +1,1304 @@
+[
+{
+"id": 27099,
+"en": "At least, delicious enough to lure <font_kind=yakuza_italic>me</font_kind>\nout to a backwater town like this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27100,
+"en": "Gorchov-san here's a real octopus aficionado,\nso the rumors did good t'draw him in.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27101,
+"en": "Even so... I can't go out and catch them\nif you're sitting here injured like this!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27102,
+"en": "Isn't there any way you can help me!?\nI'll do anything!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27103,
+"en": "I told ya, it ain't happenin'!\nThey're jus' too dangerous fer me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27104,
+"en": "I'm actually kinda interested.\nI'll catch this octopus for you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27105,
+"en": "Huh? <font_kind=yakuza_italic>Yer</font_kind> gonna do it?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27106,
+"en": "Yeah, I've become used to fishing lately.\nAnd I'm interested in that tasty octopus.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27107,
+"en": "But it's a dangerous creature. Will you be okay?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27108,
+"en": "I understand the risk. I've been in some pretty\ndangerous situations, I'm prepared for whatever happens.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27109,
+"en": "Besides, I caught a large squid last time. If I can catch\na squid, an octopus shouldn't be much harder. Right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27110,
+"en": "I don't know if that's true, but...\nIf you're so sure, you can go on n' try.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27111,
+"en": "Please, I'm depending on you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27112,
+"en": "Yeah. But I don't work for free.\nYou said you'd do anything, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27113,
+"en": "In that case, if I get that octopus for you,\nyou have to join my baseball team.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27114,
+"en": "Does that work for you?\nYou're a superstar, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27115,
+"en": "Y-Yes!\nI'll gladly join you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27116,
+"en": "Great, then it's settled.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27117,
+"en": "To think everything would work out like this...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27118,
+"en": "Kay, I'll bring the ship 'round to the right spot.\nJus' talk to me when yer ready.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27119,
+"en": "Oh, Kiryu-san.\nY'ready to head out?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27120,
+"en": "Come talk t'me when ya wanna raise anchor.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27121,
+"en": "Okay! I'll go prep the boat!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27122,
+"en": "I'll be waiting here until that\nlegendary octopus arrives on my plate!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27123,
+"en": "Wowww, that octopus really <font_kind=yakuza_italic>was</font_kind> delicious!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27124,
+"en": "Yup, I was hopin' t'eat it again before I died,\nn' I did thanks to Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27125,
+"en": "By the way Kiryu-san, here's your\npayment for this haul. Nice work.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27126,
+"en": "I'm so full!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27127,
+"en": "Well? Satisfied now?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27128,
+"en": "Yes, it was incredible!\nThis'll pump me up for next season!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27129,
+"en": "Glad to hear it.\nAnd our promise? You're keeping it?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27130,
+"en": "Of course I am.\nIt'll be a good change of pace.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27131,
+"en": "I'm ready to join your team, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27132,
+"en": "Great, looking forward to it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27133,
+"en": "I've heard of catching fish with worms,\nbut catching baseball players with octopus...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27134,
+"en": "I don't really know Kiryu-san well,\nbut he's quite an unbelievable person.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27135,
+"en": "Yup. I've been on this planet fer years,\nbut I ain't ever met a guy like him before.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27136,
+"en": "He's a weird one, that Kiryu.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27137,
+"en": "Yup. He certainly is.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27138,
+"en": "Hey, what are you two talking about?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27139,
+"en": "Y'know, jus' about how Amano-san's\ngot a huge crush on ya, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27140,
+"en": "Wh-What're you talking about!?\nThat's not true!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27141,
+"en": "Then why're ya blushin' so much?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27142,
+"en": "You're the worst, Isao-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27143,
+"en": "It was a close call this time... \nBut don't give up, try again another time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27144,
+"en": "When you wanna go out to sea,\ncome talk to me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27145,
+"en": "I'm not too sure 'bout the sea's conditions right now.\nTry comin' back another time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b24|#",
+"max": null
+},
+{
+"id": 27146,
+"en": "I ain't doin' it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27147,
+"en": "But I'm begging you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27148,
+"en": "No means no!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27149,
+"en": "What is it, you two?\nAnother argument?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27150,
+"en": "Ah, Kiryu-san...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27151,
+"en": "What's wrong this time?\nDoes the world's tastiest salmon live here, too?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27152,
+"en": "It... came back.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27153,
+"en": "The salmon?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27154,
+"en": "No... It's a shark.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27155,
+"en": "There's a huge man-eatin' terror that roams\n'round these parts... The Bloody Shark.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27156,
+"en": "The Bloody Shark...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27157,
+"en": "Yup. It's a real frightenin' sight,\nwith rows o' teeth n' huge blood-red eyes.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27158,
+"en": "It used t'wreak havoc 'round here years back,\nbut it disappeared... 'til lately, that is.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27159,
+"en": "That thing's what wrecked my leg, too.\nIt's a monster.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27160,
+"en": "Sounds like it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27161,
+"en": "I'm lucky t'have got off this easy, though.\nTons o' other fishermen fell victim to that thing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27162,
+"en": "Includin' Amano's old man.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27163,
+"en": "Guy was one o' the best fishermen in town.\nOne o' my closest friends, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27164,
+"en": "But one day, he met that monster out on the water.\nN' that was the last we saw o' him...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27165,
+"en": "That's horrible...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27166,
+"en": "That's why... That's why I need to fight!\nI have to avenge my father's death!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27167,
+"en": "I'm begging you, Isao-san!\nTake me to where this monster is!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27168,
+"en": "Y'ain't goin' nowhere!\nYer never gonna win against that thing!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27169,
+"en": "A girl like ya without a shred o' experience\nwould get swallowed whole out there!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27170,
+"en": "Think o' how yer old man'd feel\nif that happened to ya!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27171,
+"en": "But... But...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27172,
+"en": "I ain't lettin' up!\nEnough's enough!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27173,
+"en": "Hey!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_etc|# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27174,
+"en": "Geez... That girl's even more\nstubborn than her old man was.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27175,
+"en": "What about this Bloody Shark?\nIs it <font_kind=yakuza_italic>really</font_kind> that dangerous?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27176,
+"en": "Yup, it's jus' like I told ya.\nScariest thing in the ocean, if ya ask me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27177,
+"en": "But... if we don't do somethin' fast,\nwe might have another victim on our hands.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27178,
+"en": "S'pose all we can do is wait 'til it leaves...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27179,
+"en": "Y'better stay outta the water too, Kiryu-san.\nThing's dangerous, y'hear?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27180,
+"en": "No... I'm going. \nI'll chase that beast away.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27181,
+"en": "Huh!?\nWait... Y'can't be serious!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27182,
+"en": "I am. Who knows how many more fishermen\ncould fall victim to that monster if I don't.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27183,
+"en": "And if that happened, even more kids\nwould end up just like Amano.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27184,
+"en": "It hurts to lose a father... I understand that.\nAnd I want to help others avoid that pain.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27185,
+"en": "Besides, this thing took Amano's father from her.\nShe deserves a little bit of closure.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27186,
+"en": "And for Amano, I'd gladly provide it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27187,
+"en": "Sheesh, yer a real charmer.\nI'd fall fer ya if I was a woman...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27188,
+"en": "A-Anyways!\nC'mon, I'll take ya over t'that thing's lair.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27189,
+"en": "It's leagues stronger than yer other opponents, though.\nMake sure yer spear and yer mind're sharp first.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27190,
+"en": "If ya died out there, Kiryu-san,\nAmano'd have one more thing t'be sad about...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27191,
+"en": "N' if that happened, I'd never forgive ya.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27192,
+"en": "You really care for Amano, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27193,
+"en": "'Course I do! Anyways, I'll prep the boat\nwhen yer good n' ready. Jus' lemme know.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27194,
+"en": "Yo, Kiryu-san. Y'ready to head out?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27195,
+"en": "Come talk to me if y'wanna set sail.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27196,
+"en": "All right, let's get movin'!\nY'can do it, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27197,
+"en": "I never shoulda doubted ya, Kiryu-san!\nY'kicked the stuffin' outta that thing!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27198,
+"en": "Yer really somethin' else!\nHow 'bout a drink t'celebrate!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27199,
+"en": "Oh, Amano.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27200,
+"en": "Listen t'this, Amano!\nKiryu-san got revenge fer yer old man!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27201,
+"en": "Idiot!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27202,
+"en": "Huh? Hey, what's 'at fer!?\nKiryu-san did this fer you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27203,
+"en": "You left without even saying goodbye...\nI was so worried...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27204,
+"en": "I thought you were gonna meet\nthe same end my father did, Kiryu-san...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27205,
+"en": "I wouldn't die on you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27206,
+"en": "You should know by now...\nI can handle anything the ocean throws at me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27207,
+"en": "Besides, Isao-san would never forgive me\nif I made you sad again.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27208,
+"en": "Enough of the tears now, okay?\nSmiling suits you far better.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27209,
+"en": "Mkay, we're done with the sobbin', then!\nWe took down that monster, after all!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27210,
+"en": "It's time t'celebrate!\nWe gotta get ready, Amano!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27211,
+"en": "Ahhh, I jus' love drinkin' with you two!\nAin't it great, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27212,
+"en": "Oh, Kiryu-san!\nThis is your payment for today!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27213,
+"en": "This is even more than usual.\nAre you sure about this?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27214,
+"en": "Darn tootin'.\nThe other fishermen pitched in.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27215,
+"en": "Everyone's free t'fish again now that ya\nspeared that giant shark. This is yer thanks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27216,
+"en": "It's not much of a reward fer riskin' yer life,\nbut it's all fer you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27217,
+"en": "Got it. I'll gladly accept.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27218,
+"en": "I ain't finished, though.\nYa've been a real lifesaver 'round here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27219,
+"en": "Lemme thank ya again, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27220,
+"en": "It was nothing. I'm thankful\nfor all our time together, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27221,
+"en": "Um... By the way, Kiryu-san...\nhow would you feel about fishing with us some more?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27222,
+"en": "Yeah, c'mon!\nY'should stick around 'til I'm all healed up!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27223,
+"en": "I appreciate the offer, but I really\ndon't know how long I'll be in this town.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27224,
+"en": "There's something else I need to do.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27225,
+"en": "Oh... I guess I'm not surprised.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27226,
+"en": "This place means a lot to me, though.\nI promise to keep coming back as long as I can.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27227,
+"en": "That okay with you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27228,
+"en": "Y-Yes, of course it is!\nRight, Isao-san!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27229,
+"en": "Y'don't even gotta ask.\nWe're gonna pull up some huge hauls, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27230,
+"en": "Anyways, let's pull ourselves together\nn' go fer another round!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27231,
+"en": "Huh? I think I've had enough for today!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27232,
+"en": "What're ya sayin'!?\nKiryu-san's never gonna go fer a lightweight like you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27233,
+"en": "G-Go for me...?\nWh-Wh-What're you talking about!? Geez!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27234,
+"en": "Ya did good out there. Amano ain't around,\nso I'll be givin' ya yer reward today.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27235,
+"en": "See ya next time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27236,
+"en": "\nRumor has is another shark's been hangin' around...\nNear identical t'the one from before.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27237,
+"en": "Don't wanna pressure ya, but I was hopin'\ny'could get rid o' this one, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27238,
+"en": "Hey, don't make it sound so simple.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27239,
+"en": "C'mon, it should be a piece o' cake fer ya!\nAnyways, good luck out there!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27240,
+"en": "Sheesh. Some friend you are...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b25|#",
+"max": null
+},
+{
+"id": 27241,
+"en": "Oh, that laughter's coming from the bar...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27242,
+"en": "Come to think of it, I haven't gone\ninto a bar for laughs and drinks here...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27243,
+"en": "Well, I guess I drank with Haruto at\nKiyomi's bar... But he was drinking milk.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27244,
+"en": "Hm? What're ya doin' standing out\nhere gawkin' at the bar?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27245,
+"en": "Oh, I get it, y'must be too nervous\nto go in because it's your first time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27246,
+"en": "N-No, that's not it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27247,
+"en": "No need t'feel ashamed,\nI was in your shoes once.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27248,
+"en": "I remember peekin' in the door a bit\nt'see what it was like inside...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27249,
+"en": "Yer lookin' like a newcomer to\nbar culture. That right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27250,
+"en": "I don't know if that's really a thing,\nbut yeah, I grew out of the bar scene.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27251,
+"en": "Alrighty then! Fate musta sent ya\nmy way, then. I'll join ya. C'mon!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27252,
+"en": "W-Wait, I never said I wanted to...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27253,
+"en": "Now now, not another word. It's my treat. \n'Sides, a drink with Mama cures what ails ya!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27254,
+"en": "Not t'mention drinking buddies.\nStep on in.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27255,
+"en": "Heh... Well, one glass wouldn't hurt.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27256,
+"en": "That's the spirit! C'mon now!\nNo time like the present.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27257,
+"en": "Hey Mama, I'm back!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27258,
+"en": "Welcome back, Hatakeyama-san!\nThis a friend of yours?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27259,
+"en": "He was peepin' inside, so I invited him in.\nUm... Oh wait, I didn't catch yer name.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27260,
+"en": "Oh, I'm Kazuma Kiryu.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27261,
+"en": "Kiryu-san, eh?\nI'm Hatakeyama.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27262,
+"en": "Glad t'meetchya, Kiryu-san.\nWelcome.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27263,
+"en": "Tch, y'ain't welcome. I don't much\ncare fer strangers gettin' in my space.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27264,
+"en": "Hey Kaneko-san. Don't be like that.\nThe bar's open to everyone.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27265,
+"en": "W-Well, we have some fussy regulars, but\nhe'll warm up t'ya the more ya stop in.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27266,
+"en": "That all it takes?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27267,
+"en": "Let's just have a drink. I'll show ya\nhow t'enjoy yourself at a bar.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27268,
+"en": "Oh, Mama, gimme the usual.\nMake it double for Kiryu-san here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27269,
+"en": "Alrighty then, lemme give ya the\nscoop on small town bar culture.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27270,
+"en": "Hey, don't get too big fer yer\nbritches now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27271,
+"en": "I-I know that!\nI'm doin' him a kindness here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27272,
+"en": "'Sides, if Kiryu-san becomes a regular,\nit's your sales goin' up, ain't it Mama?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27273,
+"en": "That's a fine point. Hatakeyama-san,\nyou tell him jus' how great we are, then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27274,
+"en": "Anyhow, bars are great for enjoying a drink\nand a chat with all sortsa different folks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27275,
+"en": "Sometimes we even gather around\nto have a long, lively conversation.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27276,
+"en": "Huh, everyone's like family then...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27277,
+"en": "Those talks are a right good time. Though\nwe usually talk about pretty dumb stuff.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27278,
+"en": "Mhm, Kiryu-san, once you're friendly with\neveryone, join in and liven up conversations.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27279,
+"en": "O-Okay, got it.\nI need to be friendly, huh...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27280,
+"en": "Oh, y'ain't worried about all this, are ya?\nDon't be, everyone here's good at heart.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27281,
+"en": "Exactly, don't sweat it. All the\nregulars here have their particulars.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27282,
+"en": "Right, Kaneko-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27283,
+"en": "Oh, shut it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27284,
+"en": "Some day soon you'll fit right in\nwith us here, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27285,
+"en": "My bar offers karaoke n' darts, too.\nNothin' beats those fer makin' friends.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27286,
+"en": "Oh yeah, Gen-san loves his karaoke.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27287,
+"en": "Doesn't he?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27288,
+"en": "Heh, seems like a lively little place.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27289,
+"en": "Yeah, 'cept most of us're all old men.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27290,
+"en": "So all these older guys have their\neyes on the mama then?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27291,
+"en": "Well, sure Mama's a pretty number,\nbut she don't put up with no tomfoolery.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27292,
+"en": "Oh, y'see that sofa yonder?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27293,
+"en": "The center seat is the throne of the\nbar... A man has t'earn that seat.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27294,
+"en": "Th-Throne...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27295,
+"en": "Yeah. Unless you're the king of regulars,\ny'ain't allowed t'drink from that spot.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27296,
+"en": "In other words, it means it's reserved\nfor the one true King of New Gaudi.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27297,
+"en": "King of New Gaudi... Huh.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27298,
+"en": "And, y'best known Mama's approval don't\ncome easy. She's a tough cookie to figure.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27299,
+"en": "She's genuine and nice, but a right mystery.\nShe don't jus' open her heart to anyone...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27300,
+"en": "Hatakeyama-san, I can hear every word!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27301,
+"en": "Oh no, that's um, not my opinion.\nJus' word 'round the campfire...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27302,
+"en": "So much fer my chance at the throne...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27303,
+"en": "W-Well, Kiryu-san, if y'want to sit there,\ny'best start gettin' friendly with folks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27304,
+"en": "Hmm, I see. Basically, I just need\nto talk to all the customers.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27305,
+"en": "That's right. If y'keep widening your\ncircle, only good'll come of it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27306,
+"en": "Like I said, all the regulars here are good folks.\nThey're there when you need them.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27307,
+"en": "Heh... Is that so? Thanks for today.\nI had a great time and a nice drink.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27308,
+"en": "Let's drink again soon, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27309,
+"en": "We'll be here fer ya, Kiryu-san.\nAnd Hatakeyama-san, let's have some words.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27310,
+"en": "The New Gaudi Bar, huh? Might be a nice\nplace to come in for a drink once in a while.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27311,
+"en": "There's some real characters here.\nMaybe I'll even make some friends.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27312,
+"en": "I'll check back if I find the time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b27|#",
+"max": null
+},
+{
+"id": 27313,
+"en": "S... Someone...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b26|#",
+"max": null
+},
+{
+"id": 27314,
+"en": "P-Please get me... something to eat...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b26|#",
+"max": null
+},
+{
+"id": 27315,
+"en": "He must be hungry...\nI guess I could bring him something.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b26|#",
+"max": null
+}
+]

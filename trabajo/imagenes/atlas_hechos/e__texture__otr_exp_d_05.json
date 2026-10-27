@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/otr_exp_d_05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    159,
+    120,
+    254,
+    216
+   ],
+   "en": "MAX",
+   "ocr": "MA&",
+   "es": "MÁX.",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 91,
+   "dejar": true
+  }
+ ]
+}

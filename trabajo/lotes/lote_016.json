@@ -1,0 +1,380 @@
+[
+{
+"id": 4324,
+"en": "<color=mg_relu_topic>Four Quads (Suu Kantsu):</color>\nA hand consisting of four quads that are either concealed or exposed.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4325,
+"en": "<color=mg_relu_topic>Nine Gates (Chuuren Poutou):</color>\nA concealed Full Flush with three 1s, three 9s, one each of 2 through 8, and one additional tile\nfrom the same suit.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4326,
+"en": "<color=mg_relu_topic>Heavenly Hand (Tenhou):</color>\nThe dealer has a completed hand with his initial 14 tiles.\n\n<color=mg_relu_topic>Earthly Hand (Chiihou):</color>\nA non-dealer completes a hand on his first draw, but only if another player has not claimed a discard.\n\n<color=mg_relu_topic>Natural Limit (Kazoe Yakuman):</color>\nA completed hand wherein the sum of all scoring elements is 13 hand or more.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4327,
+"en": "<color=mg_relu_topic>Four Concealed Triplets with Single Wait (Suu Ankou Tanki):</color>\nSame as Four Concealed Triplets, except that you finish the hand by making a pair.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4328,
+"en": "<color=mg_relu_topic>Pure Thirteen Orphans (Junsei Kokushi Musou):</color>\nSame as Thirteen Orphans, but you finish by waiting to form a pair from one of 13 different tiles\nthat could complete it.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4329,
+"en": "Scoring Elements (Double Limit Hands)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4330,
+"en": "<color=mg_relu_topic>Big Four Winds (Daisuushii):</color>\nA hand with triplets of all four winds that are either concealed or exposed.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4331,
+"en": "<color=mg_relu_topic>Pure Nine Gates (Junsei Chuuren Poutou):</color>\nSame as Nine Gates, except you finish the hand by waiting to form a pair from the numbers 1 through 9.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4332,
+"en": "After your han is added up, you can calculate their point value worth based\non whether you're the dealer (higher pts) or not.\n\n1-4 Han: Various points, dependent on the individual tiles used\n4-5 Han: Mangan (12,000 / 8,000 pts)\n6-7 Han: Haneman (18,000 / 12,000 pts)\n8-10 Han: Baiman (24,000 / 16,000 pts)\n11-12 Han: Sanbaiman (36,000 / 24,000 pts)\n13+ Han or Limit: Yakuman (48,000 / 32,000 pts)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4333,
+"en": "This is a rhythm game where you press buttons shown on the\nscreen in time with a song. Press the matching button when\nthe cursor reaches it to perform the song correctly.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4334,
+"en": "If your timing is really off or you pressed the wrong button,\nit will not count. The better your timing, the more points\nyou earn.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4335,
+"en": "Kiryu can even enter <color=mg_relu_strong>Heat Mode</color> in karaoke.\nEnter Heat Mode by chaining 20 successful button presses.\n\nDuring <color=mg_relu_strong>Heat Mode</color>, you will earn more points.\nHowever, make one mistake, and <color=mg_relu_strong>Heat Mode</color> is over.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4336,
+"en": "For songs where someone else is singing, you can select between <color=mg_relu_strong>Casual Backup</color>\nand <color=mg_relu_strong>Passionate Backup</color>.\n<color=mg_relu_strong>Casual Backup</color> has simple commands, but you cannot go over 90 points.\nIf you want to aim high, choose <color=mg_relu_strong>Passionate Backup</color>.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4337,
+"en": "Backup Difficulty",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4338,
+"en": "You can set how much power you put into throwing darts by pressing <symbol=button_batsu,Minigame_Darts>. \n\nPut too much power behind your throw, and the dart will fly higher than\nyou aimed. Too little power, and the dart will fly lower than aimed.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4339,
+"en": "Aim to stop the power gauge within the sweet spot in\nthe dark pink area. The closer you get, the closer your\ndart will be to where you aimed.\n\nThe further outside you are from the sweet spot,\nthe less control Kiryu has over his throw.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4340,
+"en": "Power Gauge",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4341,
+"en": "The object of the game is to subtract points from\nyour predetermined score and make it exactly 0.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4342,
+"en": "'01 Game",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4343,
+"en": "Game Description",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4344,
+"en": "The first player to reach exactly 0 wins.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4345,
+"en": "Win Condition",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4346,
+"en": "Going over your remaining score is known as a \"bust.\"",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4347,
+"en": "When a player busts, the score will return to whatever\nthe player had at the start of the round and the\nplayers will switch.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4348,
+"en": "Players start at 0 points and compete to earn the most\ntotal points after a predetermined number of rounds.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4349,
+"en": "The player with the higher score after a\npredetermined number of rounds wins.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4350,
+"en": "This is a strategic game where you use only\nnumbers 15 to 20 and the bull's eye.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4351,
+"en": "Standard Cricket",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4352,
+"en": "After the final round, the player with the higher score wins.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4353,
+"en": "If you hit an available target, the number is counted\nas a \"hit.\" By getting a total of three hits in the\nsame area, you will capture the area.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4354,
+"en": "Singles count as one hit, Doubles count as two hits and\nTriples count as three hits.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4355,
+"en": "Once you hit the same number three times, that number becomes open\nand you can score points on that number. If both players hit the same number\nthree times, that number becomes closed and neither will be able to gain points\nfrom that area.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4356,
+"en": "Type messages to the Live Chat girls to keep the mood fun.\nTo type, enter the complete button sequence from left\nto right before time runs out.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4357,
+"en": "Welcome to Live Chat!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4358,
+"en": "If your messages put the girl in a good mood,\nshe's more likely to stay engaged with the chat room.\nKeep the conversation going to stand out from the\nother guys in the chat!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4359,
+"en": "Keep the Conversation Going",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4360,
+"en": "The more successful you are, the bolder the girl will become.\nIf you're <font_kind=yakuza_italic>really</font_kind> lucky, she may show you something special!\n\nNow get in there and type to impress!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4361,
+"en": "Fortune Favors the Bold",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4362,
+"en": "Dive into the sea and use the speargun to shoot all\nthe fish you can. But watch your air! If you come\ninto contact with the fish or get attacked by them,\nyou'll eventually have to go back up.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4363,
+"en": "Fire the spear with <symbol=button_decide,Minigame_SpearFishing> or <symbol=button_r1,Minigame_SpearFishing>.\n\nYou'll need to press <symbol=button_cancel,Minigame_SpearFishing> or <symbol=button_l1,Minigame_SpearFishing> to reload.\nIf you try to shoot while you're out of ammo, you'll automatically reload,\nbut it takes longer than doing it manually.\n\n<color=mg_relu_strong>Fish that glow red</color> are the mean ones.\nSpear them before they get you, and don't get caught without ammo!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4364,
+"en": "When you catch a fish, you'll earn Catch Points, which determine your rewards.\n\nYou can even level up your lung capacity, giving you more life and therefore\nmore damage you can sustain.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4365,
+"en": "Catch Points",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4366,
+"en": "See a treasure chest? Shoot it to obtain more Catch Points or air bubbles,\nwhich recover your lost air.\n\nNow get ready to spear some fish!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4367,
+"en": "Treasure Chests",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4368,
+"en": "<color=mg_relu_topic>Controls</color>\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> will adjust your aim to the pitching machine's throw.\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Press <symbol=button_batsu,Minigame_BattingCenter></color> at the proper time to hit the ball.\n\n<color=mg_relu_topic>Clearing the Course</color>\n<symbol=bullet_point>Swing at the ball with good timing and aim to hit a <color=mg_relu_strong>home run</color>.\n<color=mg_relu_point><symbol=bullet_point></color>Hitting <color=mg_relu_strong>7 or more home runs in 10 pitches </color>will earn you an <color=mg_relu_strong>A Rank</color>.\n  \tThis will clear the course.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4369,
+"en": "Home Run Course",
+"ctx": "manual|table/#//# + talk",
+"max": 63
+},
+{
+"id": 4370,
+"en": "<color=mg_relu_topic>Take Down the Powerhouses of Hiroshima!</color>\n\nThere are <color=mg_relu_strong>three key steps</color> necessary for victory in the baseball world.\n\n<color=mg_relu_strong>Step 1: Recruit new players!</color>\n<color=mg_relu_strong>Step 2: Train your players and boost their experience!</color>\n<color=mg_relu_strong>Step 3: Manage your team and win games!</color>\n\n*The following pages will go into more detail on each step.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4371,
+"en": "Building a Better Team",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4372,
+"en": "<color=mg_relu_strong>Step 1: Recruit new players!</color>\n\n　<color=mg_relu_topic>How do I get more players for my team?</color>\n　　<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_topic>Talk to people around Onomichi</color>\n　　　Hidden talents are tucked away all over the streets of Onomichi.\n　　　Approach these people and fulfill their requests to recruit them.\n　　　\n　　<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_topic>Complete substories</color>\n　　　Some substories will end with a character joining the Warriors.\n　　　Proactively complete substories to get as many players as possible!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4373,
+"en": "Step 1: Recruiting",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4374,
+"en": "<color=mg_relu_strong>Step 2: Train your players and boost their experience!</color>\n\n　<color=mg_relu_topic>How does raising a player's level impact them?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>A given player's <color=mg_relu_strong>Contact</color>, <color=mg_relu_strong>Power</color>, <color=mg_relu_strong>Speed</color>, and <color=mg_relu_strong>Fielding</color> will go <color=mg_relu_strong>up</color>.\n　<color=mg_relu_point><symbol=bullet_point></color>The selected player may also acquire a unique <color=mg_relu_strong>skill</color>.\n\n　<color=mg_relu_topic>How many levels can each player earn?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Each player's <color=mg_relu_strong>maximum level differs</color> based on their overall ability.\n　<color=mg_relu_point><symbol=bullet_point></color>The lowest maximum level is <color=mg_relu_strong>5</color>, while the highest is <color=mg_relu_strong>10</color>.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4375,
+"en": "Step 2: Training",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4376,
+"en": "　<color=mg_relu_topic>How do I raise a player's level?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Once a player gains a certain amount of EXP, they will level up.\n　<color=mg_relu_point><symbol=bullet_point></color>EXP can be gained through the following two methods.\n\n　 <color=mg_relu_topic>1. Give them game time</color>\n　　　Players will gain EXP for every game they play in. Playing more\n　　　in a game will net them more EXP, as will facing harder opponents.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4377,
+"en": "　 <color=mg_relu_topic>2. Use a training ticket</color>\n　　　Training tickets allow your players to gain EXP without playing in games.\n　　　These can be used from the Train option in the Team Menu.\n　　　A regular training session will earn a player 100 EXP, while\n　　　a great training session will earn them 150 EXP.\n　　　You will be rewarded training tickets for winning games.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4378,
+"en": "<color=mg_relu_strong>Step 3: Manage your team and win games!</color>\n\n　<color=mg_relu_topic>How do I play?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Select Start a Game from the Team Menu, then choose which team\n　　you'd like to play against to start the game.\n\n　<color=mg_relu_topic>What's the difference between an official game and a conditional game?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Winning an official game will unlock another stronger team for you to play against.\n　<color=mg_relu_point><symbol=bullet_point></color>Winning a conditional game will unlock more difficult conditional games against the same team.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4379,
+"en": "Step 3: Winning Games",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4380,
+"en": "　<color=mg_relu_topic>How do I control my team during games?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>The team's actions are mostly simulated, but you will have the opportunity\n　　to step up to the plate during <color=mg_relu_strong>key moments in the game</color>.\n　<color=mg_relu_point><symbol=bullet_point></color>Use <symbol=button_l_stick,Minigame_BattingCenter></color> to adjust your aim to the opposing pitcher's throw.\n　<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Press <symbol=button_batsu,Minigame_BattingCenter></color> at the proper time to hit the ball.\n\n　<color=mg_relu_topic>What happens when I win a game?</color>\n　<color=mg_relu_point><symbol=bullet_point></color>You will unlock the next tier of available official or conditional games.\n　<color=mg_relu_point><symbol=bullet_point></color>You will be rewarded with a certain amount of training tickets.\n　<color=mg_relu_point><symbol=bullet_point></color>You will earn more tickets than normal for your first victory in a challenge.\n　<color=mg_relu_point><symbol=bullet_point></color>You will also earn extra tickets for clearing the bonus condition.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4381,
+"en": "When you enter the bar, other customers will already be drinking\nand chatting. Do you have what it takes to make new friends?",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4382,
+"en": "Making Friends at the Bar",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4383,
+"en": "The tried and true way to make new friends\nis to drink with them.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4384,
+"en": "People may be reluctant to talk at first,\nbut as you become a familiar face around\nthe bar, they'll open up more and drink\nwith you.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4385,
+"en": "Friendship Takes Effort",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4386,
+"en": "If you become friends with a regular, a conversation\nwill begin where you'll talk with everyone.",
+"ctx": "manual|table/#//#",
+"max": null
+}
+]

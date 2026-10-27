@@ -1,0 +1,1376 @@
+[
+{
+"id": 425,
+"en": "Members +3",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 426,
+"en": "Attack +10%",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 427,
+"en": "Health +10%",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 428,
+"en": "Attack +25%",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 429,
+"en": "Health +25%",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 430,
+"en": "All Stats +50%",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 431,
+"en": "Explanation of Menu",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 432,
+"en": "Explanation of Battle",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 433,
+"en": "Stats already maxed out.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 434,
+"en": "You will fight three rounds per Raid, and the EXP you gain will increase \nwith each successive win. Your streak will be reset once you lose.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 435,
+"en": "You've won Round 1 of the Raid, and Round 2 will begin shortly.\nYou can win up to three battles in a row; the EXP you gain will\nincrease with each win.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 436,
+"en": "You've won Round 2 of the Raid, and Round 3 will begin shortly.\nYou can win up to three battles in a row; the EXP you gain will\nincrease with each win.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 437,
+"en": "No changes were made to the uploaded Defense Force.\nUpload canceled.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 438,
+"en": "${title} ${location}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 439,
+"en": "${save_id}\n${chapter_title}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 440,
+"en": "You may only take up to ${max_num} photos. \nYou must delete some photos before you can take more.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 441,
+"en": "Storage full.\nCreate more space on your storage device before taking more photos.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 442,
+"en": "(How many coins should I throw in at once...?)\n",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 443,
+"en": "\\10 ×",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 444,
+"en": "${kind}\n${num}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 445,
+"en": "Kazuma Kiryu",
+"ctx": "msg|table/#//# + pause_mail|name + pause_profile|name …",
+"max": null
+},
+{
+"id": 446,
+"en": "Two input devices are required for this mode.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 447,
+"en": "The wireless controller's light bar is ${player1_color} for Player 1 and ${player2_color} for Player 2.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 448,
+"en": "<color=light_bar_blue_text>Blue</color>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 449,
+"en": "<color=light_bar_red_text>Red</color>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 450,
+"en": "<color=light_bar_green_text>Green</color>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 451,
+"en": "<color=light_bar_pink_text>Pink</color>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 452,
+"en": "If you select Game Clear data when choosing \"Continue,\"\nyou will begin Premium Adventure, a mode without the\nmain story so you can explore the world at your leisure.\nYou can also opt to start a New Game+ to replay the story\nfrom the beginning while carrying over elements of\nyour previous playthrough.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 453,
+"en": "Obtained ${get_money} as completion bonus.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 454,
+"en": "Are you sure you want to exit to desktop?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 455,
+"en": "Player 1: Please press any key on your input device",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 456,
+"en": "Player 2: Please press any key on your input device",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 457,
+"en": "Unable to sign in to Xbox Live.\nCheck your Internet connection.\nDo you want to try again or return to desktop?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 458,
+"en": "Retry",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 459,
+"en": "LICENSE",
+"ctx": "msg|table/#//# + title_root|name",
+"max": null
+},
+{
+"id": 460,
+"en": "©Silicon Studio Corp., all rights reserved.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 461,
+"en": "Copyright © 1994-2015 Lua.org, PUC-Rio.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software\nand associated documentation files (the \"Software\"), to deal in the Software without restriction,\nincluding without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,\nand/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE\nOR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 462,
+"en": "${name}　Rank: ${performance}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 463,
+"en": "Do you want to quit darts?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 464,
+"en": "<Action=Lift,Minigame_DandleBaby>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 465,
+"en": "<Action=Swing,Minigame_DandleBaby>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 466,
+"en": "<Action=Upsy_Daisy,Minigame_DandleBaby>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 467,
+"en": "<Action=Rub_Move_Cursor,Minigame_DandleBaby>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 468,
+"en": "<Action=Rub_Show_Cursor,Minigame_DandleBaby>+",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 469,
+"en": "<Action=Rub_Show_Cursor,Minigame_DandleBaby>+<Action=Rub_Move_Cursor,Minigame_DandleBaby>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 470,
+"en": "<Action=Confirm,UI>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 471,
+"en": "<Action=Throw_Money,Minigame_OfferityBox>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 472,
+"en": "<Action=Throw_Money_Trigger,Minigame_OfferityBox>+<Action=Throw_Money,Minigame_OfferityBox>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 473,
+"en": "<Action=Mash_Lift,Minigame_Gym_DeadLift>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 474,
+"en": "<Sign:6,Minigame_Gym_LatPulldowns> + <Sign:4,Minigame_Gym_LatPulldowns>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 475,
+"en": "<Action=Squat,Minigame_Gym_Squats>",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 476,
+"en": "You can set the difficulty.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 477,
+"en": "Change how to move the camera vertically.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 478,
+"en": "Change how to move the camera horizontally.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 479,
+"en": "Slide the cursor to adjust the brightness.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 480,
+"en": "Slide the cursor to adjust the gamma correction.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 481,
+"en": "Set the speed the camera moves at. \nSlide the cursor to adjust the speed.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 482,
+"en": "Change how to move the first-person camera vertically.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 483,
+"en": "Change how to move the first-person camera horizontally.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 484,
+"en": "Switch on/off the minimap that appears in the lower\nleft part of the screen.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 485,
+"en": "Set the level of blood to display.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 486,
+"en": "Change the font used during the game.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 487,
+"en": "Switch on/off minimap rotation. If turned on,\nthe minimap will rotate with the camera.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 488,
+"en": "Switch on/off subtitles for movie scenes.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 489,
+"en": "Select between stereo, surround 5.1 or surround 7.1 sound.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 490,
+"en": "Adjust to your speakers' angle for optimal quality.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 491,
+"en": "The camera's point of view will move automatically\ndepending on the situation. If you select Off, it\nwill not move unless the player moves it themselves.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 492,
+"en": "Change your smartphone's ringtone.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 493,
+"en": "Toggle ingame HUD on or off.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 494,
+"en": "Select output device for given adapter.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 495,
+"en": "Set display mode for your device.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 496,
+"en": "Set display resolution for your device.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 497,
+"en": "Set refresh rate of your display device.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 498,
+"en": "Set vertical synchronization for your display device.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 499,
+"en": "Use presets to easily control advanced graphics settings.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 500,
+"en": "Adjust field of view value.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 501,
+"en": "Set FPS limit.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 502,
+"en": "Set quality of textures.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 503,
+"en": "Set anisotropy texture filtering.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 504,
+"en": "Set quality of shadows.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 505,
+"en": "Set quality of geometry meshes.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 506,
+"en": "Enable or disable realtime reflections.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 507,
+"en": "Enable or disable motion blur.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 508,
+"en": "Enable or disable Screen Space Ambient Occlusion.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 509,
+"en": "Enable or disable subsurface scattering.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 510,
+"en": "Adjust render scaling.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 511,
+"en": "Go to advanced graphics settings.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 512,
+"en": "Set anti-aliasing type or disable it.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 513,
+"en": "Enable or disable Depth of Field.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 514,
+"en": "Adjust music volume.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 515,
+"en": "Adjust effects volume.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 516,
+"en": "Adjust dialog volume.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 517,
+"en": "Adjust cinema volume.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 518,
+"en": "Option to choose what icons will be used.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 519,
+"en": "Disable Windows Key while the game is running.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 520,
+"en": "Enable or disable tattoo letterbox artwork\nused in aspect ratios different than 16:9.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 521,
+"en": "Set mouse pointer to game or system style.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 522,
+"en": "Switch on/off the controller vibration.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 523,
+"en": "Adjust master volume.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 524,
+"en": "Set maximum aspect ratio for the layout of UI elements.\nCan be used to shift UI from the edges toward the center \nof the screen.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 525,
+"en": "Set aspect ratio of the middle display. Can be used to fit \nparts of the game entirely within the primary screen of \nthe multi-monitor configuration.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 526,
+"en": "Hides the Skip prompt in dialogues. \nSkipping dialogues is still possible.",
+"ctx": "option|explanation",
+"max": null
+},
+{
+"id": 527,
+"en": "Camera Control (Vertical)",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 528,
+"en": "Camera Control (Horizontal)",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 529,
+"en": "Brightness",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 530,
+"en": "Gamma",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 531,
+"en": "Camera Movement Speed",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 532,
+"en": "First-Person View (Vertical)",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 533,
+"en": "First-Person View (Horizontal)",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 534,
+"en": "Minimap Display",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 535,
+"en": "Blood Level",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 536,
+"en": "Set Font",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 537,
+"en": "Minimap Rotation",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 538,
+"en": "Subtitles",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 539,
+"en": "Speaker Type",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 540,
+"en": "Front",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 541,
+"en": "Auto Camera",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 542,
+"en": "Ringtone",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 543,
+"en": "HUD Visible",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 544,
+"en": "Output Device",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 545,
+"en": "Display Mode",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 546,
+"en": "Resolution",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 547,
+"en": "Refresh Rate",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 548,
+"en": "Vertical Sync",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 549,
+"en": "Quality",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 550,
+"en": "FOV",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 551,
+"en": "FPS",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 552,
+"en": "Texture Quality",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 553,
+"en": "Texture Filtering",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 554,
+"en": "Shadows Quality",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 555,
+"en": "Geometry Quality",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 556,
+"en": "Realtime Reflections",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 557,
+"en": "Motion Blur",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 558,
+"en": "SSAO",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 559,
+"en": "Subsurface Scattering",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 560,
+"en": "Render Scale",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 561,
+"en": "Anti-aliasing",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 562,
+"en": "Depth of Field",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 563,
+"en": "Music",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 564,
+"en": "Effects",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 565,
+"en": "Dialog",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 566,
+"en": "Cinema",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 567,
+"en": "Icon Select",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 568,
+"en": "Disable Windows Key",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 569,
+"en": "Letterbox Artworks",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 570,
+"en": "Surround",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 571,
+"en": "Master",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 572,
+"en": "UI Layout Width Limit",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 573,
+"en": "Middle Screen View Limit",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 574,
+"en": "Hide Skip prompt in dialogues",
+"ctx": "option|name",
+"max": null
+},
+{
+"id": 575,
+"en": "Unlimited",
+"ctx": "option|subtable/#/FPS_OFF/name",
+"max": null
+},
+{
+"id": 576,
+"en": "SSAA 1.25x",
+"ctx": "option|subtable/#/SSAA125/name",
+"max": null
+},
+{
+"id": 577,
+"en": "SSAA 1.50x",
+"ctx": "option|subtable/#/SSAA150/name",
+"max": null
+},
+{
+"id": 578,
+"en": "SSAA 1.75x",
+"ctx": "option|subtable/#/SSAA175/name",
+"max": null
+},
+{
+"id": 579,
+"en": "SSAA 2.00x",
+"ctx": "option|subtable/#/SSAA200/name",
+"max": null
+},
+{
+"id": 580,
+"en": "Borderless",
+"ctx": "option|subtable/#/display_borderless/name",
+"max": null
+},
+{
+"id": 581,
+"en": "Fullscreen",
+"ctx": "option|subtable/#/display_fullscreen/name",
+"max": null
+},
+{
+"id": 582,
+"en": "Windowed",
+"ctx": "option|subtable/#/display_windowed/name",
+"max": null
+},
+{
+"id": 583,
+"en": "An easy difficulty recommended for people new to action games.",
+"ctx": "option|subtable/#/easy/explanation",
+"max": null
+},
+{
+"id": 584,
+"en": "Fixed",
+"ctx": "option|subtable/#/fixed/name",
+"max": null
+},
+{
+"id": 585,
+"en": "Rotate",
+"ctx": "option|subtable/#/free/name",
+"max": null
+},
+{
+"id": 586,
+"en": "Sans Serif",
+"ctx": "option|subtable/#/gothic/name",
+"max": null
+},
+{
+"id": 587,
+"en": "A harder difficulty for people who are skilled at playing action games.",
+"ctx": "option|subtable/#/hard/explanation",
+"max": null
+},
+{
+"id": 588,
+"en": "Hide",
+"ctx": "option|subtable/#/hide/name",
+"max": null
+},
+{
+"id": 589,
+"en": "Inverted",
+"ctx": "option|subtable/#/inverted/name",
+"max": null
+},
+{
+"id": 590,
+"en": "The toughest difficulty for anyone who wishes to master Yakuza 6 to\nits fullest.",
+"ctx": "option|subtable/#/legend/explanation",
+"max": null
+},
+{
+"id": 591,
+"en": "Legend",
+"ctx": "option|subtable/#/legend/name",
+"max": null
+},
+{
+"id": 592,
+"en": "Mild",
+"ctx": "option|subtable/#/mild/name",
+"max": null
+},
+{
+"id": 593,
+"en": "Serif",
+"ctx": "option|subtable/#/mincho/name",
+"max": null
+},
+{
+"id": 594,
+"en": "Recommended for people who want to enjoy Yakuza 6 normally.",
+"ctx": "option|subtable/#/normal/explanation",
+"max": null
+},
+{
+"id": 595,
+"en": "Normal",
+"ctx": "option|subtable/#/normal/name + ui_text|text",
+"max": null
+},
+{
+"id": 596,
+"en": "Custom",
+"ctx": "option|subtable/#/quality_custom/name",
+"max": null
+},
+{
+"id": 597,
+"en": "High",
+"ctx": "option|subtable/#/quality_high/name + option|subtable/#/texture_quality_high/name + option|subtable/#/shadow_quality_high/name …",
+"max": null
+},
+{
+"id": 598,
+"en": "Low",
+"ctx": "option|subtable/#/quality_low/name + option|subtable/#/texture_quality_low/name + option|subtable/#/shadow_quality_low/name …",
+"max": null
+},
+{
+"id": 599,
+"en": "Ultra",
+"ctx": "option|subtable/#/quality_ultra/name",
+"max": null
+},
+{
+"id": 600,
+"en": "Show",
+"ctx": "option|subtable/#/show/name",
+"max": null
+},
+{
+"id": 601,
+"en": "Vibrate",
+"ctx": "option|subtable/#/silent/name",
+"max": null
+},
+{
+"id": 602,
+"en": "Basic Tone",
+"ctx": "option|subtable/#/simple/name",
+"max": null
+},
+{
+"id": 603,
+"en": "Stereo",
+"ctx": "option|subtable/#/stereo/name + ui_text|text",
+"max": null
+},
+{
+"id": 604,
+"en": "Surround 5.1",
+"ctx": "option|subtable/#/surround/name + ui_text|text",
+"max": null
+},
+{
+"id": 605,
+"en": "Surround 7.1",
+"ctx": "option|subtable/#/surround_7_1/name + ui_text|text",
+"max": null
+},
+{
+"id": 606,
+"en": "Soundwaves",
+"ctx": "option|subtable/#/voices/name",
+"max": null
+},
+{
+"id": 607,
+"en": "<Sign:200,UI><Sign:201,UI><Sign:202,UI><Sign:203,UI>",
+"ctx": "option|subtable/#/xbox/name + option|subtable/#/playstation/name + option|subtable/#/switch/name …",
+"max": null
+},
+{
+"id": 608,
+"en": "Monochrome",
+"ctx": "pause_camera_filter|name",
+"max": null
+},
+{
+"id": 609,
+"en": "Toy Camera",
+"ctx": "pause_camera_filter|name",
+"max": null
+},
+{
+"id": 610,
+"en": "Sepia",
+"ctx": "pause_camera_filter|name",
+"max": null
+},
+{
+"id": 611,
+"en": "Makuta",
+"ctx": "pause_mail|name + ui_text|text",
+"max": null
+},
+{
+"id": 612,
+"en": "Cat Café Owner",
+"ctx": "pause_mail|name",
+"max": null
+},
+{
+"id": 613,
+"en": "Tips Text",
+"ctx": "pause_mail|name",
+"max": null
+},
+{
+"id": 614,
+"en": "Battle Master",
+"ctx": "pause_mail|name",
+"max": null
+},
+{
+"id": 615,
+"en": "Torafuru",
+"ctx": "pause_mail|name",
+"max": null
+},
+{
+"id": 616,
+"en": "Kamurocho Newsletter",
+"ctx": "pause_mail|name",
+"max": null
+},
+{
+"id": 617,
+"en": "You've finished the RIZAP Challenge!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 618,
+"en": "Good work, Kiryu-san! I have the results of\nyour current RIZAP Challenge. Please stop by\nRIZAP whenever you have a chance!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 619,
+"en": "Here's your meal plan!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 620,
+"en": "Please eat a beef plate! It's like a beef bowl\nwithout rice. A delicious way to cut carbs and\nsugar!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 621,
+"en": "Please eat ramen!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 622,
+"en": "Please eat a burger!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 623,
+"en": "Please eat high quality beef!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 624,
+"en": "This time, please eat steak!\nI recommend a lean cut!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 625,
+"en": "This time, please eat yakiniku! I recommend\nmeat that doesn't have too much fat!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 626,
+"en": "This time, please eat some quality yakiniku!\nI request that you go with meat that doesn't\nhave much fat!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 627,
+"en": "This time, please eat sashimi! Avoid eating\nsushi since it contains rice!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 628,
+"en": "This time, please eat saraudon! Since the\nobjective is to bulk up, noodles are good\ntoday!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 629,
+"en": "This time, please eat gyoza!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 630,
+"en": "This time, please eat fried rice! Since the\nobjective is to bulk up, carbs are a-okay!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 631,
+"en": "This time, please eat soba! Find your nearest\nsoba restaurant and go!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 632,
+"en": "This time, please eat champon! They serve\nit at that one place. Just go eat it!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 633,
+"en": "This time, please eat a beef bowl! Since the\nobjective is to bulk up, carbs are a-okay!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 634,
+"en": "This time, please eat seafood! Any assortment\nwould be great!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 635,
+"en": "This time, please eat some avocado! It could\nbe called nature's butter!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 636,
+"en": "Currently making changes",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 637,
+"en": "Hi there, Kiryu-san! This time, let's go for a\ndish low in sugar and high in protein. Oh,\nyeah... I suggest a nutritious dish that's\npacked with lobster! Well then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 638,
+"en": "Hi there, Kiryu-san! This time, let's go for a\nbulk-up meal. Let's see... I suggest a dish\nwhere you can consume rice, pork, and egg\nall together! Well then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 639,
+"en": "Hi there, Kiryu-san! This time, let's go for a\nwell-balanced meal. Okay... I suggest a quick\nmeal that has carbs, eggs, and veggies! It's at\na place you'd stop by when you just need a\nlight meal! Their homemade soup has a great\nflavor! Well then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 640,
+"en": "Hi there, Kiryu-san! Now, let's go for a\nbulk-up meal. Hmm... I suggest a rice dish\ntopped with lots of thin pork slices! These pork\nslices are often used in some noodle dishes too!\nWell then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 641,
+"en": "Hi there, Kiryu-san! This time, let's go for a\ndish that's a big hit with kids. Let's see...\nMaybe something that's packed with juicy meat\nand cooked on a hot iron plate! I suggest you\neat around 300 grams of it! Well then, best of\nluck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 642,
+"en": "Hi there, Kiryu-san! Now for a go-to training\ndish! You should eat high quality meat with a\ngood balance of fat and red meat. Eat plenty\nof it! Well then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 643,
+"en": "Hi there, Kiryu-san! This time, let's avoid\ncarbs. You should go for that one dish\nconsisting of just beef! Oh, you're free to eat\npickled red ginger with it too! Well then, best\nof luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 644,
+"en": "Hi there, Kiryu-san! Now, let's go for a\nbulk-up menu! Let's see... I suggest you go\nto a fast food chain and order something that\noffers double the average amount of meat.\nThat'll put a smile on your face! Well then,\nbest of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 645,
+"en": "Hi there, Kiryu-san! This time, let's cut calories\nand focus on nutrient intake! Let's see... You\nshould go to a fast food chain and only have\nvegetables. It's one of their standard dishes.\nWell then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 646,
+"en": "Hi there, Kiryu-san! This time, let's try \nsomething out of the ordinary. Let's see...\nHow about a round food that comes with\ncheese on top? It's apparently most popular\nwith women. You can eat it at a counter!\nWell then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 647,
+"en": "Hi there, Kiryu-san! This time, let's go meat\nonly! Meat is the best for building muscle!\nI'm suggesting something that's relatively low\nin fat! It's best when cooked on a grill. Well\nthen, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 648,
+"en": "Hi there, Kiryu-san! You can't go wrong with\nmeat after a workout! Just this one time, I'll\nlet you have some popular yakiniku! Well then,\nbest of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 649,
+"en": "Hi there, Kiryu-san! You should eat some fish\nonce in a while! Let's have that one fish\nJapanese people just love! How about a dish\nthat allows you to enjoy various parts of it?\nWell then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 650,
+"en": "Hi there, Kiryu-san! This time, we'll aim for a\ndish that'll bulk you up, but is also easy to eat!\nA standard light meal that includes eggs, meat,\nand vegetables would be good! A meal like that\nis usually offered in the morning. Well then,\nbest of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 651,
+"en": "Hi there, Kiryu-san! This time, we'll go with a\ndish that consists of meat and vegetables! Let's\nsee... How about one where you can enjoy five\ndifferent types of it? It all comes served on a\nskewer! Well then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 652,
+"en": "Hi there, Kiryu-san! Let's try an unusual dish\nthis time! I suggest some bite-sized grilled\nfish. It's chock-full of calcium and protein!\nThe flavorful roe will have you hooked! Well\nthen, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 653,
+"en": "Hi there, Kiryu-san! This time, let's focus more\non nutrition! How about a dish that contains a\nlot of scallions? You'll be tempted to drink\nalcohol, but please try your best to resist it.\nWell then, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+}
+]

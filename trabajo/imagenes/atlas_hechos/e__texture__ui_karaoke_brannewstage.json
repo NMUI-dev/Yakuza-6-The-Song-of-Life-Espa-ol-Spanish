@@ -1,0 +1,97 @@
+{
+ "textura": "e/texture/ui_karaoke_brannewstage",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    403,
+    192,
+    1713,
+    313
+   ],
+   "en": "BRAND NEW STAGE",
+   "ocr": "BRAND NEW STAGE",
+   "es": "BRAND NEW STAGE",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1306,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1053,
+    684,
+    1885,
+    762
+   ],
+   "en": "Lyrics : Ryosuke Horii",
+   "ocr": "Lyrics : Ryosuke Horii",
+   "es": "Letra : Ryosuke Horii",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 832,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      150,
+      160
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    1053,
+    779,
+    2019,
+    855
+   ],
+   "en": "Composition : Hyd Lunch",
+   "ocr": "Composition : Hyd Lunch",
+   "es": "Música : Hyd Lunch",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 966,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      150,
+      160
+     ],
+     4
+    ]
+   }
+  }
+ ]
+}

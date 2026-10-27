@@ -1,0 +1,110 @@
+{
+ "textura": "e/texture/mg_darts_01_p04",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    442,
+    8,
+    468,
+    23
+   ],
+   "en": "LINE",
+   "ocr": "LINE",
+   "es": "LÍNEA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 26,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    22,
+    97,
+    57
+   ],
+   "en": "4/10 ROUND SCORE",
+   "ocr": "4/10OND",
+   "es": "PUNTUACIÓN DE RONDA 4/10",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 81,
+   "dejar": true
+  },
+  {
+   "caja": [
+    410,
+    35,
+    467,
+    51
+   ],
+   "en": "DART SCORES",
+   "ocr": "DART SCORES",
+   "es": "PUNTUACIÓN DE DARDOS",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    402,
+    51,
+    438,
+    74
+   ],
+   "en": "BUST",
+   "ocr": "BUST",
+   "es": "QUIEBRA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    41,
+    79,
+    66,
+    95
+   ],
+   "en": "BUST",
+   "ocr": "BUST",
+   "es": "QUIEBRA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 25,
+   "dejar": true
+  },
+  {
+   "caja": [
+    152,
+    94,
+    325,
+    172
+   ],
+   "en": "BUST",
+   "ocr": "BUST",
+   "es": "QUIEBRA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 173,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/bc_eb_l_6tenzan",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    108,
+    128,
+    921,
+    224
+   ],
+   "en": "THE SIX LUNATICS",
+   "ocr": "THE SIX LUNATICS",
+   "es": "THE SIX LUNATICS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 813
+  },
+  {
+   "caja": [
+    3,
+    229,
+    1023,
+    347
+   ],
+   "en": "HIROYOSHI TENZAN",
+   "ocr": "HIROYOSHI TENZAN",
+   "es": "HIROYOSHI TENZAN",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1016
+  }
+ ]
+}

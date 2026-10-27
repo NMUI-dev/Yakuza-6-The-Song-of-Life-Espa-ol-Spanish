@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/mg_snack_p3_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    96,
+    233,
+    162,
+    249
+   ],
+   "en": "How did you ever",
+   "ocr": "How did you eve",
+   "es": "¿Cómo se las arregló para",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 66,
+   "dejar": true
+  }
+ ]
+}

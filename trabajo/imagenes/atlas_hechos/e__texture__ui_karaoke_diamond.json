@@ -1,0 +1,97 @@
+{
+ "textura": "e/texture/ui_karaoke_diamond",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    421,
+    185,
+    1708,
+    331
+   ],
+   "en": "Today is a Diamond",
+   "ocr": "Today is a Diamond",
+   "es": "Today is a Diamond",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1283,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1041,
+    684,
+    1887,
+    761
+   ],
+   "en": "Lyrics : Ryosuke Horii",
+   "ocr": "Lyrics:Ryosuke Horii",
+   "es": "Letra : Ryosuke Horii",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 846,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      140,
+      170
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    1051,
+    780,
+    2017,
+    854
+   ],
+   "en": "Composition : Hyd Lunch",
+   "ocr": "Composition : Hyd Lunch",
+   "es": "Música : Hyd Lunch",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 966,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      140,
+      170
+     ],
+     4
+    ]
+   }
+  }
+ ]
+}

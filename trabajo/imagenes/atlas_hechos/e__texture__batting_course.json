@@ -1,0 +1,143 @@
+{
+ "textura": "e/texture/batting_course",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    293,
+    44,
+    415,
+    73
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "SUPERADO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 122
+  },
+  {
+   "caja": [
+    284,
+    75,
+    462,
+    113
+   ],
+   "en": "RESULT",
+   "ocr": "RESULT",
+   "es": "RESULTADO",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 174
+  },
+  {
+   "caja": [
+    285,
+    117,
+    381,
+    151
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "SUPERADO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 96
+  },
+  {
+   "caja": [
+    280,
+    154,
+    390,
+    186
+   ],
+   "en": "RANK",
+   "ocr": "RANK",
+   "es": "RANGO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 106
+  },
+  {
+   "caja": [
+    296,
+    260,
+    404,
+    316
+   ],
+   "en": "DQ",
+   "ocr": "DQ",
+   "es": "DQ",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 108
+  },
+  {
+   "caja": [
+    293,
+    321,
+    507,
+    377
+   ],
+   "en": "SABC",
+   "ocr": "SABC",
+   "es": "SABC",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 214
+  },
+  {
+   "caja": [
+    175,
+    398,
+    416,
+    436
+   ],
+   "en": "Challenge Course",
+   "ocr": "Challenge Course",
+   "es": "Desafío",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 237
+  },
+  {
+   "caja": [
+    177,
+    439,
+    411,
+    475
+   ],
+   "en": "Home Run Course",
+   "ocr": "Home Run Course",
+   "es": "Desafío de jonrones",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 230
+  },
+  {
+   "caja": [
+    176,
+    480,
+    409,
+    511
+   ],
+   "en": "Select a difficulty",
+   "ocr": "Select a difficulty",
+   "es": "Seleccionar una dificultad",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 233
+  }
+ ]
+}

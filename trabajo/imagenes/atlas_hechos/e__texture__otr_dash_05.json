@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/otr_dash_05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    162,
+    135,
+    256,
+    210
+   ],
+   "en": "MAX",
+   "ocr": "MAX",
+   "es": "MÁX.",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  }
+ ]
+}

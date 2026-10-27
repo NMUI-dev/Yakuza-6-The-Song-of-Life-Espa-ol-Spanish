@@ -1,0 +1,314 @@
+{
+ "textura": "e/texture/mg_karaoke_p4_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    98,
+    16,
+    155,
+    34
+   ],
+   "en": "JOYPad",
+   "ocr": "JOYPad",
+   "es": "JOYPad",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    130,
+    44,
+    152,
+    58
+   ],
+   "en": "Rank",
+   "ocr": "Ratk",
+   "es": "Rango",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 18,
+   "dejar": true
+  },
+  {
+   "caja": [
+    164,
+    44,
+    264,
+    61
+   ],
+   "en": "Promotions",
+   "ocr": "Deeri PrototionsPlay",
+   "es": "Promociones",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    44,
+    302,
+    58
+   ],
+   "en": "Queue",
+   "ocr": "eaeue",
+   "es": "Cola",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 26,
+   "dejar": true
+  },
+  {
+   "caja": [
+    87,
+    62,
+    127,
+    80
+   ],
+   "en": "Return",
+   "ocr": "ORetun",
+   "es": "Volver",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    293,
+    80,
+    325,
+    97
+   ],
+   "en": "Risk Score",
+   "ocr": "Toe fou",
+   "es": "Puntuación de riesgo",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    127,
+    88,
+    191,
+    104
+   ],
+   "en": "BRAND NEW STAGE",
+   "ocr": "BRAND NEW STAGE",
+   "es": "BRAND NEW STAGE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    126,
+    102,
+    176,
+    119
+   ],
+   "en": "Kazuna Kiryu",
+   "ocr": "Kazvna Kirvu",
+   "es": "Kazuna Kiryu",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 50,
+   "dejar": true
+  },
+  {
+   "caja": [
+    294,
+    97,
+    324,
+    112
+   ],
+   "en": "Too Rich",
+   "ocr": "Rhe Retk",
+   "es": "Too Rich",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    293,
+    112,
+    328,
+    127
+   ],
+   "en": "Play Count",
+   "ocr": "Pay Cnel",
+   "es": "Veces cantada",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 31,
+   "dejar": true
+  },
+  {
+   "caja": [
+    91,
+    146,
+    125,
+    159
+   ],
+   "en": "Adjust Pitch",
+   "ocr": "Alst RiN3",
+   "es": "Ajustar tono",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    148,
+    188,
+    257,
+    207
+   ],
+   "en": "Live Instrumentation",
+   "ocr": "Lhoe hetramgetatan",
+   "es": "Instrumentación en vivo",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 109,
+   "dejar": true
+  },
+  {
+   "caja": [
+    302,
+    197,
+    332,
+    213
+   ],
+   "en": "Cancel",
+   "ocr": "Caust",
+   "es": "Cancelar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    301,
+    208,
+    335,
+    223
+   ],
+   "en": "Back Log",
+   "ocr": "Backuo",
+   "es": "Historial",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    346,
+    196,
+    388,
+    212
+   ],
+   "en": "Passionate",
+   "ocr": "Pavsiorate",
+   "es": "Passionate",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    92,
+    214,
+    134,
+    228
+   ],
+   "en": "Vocal Assistance",
+   "ocr": "Exof ftesanr",
+   "es": "Guía vocal",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    349,
+    206,
+    384,
+    222
+   ],
+   "en": "Back up",
+   "ocr": "Bckuo",
+   "es": "Atrás",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    217,
+    235,
+    265,
+    252
+   ],
+   "en": "JOYSOUND",
+   "ocr": "JOYSOUnD",
+   "es": "JOYSOUND",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  }
+ ]
+}

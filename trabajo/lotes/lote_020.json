@@ -1,0 +1,2264 @@
+[
+{
+"id": 4465,
+"en": "Game Rules",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4466,
+"en": "<color=mg_relu_topic>Simultaneous Popping</color>\nPopping two or more Puyo groups at the same time will send more Garbage Puyos\nthan usual over to your opponent's side.\n\n<color=mg_relu_topic>All Clear</color>\nIf you pop every Puyo on your board, you will get what is called an All Clear.\nThis will greatly amplify the number of Garbage Puyos sent by your next chain. \n\n<color=mg_relu_topic>Game Over</color>\nYou lose when Puyos stack up and cover the <color=mg_relu_strong>X</color> at the upper middle of the board.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4467,
+"en": "<color=mg_relu_topic>Garbage Puyo Queue</color>\nThe Garbage Puyo Queue is displayed above your board.\nThis tells you how many Garbage Puyos will fall on your board\nafter your next non-chain move.\n\n<color=mg_relu_topic>Neutralizing</color>\nIf you pop a Puyo group while the Garbage Puyo Queue is active,\nyou can decrease the number of Garbage Puyos that will fall on your board.\nThis is known as neutralizing.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4468,
+"en": "<color=mg_relu_topic>Mission</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Select a mission to begin a clan battle.\n<color=mg_relu_topic>Organization</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Customize the organization and select a Strike Team.\n<color=mg_relu_topic>Training</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Strengthen your leaders with Kiryu's experience points.\n<color=mg_relu_topic>Events</color>\n　<color=mg_relu_point><symbol=bullet_point></color>These missions are available only for a limited time.\n　<color=mg_relu_point><symbol=bullet_point></color>Make sure to check back each day to see how they change!\n<color=mg_relu_topic>Help</color>\n　<color=mg_relu_point><symbol=bullet_point></color>Review Clan Creator tutorials.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4469,
+"en": "The Clan Menu",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4470,
+"en": "<color=mg_relu_topic>Expanding the Clan</color>\n　First, focus on gaining more members to strengthen\n the Kiryu Clan's influence! Scout them from around\n the city or make progress in the missions to acquire\n powerful new leaders. Substories may also lead to\n new recruits.\n\n<color=mg_relu_topic>Customize Your Organization</color>\n　Assigning roles to leaders in the clan will increase\n your influence, which raises the Deployment Gauge!\n You'll start with only enough room for six leaders,\n but when your organization levels up, you'll gain room\n for many more.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4471,
+"en": "Expanding the Kiryu Clan",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4472,
+"en": "<color=mg_relu_topic>Leaders Need Men!</color>\n　As you expand a leader's command, his stats will increase by 10%. The more people he leads, the stronger \n he gets! If your leader has high compatibility with the men in his group, he may grow even stronger.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4473,
+"en": "Training Your Leaders",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4474,
+"en": "<color=mg_relu_topic>Choose Which Leader to Deploy!</color>\n　You can choose to deploy up to six leaders into battle,\n but you can only select leaders who have been assigned\n a rank in the clan. Consider their stats and skills!\n\n<color=mg_relu_topic>The Leaders Change the Team!</color>\n　Each leader has his own men, and when you select one,\n he'll bring them into battle as the Strike Team. If men are\n assigned to multiple leaders, the deployment cost for that\n battle will be lower based on that number.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4475,
+"en": "The Strike Team",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4476,
+"en": "<color=mg_relu_topic>Train Your Leaders to Win!</color>\n Leaders increase their stats by leveling up,\n to a max of 99.\n\n　<color=mg_relu_strong>Leveling Up Your Leaders</color>\n　　<color=mg_relu_point><symbol=bullet_point></color>Go on missions!\n　　<color=mg_relu_point><symbol=bullet_point></color>Use Kiryu's EXP!\n\n　　If you find a particular battle too difficult, it's probably\n   because your leaders need to grow stronger!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4477,
+"en": "Making the Clan Strong",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4478,
+"en": "<color=mg_relu_topic>Controls</color>\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong><symbol=button_l_stick,Minigame_BattingCenter></color> will adjust your aim to the pitching machine's throw.\n<color=mg_relu_point><symbol=bullet_point></color><color=mg_relu_strong>Press <symbol=button_batsu,Minigame_BattingCenter></color> at the proper time to hit the ball.\n\n<color=mg_relu_topic>Clearing the Course</color>\n<color=mg_relu_point><symbol=bullet_point></color>Try to hit the ball toward the <color=mg_relu_strong>batting panel</color> inside the cages.\n<color=mg_relu_point><symbol=bullet_point></color>How many bases you get depends on <color=mg_relu_strong>where you hit the panel</color>.\n<color=mg_relu_point><symbol=bullet_point></color>Earn the specified total number of runs in <color=mg_relu_strong>10 balls or fewer</color> to clear the course.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4479,
+"en": "Challenge Course",
+"ctx": "manual|table/#//# + talk",
+"max": 63
+},
+{
+"id": 4480,
+"en": "Mahjong: Rules",
+"ctx": "manual|title",
+"max": null
+},
+{
+"id": 4481,
+"en": "Clan Creator (Battle)",
+"ctx": "manual|title + manual|table/#//#",
+"max": null
+},
+{
+"id": 4482,
+"en": "Dead Lifts",
+"ctx": "manual|title",
+"max": null
+},
+{
+"id": 4483,
+"en": "Mahjong: Hands",
+"ctx": "manual|title",
+"max": null
+},
+{
+"id": 4484,
+"en": "Bar Conversations",
+"ctx": "manual|title",
+"max": null
+},
+{
+"id": 4485,
+"en": "Offering Box",
+"ctx": "manual|title",
+"max": null
+},
+{
+"id": 4486,
+"en": "Clan Creator (Menu)",
+"ctx": "manual|title + manual|table/#//#",
+"max": null
+},
+{
+"id": 4487,
+"en": "Poppo (Tenkaichi St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4488,
+"en": "Akaushimaru (Hotel District)",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4489,
+"en": "Akaushimaru (Tenkaichi St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4490,
+"en": "Café Alps",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4491,
+"en": "Bantam",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4492,
+"en": "Fuji Soba",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4493,
+"en": "Gindaco Highball Tavern",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4494,
+"en": "Kanrai",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4495,
+"en": "Kyushu No. 1 Star",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4496,
+"en": "Ikinari Steak",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4497,
+"en": "M Side Cafe",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4498,
+"en": "Osaka King",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4499,
+"en": "Ringer Hut",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4500,
+"en": "Smile Burger (Nakamichi St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4501,
+"en": "Sushi Gin",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4502,
+"en": "Sushi Zanmai",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4503,
+"en": "Wette Kitchen (W Taihei Blvd.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4504,
+"en": "Wild Jackson (E Millennium Tower St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4505,
+"en": "Wild Jackson (Tenkaichi St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4506,
+"en": "Yoronotaki",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4507,
+"en": "Don Quijote",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4508,
+"en": "Ebisu Pawn",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4509,
+"en": "Poppo (E Shichifuku St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4510,
+"en": "Poppo (W Shichifuku St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4511,
+"en": "Poppo (Showa St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4512,
+"en": "Jumangoku Chinese Soba",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4513,
+"en": "Oyster Shack",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4514,
+"en": "La Pente",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4515,
+"en": "Yonetoku",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4516,
+"en": "Otafuku Pawn",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4517,
+"en": "Nagi Pharmacy",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4518,
+"en": "Fujisawa Tofu",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4519,
+"en": "Snacks and Wildcats",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4520,
+"en": "Tenkaichi St. Entrance",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4521,
+"en": "Pink St. Entrance",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4522,
+"en": "W Shichifuku St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4523,
+"en": "E Taihei Blvd.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4524,
+"en": "Hotel 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4525,
+"en": "Hotel 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4526,
+"en": "Hotel 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4527,
+"en": "Hotel 4F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4528,
+"en": "Hotel 5F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4529,
+"en": "NW Theater Square",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4530,
+"en": "Theater Ave.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4531,
+"en": "Theater Square",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4532,
+"en": "Theater Alley",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4533,
+"en": "Hotel District",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4534,
+"en": "E Millennium Tower St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4535,
+"en": "Nakamichi St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4536,
+"en": "Nakamichi Alley",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4537,
+"en": "Pink St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4538,
+"en": "N Pink St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4539,
+"en": "Pink Alley",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4540,
+"en": "Senryo Ave.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4541,
+"en": "N Senryo Ave.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4542,
+"en": "New Serena Alley",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4543,
+"en": "Shichifuku St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4544,
+"en": "E Shichifuku St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4545,
+"en": "Showa St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4546,
+"en": "E Showa St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4547,
+"en": "W Showa St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4548,
+"en": "Suppon St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4549,
+"en": "Taihei Blvd.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4550,
+"en": "W Taihei Blvd.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4551,
+"en": "Tenkaichi St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4552,
+"en": "Tenkaichi Alley",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4553,
+"en": "Smile Burger (NW Theater Square)",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4554,
+"en": "Quadra Garden",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4555,
+"en": "RIZAP Kamurocho",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4556,
+"en": "Black Market Merchant",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4557,
+"en": "Karaokekan",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4558,
+"en": "Club Shine",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4559,
+"en": "DARTSLIVE (Bantam)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4560,
+"en": "Lullaby Mahjong",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4561,
+"en": "Nyan Nyan Café",
+"ctx": "map_place|name + shop|name",
+"max": null
+},
+{
+"id": 4562,
+"en": "Yoshida Batting Center",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4563,
+"en": "DARTSLIVE (Club SEGA Theater Square)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4564,
+"en": "Modern Mahjong",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4565,
+"en": "Club SEGA (Nakamichi St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4566,
+"en": "Club SEGA (Theater Square)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4567,
+"en": "Mantai Internet Café (Theater Square)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4568,
+"en": "Mantai Internet Café (Nakamichi St.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4569,
+"en": "Mantai Internet Café (Senryo Ave.)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4570,
+"en": "Ryunan Shrine Jizo Statues",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4571,
+"en": "Senkoji Fortune Box",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4572,
+"en": "Senkoji Donation Box",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4573,
+"en": "Baseball Field",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4574,
+"en": "Little Asia",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4575,
+"en": "Nakamichi St. Entrance",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4576,
+"en": "Ryunan Shrine Alley",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4577,
+"en": "Ryunan Shrine Stairway",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4578,
+"en": "Ropeway Station",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4579,
+"en": "Pedestrian Footbridge",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4580,
+"en": "Second Hill",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4581,
+"en": "Hilltop Path",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4582,
+"en": "First Hill",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4583,
+"en": "W National Route 2",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4584,
+"en": "E National Route 2",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4585,
+"en": "N Hana-no-kubo",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4586,
+"en": "Jingai Main St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4587,
+"en": "Central Shopping District",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4588,
+"en": "Shops Alley",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4589,
+"en": "W Shishido St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4590,
+"en": "E Shishido St.",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4591,
+"en": "Jingai Ferry Dock",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4592,
+"en": "Hana-no-kubo",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4593,
+"en": "Cemetery Lane",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4594,
+"en": "West National Route 2",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4595,
+"en": "Navy Apartments",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4596,
+"en": "Navy Apartments Terrace",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4597,
+"en": "Snack Kiyomi",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4598,
+"en": "Hirose Family Office 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4599,
+"en": "Hirose Family Office 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4600,
+"en": "Senryo Ave. Entrance",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4601,
+"en": "Millennium Tower B1",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4602,
+"en": "Kamuro Theater 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4603,
+"en": "APA Hotel Theater Square 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4604,
+"en": "APA Hotel Theater Square 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4605,
+"en": "Tenkaichi First Building 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4606,
+"en": "Tenkaichi First Building 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4607,
+"en": "Tenkaichi First Building 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4608,
+"en": "Tenkaichi First Building 4F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4609,
+"en": "New Serena",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4610,
+"en": "Nakamichi Commerce Building 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4611,
+"en": "Nakamichi Commerce Building 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4612,
+"en": "Nakamichi Commerce Building 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4613,
+"en": "Nakamichi Commerce Building 4F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4614,
+"en": "Senryo Building 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4615,
+"en": "Senryo Building 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4616,
+"en": "Senryo Building 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4617,
+"en": "Senryo Building 4F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4618,
+"en": "Senryo Building Roof",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4619,
+"en": "Arcade Roof",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4620,
+"en": "Moreno",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4621,
+"en": "Café Alps Alley",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4622,
+"en": "Poppo (Nakamichi Alley)",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4623,
+"en": "Millennium Tower 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4624,
+"en": "Kamuro Theater Rooftop Garden",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4625,
+"en": "Kamuro Theater B1",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4626,
+"en": "APA Hotel Theater Square 6F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4627,
+"en": "Tenkaichi First Building Roof",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4628,
+"en": "Taihei Commerce Building 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4629,
+"en": "Sewers",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4630,
+"en": "Saio Triad Headquarters 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4631,
+"en": "Saio Triad Headquarters 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4632,
+"en": "Saio Triad Headquarters 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4633,
+"en": "Saio Triad Headquarters 4F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4634,
+"en": "Lo's Room, Saio Triad Headquarters",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4635,
+"en": "Culinary Storehouse 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4636,
+"en": "Culinary Storehouse 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4637,
+"en": "Culinary Storehouse 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4638,
+"en": "Beijing Garden 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4639,
+"en": "Beijing Garden 4F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4640,
+"en": "Beijing Garden Roof",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4641,
+"en": "MEB",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4642,
+"en": "Nightlife Guide",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4643,
+"en": "Jungle Boy Manga Café Roof",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4644,
+"en": "Tenkaichi Commerce Building Roof",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4645,
+"en": "Ryunan Shrine",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4646,
+"en": "Cemetery",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4647,
+"en": "Mt. Senkoji Ropeway Station",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4648,
+"en": "Mt. Senkoji Observation Deck",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4649,
+"en": "Touto Hospital Pediatric Ward",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4650,
+"en": "Shangri-La 1F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4651,
+"en": "Shangri-La 2F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4652,
+"en": "Shangri-La 3F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4653,
+"en": "Shangri-La 4F",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4654,
+"en": "Stardust",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4655,
+"en": "Millennium Tower",
+"ctx": "map_place|name + table_stage_warp|name",
+"max": null
+},
+{
+"id": 4656,
+"en": "Millennium Tower VIP Room",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4657,
+"en": "Facility Interior",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4658,
+"en": "Senkoji Temple",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4659,
+"en": "Morning Glory",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4660,
+"en": "Iwami Shipyard",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4661,
+"en": "Iwami Shipyard Dock",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4662,
+"en": "Floating Island",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4663,
+"en": "Public Park Three",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4664,
+"en": "Children's Park",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4665,
+"en": "Shichifuku Parking Lot",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4666,
+"en": "New Serena Roof",
+"ctx": "map_place|name",
+"max": null
+},
+{
+"id": 4667,
+"en": "<Sign:4>",
+"ctx": "minigame_cabaret_cabaret|table/#/hostess_detail_button/text + pad_button|info",
+"max": null
+},
+{
+"id": 4668,
+"en": "Strength",
+"ctx": "minigame_offertory_box_slot_item|message + player_point|title",
+"max": null
+},
+{
+"id": 4669,
+"en": "Agility",
+"ctx": "minigame_offertory_box_slot_item|message + player_point|title",
+"max": null
+},
+{
+"id": 4670,
+"en": "Spirit",
+"ctx": "minigame_offertory_box_slot_item|message + player_point|title",
+"max": null
+},
+{
+"id": 4671,
+"en": "Technique",
+"ctx": "minigame_offertory_box_slot_item|message + player_point|title",
+"max": null
+},
+{
+"id": 4672,
+"en": "Charm",
+"ctx": "minigame_offertory_box_slot_item|message + player_point|title",
+"max": null
+},
+{
+"id": 4673,
+"en": "Money",
+"ctx": "minigame_offertory_box_slot_item|message + player_point|title",
+"max": null
+},
+{
+"id": 4674,
+"en": "Defeat all enemies",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4675,
+"en": "Save the civilian",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4676,
+"en": "Get Haruto to stop crying",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4677,
+"en": "Defeat the enemy",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4678,
+"en": "Defeat the powerful enemy",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4679,
+"en": "Defeat the assassin",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4680,
+"en": "Help the man in the bathroom",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4681,
+"en": "Catch the dine-and-dasher",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4682,
+"en": "I need a plan to find Haruka.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4683,
+"en": "Why did Akiyama change his number?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4684,
+"en": "I wanted to avoid this...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4685,
+"en": "Finally, a warm lead on Akiyama.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4686,
+"en": "The homeless guy deserves that much.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4687,
+"en": "Akiyama's really down there?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4688,
+"en": "What happened to Haruka!?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4689,
+"en": "There's got to be some clues here.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4690,
+"en": "The last place I want to be...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4691,
+"en": "Maybe there's been an update.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4692,
+"en": "This town has to know something.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4693,
+"en": "Someone must know Haruka.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4694,
+"en": "Haruto is waiting for me.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4695,
+"en": "Haruto won't calm down!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4696,
+"en": "They should have some milk.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4697,
+"en": "She can reach Ino at this hour.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4698,
+"en": "I just need milk...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4699,
+"en": "We've earned some rest.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4700,
+"en": "I should hit the town again.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4701,
+"en": "I owe Kiyomi a lot.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4702,
+"en": "Kiyomi asked me to stop by.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4703,
+"en": "This fool...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4704,
+"en": "Looks like I need to walk.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4705,
+"en": "Nothing about this sounded right.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4706,
+"en": "Haruto's waiting for me.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4707,
+"en": "Now I can ask them about Haruto.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4708,
+"en": "Kiyomi has something to say.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4709,
+"en": "He can't take the fall for this.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4710,
+"en": "I guess I've got time to explore.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4711,
+"en": "We can discuss the plan there.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4712,
+"en": "The Jingweon have Stardust...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4713,
+"en": "Found you, Tatsukawa.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4714,
+"en": "Nagumo and Yuta are waiting.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4715,
+"en": "We'll meet Akiyama there.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4716,
+"en": "This brings back bad memories.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4717,
+"en": "I need to catch up with the others.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4718,
+"en": "Matsunaga and Tagashira are there.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4719,
+"en": "Hirose apparently drinks here.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4720,
+"en": "Let's get some answers.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4721,
+"en": "Is everyone okay?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4722,
+"en": "Ino apparently has a boat for us.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4723,
+"en": "Let's head home.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4724,
+"en": "I can't take Haruto to Little Asia.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4725,
+"en": "This guy's getting on my nerves.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4726,
+"en": "I didn't ask for this.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4727,
+"en": "I won't let them murder that guy.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4728,
+"en": "This guy's gonna be a problem.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4729,
+"en": "Why would he take pictures of me?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4730,
+"en": "Not even you can stand in my way.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4731,
+"en": "This guy's a sorry excuse for a yakuza.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4732,
+"en": "Let's teach some manners.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4733,
+"en": "Clear the bench...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4734,
+"en": "Nagumo doesn't deserve to die.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4735,
+"en": "Every town has its assholes.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4736,
+"en": "Must have wounded Masuzoe's pride.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4737,
+"en": "You're just slowing me down, guys.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4738,
+"en": "He wants a second beating.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4739,
+"en": "We have a welcoming party.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4740,
+"en": "I need to search the guest rooms.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4741,
+"en": "Get back here!",
+"ctx": "mission_kind|mission + sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a08|#",
+"max": null
+},
+{
+"id": 4742,
+"en": "Modern yakuza... Right.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4743,
+"en": "Their grudges never die.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4744,
+"en": "I'll finish the fight, Yuta.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4745,
+"en": "I fell right into their trap...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4746,
+"en": "Who are these guys?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4747,
+"en": "He must be somewhere here.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4748,
+"en": "I'll make him talk.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4749,
+"en": "This was a lot easier before.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4750,
+"en": "He had it all planned out.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4751,
+"en": "The Yomei Alliance thinks they're strong.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4752,
+"en": "(Chapter Nine)",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4753,
+"en": "These guys are in my way.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4754,
+"en": "He won't slow me down.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4755,
+"en": "This is for Haruto!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4756,
+"en": "Why is he here?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4757,
+"en": "He's going to pay.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4758,
+"en": "I'm getting in here.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4759,
+"en": "Step aside, Ed!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4760,
+"en": "I'll beat the sense into him!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4761,
+"en": "Send your best, Kurusu.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4762,
+"en": "It's a matter of pride for him.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4763,
+"en": "I'll take them all out.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4764,
+"en": "They won't stop me!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4765,
+"en": "We need to get further in.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4766,
+"en": "He was behind everything.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4767,
+"en": "We'll take them all down!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4768,
+"en": "The Tojo Clan should know better!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4769,
+"en": "Why!?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4770,
+"en": "Koshimizu, you're done.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4771,
+"en": "He is nothing to me.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4772,
+"en": "Save the man from the punks",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4773,
+"en": "Go see Takayama at Bantam",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4774,
+"en": "Revel in the art of the kabedon",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4775,
+"en": "Save Takayama from the punks",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4776,
+"en": "Substory Clear",
+"ctx": "mission_kind|mission + mission_kind|mission_info",
+"max": null
+},
+{
+"id": 4777,
+"en": "Meet Ishigaki in front of the Millennium Tower",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4778,
+"en": "Punish the scammer",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4779,
+"en": "Crush the scammers",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4780,
+"en": "Listen to the crying girl",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4781,
+"en": "Misa seems to be feeling better now",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4782,
+"en": "Take down the thugs",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4783,
+"en": "Find Misa",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4784,
+"en": "Defeat the mugger",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4785,
+"en": "Defeat Sodachi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4786,
+"en": "Defeat Saigo",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4787,
+"en": "sample_mission content",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4788,
+"en": "Defeat the shakedown squad",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4789,
+"en": "Defeat the dad hunters",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4790,
+"en": "Defeat the perverts",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4791,
+"en": "Defeat the hooligans",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4792,
+"en": "Defeat the couple hunters",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4793,
+"en": "Help the sick person",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4794,
+"en": "Defeat the Onomichi arsonist",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4795,
+"en": "Look into the rumor",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4796,
+"en": "Help the starving person",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4797,
+"en": "Take a taxi to see Amon",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4798,
+"en": "Defeat Amon",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4799,
+"en": "(Finale)",
+"ctx": "mission_kind|mission + mission_kind|mission_info",
+"max": null
+},
+{
+"id": 4800,
+"en": "Meet up with Riona",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4801,
+"en": "Defeat the man",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4802,
+"en": "Meet up with Sora",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4803,
+"en": "Meet up with Saki",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4804,
+"en": "Save Saki's fan",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4805,
+"en": "A place to sleep is all I ask.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4806,
+"en": "I guess I'm playing baseball.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4807,
+"en": "I'll meet up with Akiyama.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4808,
+"en": "Kiyomi wanted to talk to me.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4809,
+"en": "I need to meet Joon-gi Han.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4810,
+"en": "Compete against Gori-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4811,
+"en": "Beat Gori-san's home run total",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4812,
+"en": "Chase down the enemy",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4813,
+"en": "They picked the wrong guy for this.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4814,
+"en": "Where did Yuta go?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4815,
+"en": "Yuta, you idiot.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4816,
+"en": "Lo has more to say.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4817,
+"en": "I should find the guys there.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4818,
+"en": "The city must have the answers.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4819,
+"en": "Yamano Dodai's grave is there.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4820,
+"en": "Ino has his boat there.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4821,
+"en": "Someya wanted to talk.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4822,
+"en": "The guys are in trouble!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4823,
+"en": "I should tie up any loose ends.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4824,
+"en": "Haruka... Finally.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4825,
+"en": "I need to be ready for this fight.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4826,
+"en": "Nagumo had something to say.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4827,
+"en": "Take a taxi to the baseball field",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4828,
+"en": "Win your first game",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4829,
+"en": "Win a rematch against the Jingai Thunders Reserves",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4830,
+"en": "Won our first game",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4831,
+"en": "When in doubt, ask at a bar.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4832,
+"en": "Talk to Chiba",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4833,
+"en": "Win a rematch against the Onomichi Legends",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4834,
+"en": "Won against the Onomichi Legends",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4835,
+"en": "Meet Chiba at the baseball field",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4836,
+"en": "Find Moritsuka",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4837,
+"en": "Talk to Moritsuka",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4838,
+"en": "Defeat Moritsuka",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4839,
+"en": "Win a rematch against the Jingai Thunders",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4840,
+"en": "Won against the Jingai Thunders",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4841,
+"en": "Play darts with the guy at Bantam",
+"ctx": "mission_kind|mission",
+"max": null
+}
+]

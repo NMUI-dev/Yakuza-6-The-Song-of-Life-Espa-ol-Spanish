@@ -1,0 +1,263 @@
+{
+ "textura": "e/texture/mg_kyaba_p1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    54,
+    47,
+    93,
+    67
+   ],
+   "en": "Chain",
+   "ocr": "Chuin",
+   "es": "Chain",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 39,
+   "dejar": true
+  },
+  {
+   "caja": [
+    55,
+    61,
+    92,
+    81
+   ],
+   "en": "Chain",
+   "ocr": "Thain",
+   "es": "Cadena",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 37,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    75,
+    92,
+    94
+   ],
+   "en": "Chain",
+   "ocr": "Chain",
+   "es": "Cadena",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    31,
+    155,
+    77,
+    171
+   ],
+   "en": "Select Card",
+   "ocr": "Selet Ced",
+   "es": "Elegir carta",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    8,
+    234,
+    54,
+    249
+   ],
+   "en": "I'm hitting the",
+   "ocr": "Te sittieg the",
+   "es": "Ahora estoy yendo",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 46,
+   "dejar": true
+  },
+  {
+   "caja": [
+    8,
+    243,
+    55,
+    259
+   ],
+   "en": "gym a lot now.",
+   "ocr": " a lt noe.",
+   "es": "mucho al gimnasio.",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 47,
+   "dejar": true
+  },
+  {
+   "caja": [
+    164,
+    225,
+    194,
+    240
+   ],
+   "en": "Wash my",
+   "ocr": "Vesh ns",
+   "es": "¡Lava mi",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    169,
+    235,
+    200,
+    248
+   ],
+   "en": "underwear!",
+   "ocr": "ndeteear",
+   "es": "ropa interior!",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 31,
+   "dejar": true
+  },
+  {
+   "caja": [
+    86,
+    235,
+    131,
+    249
+   ],
+   "en": "Want to guess",
+   "ocr": "Kant to gess",
+   "es": "¿Quieres adivinar?",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    243,
+    234,
+    295,
+    249
+   ],
+   "en": "Can I touch you?",
+   "ocr": "Can I tooch roe?",
+   "es": "¿Puedo tocarte?",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  },
+  {
+   "caja": [
+    320,
+    234,
+    377,
+    250
+   ],
+   "en": "What do you want",
+   "ocr": "Zhut do yoo want",
+   "es": "¿Qué quieres?",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    398,
+    233,
+    455,
+    249
+   ],
+   "en": "What's your dream",
+   "ocr": "Ihut's yoer drees",
+   "es": "¿Cuál es tu Sueño?",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    86,
+    243,
+    116,
+    258
+   ],
+   "en": "my age?",
+   "ocr": "Ey apt?",
+   "es": "¿mi edad?",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    320,
+    243,
+    370,
+    259
+   ],
+   "en": "most right now?",
+   "ocr": "sust ight now?",
+   "es": "¿más a la Derecha ahora?",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 50,
+   "dejar": true
+  },
+  {
+   "caja": [
+    399,
+    243,
+    446,
+    258
+   ],
+   "en": "for the future?",
+   "ocr": "fer the future?",
+   "es": "¿para el futuro?",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 47,
+   "dejar": true
+  }
+ ]
+}

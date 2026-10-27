@@ -1,0 +1,240 @@
+{
+ "textura": "e/texture/mg_clan_menu_p05_1_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    2,
+    48,
+    19
+   ],
+   "en": "Results",
+   "ocr": "Resnlts",
+   "es": "Resultados",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "estilo": {
+    "arriba": [
+     240,
+     40,
+     40
+    ],
+    "abajo": [
+     180,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      20,
+      0,
+      0
+     ],
+     1
+    ]
+   },
+   "mediana": false
+  },
+  {
+   "caja": [
+    32,
+    19,
+    90,
+    32
+   ],
+   "en": "Battle Against Tezanl",
+   "ocr": "Bette Against Tenzan]",
+   "es": "¡Combate contra Tenzan!",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 58,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 10
+  },
+  {
+   "caja": [
+    31,
+    38,
+    58,
+    51
+   ],
+   "en": "Our Sea",
+   "ocr": "Ouw See",
+   "es": "Tiempo",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 27,
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "tam": 7
+  },
+  {
+   "caja": [
+    32,
+    29,
+    61,
+    42
+   ],
+   "en": "Over Boss",
+   "ocr": "Oeer feo",
+   "es": "Bono",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 29,
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "tam": 7
+  },
+  {
+   "caja": [
+    99,
+    30,
+    121,
+    41
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "SUPERADO",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 22,
+   "color": [
+    245,
+    225,
+    40
+   ]
+  },
+  {
+   "caja": [
+    23,
+    69,
+    100,
+    88
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVELUP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 73,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     80
+    ],
+    "abajo": [
+     245,
+     175,
+     0
+    ],
+    "contorno": [
+     [
+      50,
+      15,
+      0
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    124,
+    70,
+    201,
+    88
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVELUP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 73,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     80
+    ],
+    "abajo": [
+     245,
+     175,
+     0
+    ],
+    "contorno": [
+     [
+      50,
+      15,
+      0
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    22,
+    116,
+    100,
+    134
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVELUP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 74,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     80
+    ],
+    "abajo": [
+     245,
+     175,
+     0
+    ],
+    "contorno": [
+     [
+      50,
+      15,
+      0
+     ],
+     2
+    ]
+   }
+  }
+ ]
+}

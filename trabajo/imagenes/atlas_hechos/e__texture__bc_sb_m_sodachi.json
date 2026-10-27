@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/bc_sb_m_sodachi",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    47,
+    490,
+    222
+   ],
+   "en": "YASUO",
+   "ocr": "YASUO :",
+   "es": "YASUO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 490
+  },
+  {
+   "caja": [
+    427,
+    48,
+    1024,
+    219
+   ],
+   "en": "SODACHI",
+   "ocr": "SODACHI",
+   "es": "SODACHI",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 593
+  }
+ ]
+}

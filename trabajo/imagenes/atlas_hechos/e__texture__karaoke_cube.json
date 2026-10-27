@@ -1,0 +1,419 @@
+{
+ "textura": "e/texture/karaoke_cube",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1135,
+    13,
+    1667,
+    111
+   ],
+   "en": "Calculating",
+   "ocr": "Calculating",
+   "es": "Calculando",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 532
+  },
+  {
+   "caja": [
+    1712,
+    12,
+    1935,
+    109
+   ],
+   "en": "Rank",
+   "ocr": "Rank",
+   "es": "Rango",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 219
+  },
+  {
+   "caja": [
+    1119,
+    193,
+    1157,
+    230
+   ],
+   "en": "IN",
+   "ocr": "IN",
+   "es": "EN",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 38
+  },
+  {
+   "caja": [
+    1887,
+    197,
+    1968,
+    250
+   ],
+   "en": "NO",
+   "ocr": "NO",
+   "es": "SIN",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 77
+  },
+  {
+   "caja": [
+    1031,
+    233,
+    1237,
+    286
+   ],
+   "en": "PROGRESS",
+   "ocr": "PROGRESS",
+   "es": "PROGRESO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 206
+  },
+  {
+   "caja": [
+    1352,
+    260,
+    1435,
+    312
+   ],
+   "en": "UP",
+   "ocr": "UP",
+   "es": "SUBE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 79
+  },
+  {
+   "caja": [
+    1836,
+    266,
+    2023,
+    326
+   ],
+   "en": "CHANGE",
+   "ocr": "CHANGE",
+   "es": "CAMBIOS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 187
+  },
+  {
+   "caja": [
+    1577,
+    296,
+    1733,
+    344
+   ],
+   "en": "DOWN",
+   "ocr": "DOWN",
+   "es": "BAJA",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 152
+  },
+  {
+   "caja": [
+    1056,
+    403,
+    1225,
+    452
+   ],
+   "en": "Kamurocho",
+   "ocr": "Kamurocho,",
+   "es": "Kamurocho",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 165
+  },
+  {
+   "caja": [
+    493,
+    799,
+    743,
+    887
+   ],
+   "en": "DOWN!!",
+   "ocr": "DOWN!!",
+   "es": "¡¡BAJA!!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 250,
+   "estilo": {
+    "arriba": [
+     190,
+     235,
+     255
+    ],
+    "abajo": [
+     0,
+     90,
+     205
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    961,
+    814,
+    1088,
+    856
+   ],
+   "en": "GREAT",
+   "ocr": "GREAT",
+   "es": "GENIAL",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 127
+  },
+  {
+   "caja": [
+    1170,
+    809,
+    1246,
+    848
+   ],
+   "en": "Hold",
+   "ocr": "Hold",
+   "es": "Mantén",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76
+  },
+  {
+   "caja": [
+    772,
+    831,
+    931,
+    871
+   ],
+   "en": "COMBO",
+   "ocr": "COMBO",
+   "es": "COMBO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 159,
+   "dejar": true
+  },
+  {
+   "caja": [
+    969,
+    855,
+    1079,
+    890
+   ],
+   "en": "GOOD",
+   "ocr": "GOOD",
+   "es": "BUENO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 106,
+   "estilo": {
+    "arriba": [
+     195,
+     255,
+     150
+    ],
+    "abajo": [
+     40,
+     170,
+     40
+    ],
+    "contorno": [
+     [
+      0,
+      60,
+      0
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    1160,
+    850,
+    1257,
+    881
+   ],
+   "en": "Rapid Press",
+   "ocr": "Rapid Press",
+   "es": "Pulsación rápida",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 97
+  },
+  {
+   "caja": [
+    496,
+    887,
+    664,
+    970
+   ],
+   "en": "UP!!",
+   "ocr": "UP!!STAY!!",
+   "es": "¡¡SUBE!!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 164,
+   "estilo": {
+    "arriba": [
+     255,
+     130,
+     130
+    ],
+    "abajo": [
+     220,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    668,
+    887,
+    916,
+    970
+   ],
+   "en": "STAY!!",
+   "ocr": "UP!!STAY!!",
+   "es": "¡¡IGUAL!!",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 244,
+   "estilo": {
+    "arriba": [
+     160,
+     255,
+     160
+    ],
+    "abajo": [
+     0,
+     170,
+     40
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    976,
+    889,
+    1071,
+    927
+   ],
+   "en": "MISS",
+   "ocr": "SSIW",
+   "es": "FALLO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 95,
+   "estilo": {
+    "arriba": [
+     245,
+     245,
+     245
+    ],
+    "abajo": [
+     140,
+     140,
+     140
+    ],
+    "contorno": [
+     [
+      40,
+      40,
+      40
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    982,
+    923,
+    1064,
+    963
+   ],
+   "en": "BAD",
+   "ocr": "BAD",
+   "es": "MALO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 78,
+   "estilo": {
+    "arriba": [
+     240,
+     195,
+     255
+    ],
+    "abajo": [
+     150,
+     60,
+     180
+    ],
+    "contorno": [
+     [
+      50,
+      0,
+      60
+     ],
+     3
+    ]
+   }
+  }
+ ]
+}

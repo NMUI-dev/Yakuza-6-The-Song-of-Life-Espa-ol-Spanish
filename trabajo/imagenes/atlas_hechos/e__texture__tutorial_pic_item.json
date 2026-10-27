@@ -1,0 +1,61 @@
+{
+ "textura": "e/texture/tutorial_pic_item",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    47,
+    9,
+    99,
+    31
+   ],
+   "en": "Drink",
+   "ocr": "Drink",
+   "es": "Beber",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "color": [
+    245,
+    245,
+    245
+   ]
+  },
+  {
+   "caja": [
+    49,
+    53,
+    63,
+    102
+   ],
+   "en": "KIVAWANI",
+   "ocr": "KIWAMI",
+   "es": "KIVAWANI",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 14
+  },
+  {
+   "caja": [
+    49,
+    181,
+    64,
+    230
+   ],
+   "en": "KIVANINI",
+   "ocr": "KIWAMI",
+   "es": "KIVANINI",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 15
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "textura": "e/texture/mg_livechat_p01_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    276,
+    86,
+    319,
+    101
+   ],
+   "en": "Staff : So cute",
+   "ocr": "Staff : Se o/he",
+   "es": "Personal: ¡Qué linda!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    277,
+    98,
+    333,
+    111
+   ],
+   "en": "Tea Leaves : An angel",
+   "ocr": "p 14PB : .Ae *g",
+   "es": "Tea Leaves: Un ángel",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    393,
+    212,
+    432,
+    234
+   ],
+   "en": "Send",
+   "ocr": "Send",
+   "es": "Enviar",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  }
+ ]
+}

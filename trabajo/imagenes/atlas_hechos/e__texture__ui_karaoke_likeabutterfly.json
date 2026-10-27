@@ -1,0 +1,97 @@
+{
+ "textura": "e/texture/ui_karaoke_likeabutterfly",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    522,
+    197,
+    1486,
+    315
+   ],
+   "en": "Like A Butterfly",
+   "ocr": "Like A Butterfly",
+   "es": "Como una mariposa",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 960,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1043,
+    680,
+    1888,
+    765
+   ],
+   "en": "Lyrics : Ryosuke Horii",
+   "ocr": "Lyrics : Ryosuke Horii",
+   "es": "Letra : Ryosuke Horii",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 845,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      70,
+      60,
+      220
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    1048,
+    776,
+    1865,
+    855
+   ],
+   "en": "Composition : ZENTA",
+   "ocr": "Composition : ZENTA",
+   "es": "Música : ZENTA",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 817,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      70,
+      60,
+      220
+     ],
+     4
+    ]
+   }
+  }
+ ]
+}

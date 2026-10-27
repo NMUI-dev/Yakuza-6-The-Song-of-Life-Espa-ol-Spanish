@@ -1,0 +1,1406 @@
+[
+{
+"id": 16667,
+"en": "(I should see if the\nlocals have any leads.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16668,
+"en": "Hi there.\nIs your bar open yet?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16669,
+"en": "Oh, I'm still prepping things for the day.\nWait, you've got a baby!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16670,
+"en": "So cute! He's what, a year old?\nA boy, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16671,
+"en": "Yeah. Right, Haruto?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16672,
+"en": "Oh, you only like your papa, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16673,
+"en": "Actually, I'm not his father.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16674,
+"en": "Oh, your grandson, perhaps?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16675,
+"en": "Grandson...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16676,
+"en": "Right, I can see how you'd think that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16677,
+"en": "Anyway, if you're about to open,\nwould you mind if I come in for a drink?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16678,
+"en": "Not at all. I still have a few things to\nget ready, but, after you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16679,
+"en": "Huh? Kiyo-chan, who's yer friend here?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16680,
+"en": "He's a customer. You should head home\nsoon, Nagumo-kun. I'm about to open.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16681,
+"en": "Please, have a seat. Oh, right! I should\nfix up a special spot for the baby.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16682,
+"en": "You, tough guy. Where y'from?\nY'don't look local.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16683,
+"en": "I'm from Tokyo.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16684,
+"en": "Tokyo, huh? I get ya, I get ya.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16685,
+"en": "But tell me, what's a Tokyo fella like you\ndoin' here? Y'don't look like no tourist.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16686,
+"en": "Sir, you can lay the baby in here\nif you want. It's the perfect size for him.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16687,
+"en": "So? You like it?\nYou're a cute little guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16688,
+"en": "Thanks for this, Mama.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16689,
+"en": "It's fine. This is the first time I've\nhad such an adorable little customer.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16690,
+"en": "All I usually get around here are punks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16691,
+"en": "Why ya gotta do me like that?\nShouldn't y'be more respectful t'yer regulars?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16692,
+"en": "Nagumo-kun, put that cigarette out.\nIt's not good for the baby.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16693,
+"en": "Besides, don't you have work to do?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16694,
+"en": "My work's here in yer bar. Keepin' an eye\non this fishy bastard is my job today.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16695,
+"en": "So, Tokyo man.\nY'got a name?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16696,
+"en": "It's Kiryu.\nI won't be any trouble here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16697,
+"en": "Shut it, fool. 'Round here, I decide who's\ntrouble and who ain't. Y'get me!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16698,
+"en": "That's enough out of you! Go on, scram!\nYou don't get to choose who my customers are.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16699,
+"en": "Keep the change.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16700,
+"en": "I don't like the cut of yer jib. Y'can't play\nthe tough guy 'gainst a yakuza like me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16701,
+"en": "Yer just usin' that little brat of yers\nto hit on my Kiyo-chan, ain'tchya?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16702,
+"en": "Who are you calling yours?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16703,
+"en": "What're y'lookin' at, asshole?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16704,
+"en": "Getting drunk and fighting with civilians?\nSome yakuza you are.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16705,
+"en": "The hell you say!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16706,
+"en": "Let's take this outside. It's hard to talk to this\npretty Mama with you yapping in my ear.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16707,
+"en": "Sir, should I call the police?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16708,
+"en": "It's all right. He'll calm down once I sober\nhim up a bit. Can you keep an eye on Haruto?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16709,
+"en": "Alright, let's do this! I'll show ya\nhow we <font_kind=yakuza_italic>take care</font_kind> of guys like you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16710,
+"en": "By tearin' ya to bits!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16711,
+"en": "This here's perfect.\nNobody to go gettin' in the way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16712,
+"en": "Too late t'go cryin' fer help now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16713,
+"en": "Remember, this is what ya get fer pissin' me off.\nDieeeeeee!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16714,
+"en": "What the hell?\nH-How'd I lose to you...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16715,
+"en": "Had enough?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16716,
+"en": "I don't get it.\nWho are ya!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16717,
+"en": "Don't see why you're so surprised.\nA child could've floored a drunk fool like you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16718,
+"en": "Don't you walk away!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16719,
+"en": "I'm captain of the Hirose Family! Next time\nwe meet, I ain't lettin' ya off so easy!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16720,
+"en": "Jus' scurry on back to Tokyo already, y'hear!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16721,
+"en": "(Looks like I'm already making friends here.\nAnyway, I should get back to Haruto...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16722,
+"en": "Oh, you're back.\nIs everything okay?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16723,
+"en": "Yeah. I see you've been\ntaking good care of Haruto.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16724,
+"en": "Yeah, he just fell asleep.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16725,
+"en": "He really is a cute kid.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16726,
+"en": "Oh, right.\nHow about a drink?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16727,
+"en": "So, this is Haruto-kun's mom?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16728,
+"en": "She looks young.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16729,
+"en": "She's 19 now. She left her home in Okinawa\nthree years ago and apparently came here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16730,
+"en": "To this neighborhood?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16731,
+"en": "Take a good look at that photo.\nDid you ever see her around town?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16732,
+"en": "You came here to find her, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16733,
+"en": "No, I already know where she is.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16734,
+"en": "What I need now is more information.\nWho she met here, what she was doing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16735,
+"en": "Can't you ask her that directly?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16736,
+"en": "Well, not exactly.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16737,
+"en": "I'm actually hoping I can find Haruto's dad.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16738,
+"en": "I have a hunch he's around here somewhere,\nbut that's about all I have to go on.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16739,
+"en": "I'm sorry. I would help you if I could,\nbut I don't think I recognize this girl.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16740,
+"en": "She was a famous idol before she came here.\nHave you ever heard of Haruka Sawamura?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16741,
+"en": "I haven't.\nI almost never watch TV.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16742,
+"en": "Thanks for the drink.\nWhat do I owe you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16743,
+"en": "It's on me this time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16744,
+"en": "I got to hold the cutest little baby, and you\nhad your evening ruined by one of my regulars.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16745,
+"en": "You mean that yakuza?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16746,
+"en": "By the way, Kiryu-san...\nWhere are you staying?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16747,
+"en": "Well, I'm not sure yet.\nI was about to go look.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16748,
+"en": "There won't be anywhere open\nat this time of day, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16749,
+"en": "There are some hotels outside of town.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16750,
+"en": "But you're here in Onomichi to look\nfor Haruto-kun's dad, aren't you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16751,
+"en": "Staying out there might be inconvenient.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16752,
+"en": "I've got it. Give me just a second,\nI know a guy who might have a room for you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16753,
+"en": "It's nothing too luxurious, but...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16754,
+"en": "If you don't like it, I can help you look\nfor a hotel farther away.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16755,
+"en": "Hello? It's Kiyomi. Good evening.\nSorry to call so late, Ino-kun.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16756,
+"en": "Would it be okay if one of my customers\nstays at the Navy Apartments for a while?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16757,
+"en": "That was Ino-kun from the local association.\nHe owns the room I mentioned earlier.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16758,
+"en": "It's been empty for quite a while, so he\nsaid it'd be okay for you to stay there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16759,
+"en": "You've been a huge help.\nThank you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16760,
+"en": "Don't get your hopes up, though.\nHe hasn't kept it very clean with nobody there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16761,
+"en": "He said he'd leave a futon out, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16762,
+"en": "Come back for a drink sometime if you're\nup for it. I'd love to see Haruto-kun again.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16763,
+"en": "You've been very kind.\nI appreciate it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16764,
+"en": "The apartments are just down the\ncoastline and west from there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16765,
+"en": "Got it. Next time I drop in,\nI'll actually buy my drinks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16766,
+"en": "Hey, you. Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16767,
+"en": "Kiyo-chan called me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16768,
+"en": "Y'know, the mama from Snack Kiyomi.\nYer the fella who needs my apartment, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16769,
+"en": "Oh, yeah.\nI'm Kiryu, and this is Haruto.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16770,
+"en": "Name's Ino.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16771,
+"en": "So, what'd y'say to get\nKiyo-chan to like ya, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16772,
+"en": "I don't follow?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16773,
+"en": "Just move it along.\nApartment's this way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16774,
+"en": "Listen, if I'm not welcome, say so.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16775,
+"en": "Woulda said no if it weren't my\nKiyo-chan doin' the askin'.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16776,
+"en": "I got no say in it though. If the light\nof my life calls, I pick up the phone.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16777,
+"en": "You too? A yakuza I met earlier said\nshe was \"his\" as well.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16778,
+"en": "Nagumo, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16779,
+"en": "Yeah, I think that's the guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16780,
+"en": "Three of us went t'high school together.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16781,
+"en": "Nagumo and me fought\ntooth n' nail over Kiyo-chan.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16782,
+"en": "She got sick of our shit, though.\nEnded up runnin' off to Tokyo alone.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16783,
+"en": "So she used to live in Tokyo...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16784,
+"en": "With her movin' back here though,\nit's like the fire never died.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16785,
+"en": "But man, it's kinda different with that\nnutsack Nagumo bein' a yakuza now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16786,
+"en": "Back in the good ol' days\nI could knock him on his ass, y'know?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16787,
+"en": "But now that he's stronger,\nhe acts like he owns the place.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16788,
+"en": "Now listen good. Don't go lettin' Kiyo-chan's\nkindness get to yer head, y'hear?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16789,
+"en": "I'll kick ya out so fast yer head'll spin if\nya get any funny ideas. Remember that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16790,
+"en": "Well, this here's your room.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16791,
+"en": "Y'can leave whenever if yer not happy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16792,
+"en": "No, I appreciate this, Ino-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16793,
+"en": "There's a futon for ya, but y'can handle the\nrest. It's gettin' torn down soon anyways.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16794,
+"en": "The Navy Apartments're on their last legs.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16795,
+"en": "Why \"navy\"?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16796,
+"en": "Town's been buildin' ships fer ages.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16797,
+"en": "Used to be full o' sea-farin' types.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16798,
+"en": "Then some so-called \"navy\" showed up,\nand used these buildings as a base.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16799,
+"en": "But they weren't no real navy at all.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16800,
+"en": "They was probly tryin' to swindle the sailors.\nY'know, a buncha thugs tryin' t'look legit.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16801,
+"en": "Some time later, the navy got took in by\na yakuza group called the Yomei Alliance.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16802,
+"en": "That's the yakuza that plumb fool\nNagumo's got his'self involved with.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16803,
+"en": "He tries n' claim he's some hotshot Hirose\ncaptain, but it's small time. Five, six guys, tops.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16804,
+"en": "I'm not surprised.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16805,
+"en": "As for Kiyo-chan, her bar's in a former\nred-light district for the Yomei Alliance.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16806,
+"en": "But things changed once shipbuildin' slowed\ndown. The good times're never comin' back.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16807,
+"en": "So, you from Tokyo?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16808,
+"en": "I dunno what brings ya down here,\nbut this ain't a place outsiders stay fer long.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16809,
+"en": "I can tell. I'll be gone as soon as I'm done here.\nUntil then, I appreciate the room.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16810,
+"en": "Save yer thanks for Kiyo-chan.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16811,
+"en": "All right, it looks like this is\nwhere we'll be living for a while.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16812,
+"en": "(I should buy some milk.\nHopefully it won't be too hard to find...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16813,
+"en": "(Things seem to close early here.\nBut someone's got to carry milk, right?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16814,
+"en": "Man, I'm sauced as a spring turkey.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16815,
+"en": "Just wanna hit the sack...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16816,
+"en": "Huh? Don't reckon I've seen ya 'round afore.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16817,
+"en": "You know any places that might\nsell powdered milk around here?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16818,
+"en": "I'm all out, and the kid's starving.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16819,
+"en": "Hm? That little guy yer son?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16820,
+"en": "Nowhere's gonna be open right now.\nY'oughta just put him to bed fer tonight.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16821,
+"en": "Do you know any places that might\nsell powdered milk around here?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16822,
+"en": "Ummm, powdered milk?\nSorry, I don't have the slightest idea.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16823,
+"en": "I only just moved to the area.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16824,
+"en": "If only there were\nconvenience stores here...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16825,
+"en": "Do you know anywhere that might\nsell powdered milk near here?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16826,
+"en": "Lemme see, coulda sworn I saw\nit at some place I was...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16827,
+"en": "Whereabouts, though...? Only caught\nmy eye as I was buyin' somethin' else.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16828,
+"en": "Sorry, my memory's shot.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16829,
+"en": "But I bet they probly sell it\nsomewhere 'round here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16830,
+"en": "Hm? C'mon with that, old guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16831,
+"en": "I'm all out, and the kid's starving.\nI could really use a bit of help.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16832,
+"en": "An ol' grump like you's raisin' a baby?\nNow I seen it all!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16833,
+"en": "Yer woman walk out on ya\nor somethin'? Rough life, gramps.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16834,
+"en": "I take it you don't know, then!\nBye.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16835,
+"en": "Well, good luck!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16836,
+"en": "S'gonna be fine. I'll grab a bus\nover t'yours this weekend.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16837,
+"en": "Chi-chan, y'ain't been messin'\nwith other guys, have ya? Just kiddin'!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16838,
+"en": "Can't wait to see ya again, babe.\nLove ya too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16839,
+"en": "Hm? Yeah, hold on a sec.\nWhat is it, old man? Y'need somethin'?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16840,
+"en": "Uh, Chi-chan, y'still there?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16841,
+"en": "I got a mean-lookin' grandpa with\na kid standin' in front of me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16842,
+"en": "Wanted to know if I know\nanyplace that's got milk.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16843,
+"en": "You know one, Chi-chan!?\nYeah. Mhm.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16844,
+"en": "Chi-chan says try goin' to the pharmacy.\nS'posedly they got yer milk there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16845,
+"en": "Right, good idea.\nThanks for the help.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16846,
+"en": "Nice, Chi-chan!\nYer the best!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16847,
+"en": "(The pharmacy is closed too...\nBut this can't wait until morning!)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16848,
+"en": "Excuse me!\nIs anyone in there?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16849,
+"en": "Open up, please!\nI need milk for a baby!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16850,
+"en": "Don't y'know how late it is?\nThe store's been closed fer hours!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16851,
+"en": "Sorry, I just need a little milk. Can you\nsell me some? The kid won't stop crying.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16852,
+"en": "Yer gonna have to come back tomorrow.\nWe're all out.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16853,
+"en": "That won't work. Are there any\nother stores that might sell it?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16854,
+"en": "'Round here...?\nI reckon no.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16855,
+"en": "This is bad...\nWhat am I supposed to do?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16856,
+"en": "Anyway, where're y'comin' from?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16857,
+"en": "Sorry, ma'am.\nThere's no time for small talk.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16858,
+"en": "I just need some milk. Even formula\nwould work. You don't know anywhere?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16859,
+"en": "Now that y'mention it, Ino might\nbe able to get what yer lookin' for.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16860,
+"en": "Ino? The association guy?\nThe one who runs the Navy Apartments?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16861,
+"en": "Y'know him? I bet that go-getter\ncan help ya out. He's a real peach.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16862,
+"en": "You know where he is by chance?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16863,
+"en": "Haven't the foggiest.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16864,
+"en": "(Wait, Kiyomi knows his number.\nI should go to the bar and ask her.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16865,
+"en": "Hm? Kiryu-san!\nHow does Ino-kun's apartment look?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16866,
+"en": "Oh, it's not so bad. Can I ask you\nto contact him for me, though?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16867,
+"en": "Haruto's been bawling his eyes out for\na while now. I need to get some milk.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16868,
+"en": "Oh, of course.\nJust give me a minute.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16869,
+"en": "Thank you.\nI'll wait outside.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16870,
+"en": "Shouldn't be much longer.\nSorry for the wait, Haruto.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16871,
+"en": "Kiryu-san. Ino-kun had some info for me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16872,
+"en": "He said a barber in town had a baby recently.\nThey might share their milk with you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16873,
+"en": "A barber?\nIs the shop nearby?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16874,
+"en": "Yeah. I wish I could show you the way,\nbut I need to tend the bar.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16875,
+"en": "It's all right. Thank you, though.\nI'll go take a look around.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16876,
+"en": "(Is this the barber shop Kiyomi mentioned?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16877,
+"en": "Excuse me! Is anyone there?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16878,
+"en": "Uh, I'm having a bit of trouble\nwith my baby here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16879,
+"en": "Whaddya think yer doin'!?\nThis is a public street!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16880,
+"en": "Oh yeah? And who's gonna stop me,\nya ol' witch? Simmer down, now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16881,
+"en": "Hey, we're talking over here.\nDo your business elsewhere!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16882,
+"en": "If I've gotta piss, I'm gonna piss!\nQuit yer yappin'!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16883,
+"en": "Y'can't do that on someone's house!\nWe got rules fer a reason, y'know!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16884,
+"en": "Words aren't doing the job here.\nSorry, but hold this kid for a sec.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16885,
+"en": "Wh-What? Wait!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16886,
+"en": "Look, you need to leave.\nYou're interrupting our conversation.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16887,
+"en": "What's yer deal, gramps?\nY'wanna go?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16888,
+"en": "Enough. I told you to get out of here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16889,
+"en": "So yer spoilin' fer a fight, huh?\nYer in luck, gramps, 'cause I'll fuck ya up!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16890,
+"en": "Hey, whaddya think yer doin'?\nY'can't make such a ruckus this time o' night.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16891,
+"en": "Sorry about that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16892,
+"en": "I heard the owners here had a baby, so I\nwas just hoping for some milk for my kid.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16893,
+"en": "Okay, if that's all y'want.\nI'll go grab some fer ya.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16894,
+"en": "The shops 'round here all close real early.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16895,
+"en": "Y'gotta make sure ya got your milk\n'fore the sun goes down.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16896,
+"en": "Yeah, I just learned that firsthand.\nThank you, though. You're a real lifesaver.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16897,
+"en": "Jus' get home n' feed him already.\nY'don't wanna let him keep bawlin' like that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16898,
+"en": "Rough night, huh, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16899,
+"en": "Wait, did you come by because\nyou were worried about me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+},
+{
+"id": 16900,
+"en": "Mhm. I can't ignore the helpless, I guess.\nSorry if I'm intruding.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main03|#",
+"max": null
+}
+]

@@ -1,0 +1,47 @@
+{
+ "textura": "e/texture/mg_clan_menu_p02_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    154,
+    113,
+    177,
+    128
+   ],
+   "en": "yasu",
+   "ocr": "Yasu",
+   "es": "Yasu",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 19,
+   "dejar": true
+  },
+  {
+   "caja": [
+    186,
+    173,
+    307,
+    189
+   ],
+   "en": "Yas joined the Kiryu society.",
+   "ocr": "Yas joined the Kiryu society.",
+   "es": "Yasu se unió al Clan Kiryu.",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 121,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  }
+ ],
+ "contraste": true
+}

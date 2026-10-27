@@ -1,0 +1,1040 @@
+[
+{
+"id": 3346,
+"en": "An 8-piece assorted set of luxurious\nnigiri-style sushi and cucumber rolls.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3347,
+"en": "A type of sushi with salmon and eggs scattered\nover sushi rice.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3348,
+"en": "A type of sushi with tuna, squid, and salmon\nscattered lavishly over sushi rice.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3349,
+"en": "A rice bowl neatly topped with red tuna meat.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3350,
+"en": "A rice bowl neatly topped with luxurious\nseafood.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3351,
+"en": "Clear broth with condensed seafood stock.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3352,
+"en": "Miso soup with the whole head of a Japanese\nspiny lobster in it.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3353,
+"en": "The Sushi Gin's ultimate pudding created by the\nowner using a recipe perfected over many years.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3354,
+"en": "Yonetoku's highly recommended dish that includes\nbeef, pork, and chicken! Everyone's favorite!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3355,
+"en": "A dish that includes intestines, reed tripe, and\nMarutani tofu flavored with Fuchu White Miso.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3356,
+"en": "Frozen shochu in a tankard with fizzling soda\npoured in to make this highball!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3357,
+"en": "A simple dish with octopus sashimi chopped and\nserved with wasabi.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3358,
+"en": "A platter of pickles. Great with alcohol.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3359,
+"en": "The perfect side for draft beer.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3360,
+"en": "A classic and nostalgic taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3361,
+"en": "Start off with some draft beer!\nGoes perfectly with Meat Nabe or Stew!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3362,
+"en": "The perfect appetizer to pair with a beer.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3363,
+"en": "Mama says you can always count on\npickles to bring flavor to the party.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3364,
+"en": "Mama doesn't give the recipe for her\nfried chicken to just anyone.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3365,
+"en": "Mama doesn't make the noodles, but\nshe makes the sauce, and that's plenty.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3366,
+"en": "When Mama makes this, you just might\ncatch her sampling some for herself.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3367,
+"en": "A staple of Mama's kitchen.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3368,
+"en": "Mama makes it a little spicy, but\nshe'll tone it down if you ask.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3369,
+"en": "You never know what Mama will put in\nher chirashi, but you know it'll be good.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3370,
+"en": "A fancy fresh fruit platter arrangement.\n<symbol=caba_love><symbol=caba_talk><symbol=caba_party><symbol=caba_sexy><symbol=caba_dandy> become 2 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3371,
+"en": "Carbonara that's very filling.\n<symbol=caba_love><symbol=caba_talk><symbol=caba_party><symbol=caba_sexy><symbol=caba_dandy> become 1 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3372,
+"en": "Nothing beats juicy fried chicken.\n<symbol=caba_sexy> becomes 2 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3373,
+"en": "Lightly salted and fried until golden.\n<symbol=caba_party> becomes 2 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3374,
+"en": "A great drinking snack.\n<symbol=caba_dandy> becomes 2 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3375,
+"en": "This freshly caught oyster grilled whole with\nthe shell captures the aroma of the sea.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3376,
+"en": "The quality of the raw, freshly caught oyster\nmakes this a top-notch dish.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3377,
+"en": "Deep-fried, freshly caught oyster.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3378,
+"en": "Freshly caught raw oyster wrapped in a delicious\nomelette.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3379,
+"en": "Fresh rockfish bought from the morning fish\nmarket and grilled with a dash of salt.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3380,
+"en": "Fresh oysters and vegetables stewed in miso.\nA local delicacy.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3381,
+"en": "Seasoned rice infused with the salt-and-sea\ntaste of oysters.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3382,
+"en": "Miso soup fit for a fisher made using fresh\nseafood caught that day.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3383,
+"en": "An octopus made into sashimi right after it\nwas caught for maximum freshness.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3384,
+"en": "A squid made into sashimi right after it was\ncaught for maximum freshness.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3385,
+"en": "A luxurious sashimi platter that is made up of\nfresh seafood caught that day.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3386,
+"en": "The famous beef bowl that put Akaushimaru\non the map!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3387,
+"en": "Heaping portions of beef are sure to satisfy\neven the most intense beef bowl cravings.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3388,
+"en": "There's so much beef in this bowl, you'll\nneed to be rolled out of the store.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3389,
+"en": "All the beef, none of the rice. Enjoy\nthe pickled ginger.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3390,
+"en": "The perfect compliment to a beef plate.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3391,
+"en": "Long green onions and seaweed rest atop\nthis steaming miso soup.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3392,
+"en": "A simple salad made with thinly cut cabbage.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3393,
+"en": "The owner hand-picked the ingredients of\nthis healthy assortment of vegetables.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3394,
+"en": "A stewed vegetable dish that condenses a variety\nof delicious flavors.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3395,
+"en": "A dish made of quality filet mignon and sautéed\nfoie gras. It's garnished with truffle sauce.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3396,
+"en": "A whole lobster grilled and served with fresh\nbasil sauce.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3397,
+"en": "Stew that combines fresh seafood and whole\nvegetables in a pot.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3398,
+"en": "Chicken thighs cooked at a high temperature for\na crispy skin.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3399,
+"en": "Slowly roasted duck sliced thin.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3400,
+"en": "Baked fresh each morning by the owner himself.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3401,
+"en": "A Wildcat brand Onomichi Pudding that's so\nsweet, you can't help but smile.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3402,
+"en": "A sweet and refreshing drink made with \nSetoda-grown lemon juice to quench your thirst.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3403,
+"en": "Homemade tofu from Pocket Circuit Fighter's\nshop, \"Fujisawa Tofu Shop.\"",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3404,
+"en": "This is the ultimate cup of coffee, made with\ntop-grade coffee beans.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3405,
+"en": "Enjoy the citrus bergamot fragrance of this tea\ngrown in Sri Lanka under an exclusive contract.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3406,
+"en": "This creamy parfait loaded with fresh\nstrawberries is quite filling.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3407,
+"en": "This parfait made with rich, delicious\nchocolate is really filling.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3408,
+"en": "The pride of Café Alps and all of Japan, beef\ncurry with roux simmered for an entire week.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3409,
+"en": "Get refreshed with this blend of smooth tea\nand creamy milk.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3410,
+"en": "Matcha latte that's made with matcha from Uji.\nIt's popular with today's youth.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3411,
+"en": "The rich taste of chocolate is not overpowered\nby any added sugars.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3412,
+"en": "Light, fluffy, and slightly sour filling on\na graham-cracker crust.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3413,
+"en": "The cafe owner's pride and joy.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3414,
+"en": "Made with ripe seasonal ingredients.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3415,
+"en": "Sandwiches become more serious when\nserved on fresh baguettes.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3416,
+"en": "Club sandwich with pleasant-smelling bacon.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3417,
+"en": "It is a true culinary accomplishment in this\nday and age to innovate on bread.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3418,
+"en": "The owner bakes this bread personally,\nputting his own twists on the classics.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3419,
+"en": "A healthy hamburger made with a tuna patty.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3420,
+"en": "The meat on this burger is stewed until tender\nand served on a fresh bun.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3421,
+"en": "A big, juicy hamburger known for its mayonnaise\nand thick slices of avocado.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3422,
+"en": "Deep-fried chicken breast slathered with\nWild Jackson's original mayo.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3423,
+"en": "Piping hot boneless chicken thighs fried with a\ncrispy coating.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3424,
+"en": "This spicy chicken is made by kneading original\nspices into the Wild Fried Chicken coating.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3425,
+"en": "100% pure orange juice.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3426,
+"en": "Ice-cold oolong tea. Goes well with anything.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3427,
+"en": "Thinly sliced chashu pork used in\nramen topped straight onto a bowl of rice.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3428,
+"en": "Its delicate sweetness makes for a wonderful\ntreat, any time of day.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3429,
+"en": "Made with bittersweet chocolate for a more\nrefined flavor profile.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3430,
+"en": "A standard red, just bitter enough to cleanse\nthe palate.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3431,
+"en": "Semi dry with fruit-forward highlights.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3432,
+"en": "Fans of Japanese whisky are on the rise, even\noverseas, and here's one big reason for it.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3433,
+"en": "This is another extremely popular Japanese\nwhisky.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3434,
+"en": "It's safe to say this 10-year Laphroaig is the\nstandard of the line.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3435,
+"en": "A premium beer that is manufactured to accent\nthe hops and wort for an extravagant flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3436,
+"en": "This is one of Japan's top brandies.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3437,
+"en": "Crispy on the outside, but nestled inside is a\njuicy nugget of octopus. A Gindaco favorite.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3438,
+"en": "Hot takoyaki topped with melted cheese, mayo,\nand spicy fish roe. A favorite among females.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3439,
+"en": "Takoyaki straight off the grill served with\ncrisp Welsh onion and tempura dipping sauce.\nA classic with enduring popularity.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3440,
+"en": "Extra-thick noodles, thick-sliced pork, and lots\nof bean sprouts are combined with a rich sauce.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3441,
+"en": "A refreshing drink full of fresh fruit.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3442,
+"en": "This freshly boiled soba with piping-hot soup is\na standard dish of the restaurant.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3443,
+"en": "Soba chilled with water after being boiled.\nYou can taste the care put into this soup.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3444,
+"en": "Cold soup poured on freshly boiled soba\nand topped with agedama. A popular soba.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3445,
+"en": "Cold soup poured on freshly boiled soba and\ntopped with fried tofu cut into large pieces.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3446,
+"en": "Hot soba topped with onsen eggs and vegetable\ntempura. A long-time favorite of customers.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3447,
+"en": "Hot soba topped with agedama, deep-fried tofu,\nonsen eggs and kamaboko.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3448,
+"en": "A signature item that entwines the meaty pork\ncutlet with special sauce and fluffy eggs.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3449,
+"en": "Curry rice with mild spice. The restaurant's\noriginal curry roux mixed with their famous soup.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3450,
+"en": "A medium-sized mug of draft beer that's a good\nstart. It has a creamy head and crisp taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3451,
+"en": "Oolong tea is the quintessential non-alcoholic\ndrink. Enjoy its exquisite fragrance and flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3452,
+"en": "A beverage with a refreshing lemon taste that\ncleanses the palate nicely when eating snacks.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3453,
+"en": "A drink with an exquisite balance between tangy\nundertones and refreshing grape sweetness.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3454,
+"en": "Fresh grapefruit juice gives this drink a fruity\nflavor and a touch of bitterness.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3455,
+"en": "The Bakuhai is a popular Yoronotaki original\ncocktail that blends whisky and beer.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3456,
+"en": "A cocktail made with Gyokuro refined green tea.\nIts smooth taste pairs well with any food.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3457,
+"en": "This sweet smelling highball has become a\nclassic. The ice cold soda gives it a real zing.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3458,
+"en": "This old favorite is a mix of cassis liqueur and\noolong tea.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3459,
+"en": "A platter of sashimi with 7 carefully selected\ntypes of fresh seafood. Enjoy!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3460,
+"en": "A platter of sashimi with 3 carefully selected\ntypes of fresh seafood. Enjoy!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3461,
+"en": "Hand-selected mackerel with lots of fat.\nA recommended menu item of our restaurant.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3462,
+"en": "Kotchori salad brimming with scallions. The\npeppery dressing and onions pair with any drink.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3463,
+"en": "These soybeans in the pod are pretty much the\ndefault snack when drinking.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3464,
+"en": "A plate of five different skewers. The secret\nto their popularity is the special spicy miso.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3465,
+"en": "The burst of flavor from the roe wins over many\nwho try this perfectly grilled fish delicacy.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3466,
+"en": "This addictive yakisoba mixes a rich, salty\nsauce with scallions. Goes great with drinks.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3467,
+"en": "This popular mince cutlet is packed with meaty\ngoodness that fills your mouth with each bite.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3468,
+"en": "A simple dish of bean sprouts with a peppery\npunch. Once you start eating, it's hard to stop.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3469,
+"en": "The taste of Nagasaki. By making abundant use of\nquality ingredients, it has a deep, rich flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3470,
+"en": "Overflowing with 7 types of vegetables!\nTwice as many as the Nagasaki Champon!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3471,
+"en": "A stimulating champon using homemade spicy miso.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3472,
+"en": "Thin noodles fried until crunchy, then covered\nin hot vegetable topping.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3473,
+"en": "The sister product of the popular Vegetable\nChampon. Enjoy with your favorite dressing.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3474,
+"en": "Flavorful, soft, thick noodles. Satisfying on an\nempty stomach.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3475,
+"en": "A small saraudon. Perfect for when you want a\nlight snack.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3476,
+"en": "Ringer Hut takes pride in their gyoza.\nThe rice flour wrapper is crisp and crunchy.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3477,
+"en": "A lavish bowl using ample amounts of the best\nfish in the store.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3478,
+"en": "A must for tuna-lovers, this bowl is filled\nwith fatty tuna.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3479,
+"en": "A 13-piece selection of nigiri-sushi, salad,\nand miso soup. Each bite is full of flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3480,
+"en": "A set with ootoro, chuutoro, akami, minced tuna,\ntuna rolls and seared tuna. A tuna extravaganza!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3481,
+"en": "A light tenderloin steak with not much fat.\nThe delicious red meat incites appetite.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3482,
+"en": "This rib-eye steak has a good balance of fat and\nred meat. Fine, tender, and very satisfying.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3483,
+"en": "The king of steaks! This sirloin steak has the\nperfect balance of red meat and fat.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3484,
+"en": "Our signature fried gyoza, made with 100% fresh\ningredients. You won't regret eating these!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3485,
+"en": "While keeping firmness, this fluffy omelette is\ncut open and mixed with Chinese-style sauce.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3486,
+"en": "The aromatic taste fills your mouth in one bite.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3487,
+"en": "A dish that you can keep eating even with its\nsimple taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3488,
+"en": "Sichuan Dandan noodles with spicy Japanese\npepper. The ground beef whets your appetite.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3489,
+"en": "A hearty pan-fried yakisoba. The Chinese-style\nseasoning is extremely appetizing.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3490,
+"en": "The large shrimp entwined with chili sauce\ncreates a delicious flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3491,
+"en": "Pork, green pepper\ns, and bamboo are combined\nto form the ultimate trio of flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3492,
+"en": "The liver and vegetables go together perfectly.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3493,
+"en": "This entree is made of crispy fried pork and\ncrunchy vegetables mixed with sweet vinegar.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3494,
+"en": "This hearty dish uses lots of cabbage and pork.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3495,
+"en": "The spiciness of the Japanese pepper and cayenne\npeppers stands out in this dish.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3496,
+"en": "The fresh vegetables and chicken go perfectly with\neach other.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3497,
+"en": "Enjoy the fluffy and sticky texture of this\nsesame dumpling.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3498,
+"en": "Champagne of the finest quality.\n<symbol=caba_love><symbol=caba_talk><symbol=caba_party><symbol=caba_sexy><symbol=caba_dandy> become 2 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3499,
+"en": "A champagne nobody would scoff at.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3500,
+"en": "A champagne you can find everywhere.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3501,
+"en": "A glass of beer with a refined taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3502,
+"en": "Cassis Orange is popular with young people.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3503,
+"en": "Cold water.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3504,
+"en": "Boosts Attack.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3505,
+"en": "Boosts Defense.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3506,
+"en": "Boosts EXP obtained in battle.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3507,
+"en": "Sprint longer before getting tired.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3508,
+"en": "Sobers you up a little.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3509,
+"en": "Boosts money gained.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3510,
+"en": "Enjoy the faintly aromatic yuzu that garnishes\nthe hot soba, spinach, and steamed chicken.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3511,
+"en": "The fresh lettuce and chili sauce balance\nperfectly in this Wette Kitchen signature item.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3512,
+"en": "A heavy burger topped with a sunny-side up egg.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3513,
+"en": "A side item of onions sliced thin\n and fried to\na golden brown.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3514,
+"en": "A rich soup made by simmering tomato and\nonion slowly at a low temperature.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3515,
+"en": "A Wette Kitchen original coffee made by blending\nthe highest quality coffee beans.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3516,
+"en": "A popular Wette Kitchen soft drink that smells\nof fresh lemon.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3517,
+"en": "A widely loved staple. When you talk about\ngreat steamed buns, this is the one.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3518,
+"en": "A red bean paste bun carefully cooked to accent\nthe graininess, thickness, and taste.",
+"ctx": "item|explanation",
+"max": null
+}
+]

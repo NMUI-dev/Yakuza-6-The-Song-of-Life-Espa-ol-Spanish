@@ -1,0 +1,115 @@
+{
+ "textura": "e/texture/mg_snack_p2_2_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    186,
+    42,
+    301,
+    70
+   ],
+   "en": "Friendship",
+   "ocr": "Friendship",
+   "es": "Amistad",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 115,
+   "color": [
+    240,
+    228,
+    245
+   ]
+  },
+  {
+   "caja": [
+    70,
+    80,
+    173,
+    102
+   ],
+   "en": "Bar Patrons",
+   "ocr": "*BarPatrons",
+   "es": "Clientes del bar",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 103,
+   "_star": 2,
+   "color": [
+    240,
+    228,
+    245
+   ]
+  },
+  {
+   "caja": [
+    89,
+    103,
+    198,
+    125
+   ],
+   "en": "Hatakeyama-san",
+   "ocr": "Hatakeyama-san",
+   "es": "Hatakeyama-san",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 105,
+   "color": [
+    240,
+    228,
+    245
+   ]
+  },
+  {
+   "caja": [
+    69,
+    137,
+    126,
+    159
+   ],
+   "en": "Gauge",
+   "ocr": "*Gauge",
+   "es": "Medidor",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 57,
+   "_star": 2,
+   "color": [
+    240,
+    228,
+    245
+   ]
+  },
+  {
+   "caja": [
+    243,
+    198,
+    282,
+    218
+   ],
+   "en": "Next",
+   "ocr": "Next",
+   "es": "Seguir",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 32,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

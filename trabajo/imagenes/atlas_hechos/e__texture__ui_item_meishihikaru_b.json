@@ -1,0 +1,40 @@
+{
+ "textura": "e/texture/ui_item_meishihikaru_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    85,
+    228,
+    200,
+    294
+   ],
+   "en": "HIKARU",
+   "ocr": "SHINE SEWCLCS.KAMEROCHO",
+   "es": "HIKARU",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 115
+  },
+  {
+   "caja": [
+    62,
+    290,
+    285,
+    431
+   ],
+   "en": "CLUB SHINE xx-xx, Kamuro-cho-xxxxxx Tokyo",
+   "ocr": "HIKARU CLUBS x-xKamur-choxxx Tokyo",
+   "es": "CLUB SHINE xx-xx, Kamuro-cho-xxxxxx Tokyo",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 223
+  }
+ ]
+}

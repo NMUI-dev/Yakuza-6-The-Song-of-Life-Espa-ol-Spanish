@@ -1,0 +1,40 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_08_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    270,
+    104
+   ],
+   "en": "Yowa ku maru",
+   "ocr": "囍 Yowa",
+   "es": "Se acurruca tímidamente",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 270,
+   "dejar": true
+  },
+  {
+   "caja": [
+    313,
+    0,
+    648,
+    104
+   ],
+   "en": "matta senaka",
+   "ocr": "大背中 matta",
+   "es": "espalda acurrucada.",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 335,
+   "dejar": true
+  }
+ ]
+}

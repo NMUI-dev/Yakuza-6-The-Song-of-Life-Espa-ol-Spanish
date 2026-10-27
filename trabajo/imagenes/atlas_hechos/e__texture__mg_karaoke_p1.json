@@ -1,0 +1,88 @@
+{
+ "textura": "e/texture/mg_karaoke_p1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    103,
+    134,
+    137,
+    151
+   ],
+   "en": "MISS",
+   "ocr": "MISS",
+   "es": "MISS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 34
+  },
+  {
+   "caja": [
+    257,
+    173,
+    291,
+    189
+   ],
+   "en": "Hold",
+   "ocr": "Hold",
+   "es": "Hold",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34
+  },
+  {
+   "caja": [
+    31,
+    250,
+    74,
+    269
+   ],
+   "en": "Kenmei",
+   "ocr": "Kenme",
+   "es": "Kenmei",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43
+  },
+  {
+   "caja": [
+    145,
+    252,
+    194,
+    268
+   ],
+   "en": "sunshine",
+   "ocr": "sunshine",
+   "es": "sunshine",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49
+  },
+  {
+   "caja": [
+    396,
+    250,
+    451,
+    269
+   ],
+   "en": "ga saegi",
+   "ocr": "gasaegi",
+   "es": "ga saegi",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 55
+  }
+ ]
+}

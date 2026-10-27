@@ -1,0 +1,78 @@
+{
+ "textura": "e/texture/mg_karaoke_p2_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    9,
+    133,
+    53,
+    149
+   ],
+   "en": "COMBO",
+   "ocr": "COMRO",
+   "es": "COMBO",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    99,
+    135,
+    141,
+    152
+   ],
+   "en": "GREAT",
+   "ocr": "GREAT",
+   "es": "¡GENIAL!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     215,
+     120
+    ],
+    "contorno": [
+     [
+      150,
+      20,
+      20
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    8,
+    195,
+    141,
+    246
+   ],
+   "en": "Toshigai na ku",
+   "ocr": "年用斐盆 Ada KU",
+   "es": "Toshigai na ku",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 133,
+   "dejar": true
+  }
+ ]
+}

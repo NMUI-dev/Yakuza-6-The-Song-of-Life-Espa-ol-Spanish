@@ -1,0 +1,263 @@
+{
+ "textura": "e/texture/mg_kyaba_p1_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    45,
+    47,
+    93,
+    68
+   ],
+   "en": "Charm",
+   "ocr": "2hain",
+   "es": "Carisma",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    62,
+    93,
+    81
+   ],
+   "en": "Chain",
+   "ocr": "Chain",
+   "es": "Cadena",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    59,
+    75,
+    93,
+    95
+   ],
+   "en": "Chain",
+   "ocr": "Chain",
+   "es": "Cadena",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    32,
+    154,
+    78,
+    170
+   ],
+   "en": "Select Card",
+   "ocr": "ASect Card",
+   "es": "Elegir carta",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    32,
+    179,
+    75,
+    194
+   ],
+   "en": "Swap Card",
+   "ocr": "p dm5(X",
+   "es": "Cambiar carta",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    9,
+    233,
+    55,
+    248
+   ],
+   "en": "I'm hitting the",
+   "ocr": "fn htting the",
+   "es": "Estoy yendo al",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 46,
+   "dejar": true
+  },
+  {
+   "caja": [
+    87,
+    234,
+    132,
+    248
+   ],
+   "en": "Want to guess",
+   "ocr": "Taet to gutss",
+   "es": "¿Quieres adivinar?",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    166,
+    225,
+    195,
+    238
+   ],
+   "en": "Wash my",
+   "ocr": "isher",
+   "es": "Lavar mi",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 29,
+   "dejar": true
+  },
+  {
+   "caja": [
+    166,
+    233,
+    202,
+    249
+   ],
+   "en": "underwear",
+   "ocr": "vsdervee",
+   "es": "ropa interior",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    244,
+    234,
+    296,
+    248
+   ],
+   "en": "Can I touch you?",
+   "ocr": "Casi I touth you?",
+   "es": "¿Puedo tocarte?",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  },
+  {
+   "caja": [
+    321,
+    233,
+    377,
+    249
+   ],
+   "en": "What do you want",
+   "ocr": "0m no4 0p 1t",
+   "es": "¿Qué quieres?",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    399,
+    233,
+    455,
+    248
+   ],
+   "en": "What's your dream",
+   "ocr": "Ihst's voer drvs",
+   "es": "¿Cuál es tu Sueño?",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    9,
+    242,
+    56,
+    258
+   ],
+   "en": "gym a lot now.",
+   "ocr": "978 a lot n0%,",
+   "es": "gimnasio ahora mucho.",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 47,
+   "dejar": true
+  },
+  {
+   "caja": [
+    320,
+    242,
+    371,
+    257
+   ],
+   "en": "most right now?",
+   "ocr": "Bost right noo?",
+   "es": "¿más a la Derecha ahora?",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    400,
+    242,
+    448,
+    257
+   ],
+   "en": "for the future?",
+   "ocr": "for the future?",
+   "es": "¿para el futuro?",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  }
+ ]
+}

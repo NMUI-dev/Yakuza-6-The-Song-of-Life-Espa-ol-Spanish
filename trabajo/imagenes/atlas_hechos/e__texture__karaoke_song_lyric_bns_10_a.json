@@ -1,0 +1,104 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_10_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    935,
+    0,
+    1416,
+    104
+   ],
+   "en": "kakugo ki me yo u",
+   "ocr": "悟决？ kakugo me",
+   "es": "kakugo ki me yo u",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 481,
+   "dejar": true
+  },
+  {
+   "caja": [
+    25,
+    59,
+    157,
+    104
+   ],
+   "en": "Da sa",
+   "ocr": "Dasa",
+   "es": "Da sa",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 132,
+   "dejar": true
+  },
+  {
+   "caja": [
+    299,
+    68,
+    367,
+    98
+   ],
+   "en": "karat",
+   "ocr": "kara",
+   "es": "karat",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 68,
+   "dejar": true
+  },
+  {
+   "caja": [
+    820,
+    65,
+    863,
+    100
+   ],
+   "en": "ra",
+   "ocr": "ra",
+   "es": "ra",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    981,
+    62,
+    1098,
+    103
+   ],
+   "en": "kakugo",
+   "ocr": "kakugo",
+   "es": "kakugo",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 117,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1207,
+    68,
+    1256,
+    96
+   ],
+   "en": "me",
+   "ocr": "me",
+   "es": "me",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49,
+   "dejar": true
+  }
+ ]
+}

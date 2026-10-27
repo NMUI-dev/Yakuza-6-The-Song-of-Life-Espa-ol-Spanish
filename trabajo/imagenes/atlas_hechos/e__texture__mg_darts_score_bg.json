@@ -1,0 +1,88 @@
+{
+ "textura": "e/texture/mg_darts_score_bg",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    64,
+    226,
+    114
+   ],
+   "en": "CRICKET",
+   "ocr": "CRICKET",
+   "es": "CRICKET",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 215,
+   "dejar": true
+  },
+  {
+   "caja": [
+    7,
+    119,
+    287,
+    174
+   ],
+   "en": "COUNT UP",
+   "ocr": "COUNT UP",
+   "es": "CONTAR",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 280,
+   "dejar": true
+  },
+  {
+   "caja": [
+    362,
+    245,
+    477,
+    276
+   ],
+   "en": "ROUND",
+   "ocr": "ROUND",
+   "es": "RONDA",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 115,
+   "dejar": true
+  },
+  {
+   "caja": [
+    360,
+    270,
+    465,
+    305
+   ],
+   "en": "SCORE",
+   "ocr": "SCORE",
+   "es": "PUNTUACIÓN",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 101,
+   "dejar": true
+  },
+  {
+   "caja": [
+    481,
+    261,
+    646,
+    290
+   ],
+   "en": "DART SCORES",
+   "ocr": "DARTSCORES",
+   "es": "PUNTUACIÓN DE DARDOS",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 165,
+   "dejar": true
+  }
+ ]
+}

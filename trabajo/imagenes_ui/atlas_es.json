@@ -1,0 +1,596 @@
+{
+ "title_press_any_button": {
+  "fuente": "georgiaz.ttf",
+  "items": [
+   {
+    "caja": [
+     1,
+     5,
+     352,
+     28
+    ],
+    "en": "PRESS ANY BUTTON",
+    "es": "PRESIONA UN BOTÓN",
+    "fuente": "georgia.ttf",
+    "efecto": "nada",
+    "ancho_max": 345
+   },
+   {
+    "caja": [
+     0,
+     33,
+     353,
+     62
+    ],
+    "en": "PRESS ANY BUTTON",
+    "es": "PRESIONA UN BOTÓN",
+    "fuente": "georgiab.ttf",
+    "efecto": "brillo",
+    "ancho_max": 345
+   },
+   {
+    "caja": [
+     0,
+     68,
+     195,
+     95
+    ],
+    "en": "New Game",
+    "es": "Nueva partida",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     104,
+     169,
+     131
+    ],
+    "en": "Continue",
+    "es": "Continuar",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     139,
+     130,
+     170
+    ],
+    "en": "Replay",
+    "es": "Repetir",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     176,
+     170,
+     202
+    ],
+    "en": "Memories",
+    "es": "Recuerdos",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     212,
+     262,
+     242
+    ],
+    "en": "Game Settings",
+    "es": "Opciones de juego",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     248,
+     268,
+     278
+    ],
+    "en": "Audio Settings",
+    "es": "Opciones de audio",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     283,
+     438,
+     315
+    ],
+    "en": "2-Player Vs Minigames",
+    "es": "Minijuegos VS de 2 jugadores",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     319,
+     312,
+     350
+    ],
+    "en": "Network Settings",
+    "es": "Opciones de red",
+    "ancho_max": 480
+   },
+   {
+    "caja": [
+     0,
+     355,
+     150,
+     385
+    ],
+    "en": "Settings",
+    "es": "Opciones",
+    "ancho_max": 480
+   }
+  ]
+ },
+ "pausemenu2": {
+  "fuente": "georgiab.ttf",
+  "items": [
+   {
+    "caja": [
+     78,
+     10,
+     178,
+     39
+    ],
+    "en": "Load",
+    "es": "Cargar"
+   },
+   {
+    "caja": [
+     79,
+     58,
+     177,
+     86
+    ],
+    "en": "Save",
+    "es": "Guardar"
+   }
+  ],
+  "ancho_max": 170
+ },
+ "pausemenu": {
+  "fuente": "georgiab.ttf",
+  "items": [
+   {
+    "caja": [
+     0,
+     340,
+     124,
+     371
+    ],
+    "en": "Stats",
+    "es": "Atributos",
+    "fuente": "georgiaz.ttf",
+    "ancho_max": 400
+   },
+   {
+    "caja": [
+     0,
+     386,
+     278,
+     419
+    ],
+    "en": "Battle Skills",
+    "es": "Habilidades de combate",
+    "fuente": "georgiaz.ttf",
+    "ancho_max": 400
+   },
+   {
+    "caja": [
+     0,
+     437,
+     291,
+     468
+    ],
+    "en": "Heat Actions",
+    "es": "Acciones Heat",
+    "fuente": "georgiaz.ttf",
+    "ancho_max": 400
+   },
+   {
+    "caja": [
+     0,
+     482,
+     271,
+     515
+    ],
+    "en": "Other Skills",
+    "es": "Otras habilidades",
+    "fuente": "georgiaz.ttf",
+    "ancho_max": 400
+   },
+   {
+    "caja": [
+     0,
+     531,
+     252,
+     567
+    ],
+    "en": "Equipment",
+    "es": "Equipo",
+    "fuente": "georgiaz.ttf",
+    "ancho_max": 400
+   },
+   {
+    "caja": [
+     167,
+     585,
+     330,
+     618
+    ],
+    "en": "Settings",
+    "es": "Opciones",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     172,
+     634,
+     324,
+     663
+    ],
+    "en": "Awards",
+    "es": "Premios",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     179,
+     683,
+     318,
+     712
+    ],
+    "en": "Photos",
+    "es": "Fotos",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     186,
+     777,
+     310,
+     806
+    ],
+    "en": "Inbox",
+    "es": "Mensajes",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     146,
+     825,
+     353,
+     855
+    ],
+    "en": "Clan Creator",
+    "es": "Creador de Clanes",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     193,
+     875,
+     303,
+     903
+    ],
+    "en": "Stats",
+    "es": "Atributos",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     190,
+     923,
+     307,
+     951
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     188,
+     970,
+     311,
+     999
+    ],
+    "en": "Tasks",
+    "es": "Tareas",
+    "ancho_max": 210
+   },
+   {
+    "caja": [
+     390,
+     581,
+     499,
+     604
+    ],
+    "en": "Settings",
+    "es": "Opciones",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     392,
+     613,
+     496,
+     633
+    ],
+    "en": "Awards",
+    "es": "Premios",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     398,
+     645,
+     490,
+     665
+    ],
+    "en": "Photos",
+    "es": "Fotos",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     406,
+     709,
+     482,
+     729
+    ],
+    "en": "Inbox",
+    "es": "Mensajes",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     374,
+     741,
+     515,
+     761
+    ],
+    "en": "Clan Creator",
+    "es": "Creador de Clanes",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     409,
+     773,
+     480,
+     793
+    ],
+    "en": "Stats",
+    "es": "Atributos",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     406,
+     806,
+     484,
+     825
+    ],
+    "en": "Items",
+    "es": "Objetos",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     404,
+     837,
+     484,
+     857
+    ],
+    "en": "Tasks",
+    "es": "Tareas",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 140,
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     372,
+     976,
+     638,
+     999
+    ],
+    "en": "Character Profiles",
+    "es": "Perfiles de personajes",
+    "ancho_max": 330
+   },
+   {
+    "caja": [
+     798,
+     215,
+     848,
+     246
+    ],
+    "en": "NEW",
+    "es": "NUEVO",
+    "fuente": "timesbd.ttf",
+    "ancho_max": 50,
+    "mediana": false
+   },
+   {
+    "caja": [
+     748,
+     216,
+     792,
+     244
+    ],
+    "en": "NEW",
+    "es": "NUEVO",
+    "fuente": "timesbd.ttf",
+    "ancho_max": 44,
+    "efecto": "borroso",
+    "mediana": false
+   },
+   {
+    "caja": [
+     588,
+     276,
+     667,
+     298
+    ],
+    "en": "NO DATA",
+    "es": "SIN DATOS",
+    "fuente": "segoeuil.ttf",
+    "ancho_max": 76,
+    "mediana": false
+   }
+  ]
+ },
+ "pause_nouryoku_lvup": {
+  "fuente": "palab.ttf",
+  "ancho_max": 490,
+  "alin": "centro",
+  "mediana": false,
+  "items": [
+   {
+    "caja": [
+     17,
+     31,
+     494,
+     93
+    ],
+    "en": "LEVEL UP",
+    "es": "SUBES DE NIVEL",
+    "efecto": "nada",
+    "tam": 52
+   },
+   {
+    "caja": [
+     528,
+     27,
+     1010,
+     97
+    ],
+    "en": "LEVEL UP",
+    "es": "SUBES DE NIVEL",
+    "efecto": "borroso",
+    "tam": 52
+   },
+   {
+    "caja": [
+     8,
+     267,
+     503,
+     325
+    ],
+    "en": "Skill Acquired",
+    "es": "Habilidad adquirida",
+    "efecto": "nada"
+   },
+   {
+    "caja": [
+     519,
+     267,
+     1016,
+     327
+    ],
+    "en": "Skill Acquired",
+    "es": "Habilidad adquirida",
+    "efecto": "borroso"
+   },
+   {
+    "caja": [
+     34,
+     383,
+     477,
+     446
+    ],
+    "en": "RANK UP",
+    "es": "SUBES DE RANGO",
+    "efecto": "nada",
+    "tam": 52
+   },
+   {
+    "caja": [
+     545,
+     379,
+     993,
+     450
+    ],
+    "en": "RANK UP",
+    "es": "SUBES DE RANGO",
+    "efecto": "borroso",
+    "tam": 52
+   }
+  ]
+ },
+ "adv_phone_text": {
+  "fuente": "segoeui.ttf",
+  "ancho_max": 124,
+  "alin": "izq",
+  "items": [
+   {
+    "caja": [
+     0,
+     30,
+     77,
+     52
+    ],
+    "en": "Inbox",
+    "es": "Mensajes"
+   }
+  ]
+ },
+ "adv_phone_icon_text": {
+  "fuente": "segoeui.ttf",
+  "ancho_max": 120,
+  "alin": "centro",
+  "items": [
+   {
+    "caja": [
+     42,
+     6,
+     84,
+     21
+    ],
+    "en": "Mail",
+    "es": "Correo"
+   }
+  ]
+ },
+ "clear_result": {
+  "fuente": "georgiaz.ttf",
+  "ancho_max": 250,
+  "alin": "centro",
+  "items": [
+   {
+    "caja": [
+     15,
+     7,
+     240,
+     40
+    ],
+    "en": "RESULTS",
+    "es": "RESULTADOS",
+    "efecto": "estilo"
+   }
+  ]
+ }
+}

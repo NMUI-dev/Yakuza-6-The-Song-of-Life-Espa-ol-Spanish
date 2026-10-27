@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/bc_eb_l_6okada",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    139,
+    1019,
+    266
+   ],
+   "en": "KAZUCHIKA OKADA",
+   "ocr": "KAZUCHIKA OKADA",
+   "es": "KAZUCHIKA OKADA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1008
+  },
+  {
+   "caja": [
+    108,
+    272,
+    923,
+    373
+   ],
+   "en": "THE SIX LUNATICS",
+   "ocr": "THE SIX LUNATICS",
+   "es": "THE SIX LUNATICS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 815
+  }
+ ]
+}

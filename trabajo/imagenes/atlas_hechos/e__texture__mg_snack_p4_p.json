@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/mg_snack_p4_p",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    180,
+    131,
+    272,
+    149
+   ],
+   "en": "Head over there, Hatakeryana-",
+   "ocr": "Head or ere. Batakrn",
+   "es": "Ve allá. Hatakeryana-",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 92,
+   "dejar": true
+  }
+ ]
+}

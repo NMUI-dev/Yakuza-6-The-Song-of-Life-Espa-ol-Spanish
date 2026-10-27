@@ -1,0 +1,113 @@
+{
+ "textura": "e/texture/clan_win_cutiin",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    14,
+    56,
+    433,
+    194
+   ],
+   "en": "FIGHT!",
+   "ocr": "FIGHT!",
+   "es": "¡PELEA!",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 419
+  },
+  {
+   "caja": [
+    502,
+    92,
+    1005,
+    235
+   ],
+   "en": "VICTORY",
+   "ocr": "VICTORY",
+   "es": "VICTORIA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 499
+  },
+  {
+   "caja": [
+    0,
+    368,
+    758,
+    515
+   ],
+   "en": "RAID FAILED",
+   "ocr": "RAID FAILED",
+   "es": "INCURSIÓN FALLIDA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 754
+  },
+  {
+   "caja": [
+    684,
+    628,
+    973,
+    716
+   ],
+   "en": "VICTORY",
+   "ocr": "VICTORY",
+   "es": "VICTORIA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 285
+  },
+  {
+   "caja": [
+    30,
+    674,
+    406,
+    750
+   ],
+   "en": "RAID FAILED",
+   "ocr": "MAD FALED",
+   "es": "INCURSIÓN FALLIDA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 372
+  },
+  {
+   "caja": [
+    77,
+    858,
+    406,
+    971
+   ],
+   "en": "VICTORY",
+   "ocr": "CTORY",
+   "es": "VICTORIA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 325
+  },
+  {
+   "caja": [
+    666,
+    850,
+    979,
+    952
+   ],
+   "en": "DEFEAT",
+   "ocr": "DEFEAT",
+   "es": "DERROTA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 309
+  }
+ ]
+}

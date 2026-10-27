@@ -1,0 +1,68 @@
+{
+ "textura": "e/texture/logo_e",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    711,
+    127,
+    1861,
+    585
+   ],
+   "en": "YAKUZA",
+   "ocr": "YAkuzA",
+   "es": "YAKUZA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1146
+  },
+  {
+   "caja": [
+    72,
+    431,
+    392,
+    713
+   ],
+   "en": "ku",
+   "ocr": "kU",
+   "es": "ku",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 320
+  },
+  {
+   "caja": [
+    1868,
+    555,
+    1912,
+    586
+   ],
+   "en": "TM",
+   "ocr": "TM",
+   "es": "TM",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44
+  },
+  {
+   "caja": [
+    483,
+    720,
+    1429,
+    996
+   ],
+   "en": "ZA",
+   "ocr": "ZAw",
+   "es": "ZA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 946
+  }
+ ]
+}

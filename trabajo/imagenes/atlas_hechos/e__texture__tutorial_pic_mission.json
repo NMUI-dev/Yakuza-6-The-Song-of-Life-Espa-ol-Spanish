@@ -1,0 +1,133 @@
+{
+ "textura": "e/texture/tutorial_pic_mission",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    124,
+    40,
+    329,
+    64
+   ],
+   "en": "Defeat the enemies!",
+   "ocr": "Defeat the enemies!",
+   "es": "¡Derrota a los enemigos!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 205,
+   "color": [
+    235,
+    30,
+    30
+   ]
+  },
+  {
+   "caja": [
+    147,
+    69,
+    499,
+    92
+   ],
+   "en": "Take down all the suspicious men!",
+   "ocr": "Takedownallthesuspiciousmen!",
+   "es": "¡Acaba con todos los hombres sospechosos!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 352,
+   "color": [
+    245,
+    245,
+    245
+   ]
+  },
+  {
+   "caja": [
+    60,
+    142,
+    205,
+    170
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "SUPERADO",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 74,
+   "estilo": {
+    "arriba": [
+     255,
+     240,
+     150
+    ],
+    "abajo": [
+     220,
+     150,
+     20
+    ],
+    "contorno": [
+     [
+      60,
+      30,
+      0
+     ],
+     1
+    ]
+   },
+   "color": [
+    255,
+    238,
+    200
+   ]
+  },
+  {
+   "caja": [
+    123,
+    167,
+    329,
+    192
+   ],
+   "en": "Defeat the enemies!",
+   "ocr": "Defeat the enemies!",
+   "es": "¡Derrota a los enemigos!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 206,
+   "color": [
+    235,
+    30,
+    30
+   ]
+  },
+  {
+   "caja": [
+    147,
+    195,
+    499,
+    220
+   ],
+   "en": "Take down all the suspicious men!",
+   "ocr": "Takedownallthesuspiciousmen!",
+   "es": "¡Acaba con todos los hombres sospechosos!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 352,
+   "color": [
+    245,
+    245,
+    245
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/otr_drunk_03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    161,
+    133,
+    256,
+    213
+   ],
+   "en": "MAX",
+   "ocr": "MAX",
+   "es": "MÁX.",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 91,
+   "dejar": true
+  }
+ ]
+}

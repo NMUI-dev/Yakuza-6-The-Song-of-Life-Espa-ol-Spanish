@@ -1,0 +1,59 @@
+{
+ "textura": "e/texture/mg_darts_play_p01_d",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    53,
+    29,
+    95,
+    48
+   ],
+   "en": "ROUND",
+   "ocr": "ROUND",
+   "es": "RONDA",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    409,
+    40,
+    465,
+    55
+   ],
+   "en": "DART SCORES",
+   "ocr": "DART-SCORES",
+   "es": "PUNTOS DE DARDOS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    380,
+    224,
+    413,
+    237
+   ],
+   "en": "Yuka Keppu",
+   "ocr": "Yka Knot",
+   "es": "Yuka Keppu",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  }
+ ]
+}

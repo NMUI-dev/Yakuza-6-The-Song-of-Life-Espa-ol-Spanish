@@ -1,0 +1,129 @@
+{
+ "textura": "e/texture/mg_clan_menu_p07_2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    31,
+    15,
+    238,
+    49
+   ],
+   "en": "Defense Force",
+   "ocr": "Defense",
+   "es": "Fuerza de defensa",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 207,
+   "estilo": {
+    "arriba": [
+     245,
+     50,
+     40
+    ],
+    "abajo": [
+     175,
+     10,
+     10
+    ],
+    "contorno": [
+     [
+      30,
+      0,
+      0
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    38,
+    66,
+    140,
+    88
+   ],
+   "en": "Defense Force",
+   "ocr": "Defense Force",
+   "es": "  Fuerza de defensa",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 90,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "mediana": false
+  },
+  {
+   "caja": [
+    111,
+    204,
+    245,
+    225
+   ],
+   "en": "Kiryu Clan Org Chart",
+   "ocr": "Kiryu Clan Org Chart",
+   "es": "Organigrama del Clan Kiryu",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 125,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    415,
+    203,
+    480,
+    225
+   ],
+   "en": "Total Strength",
+   "ocr": "Total Stren",
+   "es": "Fuerza total",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 58,
+   "color": [
+    175,
+    165,
+    165
+   ]
+  },
+  {
+   "caja": [
+    318,
+    234,
+    375,
+    254
+   ],
+   "en": "Chairman",
+   "ocr": "Chairman",
+   "es": "Presidente",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 53,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  }
+ ]
+}

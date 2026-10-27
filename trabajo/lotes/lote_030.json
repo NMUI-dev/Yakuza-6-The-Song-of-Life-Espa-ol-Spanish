@@ -1,0 +1,1556 @@
+[
+{
+"id": 8090,
+"en": "This game sucks...",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8091,
+"en": "What in the world!?",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8092,
+"en": "This is looking bleak...",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8093,
+"en": "Why!? This sucks!",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8094,
+"en": "Huh? This can't be...",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8095,
+"en": "I don't get it...",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8096,
+"en": "The hell...",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8097,
+"en": "How's that possible!?",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8098,
+"en": "Quite unfortunate.",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8099,
+"en": "I'm so over this.",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8100,
+"en": "Ugh, that's a shock.",
+"ctx": "minigame_mahjong_string_npc|汎用　悔しい_2",
+"max": null
+},
+{
+"id": 8101,
+"en": "I like a good challenge.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8102,
+"en": "Time for some fun.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8103,
+"en": "I'll show you how it's done.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8104,
+"en": "I'm so going to enjoy this.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8105,
+"en": "Imma make ya cry.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8106,
+"en": "Here I go!",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8107,
+"en": "It's all luck in the end.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8108,
+"en": "Gonna win this one.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8109,
+"en": "My tiles are just peachy!",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8110,
+"en": "Hope I can get lucky...",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8111,
+"en": "Uh oh. You got Nine Gates?",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8112,
+"en": "This'll be a long game...",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8113,
+"en": "Think I'm easy? Wrong!",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8114,
+"en": "Getting interesting.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8115,
+"en": "I wonder if anyone can stop me.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8116,
+"en": "I don't wanna lose this one.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8117,
+"en": "The fire of mahjong burns within me.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8118,
+"en": "Yayayay, it's time for some fun!",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8119,
+"en": "Maybe I can win this one!",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8120,
+"en": "I'll destroy you now.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8121,
+"en": "You're going down.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8122,
+"en": "I'll play it safe for now.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8123,
+"en": "Well then, let us commence.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8124,
+"en": "I wonder if you can beat me.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8125,
+"en": "I think this game will be mine.",
+"ctx": "minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 8126,
+"en": "Game Style",
+"ctx": "minigame_mahjong_string_setting|text",
+"max": null
+},
+{
+"id": 8127,
+"en": "Double Yakuman",
+"ctx": "minigame_mahjong_string_yakuman|text",
+"max": null
+},
+{
+"id": 8128,
+"en": "Triple Yakuman",
+"ctx": "minigame_mahjong_string_yakuman|text",
+"max": null
+},
+{
+"id": 8129,
+"en": "4x Yakuman",
+"ctx": "minigame_mahjong_string_yakuman|text",
+"max": null
+},
+{
+"id": 8130,
+"en": "5x Yakuman",
+"ctx": "minigame_mahjong_string_yakuman|text",
+"max": null
+},
+{
+"id": 8131,
+"en": "6x Yakuman",
+"ctx": "minigame_mahjong_string_yakuman|text",
+"max": null
+},
+{
+"id": 8132,
+"en": "7x Yakuman",
+"ctx": "minigame_mahjong_string_yakuman|text",
+"max": null
+},
+{
+"id": 8133,
+"en": "No-Points Hand",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8134,
+"en": "East",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8135,
+"en": "Double East",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8136,
+"en": "South",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8137,
+"en": "Double South",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8138,
+"en": "West",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8139,
+"en": "Double West",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8140,
+"en": "North",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8141,
+"en": "Double North",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8142,
+"en": "White Dragon",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8143,
+"en": "Green Dragon",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8144,
+"en": "Red Dragon",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8145,
+"en": "All Simples",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8146,
+"en": "Identical Sequences",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8147,
+"en": "Ippatsu",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8148,
+"en": "Fully Concealed Hand",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8149,
+"en": "Dead Wall Draw",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8150,
+"en": "Last Tile Draw - Tsumo",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8151,
+"en": "Last Tile Discard - Ron",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8152,
+"en": "Mixed Outside Hand",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8153,
+"en": "All Terminals and Honors",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8154,
+"en": "Full Straight",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8155,
+"en": "All Triplet Hand",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8156,
+"en": "Three Concealed Triplets",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8157,
+"en": "Three Consecutive Pons",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8158,
+"en": "Three Quads",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8159,
+"en": "Seven Pairs",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8160,
+"en": "Three Color Straight",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8161,
+"en": "Three Color Triplets",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8162,
+"en": "Little Three Dragons",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8163,
+"en": "Double Riichi",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8164,
+"en": "Pure Outside Hand",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8165,
+"en": "Half Flush",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8166,
+"en": "Double Identical Sequences",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8167,
+"en": "Full Flush",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8168,
+"en": "All Honors",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8169,
+"en": "All Green",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8170,
+"en": "Nine Gates",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8171,
+"en": "Pure Nine Gates",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8172,
+"en": "Four Concealed Triplets",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8173,
+"en": "Four Concealed Triplets w/ Single Wait",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8174,
+"en": "Four Quads",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8175,
+"en": "Big Three Dragons",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8176,
+"en": "Big Four Winds",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8177,
+"en": "Little Four Winds",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8178,
+"en": "All Terminals",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8179,
+"en": "Heavenly Hand",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8180,
+"en": "Earthly Hand",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8181,
+"en": "Thirteen Orphans",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8182,
+"en": "Pure Thirteen Orphans",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8183,
+"en": "Broken Thirteen",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8184,
+"en": "Blessing of Man",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8185,
+"en": "Robbing a Quad",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8186,
+"en": "Big Wheel",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8187,
+"en": "Terminal Discard",
+"ctx": "minigame_mahjong_string_yaku|text",
+"max": null
+},
+{
+"id": 8188,
+"en": "Kannon smiles upon you!\nYou now earn more Strength EXP than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8189,
+"en": "Kannon smiles upon you!\nYou now earn more Agility EXP than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8190,
+"en": "Kannon smiles upon you!\nYou now earn more Spirit EXP than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8191,
+"en": "Kannon smiles upon you!\nYou now earn more Technique EXP than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8192,
+"en": "Kannon smiles upon you!\nYou now earn more Charm EXP than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8193,
+"en": "This boost will last for 60 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8194,
+"en": "This boost will last for 90 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8195,
+"en": "This boost will last for 120 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8196,
+"en": "Kannon smiles upon you!\nYou now earn more EXP than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8197,
+"en": "Kannon smiles upon you!\nYour attack is now higher than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8198,
+"en": "Kannon smiles upon you!\nYour defense is now higher than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8199,
+"en": "Kannon smiles upon you!\nYou now earn more money than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8200,
+"en": "Kannon smiles upon you!\nYour stamina is now higher than usual.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8201,
+"en": "This boost will last for 150 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8202,
+"en": "This boost will last for 180 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8203,
+"en": "This boost will last for 210 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8204,
+"en": "This boost will last for 240 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8205,
+"en": "This boost will last for 270 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8206,
+"en": "This boost will last for 300 seconds.",
+"ctx": "minigame_offertory_box_slot_item|buff_message",
+"max": null
+},
+{
+"id": 8207,
+"en": "60 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8208,
+"en": "90 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8209,
+"en": "120 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8210,
+"en": "150 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8211,
+"en": "180 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8212,
+"en": "210 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8213,
+"en": "240 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8214,
+"en": "270 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8215,
+"en": "300 seconds",
+"ctx": "minigame_offertory_box_slot_item|message",
+"max": null
+},
+{
+"id": 8216,
+"en": "I'm on top of the world...!",
+"ctx": "minigame_omikuji_type|effect_msg",
+"max": null
+},
+{
+"id": 8217,
+"en": "Things are looking up for me.",
+"ctx": "minigame_omikuji_type|effect_msg",
+"max": null
+},
+{
+"id": 8218,
+"en": "Hm, this isn't so bad.",
+"ctx": "minigame_omikuji_type|effect_msg",
+"max": null
+},
+{
+"id": 8219,
+"en": "I'm not feeling good about this...",
+"ctx": "minigame_omikuji_type|effect_msg",
+"max": null
+},
+{
+"id": 8220,
+"en": "The Seven Gods of Fortune smile upon you!\nYour attack is now higher than usual.\nThis boost will last for your next 9 attacks.",
+"ctx": "minigame_omikuji_type|info_atk_msg",
+"max": null
+},
+{
+"id": 8221,
+"en": "The Seven Gods of Fortune smile upon you!\nYour attack is now higher than usual.\nThis boost will last for your next 6 attacks.",
+"ctx": "minigame_omikuji_type|info_atk_msg",
+"max": null
+},
+{
+"id": 8222,
+"en": "The Seven Gods of Fortune smile upon you!\nYour attack is now higher than usual.\nThis boost will last for your next 3 attacks.",
+"ctx": "minigame_omikuji_type|info_atk_msg",
+"max": null
+},
+{
+"id": 8223,
+"en": "The Seven Gods of Fortune smile upon you!\nYour attack is now higher than usual.\nThis boost will last for your next 2 attacks.",
+"ctx": "minigame_omikuji_type|info_atk_msg",
+"max": null
+},
+{
+"id": 8224,
+"en": "The Seven Gods of Fortune smile upon you!\nYour attack is now higher than usual.\nThis boost will last for your next attack.",
+"ctx": "minigame_omikuji_type|info_atk_msg",
+"max": null
+},
+{
+"id": 8225,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more EXP than usual.\nThis boost will last for your next 9 battles.",
+"ctx": "minigame_omikuji_type|info_exp_msg",
+"max": null
+},
+{
+"id": 8226,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more EXP than usual.\nThis boost will last for your next 6 battles.",
+"ctx": "minigame_omikuji_type|info_exp_msg",
+"max": null
+},
+{
+"id": 8227,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more EXP than usual.\nThis boost will last for your next 3 battles.",
+"ctx": "minigame_omikuji_type|info_exp_msg",
+"max": null
+},
+{
+"id": 8228,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more EXP than usual.\nThis boost will last for your next 2 battles.",
+"ctx": "minigame_omikuji_type|info_exp_msg",
+"max": null
+},
+{
+"id": 8229,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more EXP than usual.\nThis boost will last for your next battle.",
+"ctx": "minigame_omikuji_type|info_exp_msg",
+"max": null
+},
+{
+"id": 8230,
+"en": "All current boosts have disappeared...",
+"ctx": "minigame_omikuji_type|info_exp_msg + minigame_omikuji_type|info_atk_msg + minigame_omikuji_type|info_mny_msg",
+"max": null
+},
+{
+"id": 8231,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more money from battle than usual.\nThis effect will last for your next 9 battles.",
+"ctx": "minigame_omikuji_type|info_mny_msg",
+"max": null
+},
+{
+"id": 8232,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more money from battle than usual.\nThis effect will last for your next 6 battles.",
+"ctx": "minigame_omikuji_type|info_mny_msg",
+"max": null
+},
+{
+"id": 8233,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more money from battle than usual.\nThis effect will last for your next 3 battles.",
+"ctx": "minigame_omikuji_type|info_mny_msg",
+"max": null
+},
+{
+"id": 8234,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more money from battle than usual.\nThis effect will last for your next 2 battles.",
+"ctx": "minigame_omikuji_type|info_mny_msg",
+"max": null
+},
+{
+"id": 8235,
+"en": "The Seven Gods of Fortune smile upon you!\nYou now earn more money from battle than usual.\nThis effect will last for your next battle.",
+"ctx": "minigame_omikuji_type|info_mny_msg",
+"max": null
+},
+{
+"id": 8236,
+"en": "A supreme blessing!?",
+"ctx": "minigame_omikuji_type|open_msg",
+"max": null
+},
+{
+"id": 8237,
+"en": "A great blessing!",
+"ctx": "minigame_omikuji_type|open_msg",
+"max": null
+},
+{
+"id": 8238,
+"en": "A good blessing!",
+"ctx": "minigame_omikuji_type|open_msg",
+"max": null
+},
+{
+"id": 8239,
+"en": "A regular blessing.",
+"ctx": "minigame_omikuji_type|open_msg",
+"max": null
+},
+{
+"id": 8240,
+"en": "A poor blessing...",
+"ctx": "minigame_omikuji_type|open_msg",
+"max": null
+},
+{
+"id": 8241,
+"en": "A curse...",
+"ctx": "minigame_omikuji_type|open_msg",
+"max": null
+},
+{
+"id": 8242,
+"en": "Win with at least one player-controlled hit.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8243,
+"en": "Win with at least two player-controlled hits.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8244,
+"en": "Win with at least 10 runs.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8245,
+"en": "Win with at least a 10 run lead.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8246,
+"en": "Win with at least one player-controlled home run.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8247,
+"en": "Win with at least two player-controlled home runs.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8248,
+"en": "Win with at least three player-controlled hits.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8249,
+"en": "Win without changing the pitcher.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_bonus",
+"max": null
+},
+{
+"id": 8250,
+"en": "Win against the Jingai Thunders Reserves.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8251,
+"en": "Win with at least one home run.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8252,
+"en": "Win by scoring 5 or more runs.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8253,
+"en": "Win with at least a 5 run lead.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8254,
+"en": "Win against the Jingai Thunders.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8255,
+"en": "Win when your team is in terrible condition.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8256,
+"en": "Win against Onomichi Legends.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8257,
+"en": "Win against a perfect-condition team.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8258,
+"en": "Win against Kanamizawa Gorgeous.",
+"ctx": "minigame_sandlot_baseball_challenge|terms_clear",
+"max": null
+},
+{
+"id": 8259,
+"en": "<color=batting_pitch_red>[Official Game]</color> VS Thunders Reserves",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8260,
+"en": "<color=batting_pitch_yellow>[Conditional Game]</color> Victory Lap",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8261,
+"en": "<color=batting_pitch_yellow>[Conditional Game]</color> Keep It Interesting",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8262,
+"en": "<color=batting_pitch_yellow>[Conditional Game]</color> Landslide Win",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8263,
+"en": "<color=batting_pitch_red>[Official Game]</color> VS Thunders",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8264,
+"en": "<color=batting_pitch_yellow>[Conditional Game]</color> Team in Stitches",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8265,
+"en": "<color=batting_pitch_red>[Official Game]</color> VS Legends",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8266,
+"en": "<color=batting_pitch_yellow>[Conditional Game]</color> Colossus of Clout",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8267,
+"en": "<color=batting_pitch_red>[Official Game]</color> VS Gorgeous",
+"ctx": "minigame_sandlot_baseball_challenge|title",
+"max": null
+},
+{
+"id": 8268,
+"en": "A keen eye is what got him on base that time.",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8269,
+"en": "<color=baseball_player>${player_name}</color> made it on base thanks to that <color=baseball_base_on_balls>error</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8270,
+"en": "This is <color=baseball_player>Miyaken</color>, your village nobody color commentator!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8271,
+"en": "It's <color=baseball_player>Miyaken</color> on the color commentary! My life is a sacrifice bunt!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8272,
+"en": "Today's color commentary by \"I haven't told my wife that I'm here\" <color=baseball_player>Miyaken</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8273,
+"en": "There's the ball game! The <color=baseball_player>${team_name}</color> win!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8274,
+"en": "That's it for this game! The <color=baseball_player>${team_name}</color> win!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8275,
+"en": "Side retired! The <color=baseball_player>${team_name}</color> win!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8276,
+"en": "Looks like <color=baseball_player>${player_name}</color> will be filling in for <color=baseball_player>${prev_player_name}</color>.",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8277,
+"en": "Here comes <color=baseball_player>${player_name}</color> filling in for <color=baseball_player>${prev_player_name}</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8278,
+"en": "Now, <color=baseball_player>${player_name}</color> is filling in for <color=baseball_player>${prev_player_name}</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8279,
+"en": "Here comes <color=baseball_player>${player_name}</color> as the pinch-hitter!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8280,
+"en": "Number ${order_index} ${position}<color=baseball_player> ${player_name}</color> is entering the batter's box.",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8281,
+"en": "Number ${order_index} ${position}<color=baseball_player> ${player_name}</color> is at bat.",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8282,
+"en": "Stepping up to the plate is <color=baseball_player>${player_name}</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8283,
+"en": "<color=baseball_player>${player_name}</color> is at bat! Keep an eye on the ball now!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8284,
+"en": "<color=baseball_player>${player_name}</color> is up to bat at this crucial moment!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8285,
+"en": "It shot past him and he watched it go! Strikeout!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8286,
+"en": "Not even a swing! Out!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8287,
+"en": "Striiiike! Thought it was a ball!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8288,
+"en": "Swing and a miss! Out!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8289,
+"en": "The bat gets a whole lot of air! Out!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8290,
+"en": "He's swatting flies with that one! Out!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8291,
+"en": "Just a grounder to infield!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8292,
+"en": "A weak infield grounder!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8293,
+"en": "A hit! It's staying infield.",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8294,
+"en": "He pops it up! ${position} catches it and he's out!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8295,
+"en": "He's giving the birds a show? ${position} catches it and he's out!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8296,
+"en": "Up it goes! ${position} catches it and out he goes!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8297,
+"en": "Line drive right through the infield! It's a <color=baseball_hit>hit</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8298,
+"en": "A nice <color=baseball_hit>hit</color> to the outfield!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8299,
+"en": "The infield's watching it go right over 'em! It's a <color=baseball_hit>hit</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8300,
+"en": "This one's going long! A <color=baseball_hit>double</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8301,
+"en": "It broke past the outfielders! The batter makes it a <color=baseball_hit>double</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8302,
+"en": "What a hit! He can practically walk to 2nd on that <color=baseball_hit>double</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8303,
+"en": "What a hit! He's going all the way to third with a <color=baseball_hit>triple</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8304,
+"en": "It's just rolling through the outfield! A <color=baseball_hit>triple</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8305,
+"en": "A hit! Line drive to the outfield! A <color=baseball_hit>Triple</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8306,
+"en": "Going... Going... Gone! <color=baseball_hit>Home run</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8307,
+"en": "They know that one's gone! <color=baseball_hit>Home run</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8308,
+"en": "Looooong fly to the outfield... GONE! <color=baseball_hit>Home run</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8309,
+"en": "The pitcher is losing his touch! <color=baseball_base_on_balls>A walk</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8310,
+"en": "Ball 4! <color=baseball_base_on_balls>A walk!</color> Was it tactical!?",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8311,
+"en": "Ball 4! It's a <color=baseball_base_on_balls>walk</color>.",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8312,
+"en": "Infield's going for that hard... But he's <color=baseball_hit>safe</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8313,
+"en": "A bouncer! It's caught, but... Too late! <color=baseball_hit>Safe</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8314,
+"en": "The ball gets scooped up and there's the throw! <color=baseball_hit>Safe</color> at first!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8315,
+"en": "Right between the legs! An <color=baseball_base_on_balls>error</color>! That's gotta hurt!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8316,
+"en": "He's out! Wait...! The catcher dropped it! An <color=baseball_base_on_balls>error</color> at a time like this!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8317,
+"en": "Tipped off the bat and it's as good as... dropped!? Oh my! An <color=baseball_base_on_balls>error</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8318,
+"en": "High fly! It's a <color=baseball_hit>sacrifice fly</color>! The runner on third scores!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8319,
+"en": "To the outfield! Looks like this is about to be a <color=baseball_hit>sacrifice fly</color>! The runner makes it home!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8320,
+"en": "Pie in the sky sacrifice fly! The third base runner <color=baseball_hit>tags up</color> and makes it home!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8321,
+"en": "<color=baseball_player>${player_name}</color> couldn't get to a base!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8322,
+"en": "<color=baseball_player>${player_name}</color> is out!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8323,
+"en": "<color=baseball_player>${player_name}</color> needs to aim!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8324,
+"en": "That's the kind of swing <color=baseball_player>${player_name}</color> is known for!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8325,
+"en": "<color=baseball_player>${player_name}</color>, creating a window of opportunity!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8326,
+"en": "<color=baseball_player>${player_name}</color> gets on base by sheer determination!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8327,
+"en": "<color=baseball_player>${player_name}</color> deserves a pat on the back for that hit!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8328,
+"en": "He was batting like a pro baller with his eye on the prize!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8329,
+"en": "There's a sure-fire hit!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8330,
+"en": "Runner on first goes all the way home!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8331,
+"en": "Even the runner on first scored!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8332,
+"en": "Just one hit takes the runner on first all the way home!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8333,
+"en": "<color=baseball_player>${player_name}</color> missed his window!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8334,
+"en": "<color=baseball_player>${player_name}</color> was too stiff!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8335,
+"en": "<color=baseball_player>${player_name}</color> got outclassed by the opponent!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8336,
+"en": "<color=baseball_player>${player_name}</color> is the reason we watch!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8337,
+"en": "<color=baseball_player>${player_name}</color>, demonstrating his true skill!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8338,
+"en": "The window's still open and the air's breezy!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8339,
+"en": "<color=baseball_player>${player_name}</color> got the job done, at least!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8340,
+"en": "<color=baseball_player>${player_name}</color> wows the crowd with a <color=baseball_hit>home run</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8341,
+"en": "<color=baseball_player>${player_name}</color> was swinging for home there!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8342,
+"en": "<color=baseball_player>${player_name}</color> couldn't have asked for more!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8343,
+"en": "Connected by a <color=baseball_base_on_balls>walk</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8344,
+"en": "<color=baseball_player>${player_name}</color>, saved by an <color=baseball_base_on_balls>error</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8345,
+"en": "<color=baseball_player>${player_name}</color> steals that base like candy from a baby!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8346,
+"en": "<color=baseball_player>${player_name}</color> captures third base with speed like a race car!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8347,
+"en": "Can you feel the drama!? It's a walk-off win for the <color=baseball_player>${team_name}s</color>!",
+"ctx": "minigame_sandlot_baseball_comment_log|text",
+"max": null
+},
+{
+"id": 8348,
+"en": "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\n\nHow about <color=batting_pitch_yellow>scouting</color> to power up the team?\nCome to think of it, I think I saw a baseball player arguing\nwith a <color=batting_pitch_yellow>fisherman</color> down by the beach the other day!",
+"ctx": "minigame_sandlot_baseball_hint_message|text",
+"max": null
+}
+]

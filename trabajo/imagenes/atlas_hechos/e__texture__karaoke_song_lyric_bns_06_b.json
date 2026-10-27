@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_06_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    99,
+    54,
+    240,
+    104
+   ],
+   "en": "da' wa",
+   "ocr": "da'",
+   "es": "en el fondo.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 141,
+   "dejar": true
+  }
+ ]
+}

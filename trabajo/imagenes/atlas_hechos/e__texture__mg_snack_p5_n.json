@@ -1,0 +1,59 @@
+{
+ "textura": "e/texture/mg_snack_p5_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    272,
+    21,
+    347,
+    37
+   ],
+   "en": "Customer Rank",
+   "ocr": "Customer Rank",
+   "es": "Rango del cliente",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 75,
+   "dejar": true
+  },
+  {
+   "caja": [
+    227,
+    204,
+    331,
+    221
+   ],
+   "en": "Nobody really knows you right now; trust all but your mother, a friend or two",
+   "ocr": "Mobody realy knoues yoo righ nok; Stert eff by siling a triend or beo.",
+   "es": "Nadie te conoce realmente, Derecha ahora; confía en todos menos en tu madre, hazte un amigo o dos",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    228,
+    213,
+    331,
+    229
+   ],
+   "en": "Start off by making a friend or two,",
+   "ocr": "Stert eff by siling a triend or beo.",
+   "es": "Al Inicio, hazte un amigo o dos,",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 103,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "textura": "e/texture/mg_kyaba_p4_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    46,
+    40,
+    112,
+    69
+   ],
+   "en": "LOVE",
+   "ocr": "LOVE",
+   "es": "AMOR",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 66,
+   "estilo": {
+    "arriba": [
+     255,
+     120,
+     140
+    ],
+    "abajo": [
+     200,
+     20,
+     50
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    175,
+    43,
+    248,
+    66
+   ],
+   "en": "DAPPER",
+   "ocr": "DAPPER",
+   "es": "GALÁN",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 73,
+   "estilo": {
+    "arriba": [
+     210,
+     160,
+     110
+    ],
+    "abajo": [
+     110,
+     60,
+     20
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    114,
+    59,
+    176,
+    84
+   ],
+   "en": "SEXY",
+   "ocr": "SEXY",
+   "es": "SEXY",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 58,
+   "dejar": true
+  },
+  {
+   "caja": [
+    40,
+    87,
+    201,
+    117
+   ],
+   "en": "Aren't dangerous",
+   "ocr": "Aren't dangerous",
+   "es": "¿No te atraen los",
+   "fuente": "courbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 161,
+   "color": [
+    245,
+    245,
+    245
+   ],
+   "tam": 19
+  },
+  {
+   "caja": [
+    38,
+    117,
+    197,
+    143
+   ],
+   "en": "men attractive?",
+   "ocr": "men attractive?",
+   "es": "hombres peligrosos?",
+   "fuente": "courbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 159,
+   "color": [
+    245,
+    245,
+    245
+   ],
+   "tam": 19
+  }
+ ]
+}

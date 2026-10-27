@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/bc_eb_l_6naitou",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    6,
+    119,
+    1017,
+    271
+   ],
+   "en": "TETSUYA NAITO",
+   "ocr": "TETSUYA NAITO",
+   "es": "TETSUYA NAITO",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1007
+  },
+  {
+   "caja": [
+    108,
+    265,
+    922,
+    365
+   ],
+   "en": "THE SIX LUNATICS",
+   "ocr": "THE SIX LUNATICS",
+   "es": "THE SIX LUNATICS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 814
+  }
+ ]
+}

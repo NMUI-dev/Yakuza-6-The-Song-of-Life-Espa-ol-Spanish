@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/bc_eb_m_same",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    11,
+    42,
+    1020,
+    226
+   ],
+   "en": "BLOODY SHARK",
+   "ocr": "BLOODY ",
+   "es": "BLOODY SHARK",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1009
+  }
+ ]
+}

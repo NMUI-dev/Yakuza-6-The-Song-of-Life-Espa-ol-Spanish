@@ -1,0 +1,246 @@
+{
+ "textura": "e/texture/mg_karaoke_result_bg",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1960,
+    431,
+    2038,
+    498
+   ],
+   "en": "DAILY CHART",
+   "es": " ",
+   "solo_borrar": true,
+   "efecto": "nada",
+   "margen": 0,
+   "fondo": "lama"
+  },
+  {
+   "caja": [
+    1962,
+    433,
+    2036,
+    460
+   ],
+   "en": "DAILY",
+   "ocr": "DAILY",
+   "es": "LISTA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 74,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 24
+  },
+  {
+   "caja": [
+    1963,
+    462,
+    2035,
+    497
+   ],
+   "en": "CHART",
+   "ocr": "CHART",
+   "es": "DIARIA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 72,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 24
+  },
+  {
+   "caja": [
+    1976,
+    496,
+    2020,
+    648
+   ],
+   "en": "TOP 3",
+   "ocr": "TOP3",
+   "es": "3 PRIMEROS",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    218,
+    903,
+    479,
+    979
+   ],
+   "en": "Ranking",
+   "ocr": "Ranking",
+   "es": "Clasificación",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 261
+  },
+  {
+   "caja": [
+    655,
+    901,
+    758,
+    971
+   ],
+   "en": "No.1",
+   "ocr": "Mo.1",
+   "es": "N.º 1",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 103,
+   "dejar": true
+  },
+  {
+   "caja": [
+    875,
+    906,
+    980,
+    968
+   ],
+   "en": "No.3",
+   "ocr": "No.3",
+   "es": "N.º 3",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 105,
+   "dejar": true
+  },
+  {
+   "caja": [
+    999,
+    905,
+    1098,
+    969
+   ],
+   "en": "No. 1",
+   "ocr": "No.1",
+   "es": "N.º 1",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 99,
+   "dejar": true
+  },
+  {
+   "caja": [
+    765,
+    906,
+    870,
+    970
+   ],
+   "en": "No.2",
+   "ocr": "No.2",
+   "es": "N.º 2",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 105,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1106,
+    908,
+    1210,
+    968
+   ],
+   "en": "No.2",
+   "ocr": "No.2",
+   "es": "N.º 2",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1217,
+    906,
+    1318,
+    971
+   ],
+   "en": "No.3",
+   "ocr": "No.3",
+   "es": "N.º 3",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 101,
+   "dejar": true
+  },
+  {
+   "caja": [
+    882,
+    977,
+    992,
+    1019
+   ],
+   "en": "Song :",
+   "ocr": "Song :",
+   "es": "Canción :",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 110
+  },
+  {
+   "caja": [
+    1090,
+    976,
+    1439,
+    1021
+   ],
+   "en": "User : Your High Score",
+   "ocr": "User : Your High Score",
+   "es": "Usuario : Mejor puntuación",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 349,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     240,
+     240,
+     240
+    ],
+    "contorno": [
+     [
+      10,
+      10,
+      10
+     ],
+     3
+    ]
+   }
+  }
+ ]
+}

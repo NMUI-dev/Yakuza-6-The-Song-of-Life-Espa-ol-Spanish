@@ -1,0 +1,3026 @@
+[
+{
+"id": 6597,
+"en": "I'm in love.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6598,
+"en": "Naturally!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6599,
+"en": "Hello again.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6600,
+"en": "I missed you.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6601,
+"en": "I'll take you.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6602,
+"en": "Where?",
+"ctx": "minigame_live_chat_chat_commands|chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main06|#",
+"max": null
+},
+{
+"id": 6603,
+"en": "Boooobs...!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6604,
+"en": "S or M?",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_command_set_info|chapterText",
+"max": null
+},
+{
+"id": 6605,
+"en": "Hurt me, baby.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6606,
+"en": "You betcha.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6607,
+"en": "I've noticed.",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6608,
+"en": "Show me!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6609,
+"en": "You <font_kind=yakuza_italic>do</font_kind> look hot.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6610,
+"en": "Strip?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6611,
+"en": "You can do it!",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6612,
+"en": "Please!",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_commands|failed_chat_message + sound_auth|table/#//# …",
+"max": null
+},
+{
+"id": 6613,
+"en": "And you?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6614,
+"en": "Down there?",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6615,
+"en": "My banana...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6616,
+"en": "Go go go!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6617,
+"en": "PLEASE!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6618,
+"en": "It's growing...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6619,
+"en": "My desire.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6620,
+"en": "Pay attention then!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6621,
+"en": "I adore them.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6622,
+"en": "Ooooh!",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6623,
+"en": "Pretty please.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6624,
+"en": "Who knows...?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6625,
+"en": "It's sooo big.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6626,
+"en": "Pleeeeeease!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6627,
+"en": "Ni hao.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6628,
+"en": "It's so sexy.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6629,
+"en": "My dumpling...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6630,
+"en": "Strip, strip!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6631,
+"en": "Finally!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6632,
+"en": "Yes yes...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6633,
+"en": "Rub rub rub...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6634,
+"en": "Good?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6635,
+"en": "Like this???",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6636,
+"en": "You're divine.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6637,
+"en": "Bare it all.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6638,
+"en": "Strip for us.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6639,
+"en": "I wanna touch...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6640,
+"en": "Can I?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6641,
+"en": "Me too.",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_commands|failed_chat_message + sound_auth|table/#//# …",
+"max": 15
+},
+{
+"id": 6642,
+"en": "Alone time.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6643,
+"en": "Me neither.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6644,
+"en": "OOOOOOOH!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6645,
+"en": "Hell yeah.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6646,
+"en": "So satisfied...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6647,
+"en": "Really!?",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_messages|message + sound_auth|table/#//# …",
+"max": null
+},
+{
+"id": 6648,
+"en": "Yes yes yes!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6649,
+"en": "So soft.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6650,
+"en": "How exactly?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6651,
+"en": "Good luck!",
+"ctx": "minigame_live_chat_chat_commands|chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b17|# …",
+"max": 15
+},
+{
+"id": 6652,
+"en": "You know it.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6653,
+"en": "Let's have fun.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6654,
+"en": "Can't wait!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6655,
+"en": "Here I am.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6656,
+"en": "You mean it?",
+"ctx": "minigame_live_chat_chat_commands|chat_message + minigame_live_chat_chat_messages|message + sound_auth|table/#//# …",
+"max": null
+},
+{
+"id": 6657,
+"en": "Let's gooo!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6658,
+"en": "Try smiling.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6659,
+"en": "So cute...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6660,
+"en": "Kiss me.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6661,
+"en": "Yessssss!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6662,
+"en": "You got a BF?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6663,
+"en": "Why not?",
+"ctx": "minigame_live_chat_chat_commands|chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_b19|# …",
+"max": 15
+},
+{
+"id": 6664,
+"en": "Marry me.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6665,
+"en": "Definitely M.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6666,
+"en": "Nailed it!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6667,
+"en": "It might hurt.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6668,
+"en": "You look hot.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6669,
+"en": "It'll be nice.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6670,
+"en": "Go ahead!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6671,
+"en": "What's yours?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6672,
+"en": "Never mind then.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6673,
+"en": "My sausage...!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6674,
+"en": "Just a bit.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6675,
+"en": "Man oh man...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6676,
+"en": "Brilliant...!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6677,
+"en": "My love.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6678,
+"en": "Yes please.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6679,
+"en": "Nice!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6680,
+"en": "You should.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6681,
+"en": "Come closer...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6682,
+"en": "Mmmmmmmmmmmm...!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6683,
+"en": "Breathtaking!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6684,
+"en": "More nudity.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6685,
+"en": "Just a bit?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6686,
+"en": "I wonder...",
+"ctx": "minigame_live_chat_chat_commands|chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# …",
+"max": null
+},
+{
+"id": 6687,
+"en": "Wanna watch?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6688,
+"en": "Legs please.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6689,
+"en": "Legslegslegs!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6690,
+"en": "Oooooooh!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6691,
+"en": "A little bit.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6692,
+"en": "Hellooo nurse!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6693,
+"en": "Cough cough...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6694,
+"en": "A big, fat one.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6695,
+"en": "I'll be gentle.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6696,
+"en": "Heat it up!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6697,
+"en": "Amazing...!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6698,
+"en": "So skillful!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6699,
+"en": "Super cute.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6700,
+"en": "Je t'aime.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6701,
+"en": "Bare it all...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6702,
+"en": "Just for us.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6703,
+"en": "I wanna touch.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6704,
+"en": "I wanna rub...",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6705,
+"en": "I don't mind.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6706,
+"en": "Mmmmmm...!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6707,
+"en": "I'll help you.",
+"ctx": "minigame_live_chat_chat_commands|chat_message + talk",
+"max": 63
+},
+{
+"id": 6708,
+"en": "A massage.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6709,
+"en": "How 'bout it?",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6710,
+"en": "Boobies...!",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6711,
+"en": "Hello!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6712,
+"en": "So gripping!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6713,
+"en": "Sup sup",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6714,
+"en": "I'm a fan!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6715,
+"en": "Go to the end!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6716,
+"en": "Yeah!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# …",
+"max": 15
+},
+{
+"id": 6717,
+"en": "Me too...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6718,
+"en": "Yesssssss",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6719,
+"en": "What. Where where?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6720,
+"en": "Boobs, boobs!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6721,
+"en": "Scooooooore!!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6722,
+"en": "Are you an S? Are you a M!?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6723,
+"en": "I hope for an S!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6724,
+"en": "Thank you so much!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message + talk",
+"max": 31
+},
+{
+"id": 6725,
+"en": "You are most definitely an S",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6726,
+"en": "Yeah",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6727,
+"en": "I want Anri-chan!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6728,
+"en": "So sexy.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6729,
+"en": "Good do more!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6730,
+"en": "It'll get cool if you take your clothes off!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6731,
+"en": "You'll definitely cool down if you take your clothes off!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6732,
+"en": "We can look forward to this right...?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6733,
+"en": "Definitely Anri-chan!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6734,
+"en": "What are Anri-chan's tastes?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6735,
+"en": "Fooooo",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6736,
+"en": "Looking so forward to this!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6737,
+"en": "Oh",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6738,
+"en": "Ohhh",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6739,
+"en": "So irresistible!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6740,
+"en": "It's swelling!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6741,
+"en": "The desire!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6742,
+"en": "I'll show it!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6743,
+"en": "It's a once in a century level",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6744,
+"en": "YES!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6745,
+"en": "YES! YES!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6746,
+"en": "Please take your clothes off!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6747,
+"en": "What I'm going to do.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6748,
+"en": "Want me to show it to you?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6749,
+"en": "Your legs!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6750,
+"en": "I wanna see it!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6751,
+"en": "I wanna see it so much!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6752,
+"en": "Woah",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6753,
+"en": "It's a china outfit!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6754,
+"en": "You're sexy!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6755,
+"en": "So hot.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6756,
+"en": "You should take it off since it doesn't look good on you.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6757,
+"en": "I was waiting for it.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6758,
+"en": "Ogling",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6759,
+"en": "Outrageous, truly outrageous.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6760,
+"en": "I want to do it too!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6761,
+"en": "Grope grope",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6762,
+"en": "Does it feel nice?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6763,
+"en": "Squeeze!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6764,
+"en": "You're so great.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6765,
+"en": "Love love love you so much!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6766,
+"en": "Anri-chan",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6767,
+"en": "I want you to show me.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6768,
+"en": "So beautiful.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6769,
+"en": "I want to touch every inch of you.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6770,
+"en": "Can I? Can I?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6771,
+"en": "I'll handle it!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6772,
+"en": "Just the two of us.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6773,
+"en": "It's gonna be amazing.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6774,
+"en": "Next time too.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6775,
+"en": "Woaaaah!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6776,
+"en": "Akaljsdfkas",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6777,
+"en": "Woaaaah",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6778,
+"en": "Uhahaaa",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6779,
+"en": "I wanna see more.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6780,
+"en": "Hurry... Take it off right now...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6781,
+"en": "More more!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6782,
+"en": "So soft...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6783,
+"en": "It really is going to be amazing.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6784,
+"en": "How are you gonna do that?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6785,
+"en": "Try super hard!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6786,
+"en": "I wanted to see you!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6787,
+"en": "Let's enjoy ourselves.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6788,
+"en": "If you want!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6789,
+"en": "I'm backkk!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6790,
+"en": "Don't flatter me!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6791,
+"en": "I'm so happy...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6792,
+"en": "I can do that! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6793,
+"en": "Don't think too much!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6794,
+"en": "Give us a smile : )",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6795,
+"en": "Beautiful <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6796,
+"en": "I want a kiss!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6797,
+"en": "Woooo!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6798,
+"en": "Do you have a boyfriend?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6799,
+"en": "Show me Yua moves!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6800,
+"en": "Will you go on a date with me?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6801,
+"en": "Let's talk about some sexy stuff.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6802,
+"en": "Are you an S? Or maybe an M!?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6803,
+"en": "YESSS!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6804,
+"en": "I'll dominate you.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6805,
+"en": "I love AC.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6806,
+"en": "Take your clothes off!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6807,
+"en": "It'll feel good, I promise!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6808,
+"en": "I wanna seeee!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6809,
+"en": "Please do!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6810,
+"en": "Uh, you.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6811,
+"en": "I wonder what your type is.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6812,
+"en": "You mean... Down there?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6813,
+"en": "So you don't want that to be firm?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6814,
+"en": "Let me show you mine...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6815,
+"en": "Why don't you take your clothes off?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6816,
+"en": "Right, just a bit!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6817,
+"en": "So pumped...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6818,
+"en": "Looking good, Yua-chan!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6819,
+"en": "Bravo!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6820,
+"en": "I'm growing!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6821,
+"en": "My love! And something else too!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6822,
+"en": "Good stuff!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6823,
+"en": "Be more confident!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6824,
+"en": "Get right up on the screen!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6825,
+"en": "Oooooh...!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6826,
+"en": "So good...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6827,
+"en": "Take some more off?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6828,
+"en": "Just a bit more!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6829,
+"en": "You wanna take a look?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message + minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6830,
+"en": "Legs! Show us your legs!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6831,
+"en": "C'monnnn!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6832,
+"en": "An apple a day keeps Yua's clothes away.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6833,
+"en": "Take care of me...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6834,
+"en": "I wanna do it to you!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6835,
+"en": "A huge needle!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6836,
+"en": "I'll go easy on you.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message + minigame_mahjong_string_npc|開始時_3",
+"max": null
+},
+{
+"id": 6837,
+"en": "You're super hot.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6838,
+"en": "Wow!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6839,
+"en": "You're amazing!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6840,
+"en": "Pinch me, I'm dreaming!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6841,
+"en": "Mhm!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_cln|# …",
+"max": null
+},
+{
+"id": 6842,
+"en": "Leave it to me!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6843,
+"en": "Squeeze squeeze...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6844,
+"en": "Whaddya think?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b07|#",
+"max": null
+},
+{
+"id": 6845,
+"en": "Here we gooo!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6846,
+"en": "You're so cute...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6847,
+"en": "I love you!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_cln|#",
+"max": null
+},
+{
+"id": 6848,
+"en": "I wanna see everything.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6849,
+"en": "Show us your body.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6850,
+"en": "I want to touch you so bad.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6851,
+"en": "Just a little touch.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6852,
+"en": "That's fine by me!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6853,
+"en": "I adore you, Yua-chan!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6854,
+"en": "Same!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6855,
+"en": "Want me to help?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6856,
+"en": "I'll give you a private session.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6857,
+"en": "Who knows what'll happen then...",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6858,
+"en": "What do you say?",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6859,
+"en": "I can't wait til next time.",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6860,
+"en": "YEEEEEEEEEES!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6861,
+"en": "Nn!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6862,
+"en": "Yes please!",
+"ctx": "minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6863,
+"en": "Sexy",
+"ctx": "minigame_live_chat_chat_info|category",
+"max": null
+},
+{
+"id": 6864,
+"en": "Cute",
+"ctx": "minigame_live_chat_chat_info|category",
+"max": null
+},
+{
+"id": 6865,
+"en": "Let's have some fun...",
+"ctx": "minigame_live_chat_chat_info|message",
+"max": null
+},
+{
+"id": 6866,
+"en": "<symbol=note_with_outline>Yua's Room<symbol=note_with_outline>",
+"ctx": "minigame_live_chat_chat_info|message",
+"max": null
+},
+{
+"id": 6867,
+"en": "Anri",
+"ctx": "minigame_live_chat_chat_info|name",
+"max": null
+},
+{
+"id": 6868,
+"en": "Yua",
+"ctx": "minigame_live_chat_chat_info|name",
+"max": null
+},
+{
+"id": 6869,
+"en": "Hey there! I'm Anri!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6870,
+"en": "We're gonna have some fun today.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6871,
+"en": "You mean it? Glad to hear.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6872,
+"en": "People tell me I look really grown-up.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6873,
+"en": "Really?",
+"ctx": "minigame_live_chat_chat_messages|message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# …",
+"max": null
+},
+{
+"id": 6874,
+"en": "Then... why don't I provide some entertainment?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6875,
+"en": "Don't die on me!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6876,
+"en": "You're kinda weird, you know.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6877,
+"en": "Quite a charming sight, m'lady.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6878,
+"en": "Hold me!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6879,
+"en": "grown up in all the right places",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6880,
+"en": "pinch me",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6881,
+"en": "Yes please",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6882,
+"en": "Show us what you got!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6883,
+"en": "Mmmmmm",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6884,
+"en": "Go, Anri-chan, go!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6885,
+"en": "i cant die yet, still lots of boobs to see",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6886,
+"en": "Hey I'm weird too",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6887,
+"en": "Hello there! It's me, Anri!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6888,
+"en": "I can't wait to have fun with you today!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6889,
+"en": "Oh! You've been in here before, right?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6890,
+"en": "I'm glad you're back! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6891,
+"en": "You smooth-talker, you.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6892,
+"en": "Let's enjoy ourselves today, okay?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6893,
+"en": "That depends on all of you, though.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6894,
+"en": "You're gonna have to get me extra excited...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6895,
+"en": "Hi, guys! It's me, Anri!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6896,
+"en": "Let's have some fun today, okay?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6897,
+"en": "I missed you, too.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6898,
+"en": "Now, let's go to heaven... together. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6899,
+"en": "I can't wait.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6900,
+"en": "Take me sky high... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6901,
+"en": "My heart's beating really fast! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6902,
+"en": "Every time I do this",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6903,
+"en": "Hmmm, let me see...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6904,
+"en": "Around here?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6905,
+"en": "If this is getting you guys going,",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6906,
+"en": "just wait until later, okay? <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6907,
+"en": "You guys are so excited for this!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6908,
+"en": "It's so cute... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6909,
+"en": "Oh, right!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6910,
+"en": "Whose question should I answer...?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6911,
+"en": "Am I an S or an M, huh?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6912,
+"en": "What do you think?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6913,
+"en": "Okay, I'll tell you guys...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6914,
+"en": "Sooo... I might hurt you a bit. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6915,
+"en": "Why are you all so excited about this?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6916,
+"en": "Do I look <font_kind=yakuza_italic>that</font_kind> much like an S?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6917,
+"en": "You guys are so desperate.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6918,
+"en": "All right then.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6919,
+"en": "You know, this live chat site has been",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6920,
+"en": "going for younger girls lately.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6921,
+"en": "I was thinking",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6922,
+"en": "Would you guys",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6923,
+"en": "Yay! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6924,
+"en": "After all,",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6925,
+"en": "Don't rush me! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6926,
+"en": "Hey, it's getting kinda",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6927,
+"en": "warm in here...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6928,
+"en": "Huh? Maybe my AC's broken.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6929,
+"en": "Hmm, this is a problem.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6930,
+"en": "Whattt? You want me to strip?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6931,
+"en": "That's kinda embarrassing... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6932,
+"en": "Geez, you guys really want it that bad?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6933,
+"en": "Though... I guess it <font_kind=yakuza_italic>will</font_kind> cool me off a bit. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6934,
+"en": "Let me think about it, okay?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6935,
+"en": "Um, so everyone...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6936,
+"en": "What kinda girl do you like?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6937,
+"en": "Huhhh? You like <font_kind=yakuza_italic>me</font_kind>?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6938,
+"en": "I love it when you flatter me. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6939,
+"en": "Huh? You mean my type?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6940,
+"en": "Hmmm, good question.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6941,
+"en": "They have to be manly...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6942,
+"en": "Huh? Come on. I meant their arms.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6943,
+"en": "I like guys with firm muscles. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6944,
+"en": "Though... I like guys who are firm",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6945,
+"en": "down there even more... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6946,
+"en": "Stop making me talk about this stuff...! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6947,
+"en": "Wow. You're all so",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6948,
+"en": "I think I'm getting in the mood...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6949,
+"en": "Hmmm. Maybe...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6950,
+"en": "I could strip a bit for you.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6951,
+"en": "You guys are coming on way too strong!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6952,
+"en": "Anyway, here I go.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6953,
+"en": "Well? Am I beautiful?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6954,
+"en": "Thanks, guys.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6955,
+"en": "There's a lot more where that came from.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6956,
+"en": "So? How are you guys feeling?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6957,
+"en": "I love hearing how excited you are.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6958,
+"en": "Just imagining it",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6959,
+"en": "Huh? And <font_kind=yakuza_italic>what</font_kind> exactly is growing?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6960,
+"en": "Oooh. I see.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6961,
+"en": "Show me how big it can get... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6962,
+"en": "So, what do you guys think?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6963,
+"en": "How would you describe my boobs...?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6964,
+"en": "Glad to hear it. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6965,
+"en": "I'm honestly kinda confident in them. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6966,
+"en": "You really like them <font_kind=yakuza_italic>that</font_kind> much?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6967,
+"en": "Good thing I showed you, then.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6968,
+"en": "If that's how you all feel,",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6969,
+"en": "maybe I can show you a bit more.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6970,
+"en": "Maybe that was a bit too much... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6971,
+"en": "Huh? You want <font_kind=yakuza_italic>more</font_kind>?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6972,
+"en": "Should I do it...?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6973,
+"en": "I guess I don't mind, but",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6974,
+"en": "what are you going to do while I strip?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6975,
+"en": "I wonder what you mean by that.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6976,
+"en": "I really want to see",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6977,
+"en": "Oh yeah? Now <font_kind=yakuza_italic>that's</font_kind> confidence.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6978,
+"en": "You must be incredible... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6979,
+"en": "It's clear to me now,",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6980,
+"en": "What other parts do you like, though?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6981,
+"en": "So, legs?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6982,
+"en": "Then... how 'bout I show you?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6983,
+"en": "If you don't get more excited,",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6984,
+"en": "I'm not gonna show you... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6985,
+"en": "I love how desperate you guys are! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6986,
+"en": "Guess I can show you...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6987,
+"en": "What do you think, my leg lovers?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6988,
+"en": "Are you satisfied?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6989,
+"en": "Hiya!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6990,
+"en": "Thanks!",
+"ctx": "minigame_live_chat_chat_messages|message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|# …",
+"max": 15
+},
+{
+"id": 6991,
+"en": "I'm pretty into it, too.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6992,
+"en": "I love how much you like it! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6993,
+"en": "I was thinking of stripping for you guys,",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6994,
+"en": "but if I really look good in it,",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6995,
+"en": "maybe I'll just keep it on?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6996,
+"en": "I thought you said it looks good! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6997,
+"en": "But it'll look even better if I take it off!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6998,
+"en": "You guys are <font_kind=yakuza_italic>really</font_kind> into this, huh?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 6999,
+"en": "It's really getting me going.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7000,
+"en": "I'm seriously so turned on right now...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7001,
+"en": "Maybe... I should strip some more.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7002,
+"en": "Then... let's get started.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7003,
+"en": "It's gonna be good, so watch closely...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7004,
+"en": "So? Does this do it for you?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7005,
+"en": "I've been so sore lately...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7006,
+"en": "Think one of you could massage me?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7007,
+"en": "Then... Go ahead.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7008,
+"en": "That's nice...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7009,
+"en": "Ah! So good...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7010,
+"en": "Ahhh!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7011,
+"en": "You're really good at getting me going.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7012,
+"en": "My body feels amazing...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7013,
+"en": "Hey... Do you think I'm attractive?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7014,
+"en": "You guys are so kind... I love you, too.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7015,
+"en": "You know, I think I can be a little <font_kind=yakuza_italic>bold</font_kind> today.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7016,
+"en": "You want to see <font_kind=yakuza_italic>all</font_kind> of me?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7017,
+"en": "Maybe I'll oblige...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7018,
+"en": "So, what do you think of my body?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7019,
+"en": "Is it everything you hoped for?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7020,
+"en": "You know, guys...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7021,
+"en": "I want you to touch me <font_kind=yakuza_italic>so</font_kind> bad.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7022,
+"en": "Up here...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7023,
+"en": "I want you.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7024,
+"en": "Such a strong man...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7025,
+"en": "Maybe I'll let you... feel every inch of me...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7026,
+"en": "You know, I've been so stressed lately.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7027,
+"en": "I'm just so horny...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7028,
+"en": "Oh? Really?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7029,
+"en": "Maybe we can make each other feel good!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7030,
+"en": "How are you gonna get me going?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7031,
+"en": "And what's that entail?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7032,
+"en": "Pleasure and ecstasy, huh...?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7033,
+"en": "Just the thought is turning me on... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7034,
+"en": "I... I can't take it anymore... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7035,
+"en": "Hey, Kiryu-san...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7036,
+"en": "I want to show you <font_kind=yakuza_italic>everything</font_kind>.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7037,
+"en": "Then let's go!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7038,
+"en": "To our own private heaven...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7039,
+"en": "Sorry. I'm gonna log off.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7040,
+"en": "Come back some other time, okay?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7041,
+"en": "Aw, I'm not really feeling it today.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7042,
+"en": "Sorry, I'm gonna log off for now.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7043,
+"en": "Come visit me some other time, okay?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7044,
+"en": "We've done a lot today, but...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7045,
+"en": "I'm not really feeling it anymore.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7046,
+"en": "Sorry, guys. I'm gonna log off.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7047,
+"en": "I'll see you all next time. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7048,
+"en": "Until then, byeee!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7049,
+"en": "That was <font_kind=yakuza_italic>incredible</font_kind>.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7050,
+"en": "I don't think I've ever felt so good before...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7051,
+"en": "I can't wait for next time.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7052,
+"en": "We can have lots more fun together.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7053,
+"en": "Anyway, thanks for the amazing time... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7054,
+"en": "Hello everyone! I'm Yua!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7055,
+"en": "Is this your first time?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7056,
+"en": "I'm so glad you picked me. <symbol=note_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7057,
+"en": "Let's have some fun, okay?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7058,
+"en": "I'm still kinda new to this...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7059,
+"en": "But I'm gonna give it my all!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7060,
+"en": "Huh? Well... by talking?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7061,
+"en": "And maybe some dirty stuff, too?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7062,
+"en": "I wonder how it'll go...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7063,
+"en": "Be nice to me, okay? <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7064,
+"en": "Hello! It's me, Yua!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7065,
+"en": "Ah! You're here to see me again!?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7066,
+"en": "I'm flattered! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7067,
+"en": "It's really good to see you, too. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7068,
+"en": "Yes! Let's enjoy ourselves today! <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7069,
+"en": "Maybe I'll be a little more... daring than usual.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7070,
+"en": "Ah! You came again.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7071,
+"en": "I'm so glad! <symbol=note_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7072,
+"en": "I really wanted to see you. Honestly.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7073,
+"en": "I'd never lie to you!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7074,
+"en": "Please bring me to",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7075,
+"en": "the peak of ecstasy again... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7076,
+"en": "I can't wait. <symbol=note_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 7077,
+"en": "Let's get going, then. To heaven... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7078,
+"en": "I know this is my job and all",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7079,
+"en": "but having you guys watch me",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7080,
+"en": "Thanks for the advice.",
+"ctx": "minigame_live_chat_chat_messages|message + sound_auth|table/#//# + sound_auth_subtitles_speech_list_cln|#",
+"max": null
+},
+{
+"id": 7081,
+"en": "How do I relax, though?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7082,
+"en": "Smiling? Like this?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7083,
+"en": "Am I doing it?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7084,
+"en": "I think I'm a little calmer now. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7085,
+"en": "What can I do to make it up to you?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7086,
+"en": "I guess I can handle that.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7087,
+"en": "My heart's beating fast again...!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7088,
+"en": "Hmmm... What should we talk about?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7089,
+"en": "How about... question time!",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7090,
+"en": "A boyfriend? Nope... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7091,
+"en": "Nobody really interests me...",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7092,
+"en": "Well, I need a guy who's <font_kind=yakuza_italic>super</font_kind> fun.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7093,
+"en": "I like funny guys... <symbol=note_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7094,
+"en": "Is that a pun!?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7095,
+"en": "You're so weird. But kinda interesting, too. <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7096,
+"en": "Well... I'll think about it. <symbol=note_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7097,
+"en": "All right, guys.",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7098,
+"en": "Huh? You're such a perv... <symbol=heart_with_outline>",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7099,
+"en": "Am I an S or M...?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+},
+{
+"id": 7100,
+"en": "Um, what do I look like to you?",
+"ctx": "minigame_live_chat_chat_messages|message",
+"max": null
+}
+]

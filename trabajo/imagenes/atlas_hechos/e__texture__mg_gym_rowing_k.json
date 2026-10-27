@@ -1,0 +1,52 @@
+{
+ "textura": "e/texture/mg_gym_rowing_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    15,
+    9,
+    112,
+    23
+   ],
+   "en": "Seated Rowing",
+   "ocr": "Seated Roning",
+   "es": "Remo sentado",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 55,
+   "color": [
+    235,
+    195,
+    45
+   ],
+   "alto": 8,
+   "mediana": false
+  },
+  {
+   "caja": [
+    68,
+    216,
+    98,
+    231
+   ],
+   "en": "Hold Cow",
+   "ocr": "if Devs",
+   "es": "Mantén",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 30,
+   "color": [
+    240,
+    240,
+    240
+   ]
+  }
+ ]
+}

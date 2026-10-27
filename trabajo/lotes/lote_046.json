@@ -1,0 +1,1376 @@
+[
+{
+"id": 12130,
+"en": "It might work. Just keep it in mind.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12131,
+"en": "Okay. <symbol=note_with_outline> Thank you, Producer Kiryu. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12132,
+"en": "How about \"Make way for the Princess of the\nHealer Kingdom!\"",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12133,
+"en": "Kiryu-san, you're so good at this!\nI appreciate the serious thought.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12134,
+"en": "Well, I think your softness is what makes\nyou so unique.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12135,
+"en": "I only came up with it because I think a lot of guys\nlike me would be drawn to the promise of healing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12136,
+"en": "I'm happy you think of me that way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12137,
+"en": "And you even called me a princess... <symbol=note_with_outline>\nYou'll make me blush.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12138,
+"en": "Just food for thought.\nI hope you'll find the right approach.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12139,
+"en": "Me too! <symbol=note_with_outline>\nThank you for your input, Producer Kiryu. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12140,
+"en": "You know, until now, my only joy in life\nwas my daily dose of dried sweet potatoes...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12141,
+"en": "But I've discovered that talking to you is\nsomething I've started looking forward to!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12142,
+"en": "So I'm on the same level\nas dried sweet potatoes?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12143,
+"en": "Don't take it so negatively!\nI really, <font_kind=yakuza_italic>really</font_kind> like dried sweet potatoes.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12144,
+"en": "So being on that level means I <font_kind=yakuza_italic>really</font_kind>\nlike you too, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12145,
+"en": "Oh, what am I saying!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12146,
+"en": "Anyway, I just wanted to say it's been fun\ntalking to you... It makes my heart race.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12147,
+"en": "Your heart races, huh? That sounds...\n...like you might be a little love sick.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12148,
+"en": "Just messing with you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12149,
+"en": "Come on, don't tease me.\nBesides... I'm not joking.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12150,
+"en": "Hm? About what?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12151,
+"en": "It's nothing! Kiryu-san...\nYou're so dense.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12152,
+"en": "Am I?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12153,
+"en": "Yeah, well... that's actually part of your\ncharm, I suppose.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12154,
+"en": "Hm... I'll take that as a compliment.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12155,
+"en": "What a coincidence. Me too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12156,
+"en": "Huh!? Does that mean...\nYou feel the love too?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12157,
+"en": "Yeah. I feel the same way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12158,
+"en": "Oh no... What should I do?\nI'm not ready... and you're so bold...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12159,
+"en": "But... I'm happy, Kiryu-san...\nAs long as it's with you, I...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12160,
+"en": "Hm? Where are you going with this?\nWe're talking about dried sweet potatoes, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12161,
+"en": "I love dried sweet potatoes, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12162,
+"en": "Oh, Kiryu-san! Don't be so vague when\nyou say such important things!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12163,
+"en": "...Vague?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12164,
+"en": "...That's enough of that.\nI got all worked up for nothing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12165,
+"en": "You're weird, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12166,
+"en": "You need to lay off the dried sweet potatoes.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12167,
+"en": "Huh? You think so?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12168,
+"en": "You know... starch goes right to the stomach.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12169,
+"en": "Besides, everything in moderation, you know?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12170,
+"en": "Okay. You're weird, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12171,
+"en": "Yes. Of course, I mean that in a good way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12172,
+"en": "Kiryu-san, I actually have something\nI want to report!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12173,
+"en": "Oh yeah? What's the occasion?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12174,
+"en": "I'm... going to sign a contract with a talent\nagency to become an idol!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12175,
+"en": "What? Really?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12176,
+"en": "Yeah! I auditioned, made it through the test,\nand managed to get a call back!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12177,
+"en": "That's great! You're an idol now!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12178,
+"en": "Well, this is only where it starts.\nThe real challenge is what comes next.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12179,
+"en": "But... it's all thanks to you, Kiryu-san.\nThank you so much!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12180,
+"en": "I didn't do anything.\nIt was all you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12181,
+"en": "No, this only happened because of\nwhat you said to me that one time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12182,
+"en": "I was afraid to commit to it, but you made me\ncome out of my shell and get serious about it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12183,
+"en": "You do seem more confident than back then.\nGive it your best shot, okay?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12184,
+"en": "I will! I actually have a meeting with the\nagency after this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12185,
+"en": "The interview was held at a different location, so\nthis'll be my first time going to the office. I'm nervous...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12186,
+"en": "That's okay. There's a lot of different types of people\nin the entertainment industry, so just be careful, okay?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12187,
+"en": "I will. Thank you. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12188,
+"en": "Well, see you later, Kiryu-san. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12189,
+"en": "Let's see... I like tea,\nso I go to a lot of tea parties.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12190,
+"en": "Yeah? Do you make your own tea?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12191,
+"en": "Yes! Of course, I like drinking it, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12192,
+"en": "Oh! Would you like me to make some\nfor you too, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12193,
+"en": "Sure. Looking forward to it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12194,
+"en": "Hmm... I usually go shopping,\nor I'll just wander around outside.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12195,
+"en": "I see.\nWhat kind of stuff do you shop for?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12196,
+"en": "Oh, just the usual women's stuff.\nBeauty products, cute clothes, you know.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12197,
+"en": "Let me buy next time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12198,
+"en": "Wow, really!?\nThat makes me happy! <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12199,
+"en": "Buy some for me next time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12200,
+"en": "Huh...? Beauty products and cute clothes?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12201,
+"en": "Kiryu-san... Are you into that kind of thing?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12202,
+"en": "What? N-No, it's not like that...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12203,
+"en": "Don't worry. I won't tell anyone!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12204,
+"en": "Besides, I bet you'd be pretty cute\nin drag, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12205,
+"en": "(That came out the wrong way...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12206,
+"en": "Oh... Am I boring you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12207,
+"en": "No, I didn't mean that...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12208,
+"en": "Come on, Kiryu-san! What am I supposed\nto think with a response like that? Hmph!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12209,
+"en": "I started here just after I started college,\nso this'll be my fourth year.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12210,
+"en": "Four years, huh?\nWould you say you're used to the job, then?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12211,
+"en": "No way! I've got a ways to go. The moment I let my\nguard down I make mistakes, so I try to stay focused.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12212,
+"en": "I see. I suppose giving it that\nkind of attention is a good thing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12213,
+"en": "I'm from Kanagawa, near the sea.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12214,
+"en": "Huh. So, can you swim?\nPeople are into surfing there, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12215,
+"en": "I can't swim at all... Can you, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12216,
+"en": "I suppose so.\nI've gotten into spearfishing lately.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12217,
+"en": "Oh, that's amazing! Woooow!\nYou'll have to teach me that some time!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12218,
+"en": "Dried sweet potatoes and beef jerky!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12219,
+"en": "They're kinda tough, and I like how the more\nyou chew them, the more flavor you get.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12220,
+"en": "Wow. You've got quite a refined palate.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12221,
+"en": "Why, thank you. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12222,
+"en": "I suppose I like a kind man.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12223,
+"en": "The kind of guy who helps an old woman\ncarry something heavy comes to mind.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12224,
+"en": "Kiryu-san, are you the type to help an\nold lady out?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12225,
+"en": "Isn't it obvious?\nOf course I would.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12226,
+"en": "I knew you were kind.\nThat's wonderful. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12227,
+"en": "Nope, can't say I'd carry her stuff.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12228,
+"en": "Huh? Why not?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12229,
+"en": "These days, old people get mad if you\ntry to treat them like senior citizens.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12230,
+"en": "Oh, I have heard of that happening.\nHmmm... Must be tough.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12231,
+"en": "Actually, I'd pick up both the stuff\nand the old lady.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12232,
+"en": "What!? You'd carry them both!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12233,
+"en": "I never thought of that!\nYou're so kind! That's wonderful... <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12234,
+"en": "I don't know if I'd call it kind, but...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12235,
+"en": "I don't think I'm all that different, but\nI guess I'm the type who craves attention.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12236,
+"en": "Oho. Attention does it for you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12237,
+"en": "Yep. I may-eow even talk like a cat.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12238,
+"en": "I'll give you as much attention as you want.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12239,
+"en": "Oh, Kiryu-san! <symbol=note_with_outline> I'm so happy right meow. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12240,
+"en": "I don't really like women who beg for attention.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12241,
+"en": "Whaaat? You don't like me, Kiryu-san?\nMeow I'm all sad... <symbol=note_with_outline> I apawlogize... <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12242,
+"en": "I forgive you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12243,
+"en": "That's cute-meow...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12244,
+"en": "Kiryu-san!? Did you just say \"that's cute-meow\"?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12245,
+"en": "N-Nope, forget I said anything.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12246,
+"en": "I know what I heard!\nYou're so mischievous that it's cute. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12247,
+"en": "For a long time, I've dreamt of becoming an idol.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12248,
+"en": "But I'm not a teenager anymore, and people tell\nme to just get a job... I'm keeping my options open.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12249,
+"en": "When I was a kid,\nI thought I wanted to be a teacher.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12250,
+"en": "A teacher, huh? That's a nice dream.\nWhat changed your mind?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12251,
+"en": "Back in school, I started hearing about\nthese \"monster parents.\"",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12252,
+"en": "I figured I didn't stand a chance against\nany monsters, so...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12253,
+"en": "Monster parents...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12254,
+"en": "Oh, those!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12255,
+"en": "Exactly. It'd be tough to deal with them,\nyou know?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12256,
+"en": "Yep. Probably real difficult.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12257,
+"en": "Kiryu-san... Are you even following?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12258,
+"en": "Yeah, the unreasonable types, right? The kind that\ncomplain about their kids' teachers to the school...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12259,
+"en": "Yeah. It's hard for me to be firm with people,\nso I'd probably have gotten sick with stress...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12260,
+"en": "Teachers have it rough these days...\nThough, I bet the kids would all like your class.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12261,
+"en": "You really think so? I'm happy to hear that. <symbol=note_with_outline>\nI love kids.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12262,
+"en": "Oh, someone like Kazama-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12263,
+"en": "Huh? Kazama-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12264,
+"en": "Yeah. He was pretty scary when he got mad.\nHe was kind of a monster in the underworld.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12265,
+"en": "Underworld? Kiryu-san, you're losing me here...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12266,
+"en": "Oh, I'm good at giving shoulder massages.\nMy friends are always telling me that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12267,
+"en": "I massaged my dad's shoulders a lot when I was\nlittle. Does Papa Kiryu want a massage, too?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12268,
+"en": "Oh, you don't mind?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12269,
+"en": "Not at all! It'll cost you extra, though. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12270,
+"en": "Tch... You're pretty devious.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12271,
+"en": "I don't know if this counts as interesting,\nbut I did some volunteering overseas last month.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12272,
+"en": "Huh. Never guessed you'd be into that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12273,
+"en": "I am. I was helping out with some tree planting,\nbut physical labor is hard work.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12274,
+"en": "But in my free time I got to interact with the\nlocals, and it was a new and really fun experience.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12275,
+"en": "I bet. What country were you in?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12276,
+"en": "(Myanmar...?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12277,
+"en": "Oh, isn't that in southeast Asia?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12278,
+"en": "Yeah! I'm impressed you knew that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12279,
+"en": "Of course. Common knowledge, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12280,
+"en": "Anyway, I think it's great that you're getting\nthat kind of experience while you're young.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12281,
+"en": "Thank you. I hope it ends up being useful\nsomehow.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12282,
+"en": "The place with those famous hot springs\nin Kusatsu?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12283,
+"en": "That's Gunma.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12284,
+"en": "Isn't that some English word for a tool?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12285,
+"en": "That's a \"hammer.\"",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12286,
+"en": "Not really, but I feel like that's okay.\nMy philosophy is to have a few good friends.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12287,
+"en": "Did you know you can play games on your\nphone these days? I do that a lot lately.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12288,
+"en": "What kind of games do you play, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12289,
+"en": "I hit up the arcades a lot.\nSo, arcade games.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12290,
+"en": "Wow! I haven't been to one in a while.\nYou should take me there sometime!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12291,
+"en": "I'm all about the mobile games.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12292,
+"en": "Really? Which ones do you play?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12293,
+"en": "Huh? Uh, I don't know...\nWhatever's popular.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12294,
+"en": "Kiryu-san... You don't really play, do you?\nYou need to learn how to lie better.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12295,
+"en": "You got me... Sorry.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12296,
+"en": "Lately... I'm caught up in the game of love.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12297,
+"en": "Kiryu-san, you try to act so cool sometimes.\nYou're a funny guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12298,
+"en": "Huh? What secret?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12299,
+"en": "Well, actually...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12300,
+"en": "I've been to prison before.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12301,
+"en": "But you don't seem like a bad person\nto me, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12302,
+"en": "Ah, maybe it was a false charge?\nOr were you trying to protect someone else?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12303,
+"en": "Sometimes I wonder.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12304,
+"en": "Well, people have all kinds of circumstances.\nI don't believe you're a bad person at all.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12305,
+"en": "People pick fights with me a lot.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12306,
+"en": "I bet... You kind of look like the type!\nI don't think that's much of a secret, really.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12307,
+"en": "I'm 100,024 years old.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12308,
+"en": "...Never mind.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + sound_auth_subtitles_speech_list_caba_sora|# …",
+"max": null
+},
+{
+"id": 12309,
+"en": "A lot of people in other countries seem to have\nthem. I don't think they're all that bad, really.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12310,
+"en": "It seems like such a painful process though...\nWait... Do you have one, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12311,
+"en": "Yeah, on my back.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12312,
+"en": "Wow, really?\nWhat kind of design is it?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12313,
+"en": "A dragon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12314,
+"en": "Oooh, sounds cool.\nI kind of wanna see it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12315,
+"en": "Angel wings.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12316,
+"en": "Aww. I hope you use those wings to fly\nto the future!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12317,
+"en": "Hikaru... It's you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12318,
+"en": "Huh? Me!? Did you make sure\nI turned out cute?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12319,
+"en": "Yeah, it's really cute... for a dragon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12320,
+"en": "What, so it's a dragon!?\nYou're silly, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12321,
+"en": "I do drink, and I think I can hold\nit pretty well, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12322,
+"en": "But I'm not a big fan of carbonation,\nso I stay away from beers and sours.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12323,
+"en": "But around you, who knows? I might\nlet my guard down and get drunk... <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12324,
+"en": "Oh, I've heard of them. There's a lot of\nnaughty guys in there, aren't there?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12325,
+"en": "Hmm... Well, you're not wrong...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12326,
+"en": "Something new probably happens\nevery day there. Might be fun.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12327,
+"en": "Oh, that idol that was popular a little\nwhile back? She was soooo cute.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12328,
+"en": "I was really disappointed when she retired.\nWere you a fan of hers, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12329,
+"en": "Well... you could say that.\nI'm a pretty big fan.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12330,
+"en": "Wow, I never would've guessed!\nI practically had her CD on repeat.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12331,
+"en": "Oh! I'd love to hear about your adventures!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12332,
+"en": "I have kind of a legendary saga in crime.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12333,
+"en": "Say what?\nYou have legendary sugar sometimes?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12334,
+"en": "That's really sweet!\nI love brown sugar, myself. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12335,
+"en": "A long time ago,\nI defeated some tigers with my bare hands.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12336,
+"en": "That's a good one.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12337,
+"en": "I cook a lot, actually. I like dried sweet potatoes,\nso I'm experimenting with them in my dishes.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12338,
+"en": "Dried sweet potatoes?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12339,
+"en": "Yep. Once I get it down,\nI'll bring you some, okay?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12340,
+"en": "I'm type A. What about you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12341,
+"en": "I'm type O.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12342,
+"en": "Really? A and O are supposed to be pretty\ncompatible, you know. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12343,
+"en": "Gross, you can't just jump into dirty topics\nlike that... I'm not telling!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12344,
+"en": "What? You really want to know that much?\nWell... I can make an exception just for you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12345,
+"en": "It's actually... zero.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12346,
+"en": "You're lying...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12347,
+"en": "It's not a lie... <symbol=note_with_outline>\nIdols don't do stuff like that. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12348,
+"en": "That's pretty cool...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + talk",
+"max": 63
+},
+{
+"id": 12349,
+"en": "Oh... You're into that, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12350,
+"en": "Then I'll volunteer to be the first...\nKidding, of course.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12351,
+"en": "Oh, Kiryu-san. I hope you stay in the running. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12352,
+"en": "No boyfriend here! Right now I'm focused\non my job and my dream.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12353,
+"en": "Can't say that I do.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|# + sound_auth_subtitles_speech_list_main07|# …",
+"max": 31
+},
+{
+"id": 12354,
+"en": "Aren't you lonely?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12355,
+"en": "When I'm lonely, I just think about you,\nKiryu-san. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12356,
+"en": "You know how to make me happy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12357,
+"en": "My dream is to become an idol, so I figured\nthis might give me some good experience.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 12358,
+"en": "Huh. I guess idols and hostesses do have sort\nof similar traits, like...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+}
+]

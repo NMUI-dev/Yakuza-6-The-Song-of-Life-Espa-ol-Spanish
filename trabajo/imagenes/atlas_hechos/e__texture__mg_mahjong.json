@@ -1,0 +1,44 @@
+{
+ "textura": "e/texture/mg_mahjong",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    3,
+    158,
+    295,
+    199
+   ],
+   "en": "CONGRATULATIONS!",
+   "ocr": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 274,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "margen": 2
+  },
+  {
+   "caja": [
+    11,
+    203,
+    287,
+    230
+   ],
+   "en": "CONGRATULATIONS!",
+   "ocr": "CONGRATULATIONS!",
+   "es": "¡FELICIDADES!",
+   "fuente": "segoeuiz.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 276
+  }
+ ]
+}

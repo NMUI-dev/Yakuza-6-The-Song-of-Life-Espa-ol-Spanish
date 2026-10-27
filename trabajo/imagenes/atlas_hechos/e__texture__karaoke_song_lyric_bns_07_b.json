@@ -1,0 +1,40 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_07_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    21,
+    0,
+    578,
+    104
+   ],
+   "en": "Tokidoki jishin kajou de",
+   "ocr": "自信過剩T jishin kajou",
+   "es": "A veces con exceso de confianza,",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 557,
+   "dejar": true
+  },
+  {
+   "caja": [
+    622,
+    0,
+    1352,
+    104
+   ],
+   "en": "大抵自信が持ってない",
+   "ocr": "太越信 taitei jishin mo te na",
+   "es": "Por lo general no tengo confianza en mí.",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 730,
+   "dejar": true
+  }
+ ]
+}

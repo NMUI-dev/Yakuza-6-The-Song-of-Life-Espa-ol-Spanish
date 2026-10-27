@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/bc_sb_m_sandaazu",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    48,
+    1024,
+    222
+   ],
+   "en": "JINGAI THUNDERS",
+   "ocr": "JINGAI THUNDERS",
+   "es": "JINGAI THUNDERS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1020
+  }
+ ]
+}

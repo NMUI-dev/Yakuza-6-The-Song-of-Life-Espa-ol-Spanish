@@ -1,0 +1,1694 @@
+[
+{
+"id": 4842,
+"en": "Accept Yoshida's challenge",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4843,
+"en": "Hit five consecutive home runs",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4844,
+"en": "Stop the Criminals Once and for All!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4845,
+"en": "Get rid of the drunk",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4846,
+"en": "Find the lost child",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4847,
+"en": "Talk to the Haruka fan",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4848,
+"en": "Find Haruka merchandise",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4849,
+"en": "Gather info on Haruka merchandise",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4850,
+"en": "Get the picture of Haruka",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4851,
+"en": "Save the Haruka fan",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4852,
+"en": "Give Ayaka the picture of Haruka",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4853,
+"en": "Ayaka seemed thrilled",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4854,
+"en": "See what the guy has to say",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4855,
+"en": "Catch the cleaning robot",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4856,
+"en": "Defeat the dirtbags",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4857,
+"en": "Install the Hiji app",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4858,
+"en": "Try out the Hiji app in an isolated place",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4859,
+"en": "Leave the Children's Park",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4860,
+"en": "Beat up the drunk thug",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4861,
+"en": "Go see the Hiji salesman",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4862,
+"en": "Catch the thief",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4863,
+"en": "Met an online video creator",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4864,
+"en": "Met the annoying video guy again",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4865,
+"en": "This guy never learns...",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4866,
+"en": "Help Tsutsui",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4867,
+"en": "Teach Tsutsui a lesson",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4868,
+"en": "There's apparently a drone nearby",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4869,
+"en": "Find the source of the scream",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4870,
+"en": "Find the drone",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4871,
+"en": "Chase the drone",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4872,
+"en": "Defeat the yakuza",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4873,
+"en": "Investigate the bomb site",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4874,
+"en": "Find the culprit",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4875,
+"en": "Defeat the man in the yellow tracksuit",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4876,
+"en": "Chase the man in the yellow tracksuit",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4877,
+"en": "Meet Lau Ka Long's heir",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4878,
+"en": "Defeat the Snake Flower Triad",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4879,
+"en": "Look for Reiko",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4880,
+"en": "Keep looking for Reiko",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4881,
+"en": "Punish the scammers",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4882,
+"en": "Buy a prepaid card at a convenience store",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4883,
+"en": "Head to the roof of the Senryo Building",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4884,
+"en": "Take down the fraudsters",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4885,
+"en": "Chase after Hikaru",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4886,
+"en": "Head inside and save Hikaru",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4887,
+"en": "Rescue Hikaru from the muscleheads",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4888,
+"en": "Take down the stalker",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4889,
+"en": "Learn more about live chat",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4890,
+"en": "Defeat Sodachi again",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4891,
+"en": "Defeat the muggers",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4892,
+"en": "Defeat the JUSTIS thugs",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4893,
+"en": "Defeat Yano",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4894,
+"en": "Defeat Naito",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4895,
+"en": "Defeat the TenCozy Tag Team",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4896,
+"en": "Defeat Tanahashi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4897,
+"en": "Defeat Okada",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4898,
+"en": "Defeat Satsuki",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4899,
+"en": "Hear the old man out",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4900,
+"en": "Infiltrate the cult headquarters",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4901,
+"en": "Defeat the cultists",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4902,
+"en": "Punish Munan Akamatsu",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4903,
+"en": "Met Pocket Circuit Fighter again",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4904,
+"en": "Made a promise to Sakito",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4905,
+"en": "Find Sakito",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4906,
+"en": "Protect Sakito",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4907,
+"en": "Defeat the ghost",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4908,
+"en": "Go see the ghosts at the cemetery",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4909,
+"en": "Defeat all the ghosts",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4910,
+"en": "Go see the old man at the cemetery",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4911,
+"en": "Become a mascot",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4912,
+"en": "Defeat the thugs",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4913,
+"en": "Listen to Hironaka",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4914,
+"en": "Talk to Shizuko",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4915,
+"en": "Head to Yonetoku",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4916,
+"en": "Teach the thugs a lesson",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4917,
+"en": "Time leap...?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4918,
+"en": "The time leaping girl is back",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4919,
+"en": "Fight off the thugs",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4920,
+"en": "They switched bodies...?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4921,
+"en": "Defeat Muranaka and the others",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4922,
+"en": "Listen to Hatakeyama-san's worries",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4923,
+"en": "Check on Hatakeyama-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4924,
+"en": "Talk to Hatakeyama-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4925,
+"en": "Listen to Akiyoshi-san's story",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4926,
+"en": "Find Akiyoshi-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4927,
+"en": "Talk to Akiyoshi-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4928,
+"en": "Follow Gen-san inside",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4929,
+"en": "Help Gen-san conquer technology",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4930,
+"en": "Go see Gen-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4931,
+"en": "Check on Gen-san's progress",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4932,
+"en": "Wait for Ando-san at Otafuku Pawn Shop",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4933,
+"en": "Wait for Ando-san at New Gaudi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4934,
+"en": "Go to Otafuku Pawn Shop",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4935,
+"en": "Punish the thief",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4936,
+"en": "Find Ando-san by the shore",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4937,
+"en": "Ando-san got back together with his wife",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4938,
+"en": "Meet Kaneko-san at New Gaudi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4939,
+"en": "Tell Kaneko-san what Tsunashima said",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4940,
+"en": "Talk to Kaneko-san at New Gaudi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4941,
+"en": "Drop by New Gaudi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4942,
+"en": "Hide Mama's letter",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4943,
+"en": "Kill time until the meeting",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4944,
+"en": "Head to the docks for the meeting",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4945,
+"en": "Hide Mama's letter again",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4946,
+"en": "Head to New Gaudi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4947,
+"en": "Go see Isao-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4948,
+"en": "Talk to Isao-san",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4949,
+"en": "Capture the legendary octopus",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4950,
+"en": "Defeat the Bloody Shark",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4951,
+"en": "Defeat Saigo again",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4952,
+"en": "Learned the joy of New Gaudi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4953,
+"en": "I'll fill in the guys.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4954,
+"en": "Maybe I can ask around the area.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4955,
+"en": "Defeat the enemies",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4956,
+"en": "Save the person from falling",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4957,
+"en": "Defeat Tamotsu",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4958,
+"en": "Defeat Yasu",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4959,
+"en": "Defeat Dobashi",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4960,
+"en": "Defeat Tanogami",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4961,
+"en": "Defeat Nogami",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4962,
+"en": "Defeat Samurai",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4963,
+"en": "Defeat Obara",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4964,
+"en": "Defeat Jono",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4965,
+"en": "Defeat Fujitake",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4966,
+"en": "Defeat Hashimoto",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4967,
+"en": "Time to call it a night.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4968,
+"en": "I'll see how I can help.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4969,
+"en": "Kiyomi will bring Haruto by.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4970,
+"en": "Then it's back to Kamurocho.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4971,
+"en": "Time to call on an old friend.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4972,
+"en": "Did Akiyama go back underground?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4973,
+"en": "I'm meeting Akiyama there.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4974,
+"en": "Akiyama is making this difficult.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4975,
+"en": "Who's stupid enough to follow me?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4976,
+"en": "Hopefully this goes as planned.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4977,
+"en": "I should talk to Akiyama first.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4978,
+"en": "We need to get back, fast.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4979,
+"en": "Maybe the Hirose Family would know.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4980,
+"en": "Can I get to the second floor?",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4981,
+"en": "Haruto is my first priority.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4982,
+"en": "His room might have a clue.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4983,
+"en": "Head into the popular gym, RIZAP",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4984,
+"en": "I should have a word with Yuta.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4985,
+"en": "Catch the pickpocket",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4986,
+"en": "Play darts with Paul Lim",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4987,
+"en": "Win a rematch against the Kanamizawa Gorgeous",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4988,
+"en": "Won against the Kanamizawa Gorgeous",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4989,
+"en": "Put a stop to the grave robbery",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4990,
+"en": "Deliver the ramen",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4991,
+"en": "Defeat the Kamurocho arsonist",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4992,
+"en": "Put out the Kamurocho fire",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4993,
+"en": "Put out the Onomichi fire",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4994,
+"en": "Put out the Onomichi car fire",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4995,
+"en": "Defeat JUSTIS",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4996,
+"en": "This is personal now.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4997,
+"en": "Go to the catless cat café",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4998,
+"en": "Find the bomb",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 4999,
+"en": "Find the bomber",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5000,
+"en": "He's got a story to finish.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5001,
+"en": "I should apologize.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5002,
+"en": "Train at RIZAP",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5003,
+"en": "Follow the diet plan",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5004,
+"en": "I'll kill some time until he calls.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5005,
+"en": "Someya must be in the bath.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5006,
+"en": "An ambush, of course.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5007,
+"en": "It's just me and him now.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5008,
+"en": "We'll break through them!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5009,
+"en": "Meet up with Reiko",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5010,
+"en": "Akiyama, this better work.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5011,
+"en": "Hirose must have some favorite spots.",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5012,
+"en": "I won't let him do this!",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5013,
+"en": "Meet up with Erina",
+"ctx": "mission_kind|mission",
+"max": null
+},
+{
+"id": 5014,
+"en": "UNUSED",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5015,
+"en": "I need to cheer up Haruto.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5016,
+"en": "These guys are a real thorn in my side.\nNot much choice but to fight them, though.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5017,
+"en": "Running out of toilet paper in a public bathroom\nis not a nightmare I'd want to live through.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5018,
+"en": "(Chapter 1)\nI can't let the kids keep worrying about Haruka.\nI should try to calm them down a bit.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5019,
+"en": "(Chapter 1)\nAkiyama... His company, Sky Finance, should be\non Tenkaichi Street.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5020,
+"en": "(Chapter 1)\nMaybe I can learn something over in Little Asia.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5021,
+"en": "(Chapter 1)\nAkiyama apparently hung around with the homeless\nover at the Children's Park. I should go check it out.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5022,
+"en": "(Chapter 1)\nThat homeless guy wants a bento in exchange for info.\nI should head to a convenience store and get one for him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5023,
+"en": "(Chapter 1)\nIs Akiyama really down there?\nI guess there's only one way to find out.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5024,
+"en": "(Chapter 1)\nWhat was Haruka doing in Kamurocho?\nI need to head over to Touto Hospital and find out.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5025,
+"en": "(Chapter 2)\nThere must be some clues here about what happened...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5026,
+"en": "(Chapter 2)\nLooks like I'm heading to Tojo Clan HQ.\nI should grab a taxi and get going.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5027,
+"en": "(Chapter 2)\nI should rest at New Serena for now.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5028,
+"en": "(Chapter 2)\nI wonder if I can learn anything about the culprit\nout on the streets of Kamurocho...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5029,
+"en": "(Chapter 3)\nThis is where that picture of Haruka was taken.\nMaybe the locals would have seen her here.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5030,
+"en": "(Chapter 3)\n...I'm already on the local yakuza's bad side.\nEither way, Haruto is waiting for me.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5031,
+"en": "(Chapter 3)\nI need milk, badly. Hopefully I can find some soon.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5032,
+"en": "(Chapter 3)\nIt sounds like they sell milk over at the pharmacy.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5033,
+"en": "(Chapter 3)\nIt looks like I'll need to rely on Ino again.\nMaybe the mama from Snack Kiyomi can contact him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5034,
+"en": "(Chapter 3)\nIt seems like I'll be able to get some milk from\nthe barber shop over in the bar district.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5035,
+"en": "(Chapter 3)\nPhew, my search for milk is finally over.\nTime to head home and feed Haruto.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5036,
+"en": "(Chapter 3)\nI don't have any leads, but there might be some info\non Haruto's father out in the town somewhere.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5037,
+"en": "(Chapter 3)\nI should go thank Kiyomi for yesterday.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5038,
+"en": "(Chapter 3)\nI should head over to Snack Kiyomi.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5039,
+"en": "(Chapter 3)\nDammit, where'd they go?\nThey can't have gone too far.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5040,
+"en": "(Chapter 3)\nThe ropeway's closed for the night.\nI'll have to take the trail up the hill instead.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5041,
+"en": "(Chapter 4)\nMatsunaga's apparently in a fight over in a bar\ncalled Moreno. I might have to go help him out...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5042,
+"en": "(Chapter 4)\nTime flies when you're beating up thugs.\nI need to go pick up Haruto from Kiyomi's.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5043,
+"en": "(Chapter 4)\nMaybe someone over at the Hirose Family Office\nrecognizes Haruka from her time spent here...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5044,
+"en": "(Chapter 4)\nI should follow Kiyomi up to Ryunan Shrine.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5045,
+"en": "(Chapter 4)\nMatsunaga must have gone to the Hirose Family Office.\nThings might go south fast if I don't get there soon.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5046,
+"en": "(Chapter 5)\nI might as well explore the town a bit\nbefore I go meet up with Kiyomi.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5047,
+"en": "(Chapter 6)\nLet's stop by Café Alps for the time being.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5048,
+"en": "(Chapter 6)\nI never expected to see the Jingweon Mafia again...\nIn any case, we should go to Stardust for now.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5049,
+"en": "(Chapter 6)\nApparently Tatsukawa's been living in a building\njust off Senryo Avenue called the Ouka Building...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5050,
+"en": "(Chapter 7)\nNagumo and Yuta are expecting me back at Serena.\nI shouldn't keep them waiting.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5051,
+"en": "(Chapter 7)\nAkiyama's waiting for us in front of Little Asia. Let's go.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5052,
+"en": "(Chapter 8)\nAn old soapland called Shangri-La stands before us.\nThat's where Lo is waiting.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5053,
+"en": "(Chapter 9)\nWhy would Hirose-san kidnap Haruto?\nEither way, I should talk to Yuta and the others at New Serena.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5054,
+"en": "(Chapter 9)\nMatsunaga and Tagashira are waiting for us.\nLet's head over to Moreno as soon as we can.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5055,
+"en": "(Chapter 9)\nSnack Hourglass might be somewhere Hirose-san hangs out.\nI should check it out.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5056,
+"en": "(Chapter 9)\nHirose-san is apparently up at Ryunan Shrine...\nand from the sound of it, Haruto is with him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5057,
+"en": "(Chapter 10)\nIs Haruto safe? What about Yuta and the others?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5058,
+"en": "(Chapter 10)\nIt sounds like Ino has a boat he can use to help us.\nI should hurry down to the dock.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5059,
+"en": "(Chapter 11)\nI should bring Haruto back to the apartment for now.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5060,
+"en": "(Chapter 11)\nThere's no way I'm bringing Haruto to Little Asia with me.\nI bet Date-san would be able to keep him safe.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5061,
+"en": "(Chapter 1)\nI really don't have time for this...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5062,
+"en": "(Chapter 1)\nLooks like fighting is my only option...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5063,
+"en": "(Chapter 1)\nWhat are these guys doing back here?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5064,
+"en": "(Chapter 1)\nLet's do this together, old friend.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5065,
+"en": "(Chapter 2)\nI need to know why that guy was taking pictures of me.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5066,
+"en": "(Chapter 2)\nSorry about this, old friend.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5067,
+"en": "(Chapter 3)\nThis guy doesn't deserve to call himself yakuza.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5068,
+"en": "(Chapter 3)\nI'll make this guy pay for disrupting my conversation.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5069,
+"en": "(Chapter 3)\nSo much for a nice, friendly game of baseball.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5070,
+"en": "(Chapter 3)\nI can't sit by and let those guys kill Nagumo.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5071,
+"en": "(Chapter 4)\nThese guys are scum, through and through.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5072,
+"en": "(Chapter 4)\nLooks like the Masuzoe Family is out for revenge.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5073,
+"en": "(Chapter 4)\nI can't save Matsunaga with these two in my way...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5074,
+"en": "(Chapter 4)\nNo choice but to fight this Masuzoe guy again.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5075,
+"en": "(Chapter 5)\nLet's take down our little welcome party.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5076,
+"en": "(Chapter 5)\nWe need to find Kiyomi, fast!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5077,
+"en": "(Chapter 5)\nMaybe she's up here. We need to hurry!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5078,
+"en": "(Chapter 5)\nCome back, you coward!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5079,
+"en": "(Chapter 5)\nThis \"modern\" yakuza really gets under my skin...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5080,
+"en": "(Chapter 6)\nLooks like some of the Jingweon still hate me.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5081,
+"en": "(Chapter 6)\nI'll make him pay for what he did to Yuta.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5082,
+"en": "(Chapter 7)\nI can't believe I fell into their trap...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5083,
+"en": "(Chapter 7)\nWho the heck are these guys?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5084,
+"en": "(Chapter 7)\nWe're close. Just need to find a way in now.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5085,
+"en": "(Chapter 7)\nIf I want more information, I'll have to beat it out of him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5086,
+"en": "(Chapter 8)\nWhat's Big Lo doing in a run-down place like this?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5087,
+"en": "(Chapter 8)\nNo surprise this was Someya's plan. Time to take him down.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5088,
+"en": "(Chapter 9)\nWe really don't have time to waste on these punks.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5089,
+"en": "(Chapter 9)",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5090,
+"en": "(Chapter 9)\nI need to beat these guys fast and head to Snack Hourglass.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5091,
+"en": "(Chapter 9)\nNo way am I letting this bastard slow me down.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5092,
+"en": "(Chapter 10)\nI'll do whatever it takes to keep Haruto safe!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5093,
+"en": "(Chapter 10)\nWhat is this guy doing here...?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5094,
+"en": "(Chapter 10)\nI need to find Joon-gi Han and get Haruto back!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5095,
+"en": "(Chapter 10)\nI'll make him pay for everything he's done.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5096,
+"en": "(Chapter 11)\nThey're going to let me in one way or another.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5097,
+"en": "(Chapter 11)\nI don't have time for this. Step aside, Ed!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5098,
+"en": "(Chapter 11)\nI won't let Yuta abandon his family like this!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5099,
+"en": "(Chapter 12)\nKurusu wants me gone, but I'm not about to roll over for him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5100,
+"en": "(Chapter 12)\nI don't want to fight him, but I don't have much choice...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5101,
+"en": "(Chapter 12)\nDefeat the Yomei Alliance.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5102,
+"en": "(Chapter 12)\nThere's no chance I'm letting these guys stop me!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5103,
+"en": "(Chapter 12)\nThe secret is close. Just a little further...!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5104,
+"en": "(Chapter 12)\nSo it really was Hirose-san after all...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5105,
+"en": "(Finale)\nAll the yakuza in Hiroshima are after us... Time to fight back!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5106,
+"en": "(Finale)\nWe need to reach Sugai, no matter what...!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5107,
+"en": "(Finale)\nSomeya's lost his mind... I have to stop him!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5108,
+"en": "(Finale)\nKoshimizu doesn't stand a chance against us.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5109,
+"en": "(Finale)\nIt's time to put an end to this once and for all.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5110,
+"en": "I can't let these three beat up a defenseless civilian.\nI'll have to help him out.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5111,
+"en": "That Takayama guy wants to buy me a drink\nas a thanks. I guess I'll head over to Bantam\nwhen I have time.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5112,
+"en": "The so-called Kabedon Prince taught me his secrets.\nNot like I'll ever actually use them, though...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5113,
+"en": "Those punks are back to beat up Takayama.\nWhen will they learn to quit?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5114,
+"en": "I'm supposed to meet up with a guy named Ishigaki.\nI guess I'll head over to the Millennium Tower.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5115,
+"en": "Someone's trying to scam me. I should head over\nto the Millennium Tower and teach him a lesson.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5116,
+"en": "I'm going to make sure these scammers never\ntry to pull another stunt like this again.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5117,
+"en": "That girl who wants to be an idol is still crying.\nI should go talk to her.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5118,
+"en": "Misa's going to tell her senpai how she feels.\nI should come back and check on her sometime.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5119,
+"en": "These thugs really came along at the worst possible\ntime. I'll make them pay for interrupting this!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5120,
+"en": "Apparently Misa overheard everything. I should follow\nher down to the shore and make sure she's okay.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5121,
+"en": "It doesn't look like he's going to listen to me.\nGuess I'll need to let my fists do the talking.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5122,
+"en": "These guys are notorious for mugging civilians.\nNow it's their turn to pay up.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5123,
+"en": "Only cowards would go after innocent civilians.\nI should show them what real courage is.",
+"ctx": "mission_kind|mission_info",
+"max": null
+}
+]

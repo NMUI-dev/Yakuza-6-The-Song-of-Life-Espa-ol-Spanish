@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_00_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    988,
+    104
+   ],
+   "en": "Ka ke ga e no na i ko no hi bi wo .",
+   "ocr": "智の no\" na",
+   "es": "Estos días irreemplazables.",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 988,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_01_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    70,
+    0,
+    672,
+    104
+   ],
+   "en": "Brand new stage",
+   "ocr": "stage) stage)",
+   "es": "BRAND NEW STAGE",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 602,
+   "dejar": true
+  }
+ ]
+}

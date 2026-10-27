@@ -1,0 +1,56 @@
+{
+ "textura": "e/texture/kokuchi",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1450,
+    304,
+    1514,
+    345
+   ],
+   "en": "TM",
+   "ocr": "TM",
+   "es": "TM",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 64
+  },
+  {
+   "caja": [
+    566,
+    657,
+    1516,
+    745
+   ],
+   "en": "THE SONG OF LIFE",
+   "ocr": "THE SONG OELIFE",
+   "es": "THE SONG OF LIFE",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 950
+  },
+  {
+   "caja": [
+    128,
+    816,
+    1959,
+    923
+   ],
+   "en": "Coming Early 2018 on PlayStation®4",
+   "ocr": "ComingEarly 2018onPlayStation°4",
+   "es": "Pronto en 2018 en PlayStation®4",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1831
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+# third-party tools (download them, see README)
+herramientas/partool/
+herramientas/reARMP/
+herramientas/kit_atlas/texconv/
+herramientas/fuentes_img/
+# game files and build output (never commit)
+trabajo/original/
+trabajo/extraido/
+trabajo/armp_json/
+trabajo/*_build/
+trabajo/v5/
+trabajo/ui_v*/
+trabajo/font_*/
+trabajo/*.par
+trabajo/*.csv
+*.dds
+*.par
+__pycache__/

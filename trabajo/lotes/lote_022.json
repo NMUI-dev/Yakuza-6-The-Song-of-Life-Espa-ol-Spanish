@@ -1,0 +1,836 @@
+[
+{
+"id": 5124,
+"en": "I'll crush these bastards for\ntargeting defenseless women.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5125,
+"en": "I can't let these guys run rampant in Kamurocho.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5126,
+"en": "How rotten do you have to be to feed off\nother people's happiness?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5127,
+"en": "Someone's sick... I should be able to\nhelp them if I have some medicine.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5128,
+"en": "If this arsonist likes to set fires so much,\nI'll give him the heat he deserves.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5129,
+"en": "I heard something is going down at\nthe Oyster Shack. Let's see if it's true...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5130,
+"en": "I should see if he'll eat anything.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5131,
+"en": "Never thought I'd see Jo Amon again... Either way,\nI should take a taxi over to the floating island once\nI've made all the necessary preparations.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5132,
+"en": "I guess fighting him is the only way out.\nThis won't be easy, so I have to give it my all!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5133,
+"en": "I'm supposed to meet Riona over on Pink Street.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5134,
+"en": "This guy tried to assault Riona.\nLet's see how he likes it.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5135,
+"en": "I promised to meet Sora in Theater Square...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5136,
+"en": "It's time for my meeting with Saki.\nI should hurry over to the Millennium Tower.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5137,
+"en": "I can't stand cowards who pick on the weak.\nSaki's fan is more courageous than these punks.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5138,
+"en": "(Chapter 3)\nApparently this Ino guy has an apartment for me\ndown by the coast. I should head over there.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5139,
+"en": "(Chapter 3)\nIt's only fair that I return the favor.\nTime to meet Kiyomi at the ropeway station.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5140,
+"en": "(Chapter 2)\nAkiyama's apparently over at Touto Hospital.\nI should take a taxi to go see him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5141,
+"en": "(Chapter 5)\nIt's just about time for my meeting with Kiyomi.\nShe should be waiting at the top of the ropeway.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5142,
+"en": "(Chapter 6)\nThose two should be able to handle themselves just fine.\nI should hurry over to Stardust and meet Joon-gi Han.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5143,
+"en": "Gori-san agreed to join my baseball team\nif I can beat him in a home run competition.\nI need to win this!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5144,
+"en": "I need to hit 7 or more home runs to beat Gori-san!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5145,
+"en": "(Chapter 1)\nThese punks should be a good refresher course.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5146,
+"en": "(Chapter 11)\nYuta's not back yet... Is he still on the phone?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5147,
+"en": "(Chapter 11)\nWhere could Yuta have gone?\nDid he really go to Little Asia all by himself...?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5148,
+"en": "(Chapter 12)\nIt sounded like Lo wants to talk to me in private.\nI should head up to the roof.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5149,
+"en": "(Chapter 12)\nNagumo and the others should be waiting\nfor me over at the Hirose Family Office.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5150,
+"en": "(Chapter 12)\nJ7B7R36N1M7E9O22I1K1\nIn total, there are nine pairs of letters and numbers.\nThe substitution table has something to do with Onomichi...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5151,
+"en": "(Chapter 12)\nNaval soldier Yamano Dodai's grave...\nThe truth behind the secret must be hidden there.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5152,
+"en": "(Chapter 12)\nIno's waiting for me with his boat.\nI should hurry down to the dock.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5153,
+"en": "(Finale)\nSomeya's apparently waiting for me down at the dock.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5154,
+"en": "(Finale)\nIf Someya's telling the truth, the Hirose Family\nis in trouble. I need to tell them!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5155,
+"en": "(Finale)\nThis is probably going to be my last day in Onomichi.\nI should head to the Navy Apartments when I'm ready...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5156,
+"en": "(Finale)\nThere's so much I want to say to Haruka.\nI should take a taxi to the police hospital to see her.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5157,
+"en": "(Finale)\nIt's time to storm the Millennium Tower and take Sugai down.\nI should make sure I'm not forgetting anything first.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5158,
+"en": "(Finale)\nIt seems like Nagumo has something to say to me.\nI should head up to the roof.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5159,
+"en": "It's time for our game against the Jingai Thunders\nreserve squad. Chiba's waiting for me up at the\nbaseball field.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5160,
+"en": "Let's win a game against the Jingai Thunders reserve squad.\nThere has to be something to gain from a first victory.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5161,
+"en": "Losing to a reserve squad is a little embarrassing...\nWe should strengthen the team and try again.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5162,
+"en": "We beat the Jingai Thunders reserve squad!\nIt feels like we're really coming together as a team.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5163,
+"en": "We managed to win our first game!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5164,
+"en": "(Chapter 1)\nI should ask at New Serena and Bantam\nfor any information they might have.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5165,
+"en": "It's time for our game against the Onomichi Legends.\nChiba's waiting for me up at the baseball field.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5166,
+"en": "I should talk to Chiba when I'm ready for the game.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5167,
+"en": "These Onomichi Legends really are legendary...\nWe should train hard for our next game against them.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5168,
+"en": "The Warriors are really starting to gel.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5169,
+"en": "Chiba said he'd be waiting for me at the baseball field.\nI guess it's my duty as the team captain to show up.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5170,
+"en": "A potential teammate named Moritsuka is apparently\nat a bar somewhere in town. I should go take a look\ndown in the bar district.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5171,
+"en": "Moritsuka's in terrible shape... but I guess\nit wouldn't hurt to talk to him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5172,
+"en": "This guy's hopeless. I should sober him up a bit.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5173,
+"en": "It's time for our game against the Jingai Thunders.\nI should go see Chiba up at the baseball field.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5174,
+"en": "Jingai Thunders, here we come. I should talk\nto Chiba when I'm ready to play.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5175,
+"en": "It's no surprise that their main team is a challenge...\nbut we won't lose again. We should strengthen\nthe team so we're ready for next time.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5176,
+"en": "This win is a testament to our team unity.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5177,
+"en": "Some guy at Bantam challenged me to a round\nof darts. I should go play him if I have the time.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5178,
+"en": "I don't know if I'm really that good at darts, but I'll\nkeep trying to play against people if I have time.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5179,
+"en": "Yoshida asked me to try his trial course.\nI guess I'll give it a shot...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5180,
+"en": "Yoshida says he'll do anything I want if I can hit\nfive home runs in a row. Let's see if he means it.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5181,
+"en": "Looks like I'll be helping the Setouchi Warriors now.\nI should get a taxi to the field when I have some time.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5182,
+"en": "There's a slasher on the loose. I can't let\nanyone else fall victim to his crimes.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5183,
+"en": "I need to get rid of this drunkard somehow.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5184,
+"en": "Apparently people are worried about\nthe graffiti on the wall. I should find the culprit.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5185,
+"en": "I should do something about the\nproblematic railway enthusiast.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5186,
+"en": "I should go catch some fish.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5187,
+"en": "Apparently someone's robbing graves.\nThe dead can't defend themselves, so I will.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5188,
+"en": "Sounds like someone's child has gone missing.\nI should do what I can to help out.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5189,
+"en": "I need to put that fire out.\nIf only I had a fire extinguisher...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5190,
+"en": "That Haruka fan looks depressed for some reason.\nI should see if I can find out why.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5191,
+"en": "I promised Ayaka I'd get her some Haruka\nmerchandise. I should try to find something\nat Don Quijote.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5192,
+"en": "Idol fans apparently show up at Club SEGA in\nTheater Square all the time. I should go talk to them.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5193,
+"en": "One particularly eager fan told me\nEbisu Pawn sells a rare picture\nof Haruka. I need to get that photo!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5194,
+"en": "A Haruka fan is getting mugged by a gang of thugs.\nThey've messed with the wrong fanbase.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5195,
+"en": "I managed to get my hands on the picture of Haruka.\nI should bring it back to Ayaka.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5196,
+"en": "I'm glad Ayaka liked the photo.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5197,
+"en": "Some little round thing just whirred by me...\nLet me talk to the guy on Suppon Street about it.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5198,
+"en": "The guy said his cleaning robot is running loose around\nthe city. Maybe I should help him if I have time.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5199,
+"en": "Fujita asked me to catch his rampant cleaning robot.\nI'm going to have to chase it down the streets, aren't I?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5200,
+"en": "I detect dirt too, Soji. Time to get rid of them.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5201,
+"en": "Some guy told me about an AI app called Hiji...\nI should talk to him again if I'm interested.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5202,
+"en": "I'm not so comfortable talking to Hiji in public.\nI should try it out by myself at the Children's Park.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5203,
+"en": "Hiji's telling me to leave the park.\nI guess I'll do what it says for now...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5204,
+"en": "What a mess Hiji's gone and dragged me into.\nNo choice but to take care of this drunkard now.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5205,
+"en": "If I want to get rid of Hiji, I'll have to go back and talk\nto that sales rep over on Nakamichi Street.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5206,
+"en": "What the heck does that guy want with my phone?\nI'll have to catch him and make him fess up.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5207,
+"en": "I met a man named Tsutsui who makes videos\nfor a living. Hopefully he's managing to stay\nout of trouble...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5208,
+"en": "I can't believe the trouble he's causing\nall for the sake of his video. What a mess.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5209,
+"en": "Tsutsui isn't interested in my advice.\nHe still has a lot to learn about the world.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5210,
+"en": "Tsutsui's hanging out the window of Lullaby Mahjong.\nHe deserves it... but I guess I should still help him.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5211,
+"en": "If words won't convince this idiot to give it up,\nhe's going to find my fists aren't so social.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5212,
+"en": "Apparently there's a \"drone\" flying around Kamurocho.\nI wonder what that even means...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5213,
+"en": "I should go find out what that scream was about.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5214,
+"en": "Apparently drones attack people sometimes.\nI guess I need to be careful, too.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5215,
+"en": "I can't let this drone keep putting people in danger.\nI should follow it and figure out where it's going.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5216,
+"en": "What kind of yakuza force a kid to film Kamurocho?\nI'll have to punish them for this.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5217,
+"en": "What kind of madman would set off a bomb?\nI should go take a look in the area.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5218,
+"en": "Is the Saio Triad behind all this? Either way, there's\napparently a suspicious guy over at the batting center.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5219,
+"en": "I don't know who this guy is or where he's from...\nbut it's time to make him fess up.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5220,
+"en": "This guy just doesn't know when to quit!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5221,
+"en": "Letting that guy die just wouldn't seem right.\nI should head back to the Yoshida Batting Center...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5222,
+"en": "They must be bored if they're here just for revenge.\nGlad to see I won't have to hold back, though.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5223,
+"en": "That should keep them calm for a while.\nI still can't believe they set that bomb...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5224,
+"en": "Dammit, the girl already changed locations.\nWhere could she have gone?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5225,
+"en": "This girl might be indecisive, but damn is she\nbeautiful. Maybe she's on a roof somewhere...?",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5226,
+"en": "Those guys came up with a pretty terrible plan...\nand they picked the worst possible person to trick.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5227,
+"en": "I knew this sounded too good to be true.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5228,
+"en": "Date-san asked me to get 50,000 yen in prepaid cards.\nI should be able to find them at a convenience store.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5229,
+"en": "Apparently I have to go to the roof of\nthe Senryo Building. Date-san's waiting\nfor me. Or maybe...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5230,
+"en": "Turns out it was a scam.\nI'll make this guy pay for trying to trick me.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5231,
+"en": "Hikaru's gotten herself mixed up with some\nshady people. I'm worried about her.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5232,
+"en": "That suspicious guy took Hikaru inside.\nI have a bad feeling about this...",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5233,
+"en": "Time to take these guys down and save Hikaru!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5234,
+"en": "So this guy is Erina's stalker. I need to protect her!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5235,
+"en": "Hm, this live chat thing does seem interesting.\nI should meet up with that guy at the internet café\nover by Theater Square.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5236,
+"en": "Some guy who claims to know Saejima challenged me\nto a fight. He doesn't know what he's getting himself into.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5237,
+"en": "That guy who says he knows Saejima challenged me\nto another fight. I'll give this my all!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5238,
+"en": "I can't believe these guys tried to mug me.\nLooks like I'll have to teach them a little lesson.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5239,
+"en": "I'm not sure who these JUSTIS people are,\nbut I won't lay down and let them win.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5240,
+"en": "Sachiko's been taken by those JUSTIS guys.\nJoe and I need to save her soon.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5241,
+"en": "So this is one of the Six Lunatics, Toru Yano.\nAll right... Let's see what this weirdo's got.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5242,
+"en": "Another one of the Six Lunatics, Naito...\nIf he wants a fight, I'll give him a fight.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5243,
+"en": "Time to find out if 1 + 1 is really 200.\nLet's do this, Joe!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5244,
+"en": "It's hard trading blows with a friend, but sometimes it's the only\nway to understand where they're coming from. Don't give up, Joe!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5245,
+"en": "Kazuchika Okada, the leader of JUSTIS...\nHe's strong, but not strong enough to stop me!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5246,
+"en": "So the puppet master finally showed himself...\nJoe! Okada! Let's take him down together!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5247,
+"en": "It sounded like that old guy is in some real trouble.\nMaybe I should do him a favor if I have time.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5248,
+"en": "Apparently I need to get the name order right if I want\nto get into their HQ. I think it was Munan... something.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5249,
+"en": "After all that talk about virtue, they resort to violence.\nI need to take these guys down and go see the guru.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5250,
+"en": "The guru's true nature is finally clear. I'll just have to\nchomo gomes him so he can never do wrong again.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5251,
+"en": "It's been ages since I last saw Pocket Circuit Fighter.\nHe looks a lot older... Though I guess I do, too.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5252,
+"en": "I promised Pocket Circuit Fighter's son Sakito\nthat I'd teach him all about Pocket Circuit racing.\nI should stop by La Pente sometime.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5253,
+"en": "Sakito ran off, apparently to somewhere you can\nsee the ocean from. I need to find him soon!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5254,
+"en": "Let's protect Sakito together, Pocket Circuit Fighter.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5255,
+"en": "Who is this guy...? I guess I can ask questions later.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5256,
+"en": "I'm not sure I can just decide to believe in ghosts...\nbut maybe I should come back to the cemetery at\nnight sometime, just in case.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5257,
+"en": "I didn't expect another ghost to show up behind me.\nI've got to hand it to 'em<symbol=em_dash_with_outline>that was a real surprise.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5258,
+"en": "I'm not too keen on this ghost taking a shine to me.\nI should stop by the cemetery at night sometime.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5259,
+"en": "I've already come this far... If fighting these guys puts\ntheir souls at rest, I won't let them down!",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5260,
+"en": "I'm worried about the old man... I should stop by\nthe cemetery at night after some time has passed.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5261,
+"en": "They must really like me to come three at a time.\nAt least they're all enjoying themselves.",
+"ctx": "mission_kind|mission_info",
+"max": null
+},
+{
+"id": 5262,
+"en": "The old man said the next fight will be the last one.\nI'll give these ghosts the fight of their afterlives.",
+"ctx": "mission_kind|mission_info",
+"max": null
+}
+]

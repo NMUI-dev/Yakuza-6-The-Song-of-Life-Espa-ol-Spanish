@@ -1,0 +1,42 @@
+{
+ "textura": "e/texture/mg_snack_p6_2_p",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    31,
+    6,
+    64,
+    23
+   ],
+   "en": "Miniforge",
+   "ocr": "ruroru",
+   "es": "Miniforge",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    11,
+    133,
+    52,
+    146
+   ],
+   "en": "COMBO",
+   "ocr": "COMRO",
+   "es": "COMBO",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  }
+ ]
+}

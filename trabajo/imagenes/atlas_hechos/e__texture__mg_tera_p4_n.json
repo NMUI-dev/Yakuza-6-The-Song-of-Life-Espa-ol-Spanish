@@ -1,0 +1,127 @@
+{
+ "textura": "e/texture/mg_tera_p4_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    248,
+    79,
+    303,
+    95
+   ],
+   "en": "180 seconds",
+   "ocr": "180seconds",
+   "es": "180 segundos",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    167,
+    98,
+    201,
+    117
+   ],
+   "en": "Attack",
+   "ocr": "Attack",
+   "es": "Ataque",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    248,
+    99,
+    304,
+    119
+   ],
+   "en": "150 seconds",
+   "ocr": "150 seconds",
+   "es": "150 segundos",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 52,
+   "dejar": true
+  },
+  {
+   "caja": [
+    167,
+    120,
+    207,
+    140
+   ],
+   "en": "Defense",
+   "ocr": "Defense",
+   "es": "Defensa",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    249,
+    122,
+    303,
+    140
+   ],
+   "en": "120 seconds",
+   "ocr": "120 seconds",
+   "es": "120 segundos",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 50,
+   "dejar": true
+  },
+  {
+   "caja": [
+    167,
+    143,
+    200,
+    162
+   ],
+   "en": "Money",
+   "ocr": "Money",
+   "es": "Dinero",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 29,
+   "dejar": true
+  },
+  {
+   "caja": [
+    248,
+    144,
+    299,
+    162
+   ],
+   "en": "90 seconds",
+   "ocr": "90 seconds",
+   "es": "90 segundos",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 47,
+   "dejar": true
+  }
+ ]
+}

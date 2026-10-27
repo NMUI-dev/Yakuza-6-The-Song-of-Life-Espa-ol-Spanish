@@ -1,0 +1,81 @@
+{
+ "textura": "e/texture/mg_darts_01_p01_x",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    53,
+    29,
+    95,
+    48
+   ],
+   "en": "ROUND",
+   "ocr": "ROUND",
+   "es": "RONDA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    409,
+    40,
+    465,
+    55
+   ],
+   "en": "DART SCORES",
+   "ocr": "DART-SCORES",
+   "es": "PUNTUACIÓN DE DARDOS",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    451,
+    130,
+    474,
+    145
+   ],
+   "en": "Fury",
+   "ocr": "Tury",
+   "es": "Lanzar",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 23,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    380,
+    224,
+    413,
+    237
+   ],
+   "en": "Yuka Keppu",
+   "ocr": "Yka Knot",
+   "es": "Yuka Keppu",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  }
+ ]
+}

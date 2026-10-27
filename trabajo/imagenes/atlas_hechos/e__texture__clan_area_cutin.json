@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/clan_area_cutin",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    160,
+    294,
+    879,
+    512
+   ],
+   "en": "AREA CLEAR",
+   "ocr": "第 AREA GLEAR ",
+   "es": "ÁREA DESPEJADA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 715
+  }
+ ]
+}

@@ -1,0 +1,2216 @@
+[
+{
+"id": 6228,
+"en": "This is the final showdown against Tanahashi of the Six\nLunatics. Defeat him and discover the dark secret in\nOkada's past!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6229,
+"en": "It's the final battle against the leader of JUSTIS,\nRainmaker. Part the dark clouds and crush Okada's\nambition!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6230,
+"en": "The true masterminds, Satsuki and Komei, have formed\nan alliance. The final battle is now. Defeat them and\nbring the neon light back to Kamurocho.",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6231,
+"en": "Defeat the assassins JUSTIS sent to Onomichi!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6232,
+"en": "Wipe out the remainders of the Yano Army!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6233,
+"en": "Wipe out the remainders of the Naito Army!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6234,
+"en": "Defeat the assassins JUSTIS sent out in Kamurocho!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6235,
+"en": "Wipe out the remainders of the TenCozy Army!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6236,
+"en": "Wipe out the remainders of the Tanahashi Army!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6237,
+"en": "Defeat the mysterious Amon army!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6238,
+"en": "This is round one! Defeat the elites!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6239,
+"en": "This is round two! Defeat the elites!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6240,
+"en": "The third and final round! Brace yourself!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6241,
+"en": "Take out your Monday aggression on some Brawlers!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6242,
+"en": "It's only Tuesday!? Defeat these Gunners!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6243,
+"en": "Get over the Wednesday hump by hurting these\nHeavies!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6244,
+"en": "Almost through the week! Defeat the Thursday\nRushers!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6245,
+"en": "Home alone on a Friday night? That's okay, just\ntake out these Grenadiers!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6246,
+"en": "Battle against a Friend to test the power of the\nKiryu Clan!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6247,
+"en": "This battle pits you against the top of the charts!\nPrepare for a fight!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6248,
+"en": "Taste that fresh weekend EXP! Battle on weekends\nto really power up the Kiryu Clan!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6249,
+"en": "Complete this mission to obtain an uncommon leader.\nUse him to expand the Kiryu Clan's dominance!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6250,
+"en": "The elites have launched an all-out assault! Take a\ndeep breath and join the fray!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6251,
+"en": "Assassins from New Japan Pro-Wrestling have launched an\nattack! Defeat them with the power of the Kiryu Clan!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6252,
+"en": "The Six Lunatics have reunited to launch an attack!\nSummon the power of the Kiryu Clan and take them on!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6253,
+"en": "Who are these imposters!? Show them the power of\nthe one true Kiryu Clan!",
+"ctx": "clan_creator_mission|explanation",
+"max": null
+},
+{
+"id": 6254,
+"en": "Not fulfilling victory conditions within time limit",
+"ctx": "clan_creator_mission|lose_condition_explanation",
+"max": null
+},
+{
+"id": 6255,
+"en": "Save Sachiko!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6256,
+"en": "Battle Against JUSTIS",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6257,
+"en": "The Yano Army Invades!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6258,
+"en": "Yano's Relentless Assault!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6259,
+"en": "Toru Yano of the Six Lunatics!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6260,
+"en": "Naito's Right-hand Men",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6261,
+"en": "Tetsuya Naito, Activated",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6262,
+"en": "Tetsuya Naito of the Six Lunatics!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6263,
+"en": "Battle Against Tenzan!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6264,
+"en": "Battle Against Kojima!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6265,
+"en": "The Fearsome TenCozy Tag",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6266,
+"en": "Tanahashi's Assassins",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6267,
+"en": "Tanahashi's Offensive",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6268,
+"en": "Hiroshi Tanahashi of the Six Lunatics!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6269,
+"en": "The Rains of Kamurocho",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6270,
+"en": "The Kiryu Clan's Final Battle",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6271,
+"en": "The Terrible Assassins of JUSTIS!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6272,
+"en": "The Fearsome Assassins of JUSTIS!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6273,
+"en": "The Deadly Assassins of JUSTIS!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6274,
+"en": "The Yano Army's Remainders!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6275,
+"en": "The Naito Army's Remainders!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6276,
+"en": "The Lethal Assassins of JUSTIS!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6277,
+"en": "The Savage Assassins of JUSTIS!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6278,
+"en": "The Fatal Assassins of JUSTIS!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6279,
+"en": "The TenCozy Army's Remainders!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6280,
+"en": "The Tanahashi Army's Remainders!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6281,
+"en": "The Amon Army! Onomichi Part 1",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6282,
+"en": "The Amon Army! Onomichi Part 2",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6283,
+"en": "The Amon Army! Onomichi Part 3",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6284,
+"en": "The Amon Army! Kamurocho Part 1",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6285,
+"en": "The Amon Army! Kamurocho Part 2",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6286,
+"en": "The Amon Army! Kamurocho Part 3",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6287,
+"en": "Test Mission_A1",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6288,
+"en": "Test Mission_01",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6289,
+"en": "Test Mission_02",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6290,
+"en": "Test Mission_03",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6291,
+"en": "Test Mission_04",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6292,
+"en": "Test Mission_05",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6293,
+"en": "The First Raid",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6294,
+"en": "The Second Raid",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6295,
+"en": "The Third Raid",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6296,
+"en": "Monday Mission",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6297,
+"en": "Tuesday Mission",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6298,
+"en": "Wednesday Mission",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6299,
+"en": "Thursday Mission",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6300,
+"en": "Friday Mission",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6301,
+"en": "Weekend Mission",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6302,
+"en": "Acquire an Uncommon Leader!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6303,
+"en": "Elite Invasion!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6304,
+"en": "New Japan Army Invasion!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6305,
+"en": "The Six Lunatics Invasion!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6306,
+"en": "The False Kiryu Clan Invasion!",
+"ctx": "clan_creator_mission|name",
+"max": null
+},
+{
+"id": 6307,
+"en": "Onomichi Jingaicho, Jingai Main St.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6308,
+"en": "Onomichi Jingaicho, West National Route 2",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6309,
+"en": "Onomichi Jingaicho, East National Route 2",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6310,
+"en": "Onomichi Jingaicho, East Shishido St.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6311,
+"en": "Onomichi Jingaicho, First Hill",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6312,
+"en": "Kamurocho, Tenkaichi St.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6313,
+"en": "Kamurocho, Pink St.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6314,
+"en": "Kamurocho, Nakamichi St.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6315,
+"en": "Kamurocho, West Shichifuku St.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6316,
+"en": "Kamurocho, Theater Ave.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6317,
+"en": "Kamurocho, Theater Square",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6318,
+"en": "Kamurocho, Taihei Blvd.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6319,
+"en": "Onomichi Jingaicho, Second Hill",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6320,
+"en": "Onomichi Jingaicho, West Shishido St.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6321,
+"en": "Kamurocho, Nakamichi Alley",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6322,
+"en": "Kamurocho, East Taihei Blvd.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6323,
+"en": "Kamurocho, Senryo Ave.",
+"ctx": "clan_creator_mission|place_text",
+"max": null
+},
+{
+"id": 6324,
+"en": "Wipe out the enemy!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6325,
+"en": "Defeat Yano!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6326,
+"en": "Defeat Naito!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6327,
+"en": "Defeat Tenzan!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6328,
+"en": "Defeat Kojima!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6329,
+"en": "Defeat Tenzan and Kojima!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6330,
+"en": "Defeat Tanahashi!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6331,
+"en": "Defeat Okada!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6332,
+"en": "Defeat Satsuki!",
+"ctx": "clan_creator_mission|win_condition_explanation",
+"max": null
+},
+{
+"id": 6333,
+"en": "General Chief",
+"ctx": "clan_creator_organization_position|name",
+"max": null
+},
+{
+"id": 6334,
+"en": "Chief Advisor\nHead Advisor\nTop Advisor",
+"ctx": "clan_creator_organization_position|name",
+"max": null
+},
+{
+"id": 6335,
+"en": "Soldier\nUnderling\nSubordinate",
+"ctx": "clan_creator_organization_position|name",
+"max": null
+},
+{
+"id": 6336,
+"en": "Inflict medium damage to enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6337,
+"en": "Inflict major damage to enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6338,
+"en": "Inflict nominal damage and stun enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6339,
+"en": "Inflict small damage and stun enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6340,
+"en": "Inflict small damage to enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6341,
+"en": "Recover some health for all allies.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6342,
+"en": "Recover medium health for all allies.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6343,
+"en": "Fully recover your own health.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6344,
+"en": "Increase the deployment gauge by 70.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6345,
+"en": "Text copied from name. Bug.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6346,
+"en": "Gather allies within range to your position.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6347,
+"en": "Stun all enemies and restrict their movement.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6348,
+"en": "All allies take no damage for 10 seconds.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6349,
+"en": "Inflict tremendous damage and stun enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6350,
+"en": "Resurrect ally leaders and recover some health for all allies.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6351,
+"en": "Inflict tremendous damage and restrict movement of enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6352,
+"en": "Throw grenades that inflict major damage to enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6353,
+"en": "Take no damage for 20 seconds.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6354,
+"en": "Inflict major damage and stun enemies in range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6355,
+"en": "All allies enter a state of frenzied attack for 10 seconds.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6356,
+"en": "Increase the deployment gauge by 150.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6357,
+"en": "Deployment cost of your allies are halved for five seconds.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6358,
+"en": "Inflict major damage on all combatants within range.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6359,
+"en": "All allies hit 50% harder for 10 seconds and suffer no knockback.",
+"ctx": "clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6360,
+"en": "Dropkick",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6361,
+"en": "Ultimate Dropkick",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6362,
+"en": "Diving Head",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6363,
+"en": "Ultimate Diving Head",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6364,
+"en": "Stun Kick",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6365,
+"en": "Ultimate Stun Kick",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6366,
+"en": "Spinning Lariat",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6367,
+"en": "Ultimate Lariat",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6368,
+"en": "Essence of Grenade",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6369,
+"en": "Essence of Healing",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6370,
+"en": "True Essence of Healing",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6371,
+"en": "Essence of Recovery",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6372,
+"en": "Essence of Offense",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6373,
+"en": "Essence of Vertical Taunt",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6374,
+"en": "Essence of Horizontal Taunt",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6375,
+"en": "Essence of Grand Gathering",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6376,
+"en": "Essence of Surprise",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6377,
+"en": "Muscle Party",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6378,
+"en": "Rainmaker",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6379,
+"en": "Warrior of Love",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6380,
+"en": "Tranquilo",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6381,
+"en": "YTR",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6382,
+"en": "Violent Bull",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6383,
+"en": "Cozy Crash",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6384,
+"en": "Demonfire Slash",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6385,
+"en": "Woodsman Chop",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6386,
+"en": "Essence of Stability",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6387,
+"en": "Sixth Chairman's Dignity",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6388,
+"en": "Reserve 03",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6389,
+"en": "Reserve 04",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6390,
+"en": "Reserve 05",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6391,
+"en": "Reserve 06",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6392,
+"en": "Reserve 07",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6393,
+"en": "Reserve 08",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6394,
+"en": "Reserve 09",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6395,
+"en": "Reserve 10",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6396,
+"en": "Reserve 11",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6397,
+"en": "Reserve 12",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6398,
+"en": "Reserve 13",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6399,
+"en": "Reserve 14",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6400,
+"en": "Reserve 15",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6401,
+"en": "Reserve 16",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6402,
+"en": "Reserve 17",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6403,
+"en": "Reserve 18",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6404,
+"en": "Reserve 19",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6405,
+"en": "Reserve 20",
+"ctx": "clan_creator_skill|name + clan_creator_skill|explanation",
+"max": null
+},
+{
+"id": 6406,
+"en": "Essence of Grand Army",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6407,
+"en": "Ultimate Rocket Launcher",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6408,
+"en": "Dragon of Dojima",
+"ctx": "clan_creator_skill|name",
+"max": null
+},
+{
+"id": 6409,
+"en": "Expert 1",
+"ctx": "minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 6410,
+"en": "Expert 2",
+"ctx": "minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 6411,
+"en": "Expert 3",
+"ctx": "minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 6412,
+"en": "Trial",
+"ctx": "minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 6413,
+"en": "Hit as many home runs as you can in 10 pitches! Earn Rank A or above to clear!",
+"ctx": "minigame_batting_center_course|text_1",
+"max": null
+},
+{
+"id": 6414,
+"en": "Score 3 or more runs in 10 pitches to clear!",
+"ctx": "minigame_batting_center_course|text_1",
+"max": null
+},
+{
+"id": 6415,
+"en": "Score 5 or more runs in 10 pitches to clear!",
+"ctx": "minigame_batting_center_course|text_1",
+"max": null
+},
+{
+"id": 6416,
+"en": "Score 7 or more runs in 10 pitches to clear!",
+"ctx": "minigame_batting_center_course|text_1",
+"max": null
+},
+{
+"id": 6417,
+"en": "Score 8 or more runs in 10 pitches to clear!",
+"ctx": "minigame_batting_center_course|text_1",
+"max": null
+},
+{
+"id": 6418,
+"en": "Score 9 or more runs in 10 pitches to clear!",
+"ctx": "minigame_batting_center_course|text_1",
+"max": null
+},
+{
+"id": 6419,
+"en": "In this course, you'll face some basic breaking balls!\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6420,
+"en": "In this course, you'll face breaking balls that curve slightly near your hands!\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6421,
+"en": "In this course, you'll face pitches that fluctuate in speed!\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_yellow>Sinker</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6422,
+"en": "In this course, you'll face all sorts of breaking balls!\n[Pitch Type] Mystery!",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6423,
+"en": "In this course, you'll face only fastballs!\n[Pitch Type] <color=batting_pitch_white>Fastball</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6424,
+"en": "In this course, you'll face fastballs and curveballs!\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6425,
+"en": "In this course, you'll face curveballs and sinkers!\n[Pitch Type] <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6426,
+"en": "In this course, you'll face breaking balls that curve slightly!\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6427,
+"en": "In this course, you'll face three types of breaking balls!\n[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color> / <color=batting_pitch_yellow>Shoot</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6428,
+"en": "In this course, you'll face pitches that break horizontally!\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_yellow>Shoot</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6429,
+"en": "In this course, you'll face pitches that break vertically!\n[Pitch Type] <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_blue>Forkball</color> / <color=batting_pitch_blue>Splitter</color> / <color=batting_pitch_blue>Change-up</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6430,
+"en": "In this course, you'll face pitches that break diagonally!\n[Pitch Type] <color=batting_pitch_white>Two-seam</color> / <color=batting_pitch_white>One-seam</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>",
+"ctx": "minigame_batting_center_course|text_2",
+"max": null
+},
+{
+"id": 6431,
+"en": "Hit",
+"ctx": "minigame_batting_center_message|text",
+"max": null
+},
+{
+"id": 6432,
+"en": "${residue_num} balls remaining",
+"ctx": "minigame_batting_center_message|text",
+"max": null
+},
+{
+"id": 6433,
+"en": "Closed",
+"ctx": "minigame_batting_center_message|text",
+"max": null
+},
+{
+"id": 6434,
+"en": "<color=${pitch_color}>${type_of_pitch}</color>　${speed} km/h",
+"ctx": "minigame_batting_center_message|text",
+"max": null
+},
+{
+"id": 6435,
+"en": "Fastball",
+"ctx": "minigame_batting_center_type_of_pitch|name",
+"max": null
+},
+{
+"id": 6436,
+"en": "Two-seamer",
+"ctx": "minigame_batting_center_type_of_pitch|name",
+"max": null
+},
+{
+"id": 6437,
+"en": "One-seamer",
+"ctx": "minigame_batting_center_type_of_pitch|name",
+"max": null
+},
+{
+"id": 6438,
+"en": "Cutter",
+"ctx": "minigame_batting_center_type_of_pitch|name",
+"max": null
+},
+{
+"id": 6439,
+"en": "Splitter",
+"ctx": "minigame_batting_center_type_of_pitch|name",
+"max": null
+},
+{
+"id": 6440,
+"en": "Change-up",
+"ctx": "minigame_batting_center_type_of_pitch|name + minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 6441,
+"en": "Gyroball",
+"ctx": "minigame_batting_center_type_of_pitch|name + minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 6442,
+"en": "Screwball",
+"ctx": "minigame_batting_center_type_of_pitch|name_left",
+"max": null
+},
+{
+"id": 6443,
+"en": "Bronze",
+"ctx": "minigame_cabaret_cabaret|table/#/bronze/name",
+"max": null
+},
+{
+"id": 6444,
+"en": "Got any hobbies?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_01/text + minigame_cabaret_cabaret|table/#/card_no_01/caption",
+"max": null
+},
+{
+"id": 6445,
+"en": "How do you spend\nyour days off?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_02/text + minigame_cabaret_cabaret|table/#/card_no_02/caption",
+"max": null
+},
+{
+"id": 6446,
+"en": "Have you been\ndoing this long?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_03/text + minigame_cabaret_cabaret|table/#/card_no_03/caption",
+"max": null
+},
+{
+"id": 6447,
+"en": "Where are you from?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_04/text + minigame_cabaret_cabaret|table/#/card_no_04/caption",
+"max": null
+},
+{
+"id": 6448,
+"en": "What's your favorite\nfood?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_05/text + minigame_cabaret_cabaret|table/#/card_no_05/caption",
+"max": null
+},
+{
+"id": 6449,
+"en": "What's your type?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_06/text + minigame_cabaret_cabaret|table/#/card_no_06/caption + minigame_live_chat_chat_commands|failed_chat_message",
+"max": null
+},
+{
+"id": 6450,
+"en": "How do you act when\nyou're in love?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_07/text + minigame_cabaret_cabaret|table/#/card_no_07/caption",
+"max": null
+},
+{
+"id": 6451,
+"en": "What's your dream\nfor the future?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_08/text + minigame_cabaret_cabaret|table/#/card_no_08/caption",
+"max": null
+},
+{
+"id": 6452,
+"en": "What were your\ndreams as a kid?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_09/text + minigame_cabaret_cabaret|table/#/card_no_09/caption",
+"max": null
+},
+{
+"id": 6453,
+"en": "Do you have any\nspecial skills?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_10/text + minigame_cabaret_cabaret|table/#/card_no_10/caption",
+"max": null
+},
+{
+"id": 6454,
+"en": "Anything interesting\nhappen lately?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_11/text + minigame_cabaret_cabaret|table/#/card_no_11/caption",
+"max": null
+},
+{
+"id": 6455,
+"en": "Do you have\nmany friends?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_12/text + minigame_cabaret_cabaret|table/#/card_no_12/caption",
+"max": null
+},
+{
+"id": 6456,
+"en": "Do you play\nvideo games?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_13/text + minigame_cabaret_cabaret|table/#/card_no_13/caption",
+"max": null
+},
+{
+"id": 6457,
+"en": "I have a secret\nto tell you.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_14/text + minigame_cabaret_cabaret|table/#/card_no_14/caption",
+"max": null
+},
+{
+"id": 6458,
+"en": "What do you think\nof tattoos?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_15/text + minigame_cabaret_cabaret|table/#/card_no_15/caption",
+"max": null
+},
+{
+"id": 6459,
+"en": "What's your take\non alcohol?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_16/text + minigame_cabaret_cabaret|table/#/card_no_16/caption",
+"max": null
+},
+{
+"id": 6460,
+"en": "Ever heard of\nthe Tojo Clan?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_17/text + minigame_cabaret_cabaret|table/#/card_no_17/caption",
+"max": null
+},
+{
+"id": 6461,
+"en": "Ever heard of\nHaruka Sawamura?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_18/text + minigame_cabaret_cabaret|table/#/card_no_18/caption",
+"max": null
+},
+{
+"id": 6462,
+"en": "Want to hear about\nmy adventures?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_19/text + minigame_cabaret_cabaret|table/#/card_no_19/caption",
+"max": null
+},
+{
+"id": 6463,
+"en": "Do you cook?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_20/text + minigame_cabaret_cabaret|table/#/card_no_20/caption",
+"max": null
+},
+{
+"id": 6464,
+"en": "What's your\nblood type?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_21/text + minigame_cabaret_cabaret|table/#/card_no_21/caption",
+"max": null
+},
+{
+"id": 6465,
+"en": "How many guys\nhave you slept with?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_22/text + minigame_cabaret_cabaret|table/#/card_no_22/caption",
+"max": null
+},
+{
+"id": 6466,
+"en": "Do you have\na boyfriend?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_23/text + minigame_cabaret_cabaret|table/#/card_no_23/caption",
+"max": null
+},
+{
+"id": 6467,
+"en": "What got you\ninto this job?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_24/text + minigame_cabaret_cabaret|table/#/card_no_24/caption",
+"max": null
+},
+{
+"id": 6468,
+"en": "Let's play the king\ngame! I'm the king!",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_25/text + minigame_cabaret_cabaret|table/#/card_no_25/caption",
+"max": null
+},
+{
+"id": 6469,
+"en": "What kind of music\ndo you listen to?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_26/text + minigame_cabaret_cabaret|table/#/card_no_26/caption",
+"max": null
+},
+{
+"id": 6470,
+"en": "Today's been fun.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_27/text + minigame_cabaret_cabaret|table/#/card_no_27/caption",
+"max": null
+},
+{
+"id": 6471,
+"en": "Pretty cold lately...",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_28/text + minigame_cabaret_cabaret|table/#/card_no_28/caption",
+"max": null
+},
+{
+"id": 6472,
+"en": "You make my\ndrink taste better.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_29/text + minigame_cabaret_cabaret|table/#/card_no_29/caption",
+"max": null
+},
+{
+"id": 6473,
+"en": "I love you...",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_30/text + minigame_cabaret_cabaret|table/#/card_no_30/caption + minigame_live_chat_chat_commands|chat_message …",
+"max": null
+},
+{
+"id": 6474,
+"en": "Yahoo!",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_31/text + minigame_cabaret_cabaret|table/#/card_no_31/caption + sound_auth|table/#//# …",
+"max": null
+},
+{
+"id": 6475,
+"en": "Can I touch you?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_33/text + minigame_cabaret_cabaret|table/#/card_no_33/caption",
+"max": null
+},
+{
+"id": 6476,
+"en": "You're as cute\nas always today.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_34/text + minigame_cabaret_cabaret|table/#/card_no_34/caption",
+"max": null
+},
+{
+"id": 6477,
+"en": "Such incredible\nbeauty...",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_35/text + minigame_cabaret_cabaret|table/#/card_no_35/caption",
+"max": null
+},
+{
+"id": 6478,
+"en": "I'll say \"Beautiful\nEyes\" ...in English.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_36/text + minigame_cabaret_cabaret|table/#/card_no_36/caption",
+"max": null
+},
+{
+"id": 6479,
+"en": "You should only\nhave eyes for me.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_37/text + minigame_cabaret_cabaret|table/#/card_no_37/caption",
+"max": null
+},
+{
+"id": 6480,
+"en": "Is there anyone\nyou like?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_38/text + minigame_cabaret_cabaret|table/#/card_no_38/caption",
+"max": null
+},
+{
+"id": 6481,
+"en": "If you fall for me,\nyou'll only get burned.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_39/text + minigame_cabaret_cabaret|table/#/card_no_39/caption",
+"max": null
+},
+{
+"id": 6482,
+"en": "This is a nice club.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_40/text + minigame_cabaret_cabaret|table/#/card_no_40/caption",
+"max": null
+},
+{
+"id": 6483,
+"en": "Know any good\nrestaurants?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_41/text + minigame_cabaret_cabaret|table/#/card_no_41/caption",
+"max": null
+},
+{
+"id": 6484,
+"en": "You know any\nof THOSE spots?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_42/text + minigame_cabaret_cabaret|table/#/card_no_42/caption",
+"max": null
+},
+{
+"id": 6485,
+"en": "I wrecked a\nconvenience store...",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_43/text + minigame_cabaret_cabaret|table/#/card_no_43/caption",
+"max": null
+},
+{
+"id": 6486,
+"en": "I've committed\nsins in my time...",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_44/text + minigame_cabaret_cabaret|table/#/card_no_44/caption",
+"max": null
+},
+{
+"id": 6487,
+"en": "I had this friend\nwho's gone now...",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_45/text + minigame_cabaret_cabaret|table/#/card_no_45/caption",
+"max": null
+},
+{
+"id": 6488,
+"en": "What's a true\nfriend to you?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_46/text + minigame_cabaret_cabaret|table/#/card_no_46/caption",
+"max": null
+},
+{
+"id": 6489,
+"en": "I'm good with\nbabies.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_47/text + minigame_cabaret_cabaret|table/#/card_no_47/caption",
+"max": null
+},
+{
+"id": 6490,
+"en": "Fishing is pretty\nhard, actually.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_48/text + minigame_cabaret_cabaret|table/#/card_no_48/caption",
+"max": null
+},
+{
+"id": 6491,
+"en": "I'm a target of\nseveral factions.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_49/text + minigame_cabaret_cabaret|table/#/card_no_49/caption",
+"max": null
+},
+{
+"id": 6492,
+"en": "People pick fights\nwith me a lot.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_50/text + minigame_cabaret_cabaret|table/#/card_no_50/caption",
+"max": null
+},
+{
+"id": 6493,
+"en": "Ever heard of\nPocket Circuit?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_51/text + minigame_cabaret_cabaret|table/#/card_no_51/caption",
+"max": null
+},
+{
+"id": 6494,
+"en": "I'm hitting the\ngym a lot now.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_52/text + minigame_cabaret_cabaret|table/#/card_no_52/caption",
+"max": null
+},
+{
+"id": 6495,
+"en": "I don't really like\nnoisy places.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_53/text + minigame_cabaret_cabaret|table/#/card_no_53/caption",
+"max": null
+},
+{
+"id": 6496,
+"en": "I'm not aggressive\nfor love.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_54/text + minigame_cabaret_cabaret|table/#/card_no_54/caption",
+"max": null
+},
+{
+"id": 6497,
+"en": "I don't warm up\nto people easily.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_55/text + minigame_cabaret_cabaret|table/#/card_no_55/caption",
+"max": null
+},
+{
+"id": 6498,
+"en": "I prefer high-end\nrestaurants for dates.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_56/text + minigame_cabaret_cabaret|table/#/card_no_56/caption",
+"max": null
+},
+{
+"id": 6499,
+"en": "Want to guess\nmy age?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_57/text + minigame_cabaret_cabaret|table/#/card_no_57/caption",
+"max": null
+},
+{
+"id": 6500,
+"en": "What do you\nthink of me?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_58/text + minigame_cabaret_cabaret|table/#/card_no_58/caption",
+"max": null
+},
+{
+"id": 6501,
+"en": "Do you prefer\nolder or younger?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_59/text + minigame_cabaret_cabaret|table/#/card_no_59/caption",
+"max": null
+},
+{
+"id": 6502,
+"en": "What's your fetish?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_60/text + minigame_cabaret_cabaret|table/#/card_no_60/caption",
+"max": null
+},
+{
+"id": 6503,
+"en": "What do you want\nmost right now",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_61/caption",
+"max": null
+},
+{
+"id": 6504,
+"en": "What do you want\nmost right now?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_61/text",
+"max": null
+},
+{
+"id": 6505,
+"en": "What was your\nfirst love like?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_62/text + minigame_cabaret_cabaret|table/#/card_no_62/caption",
+"max": null
+},
+{
+"id": 6506,
+"en": "What was your\nfirst time like?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_63/text + minigame_cabaret_cabaret|table/#/card_no_63/caption",
+"max": null
+},
+{
+"id": 6507,
+"en": "What color are\nyour panties?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_64/text + minigame_cabaret_cabaret|table/#/card_no_64/caption",
+"max": null
+},
+{
+"id": 6508,
+"en": "Any plans to\nget married?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_65/text + minigame_cabaret_cabaret|table/#/card_no_65/caption",
+"max": null
+},
+{
+"id": 6509,
+"en": "Your makeup\nlooks nice.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_66/text + minigame_cabaret_cabaret|table/#/card_no_66/caption",
+"max": null
+},
+{
+"id": 6510,
+"en": "Have we met\nbefore?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_67/text + minigame_cabaret_cabaret|table/#/card_no_67/caption",
+"max": null
+},
+{
+"id": 6511,
+"en": "You've got\na great figure!",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_68/text + minigame_cabaret_cabaret|table/#/card_no_68/caption",
+"max": null
+},
+{
+"id": 6512,
+"en": "What about men\nwho cheat?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_69/text + minigame_cabaret_cabaret|table/#/card_no_69/caption",
+"max": null
+},
+{
+"id": 6513,
+"en": "An outdoors\ndate is best.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_70/text + minigame_cabaret_cabaret|table/#/card_no_70/caption",
+"max": null
+},
+{
+"id": 6514,
+"en": "Relaxing at home\nis the best date.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_71/text + minigame_cabaret_cabaret|table/#/card_no_71/caption",
+"max": null
+},
+{
+"id": 6515,
+"en": "Play any sports\nin school?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_72/text + minigame_cabaret_cabaret|table/#/card_no_72/caption",
+"max": null
+},
+{
+"id": 6516,
+"en": "Wash my\nunderwear!",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_73/text + minigame_cabaret_cabaret|table/#/card_no_73/caption",
+"max": null
+},
+{
+"id": 6517,
+"en": "Make miso soup\nfor me!",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_74/text + minigame_cabaret_cabaret|table/#/card_no_74/caption",
+"max": null
+},
+{
+"id": 6518,
+"en": "Young people are\nterrible these days.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_75/text + minigame_cabaret_cabaret|table/#/card_no_75/caption",
+"max": null
+},
+{
+"id": 6519,
+"en": "What do you sing\nat karaoke?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_76/text + minigame_cabaret_cabaret|table/#/card_no_76/caption",
+"max": null
+},
+{
+"id": 6520,
+"en": "Aren't dangerous\nmen attractive?",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_77/text + minigame_cabaret_cabaret|table/#/card_no_77/caption",
+"max": null
+},
+{
+"id": 6521,
+"en": "I'll tell you about\nMajima-san.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_78/text + minigame_cabaret_cabaret|table/#/card_no_78/caption",
+"max": null
+},
+{
+"id": 6522,
+"en": "I'll tell you about\nDate-san.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_79/text + minigame_cabaret_cabaret|table/#/card_no_79/caption",
+"max": null
+},
+{
+"id": 6523,
+"en": "I'll tell you about\nAkiyama.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_80/text + minigame_cabaret_cabaret|table/#/card_no_80/caption",
+"max": null
+},
+{
+"id": 6524,
+"en": "I'll tell you about\nSaejima.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_81/text + minigame_cabaret_cabaret|table/#/card_no_81/caption",
+"max": null
+},
+{
+"id": 6525,
+"en": "I'll tell you about\nDaigo.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_82/text + minigame_cabaret_cabaret|table/#/card_no_82/caption",
+"max": null
+},
+{
+"id": 6526,
+"en": "I'll tell you about\nOnomichi.",
+"ctx": "minigame_cabaret_cabaret|table/#/card_no_83/text + minigame_cabaret_cabaret|table/#/card_no_83/caption",
+"max": null
+},
+{
+"id": 6527,
+"en": "<Sign:2> Swap Cards",
+"ctx": "minigame_cabaret_cabaret|table/#/change_card/text",
+"max": null
+},
+{
+"id": 6528,
+"en": "Select card(s) to discard.",
+"ctx": "minigame_cabaret_cabaret|table/#/change_card_caption/text",
+"max": null
+},
+{
+"id": 6529,
+"en": "<Sign:2> Swap",
+"ctx": "minigame_cabaret_cabaret|table/#/change_card_decide/text",
+"max": null
+},
+{
+"id": 6530,
+"en": "Drink Card Explanation",
+"ctx": "minigame_cabaret_cabaret|table/#/drink1/caption + minigame_cabaret_cabaret|table/#/drink2/caption + minigame_cabaret_cabaret|table/#/drink3/caption …",
+"max": null
+},
+{
+"id": 6531,
+"en": "Drink Card",
+"ctx": "minigame_cabaret_cabaret|table/#/drink1/text + minigame_cabaret_cabaret|table/#/drink2/text + minigame_cabaret_cabaret|table/#/drink3/text …",
+"max": null
+},
+{
+"id": 6532,
+"en": "Starring in a movie",
+"ctx": "minigame_cabaret_cabaret|table/#/erina/dream",
+"max": null
+},
+{
+"id": 6533,
+"en": "Movies",
+"ctx": "minigame_cabaret_cabaret|table/#/erina/hobby",
+"max": null
+},
+{
+"id": 6534,
+"en": "Quiet and intelligent men",
+"ctx": "minigame_cabaret_cabaret|table/#/erina/like_type",
+"max": null
+},
+{
+"id": 6535,
+"en": "Eating and changing clothes",
+"ctx": "minigame_cabaret_cabaret|table/#/erina/skill",
+"max": null
+},
+{
+"id": 6536,
+"en": "The restaurant bill after she orders everything",
+"ctx": "minigame_cabaret_cabaret|table/#/erina/specific_item",
+"max": null
+},
+{
+"id": 6537,
+"en": "Worries About:",
+"ctx": "minigame_cabaret_cabaret|table/#/erina/specific_title",
+"max": null
+},
+{
+"id": 6538,
+"en": "Food Card",
+"ctx": "minigame_cabaret_cabaret|table/#/food1/text + minigame_cabaret_cabaret|table/#/food1/caption + minigame_cabaret_cabaret|table/#/food2/text …",
+"max": null
+},
+{
+"id": 6539,
+"en": "Gold",
+"ctx": "minigame_cabaret_cabaret|table/#/gold/name",
+"max": null
+},
+{
+"id": 6540,
+"en": "Becoming an idol",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/dream",
+"max": null
+},
+{
+"id": 6541,
+"en": "Dried sweet potatoes and beef jerky",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/favorite_food",
+"max": null
+},
+{
+"id": 6542,
+"en": "Rock",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/favorite_music + minigame_cabaret_cabaret|table/#/erina/favorite_music",
+"max": null
+},
+{
+"id": 6543,
+"en": "Tea parties",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/hobby",
+"max": null
+},
+{
+"id": 6544,
+"en": "Kind people",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/like_type",
+"max": null
+},
+{
+"id": 6545,
+"en": "Shoulder massages",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/skill",
+"max": null
+},
+{
+"id": 6546,
+"en": "Like a cat",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/specific_item",
+"max": null
+},
+{
+"id": 6547,
+"en": "Asks for Affection:",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/specific_title",
+"max": null
+},
+{
+"id": 6548,
+"en": "Diamond",
+"ctx": "minigame_cabaret_cabaret|table/#/number_one/name",
+"max": null
+},
+{
+"id": 6549,
+"en": "Platinum",
+"ctx": "minigame_cabaret_cabaret|table/#/platinum/name",
+"max": null
+},
+{
+"id": 6550,
+"en": "Ex-hostess TV personality",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/dream",
+"max": null
+},
+{
+"id": 6551,
+"en": "Western music",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/favorite_music",
+"max": null
+},
+{
+"id": 6552,
+"en": "Beauty",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/hobby",
+"max": null
+},
+{
+"id": 6553,
+"en": "Sexy guys",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/like_type",
+"max": null
+},
+{
+"id": 6554,
+"en": "Presenting herself",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/skill",
+"max": null
+},
+{
+"id": 6555,
+"en": "About 30% are women",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/specific_item",
+"max": null
+},
+{
+"id": 6556,
+"en": "Riona's Fans:",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/specific_title",
+"max": null
+},
+{
+"id": 6557,
+"en": "Becoming a wife",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/dream",
+"max": null
+},
+{
+"id": 6558,
+"en": "Monkfish liver",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/favorite_food",
+"max": null
+},
+{
+"id": 6559,
+"en": "Love songs",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/favorite_music",
+"max": null
+},
+{
+"id": 6560,
+"en": "Fantasizing",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/hobby",
+"max": null
+},
+{
+"id": 6561,
+"en": "People built like gorillas",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/like_type",
+"max": null
+},
+{
+"id": 6562,
+"en": "Cooking",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/skill",
+"max": null
+},
+{
+"id": 6563,
+"en": "Very feminine in love",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/specific_item",
+"max": null
+},
+{
+"id": 6564,
+"en": "Saki in Love:",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/specific_title",
+"max": null
+},
+{
+"id": 6565,
+"en": "Silver",
+"ctx": "minigame_cabaret_cabaret|table/#/silver/name",
+"max": null
+},
+{
+"id": 6566,
+"en": "Succeeding in Japan for her family in Taiwan",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/dream",
+"max": null
+},
+{
+"id": 6567,
+"en": "Ramen and glass noodles",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/favorite_food",
+"max": null
+},
+{
+"id": 6568,
+"en": "Anime songs",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/favorite_music",
+"max": null
+},
+{
+"id": 6569,
+"en": "Cosplay",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/hobby",
+"max": null
+},
+{
+"id": 6570,
+"en": "Serious people",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/like_type",
+"max": null
+},
+{
+"id": 6571,
+"en": "Imitating a horse's whinny",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/skill",
+"max": null
+},
+{
+"id": 6572,
+"en": "Romance games aimed at men",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/specific_item",
+"max": null
+},
+{
+"id": 6573,
+"en": "Love Reference:",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/specific_title",
+"max": null
+},
+{
+"id": 6574,
+"en": "Dream:",
+"ctx": "minigame_cabaret_cabaret|table/#/status_theme_dream/text",
+"max": null
+},
+{
+"id": 6575,
+"en": "Favorite Food:",
+"ctx": "minigame_cabaret_cabaret|table/#/status_theme_favorite_food/text",
+"max": null
+},
+{
+"id": 6576,
+"en": "Favorite Music:",
+"ctx": "minigame_cabaret_cabaret|table/#/status_theme_favorite_music/text",
+"max": null
+},
+{
+"id": 6577,
+"en": "Hobby:",
+"ctx": "minigame_cabaret_cabaret|table/#/status_theme_hobby/text",
+"max": null
+},
+{
+"id": 6578,
+"en": "Likes:",
+"ctx": "minigame_cabaret_cabaret|table/#/status_theme_like_type/text",
+"max": null
+},
+{
+"id": 6579,
+"en": "Special Skill:",
+"ctx": "minigame_cabaret_cabaret|table/#/status_theme_skill/text",
+"max": null
+},
+{
+"id": 6580,
+"en": "Extend the session?",
+"ctx": "minigame_cabaret_cabaret|table/#/title_msg_extend/text",
+"max": null
+},
+{
+"id": 6581,
+"en": "Upsy-daisy!",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6582,
+"en": "You're okay, you're okay.",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6583,
+"en": "Who wants a swing?",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6584,
+"en": "Okay, up we go!",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6585,
+"en": "(Does he want me to lift him?)",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6586,
+"en": "(I think he wants me to swing him...)",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6587,
+"en": "(I think he wants the upsy-daisy trick...)",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6588,
+"en": "(Looks like he wants rubs...)",
+"ctx": "minigame_dandle_baby_voice|telop",
+"max": null
+},
+{
+"id": 6589,
+"en": "Paul Lim Special",
+"ctx": "minigame_darts_dart_kind|name",
+"max": null
+},
+{
+"id": 6590,
+"en": "Random-kun (Test)",
+"ctx": "minigame_darts_rival|name",
+"max": null
+},
+{
+"id": 6591,
+"en": "Yuya Akaishizawa",
+"ctx": "minigame_darts_rival|name",
+"max": null
+},
+{
+"id": 6592,
+"en": "Yuka Kinoshita",
+"ctx": "minigame_darts_rival|name",
+"max": null
+},
+{
+"id": 6593,
+"en": "Reiko Asada",
+"ctx": "minigame_darts_rival|name",
+"max": null
+},
+{
+"id": 6594,
+"en": "Play Solo",
+"ctx": "minigame_darts_rival|name",
+"max": null
+},
+{
+"id": 6595,
+"en": "You're sexy.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+},
+{
+"id": 6596,
+"en": "I'm gonna die of excitement.",
+"ctx": "minigame_live_chat_chat_commands|chat_message",
+"max": null
+}
+]

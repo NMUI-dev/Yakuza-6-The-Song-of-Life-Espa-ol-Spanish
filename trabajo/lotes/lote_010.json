@@ -1,0 +1,1766 @@
+[
+{
+"id": 3052,
+"en": "Raise Riona's Rank to Diamond",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3053,
+"en": "Raise Erina's Rank to Diamond",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3054,
+"en": "Raise Hikaru's Rank to Diamond",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3055,
+"en": "Raise Sora's Rank to Diamond",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3056,
+"en": "Rank high at the Cabaret Club 5 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3057,
+"en": "Rank high at the Cabaret Club 15 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3058,
+"en": "Rank high at the Cabaret Club 30 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3059,
+"en": "Become friends with Hatakeyama-san",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3060,
+"en": "Become friends with Akiyoshi-san",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3061,
+"en": "Become friends with Gen-san",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3062,
+"en": "Become friends with Ando-san",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3063,
+"en": "Become friends with Kaneko-san",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3064,
+"en": "Become friends with Mama",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3065,
+"en": "Visit New Gaudi 5 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3066,
+"en": "Visit New Gaudi 20 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3067,
+"en": "Visit New Gaudi 30 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3068,
+"en": "Reach max level in spearfishing",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3069,
+"en": "Go out in mahjong with ron or tsumo 5 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3070,
+"en": "Go out in mahjong with ron or tsumo 10 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3071,
+"en": "Go out in mahjong with ron or tsumo 30 times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3072,
+"en": "Become friendly with Viola (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3073,
+"en": "Become friendly with Musashi (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3074,
+"en": "Become friendly with Kotetsu (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3075,
+"en": "Become friendly with Fuku (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3076,
+"en": "Become friendly with Milk (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3077,
+"en": "Become friendly with Shizuku (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3078,
+"en": "Become friendly with Leon (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3079,
+"en": "Become friendly with Maron (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3080,
+"en": "Become friendly with Victoria (cat) in Kamurocho",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3081,
+"en": "Become friendly with Tora (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3082,
+"en": "Become friendly with Nana (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3083,
+"en": "Become friendly with Tama (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3084,
+"en": "Become friendly with Hime (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3085,
+"en": "Become friendly with Mike (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3086,
+"en": "Become friendly with Rin (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3087,
+"en": "Become friendly with Kuro (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3088,
+"en": "Become friendly with Shiro (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3089,
+"en": "Become friendly with Koko (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3090,
+"en": "Become friendly with Kai (cat) in Onomichi",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3091,
+"en": "Feed cats 5 times",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3092,
+"en": "Feed cats 10 times",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3093,
+"en": "Feed cats 20 times",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3094,
+"en": "Feed cats 30 times",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3095,
+"en": "Pull 5 fortunes",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3096,
+"en": "Pull 10 fortunes",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3097,
+"en": "Pull 30 fortunes",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3098,
+"en": "Win a total of 10 matches in Virtua Fighter 5 FS",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3099,
+"en": "Win a total of 30 matches in Virtua Fighter 5 FS",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3100,
+"en": "Win a total of 10 matches in Puyo Puyo",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3101,
+"en": "Win a total of 20 matches in Puyo Puyo",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3102,
+"en": "Win a total of 30 matches in Puyo Puyo",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3103,
+"en": "Get over 2,000,000 points in Space Harrier",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3104,
+"en": "Get over 3,000,000 points in Out Run",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3105,
+"en": "Get over 50,000 points in Fantasy Zone",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3106,
+"en": "Get over 4,000,000 points in Super Hang-On",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3107,
+"en": "Defeat Sega 1 Time",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3108,
+"en": "Defeat Sega 5 Times",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3109,
+"en": "Drink 5 types of vending machine drinks",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3110,
+"en": "Drink 10 types of vending machine drinks",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3111,
+"en": "Drink all types of vending machine drinks",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3112,
+"en": "Get an A rank or above in one training program",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3113,
+"en": "Get an A rank or above in three training programs",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3114,
+"en": "Get an A rank or above in all training programs",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3115,
+"en": "Complete 5 different Trouble Missions",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3116,
+"en": "Complete 10 different Trouble Missions",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3117,
+"en": "Complete all Trouble Missions",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3118,
+"en": "Complete Saki's profile information",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3119,
+"en": "Complete Riona's profile information",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3120,
+"en": "Complete Erina's profile information",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3121,
+"en": "Complete Hikaru's profile information",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3122,
+"en": "Complete Sora's profile information",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3123,
+"en": "Obtain a high rank in 3 bar conversations",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3124,
+"en": "Obtain a high rank in all bar conversations",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3125,
+"en": "Complete 5 baseball missions",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3126,
+"en": "Complete 10 baseball missions",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3127,
+"en": "Complete all baseball missions",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3128,
+"en": "Complete all stages in spearfishing",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3129,
+"en": "Catch all types of fish in spearfishing",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3130,
+"en": "Play darts with every ruleset",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3131,
+"en": "Defeat all rivals in darts",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3132,
+"en": "Get first place at all tables and tournaments in mahjong",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3133,
+"en": "Clear 3 stages in Virtua Fighter 5 FS",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3134,
+"en": "Clear 5 stages in Virtua Fighter 5 FS",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3135,
+"en": "Clear all stages in Virtua Fighter 5 FS",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3136,
+"en": "Win a match with all characters in Virtua Fighter 5 FS",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3137,
+"en": "Defeat 5 rivals in Puyo Puyo",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3138,
+"en": "Defeat all rivals in Puyo Puyo",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3139,
+"en": "Use a total of \\1,000 at the offering box",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3140,
+"en": "Use a total of \\5,000 at the offering box",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3141,
+"en": "Use a total of \\10,000 at the offering box",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3142,
+"en": "Complete Gindaco Highball Tavern",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3143,
+"en": "Complete Ringer Hut",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3144,
+"en": "Complete Fuji Soba",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3145,
+"en": "Complete Akaushimaru",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3146,
+"en": "Complete Sushi Gin",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3147,
+"en": "Complete Café Alps",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3148,
+"en": "Complete Smile Burger",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3149,
+"en": "Complete Adventure Awards",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3150,
+"en": "Complete Battle Awards",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3151,
+"en": "The Throne of Onomichi",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3152,
+"en": "Complete Substory Awards",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3153,
+"en": "Complete Minigame Awards",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3154,
+"en": "Sins of the Father",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3155,
+"en": "Pocket Circuit Fighter Returns",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3156,
+"en": "The Curse of Onomichi",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3157,
+"en": "Oh No! It's Ono Michio!",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3158,
+"en": "The Ono Michio Show",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3159,
+"en": "Putting on a Brave Face",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3160,
+"en": "The Girl Who Leapt Through Time?",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3161,
+"en": "A Freaky Situation",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3162,
+"en": "Assemble the Team",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3163,
+"en": "We Need a Ringer",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3164,
+"en": "The Sweet Taste of Victory",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3165,
+"en": "Decisive Battle! Jingai Thunders",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3166,
+"en": "True Bonds",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3167,
+"en": "What's the Matter with Kids Today?",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3168,
+"en": "Powerful Memories",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3169,
+"en": "Tech Support",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3170,
+"en": "The Price of Love",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3171,
+"en": "Kaneko's Resolve",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3172,
+"en": "Thanks for Everything, Mama",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3173,
+"en": "The Old Man and the Sea",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3174,
+"en": "World's Best Octopus",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3175,
+"en": "Deep Blue Sea",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3176,
+"en": "Crisis Management Professional",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3177,
+"en": "The Joys of Adulthood",
+"ctx": "complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 3178,
+"en": "Complete Ikinari Steak",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3179,
+"en": "Complete Bantam",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3180,
+"en": "Complete Kyushu No. 1 Star",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3181,
+"en": "Complete M Side Cafe",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3182,
+"en": "Complete Osaka King",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3183,
+"en": "Complete Quadra Garden",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3184,
+"en": "Complete Sushi Zanmai",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3185,
+"en": "Complete Wette Kitchen",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3186,
+"en": "Complete Jumangoku Chinese Soba",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3187,
+"en": "Complete Oyster Shack",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3188,
+"en": "Complete La Pente",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3189,
+"en": "Complete Yonetoku",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3190,
+"en": "Complete Wild Jackson",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3191,
+"en": "Earn a total of 1,000 EXP",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3192,
+"en": "Earn a total of 10,000 EXP",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3193,
+"en": "Earn a total of 100,000 EXP",
+"ctx": "complete|name + complete|explanation",
+"max": null
+},
+{
+"id": 3194,
+"en": "Complete Yoronotaki",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3195,
+"en": "Complete Kanrai",
+"ctx": "complete|name",
+"max": null
+},
+{
+"id": 3196,
+"en": "Watch",
+"ctx": "instant_mission_kind|message_select_batsu",
+"max": null
+},
+{
+"id": 3197,
+"en": "Punch",
+"ctx": "instant_mission_kind|message_select_shikaku",
+"max": null
+},
+{
+"id": 3198,
+"en": "Do something!",
+"ctx": "instant_mission_kind|title",
+"max": null
+},
+{
+"id": 3199,
+"en": "Spotted a shakedown!",
+"ctx": "instant_mission_kind|title",
+"max": null
+},
+{
+"id": 3200,
+"en": "Calm Haruto",
+"ctx": "instant_mission_kind|title",
+"max": null
+},
+{
+"id": 3201,
+"en": "Spotted an encount boss!",
+"ctx": "instant_mission_kind|title",
+"max": null
+},
+{
+"id": 3202,
+"en": "An Assassin Appears",
+"ctx": "instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 3203,
+"en": "Dine and Dash",
+"ctx": "instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 3204,
+"en": "Mugging",
+"ctx": "instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 3205,
+"en": "sample_event encount",
+"ctx": "instant_mission_kind|title",
+"max": null
+},
+{
+"id": 3206,
+"en": "Starving",
+"ctx": "instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 3207,
+"en": "The Slasher Appears",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3208,
+"en": "Put Out the Fire",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3209,
+"en": "A Shoplifter Appears",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3210,
+"en": "A Thief Appears",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3211,
+"en": "In Deep Troublr",
+"ctx": "instant_mission_kind|title",
+"max": null
+},
+{
+"id": 3212,
+"en": "SOS",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3213,
+"en": "Graffiti Suspicion",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3214,
+"en": "Railway Enthusiast",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3215,
+"en": "Freshly Caught Fish",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3216,
+"en": "Graveyard Man",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3217,
+"en": "Building Fire",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3218,
+"en": "Beware the Beauty",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3219,
+"en": "Suspicions",
+"ctx": "instant_mission_kind|title + mission_kind|title + mission_kind|mission",
+"max": null
+},
+{
+"id": 3220,
+"en": "Attack Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3221,
+"en": "Defense Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3222,
+"en": "Strength EXP Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3223,
+"en": "Agility EXP Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3224,
+"en": "Spirit EXP Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3225,
+"en": "Technique EXP Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3226,
+"en": "Charm EXP Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3227,
+"en": "Money Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3228,
+"en": "Stamina Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3229,
+"en": "All EXP Boost",
+"ctx": "item_buff|name",
+"max": null
+},
+{
+"id": 3230,
+"en": "Our classic Smile Burger.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3231,
+"en": "Two times the meat, two times the fun!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3232,
+"en": "Our original ham cutlet sandwich.\nPig out on this Smile Burger classic!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3233,
+"en": "The potato salad on this burger makes it a\nhealthier option.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3234,
+"en": "A fancy chicken sandwich with all the fixings.\nYou'll go cuckoo for it!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3235,
+"en": "No burger is complete without\nthese crispy sticks of fried goodness.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3236,
+"en": "Boost your EXP gain and taste true power!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3237,
+"en": "A stylish white bracelet dotted with red gems.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3238,
+"en": "A stylish white bracelet dotted with black gems.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3239,
+"en": "A stylish white bracelet dotted with white gems.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3240,
+"en": "A stylish white bracelet dotted with blue gems.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3241,
+"en": "A fashionable bracelet that'll make you\na little more popular with the ladies.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3242,
+"en": "Mysterious beads said to ward off\nunwanted confrontations.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3243,
+"en": "A gemstone bracelet engraved with an image\nof Suzaku, the heavenly phoenix guardian.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3244,
+"en": "A gemstone bracelet engraved with an image\nof Genbu, the heavenly tortoise guardian.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3245,
+"en": "A gemstone bracelet engraved with an image\nof Byakko, the heavenly tiger guardian.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3246,
+"en": "A gemstone bracelet engraved with an image\nof Seiryu, the heavenly dragon guardian.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3247,
+"en": "A bracelet blessed with the protection of\nSuzaku, Genbu, Byakko, and Seiryu.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3248,
+"en": "Helps protect your teeth.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3249,
+"en": "Helps protect your teeth while preventing strain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3250,
+"en": "Fits perfectly in any set of teeth.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3251,
+"en": "Reminds you of home.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3252,
+"en": "Slightly increases blade resistance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3253,
+"en": "Increases blade resistance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3254,
+"en": "It feels a little strange wrapping someone else's\ndried blood around your body.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3255,
+"en": "Greatly increases blade resistance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3256,
+"en": "Increases gun resistance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3257,
+"en": "Greatly increases gun resistance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3258,
+"en": "Greatly increases blade and gun resistance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3259,
+"en": "Slightly increases blade and gun resistance,\nbut also restricts movement.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3260,
+"en": "Increases blade and gun resistance,\nbut also restricts movement.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3261,
+"en": "Greatly increases blade and gun resistance,\nbut makes you feel sluggish for some reason.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3262,
+"en": "Keeps your pants from falling off.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3263,
+"en": "Fits comfortably and looks good.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3264,
+"en": "Lets you sprint longer without tiring.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3265,
+"en": "Speeds up your digestion.\nHow exactly it does that is unknown.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3266,
+"en": "A confidence-inspiring belt that makes you\nmore popular with the ladies.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3267,
+"en": "Put a slight bounce in your step.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3268,
+"en": "Keep you running comfortably for miles.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3269,
+"en": "Offer unparalleled arch support for long-term use.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3270,
+"en": "A blessing from the heavens that provides you\nwith all-around good luck.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3271,
+"en": "A blessing from the heavens that provides you\nwith luck on the road.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3272,
+"en": "A blessing from the heavens that keeps\nthe good luck in and the bad luck out.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3273,
+"en": "A blessing from the heavens that provides you\nwith peaceful travels.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3274,
+"en": "A blessing from the heavens that provides you with\ndashing good looks. Makes women like you more.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3275,
+"en": "Somehow makes enemies more likely\nto confront you. Gets you every time.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3276,
+"en": "Somehow makes enemies less likely\nto confront you. There's a lot of nostalgia here.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3277,
+"en": "A stone that emits a bizarre red glow.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3278,
+"en": "A blessing from the heavens that taps into your\nhidden energy reserves to protect you from death.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3279,
+"en": "An essential piece of any middle-aged man's wardrobe.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3280,
+"en": "The snug fit will keep you focused all day long.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3281,
+"en": "These underwear are comfortable and\neasy to move around in.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3282,
+"en": "Fills you with fighting spirit.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3283,
+"en": "A traditional Japanese undergarment\nthat's comfortably snug.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3284,
+"en": "A traditional Japanese undergarment that's\ncomfortable and, importantly, easy to take off.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3285,
+"en": "The cold metal against your skin fills you with\nfighting spirit. It also increases your defense.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3286,
+"en": "There's an eerie aura surrounding this thing.\nNobody knows how exactly it got so bloody...",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3287,
+"en": "Weakens you somewhat, but increases your\ndigestion rate and EXP gain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3288,
+"en": "Drastically weakens you, but greatly increases\nyour digestion rate and EXP gain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3289,
+"en": "Displays civilians in need of help on your map.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3290,
+"en": "Displays the locations of safes on your map.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3291,
+"en": "Useful when you need a little health boost.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3292,
+"en": "Restores your health quite a bit.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3293,
+"en": "Restores your health to its maximum.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3294,
+"en": "Charges up your Heat a little.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3295,
+"en": "Charges up your Heat significantly.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3296,
+"en": "Charges up your Heat dramatically.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3297,
+"en": "Charges up your Heat to its maximum level.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3298,
+"en": "Charges up your health and Heat a little.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3299,
+"en": "Charges up your health and Heat significantly.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3300,
+"en": "Charges up your health and Heat dramatically.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3301,
+"en": "Charges up your health and Heat to its maximum.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3302,
+"en": "Stimulates your digestive tract,\nslightly lowering your Hunger Gauge.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3303,
+"en": "Stimulates your digestive tract,\ngreatly lowering your Hunger Gauge.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3304,
+"en": "Only your taste buds can solve this mystery.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3305,
+"en": "A blend of Mandheling and Brazilian beans with\na Colombian base.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3306,
+"en": "Countless coffee drinkers love mocha-style\ncoffee for its rich, bitter flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3307,
+"en": "A modestly sweet shortcake topped with fresh\nwhipped cream.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3308,
+"en": "A lavish Mont Blanc made with generous helpings\nof chestnuts.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3309,
+"en": "This set offers a bacon, egg, and lettuce\nsandwich on white bread.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3310,
+"en": "A nostalgic-tasting Napolitan.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3311,
+"en": "Please enjoy the rich flavor of the espresso\nand the fluffy, frothed milk.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3312,
+"en": "Made with hand-selected fair-trade coffee \nbeans for superior taste and aroma.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3313,
+"en": "A basic egg sandwich for those days when\nyou just need to power through a meal.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3314,
+"en": "A fluffy croissant made every morning by the\nowner himself.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3315,
+"en": "A crispy toast made every morning by the\nowner himself.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3316,
+"en": "A burger made with teriyaki grilled chicken\nbreast.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3317,
+"en": "A satisfying burger made with double the meat.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3318,
+"en": "The golden-fried standard of french fries,\nserved with a smile.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3319,
+"en": "A cool, refreshing treat, especially popular\nin the summer months.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3320,
+"en": "Choosing the healthy alternative to a\nburger is always something to smile about.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3321,
+"en": "Several patties that absolutely explode with\nflavor in this Millennium Tower inspired burger.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3322,
+"en": "A signature menu item of Wild Jackson.\nKnown for its thickly sliced tomato and cheese.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3323,
+"en": "A standard dish on our menu. This tonkotsu has\nthe taste of Kyushu, the home of tonkotsu ramen.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3324,
+"en": "Our popular tonkotsu ramen, topped with pork\nkakuni that's been simmered over a long period.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3325,
+"en": "Tasty ramen topped with succulent, thin\nslices of roast pork.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3326,
+"en": "This tonkotsu tsukemen is topped with spicy\nfish roe straight from Kyushu.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3327,
+"en": "Flavorful fried rice cooked with a strong flame.\nA heavy meal.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3328,
+"en": "Bite into them carefully, or you might get\nburned by an explosion of juicy flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3329,
+"en": "Sliced beef tongue is popular for its unique\nflavor and texture.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3330,
+"en": "This carefully selected beef tongue is soft\nand rich. Enjoy!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3331,
+"en": "This beef rib meat is popular for its incredibly\nrich flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3332,
+"en": "This top-grade meat is selected from only the\nrarest, choicest cuts of beef rib.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3333,
+"en": "Enjoy the light flavor and relatively low fat of\nthis beef sirloin steak.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3334,
+"en": "The flavor of this choice sirloin from top-grade\nJapanese beef is incredible.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3335,
+"en": "This beef skirt steak is actually considered\noffal, but it's very popular nonetheless.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3336,
+"en": "This skirt steak from top-grade Japanese beef is\nan incredible treat for your taste buds.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3337,
+"en": "Some say this choice beef intestine only\nfinds its true worth in being burnt black.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3338,
+"en": "A platter of the sea's delicious bounty,\nincluding shrimp, scallops, and squid.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3339,
+"en": "A tantalizing combo dish of kimchi made from\nChinese cabbage, cucumbers, daikon, and more.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3340,
+"en": "Bibimbap with our spicy sweet kochujang sauce.\nRoasted to a golden brown for an amazing taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3341,
+"en": "Spicy beef soup with rice is one of our house\nspecialties.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3342,
+"en": "The unmistakable aroma of grilled garlic\nis only topped by its powerful taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3343,
+"en": "A special salad full of vegetables and topped\nwith Kanrai's original dressing.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3344,
+"en": "A 4-piece assorted set of the most popular\nnigiri-style sushi and cucumber rolls.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3345,
+"en": "A 9-piece assorted set of standard nigiri-style\nsushi and cucumber rolls.",
+"ctx": "item|explanation",
+"max": null
+}
+]

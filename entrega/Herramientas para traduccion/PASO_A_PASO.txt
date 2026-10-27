@@ -1,0 +1,101 @@
+YAKUZA 6: THE SONG OF LIFE - TRADUCCIÓN AL ESPAÑOL: QUÉ SE HIZO, PASO A PASO
+==========================================================================
+
+Traducción hecha con inteligencia artificial (Claude Code dirigiendo y revisando, más ayudantes gratuitos) y supervisada
+por un humano. Del inglés oficial al español neutro latinoamericano. 18 al 20 de octubre de 2026. Versión 0.9.
+
+Si solo quieres cambiar o corregir textos, lee COMO_USAR.txt: el programa de esta carpeta hace todo lo de abajo solo.
+
+
+1. DÓNDE ESTÁ EL TEXTO DEL JUEGO
+--------------------------------
+Todo está dentro de la carpeta «data» del juego (Steam: ...\steamapps\common\Yakuza 6 - The Song of Life\data).
+
+- data\db\e\*.bin (701 tablas «ARMP», la «e» es inglés): menús, opciones, objetos, misiones, habilidades, correos,
+  manual, avisos de combate, nombres y SUBTÍTULOS de las escenas (tablas sound_auth_subtitles_speech_list_*, auth).
+  En total 58.088 textos (37.021 distintos) en 193 tablas.
+- data\talk.par: diálogos de subhistorias, cabaret, minijuegos... Es un archivo .par (como un .zip de SEGA) que lleva
+  dentro más .par por escena: talk.par > carpeta\e\escena.par > cmn.par > cmn.bin. En cmn.bin las frases van en UTF-8,
+  alineadas a 4 bytes, y detrás de cada frase inglesa va la china: la española NO puede pasar del hueco que tenía la
+  inglesa (columna «bytes_max»). 2.095 frases (1.551 distintas).
+- data\font.par: las letras. data\ui.par: imágenes (algunas palabras están DIBUJADAS: no son texto).
+
+Textos distintos para traducir en total: 28.754 (1,42 millones de letras).
+
+
+2. PROGRAMAS USADOS (todos gratuitos)
+-------------------------------------
+- ParTool (del proyecto ParManager, de Kaplas80): abre («extract») y rearma («add») los .par de SEGA.
+  Truco: «add» pregunta «Continue?» si el archivo de salida ya existe -> usar siempre una salida nueva.
+- reARMP (de Ret-HZ, licencia GPL-2): pasa cada tabla ARMP .bin a .json y de vuelta. Es antiguo pero con Yakuza 6
+  funciona (2 tablas no se dejan exportar: sound_label.bin y ui_layer_text.bin, que no hacían falta).
+- Python 3: los programas propios (este paquete trae los necesarios en herramienta_traduccion.py).
+- Steamless: para el laboratorio de pruebas (ver paso 6). No va en el paquete.
+- Para traducir: Claude (Anthropic) y ayudantes gratuitos: API gratis de Google Gemini y modelos gratis de OpenRouter
+  (MiniMax), con un programa que reparte los lotes, valida y corrige solo.
+
+
+3. SACAR EL TEXTO
+-----------------
+1) db\e: cada tabla .bin -> .json con reARMP. Se recorren todos los textos del .json y se separa lo que lee el jugador de
+   lo que es interno (nombres de archivo, claves, códigos, nombres de animación). Se agrupa por «tabla | columna» y cada
+   grupo queda como TEXTO o ID (datos\clases_grupos.json). Traducir un ID puede cerrar el juego o romper algo, por eso
+   el programa solo toca los grupos TEXTO.
+2) talk.par: se saca todo con «ParTool extract -r» y en cada cmn.bin se buscan las frases inglesas (UTF-8, sin chino,
+   con letras de verdad). Se apunta escena, posición (offset) y hueco disponible (datos\talk_indice.csv).
+3) Se juntan los textos repetidos: cada frase distinta se traduce una vez y se pone en todos sus sitios.
+
+
+4. TRADUCIR
+-----------
+- 117 lotes de unas 12.000 letras, con una guía (español neutro latino, sin modismos de España, tono de cada personaje,
+  respetar marcas como <Color...>, saltos de línea y nombres), un glosario vivo (términos fijos: Heat, Clan Creator,
+  nombres de lugares) y notas compartidas entre traductores.
+- Cada lote se valida con un programa: mismas marcas, mismos saltos de línea, que quepa en los bytes del diálogo,
+  solo letras que la fuente sabe dibujar. Si falla, el traductor lo corrige y se valida otra vez.
+- Revisión completa después: 70 lotes revisados de nuevo (unas 3.800 correcciones) y un barrido final buscando fallos
+  típicos (palabras de España, anglicismos, frases sin traducir).
+
+
+5. LA LETRA (font.par)
+----------------------
+- Los menús y subtítulos usan font\e\yakuza.dds: una rejilla Latin-1 que YA trae á é í ó ú ñ ü ¡. Solo la casilla de
+  «¿» tenía dibujado un «/» -> se redibujó con el «?» del juego girado.
+- La letra gothic (diálogos) no traía tildes: se le añadieron las letras españolas con sus códigos reales.
+- Se escribe español normal en UTF-8 (sin « », que la fuente no tiene).
+
+
+6. METER LA TRADUCCIÓN Y PROBAR
+-------------------------------
+- Tablas: se cambia en el .json solo cada celda TEXTO cuyo inglés tiene traducción (con el mismo salto de línea que el
+  original, \r\n o \n) y se rearma con reARMP. El juego acepta las tablas rearmadas.
+- talk.par: en cada cmn.bin se escribe el español en la posición del inglés y se rellena con ceros hasta el final de su
+  hueco (nunca se pisa el chino). Después se rearma por capas con ParTool «add»:
+  cmn.bin -> cmn.par -> escena.par -> talk.par.
+- Laboratorio para no tocar el juego de Steam ni sumar logros ni horas: copia aparte del juego con el ejecutable sin
+  protección de Steam (Steamless) y steam_appid.txt = 480 (Steam lo ve como «Spacewar»). Datos enlazados al juego real;
+  los archivos cambiados se ponen borrando el enlace y copiando (si se copia ENCIMA de un enlace se escribe en el juego
+  de Steam). Ojo: el juego se pausa al perder el foco de la ventana.
+- Primero se probó con «ES:» delante de cada texto para ver que TODOS llegan al juego. Visto en el laboratorio: menú del
+  título, dificultad, ayudas de botones, aviso de autoguardado, subtítulos del prólogo, nombre y barra de enemigos,
+  avisos de combate, menú de misiones.
+- Al final se instaló en el juego de Steam (con copia de los originales) y se jugó.
+
+
+7. LO QUE FALTA (próximas versiones)
+------------------------------------
+- Palabras dibujadas como IMAGEN en ui.par (aviso del mando al arrancar, «Press any button», títulos de menús, rótulos
+  de enemigos y de misión, minijuegos, karaoke): hay 786 texturas con texto. Ya hay hechas unas 130 (se prueban en la
+  v0.10): se borra cada palabra inglesa del dibujo y se escribe la española con una letra parecida.
+- La «í» de los menús deja un hueco detrás («DIFÍCIL»): el juego guarda medidas propias por letra. Solución probada para
+  la v0.10: dibujar Í e í en las casillas de «|» y «~» (que el juego no usa) y escribirlas con esos códigos
+  (en herramienta_traduccion.py: CAMBIOS_LETRA).
+
+
+8. LO QUE TRAE ESTA CARPETA
+---------------------------
+- herramienta_traduccion.py: extraer todos los textos a una hoja y volver a meterlos (ver COMO_USAR.txt).
+- EXTRAER textos.bat / APLICAR textos.bat: lo mismo con doble clic.
+- datos\clases_grupos.json: qué columnas de cada tabla son texto (TEXTO) y cuáles internas (ID, no tocar).
+- datos\talk_indice.csv: dónde está cada frase dentro de talk.par y cuántos bytes caben.
+- programas\ParTool y programas\reARMP (con su licencia).

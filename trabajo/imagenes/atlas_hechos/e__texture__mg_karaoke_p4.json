@@ -1,0 +1,365 @@
+{
+ "textura": "e/texture/mg_karaoke_p4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    98,
+    16,
+    156,
+    34
+   ],
+   "en": "JOYPad",
+   "ocr": "JOYPad",
+   "es": "JOYPad",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 58,
+   "dejar": true
+  },
+  {
+   "caja": [
+    96,
+    40,
+    153,
+    63
+   ],
+   "en": "Songs",
+   "ocr": "Seegs Pop",
+   "es": "Canciones",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    89,
+    62,
+    126,
+    80
+   ],
+   "en": "to Top",
+   "ocr": "Return",
+   "es": "para el",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 37,
+   "dejar": true
+  },
+  {
+   "caja": [
+    88,
+    78,
+    130,
+    92
+   ],
+   "en": "Rank",
+   "ocr": "Song %s 547(04",
+   "es": "Mejor rango",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    127,
+    88,
+    191,
+    104
+   ],
+   "en": "Return",
+   "ocr": "BRAND NEW STAGE",
+   "es": "Volver",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 64,
+   "dejar": true
+  },
+  {
+   "caja": [
+    127,
+    103,
+    176,
+    119
+   ],
+   "en": "BRAND NEW STAGE",
+   "ocr": "Kazuna Kiryu",
+   "es": "BRAND NEW STAGE",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49,
+   "dejar": true
+  },
+  {
+   "caja": [
+    165,
+    44,
+    264,
+    61
+   ],
+   "en": "Otoruki Promotions Play",
+   "ocr": "OrorukiProsotiosPlay",
+   "es": "Jugar de Otoruki Promotions",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 99,
+   "dejar": true
+  },
+  {
+   "caja": [
+    275,
+    43,
+    303,
+    59
+   ],
+   "en": "Quest",
+   "ocr": "Queue",
+   "es": "Misión",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 28,
+   "dejar": true
+  },
+  {
+   "caja": [
+    352,
+    43,
+    374,
+    59
+   ],
+   "en": "Stop",
+   "ocr": "$tep",
+   "es": "Detener",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 22,
+   "dejar": true
+  },
+  {
+   "caja": [
+    293,
+    81,
+    326,
+    97
+   ],
+   "en": "Top Score",
+   "ocr": "Ts# Sct",
+   "es": "Mejor puntuación",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    358,
+    81,
+    390,
+    96
+   ],
+   "en": "62.968px",
+   "ocr": "60.968Px.",
+   "es": "62.968px",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    294,
+    96,
+    324,
+    111
+   ],
+   "en": "Top Rank",
+   "ocr": "p ptk",
+   "es": "Mejor rango",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    293,
+    112,
+    328,
+    127
+   ],
+   "en": "Play Count",
+   "ocr": "Play Ctvat",
+   "es": "Veces cantada",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 31,
+   "dejar": true
+  },
+  {
+   "caja": [
+    91,
+    146,
+    125,
+    159
+   ],
+   "en": "West Rich",
+   "ocr": "Aust Fiod",
+   "es": "Oeste Rico",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    91,
+    183,
+    127,
+    198
+   ],
+   "en": "Arrangement",
+   "ocr": "Anergeset",
+   "es": "Arreglo",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 32,
+   "dejar": true
+  },
+  {
+   "caja": [
+    148,
+    189,
+    257,
+    207
+   ],
+   "en": "Live instruction",
+   "ocr": "Lwe rstramcneaeion",
+   "es": "Instrucción en vivo",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 109,
+   "dejar": true
+  },
+  {
+   "caja": [
+    302,
+    198,
+    332,
+    213
+   ],
+   "en": "Casual",
+   "ocr": "Cael",
+   "es": "Casual",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    346,
+    196,
+    388,
+    212
+   ],
+   "en": "Passionate",
+   "ocr": "Passiute",
+   "es": "Apasionado",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    91,
+    213,
+    134,
+    228
+   ],
+   "en": "Vocal Assistance",
+   "ocr": "Vool Aesinansor",
+   "es": "Guía vocal",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    301,
+    207,
+    335,
+    223
+   ],
+   "en": "Back.io",
+   "ocr": "Backco",
+   "es": "Atrás.io",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    217,
+    235,
+    265,
+    252
+   ],
+   "en": "JOYSOUND",
+   "ocr": "JOYSOUND",
+   "es": "JOYSOUND",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  }
+ ]
+}

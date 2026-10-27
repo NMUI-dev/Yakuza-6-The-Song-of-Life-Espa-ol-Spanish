@@ -1,0 +1,58 @@
+{
+ "textura": "e/texture/clan_bg",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    74,
+    906,
+    397,
+    961
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVELUP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 319
+  },
+  {
+   "caja": [
+    64,
+    983,
+    289,
+    1019
+   ],
+   "en": "NEW SKILL",
+   "ocr": "NEWSKILL",
+   "es": "NUEVA HABILIDAD",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 225,
+   "estilo": {
+    "arriba": [
+     255,
+     205,
+     205
+    ],
+    "abajo": [
+     230,
+     45,
+     45
+    ],
+    "contorno": [
+     [
+      110,
+      0,
+      0
+     ],
+     2
+    ]
+   }
+  }
+ ]
+}

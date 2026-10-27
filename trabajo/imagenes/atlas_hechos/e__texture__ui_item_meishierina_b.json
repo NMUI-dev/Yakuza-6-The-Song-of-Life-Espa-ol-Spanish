@@ -1,0 +1,55 @@
+{
+ "textura": "e/texture/ui_item_meishierina_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    83,
+    227,
+    200,
+    294
+   ],
+   "en": "CLUB",
+   "ocr": "SHINE SERCtCS KAMCKOCUO",
+   "es": "CLUB",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 117
+  },
+  {
+   "caja": [
+    76,
+    297,
+    263,
+    384
+   ],
+   "en": "SHINE",
+   "ocr": "ERINA",
+   "es": "SHINE",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 187
+  },
+  {
+   "caja": [
+    78,
+    353,
+    263,
+    431
+   ],
+   "en": "ERINA",
+   "ocr": "CLUBSHxx-xxKamuro-choxxxToky Telxx-xx-xoxww.clubshine.xxx.",
+   "es": "ERINA",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 185
+  }
+ ]
+}

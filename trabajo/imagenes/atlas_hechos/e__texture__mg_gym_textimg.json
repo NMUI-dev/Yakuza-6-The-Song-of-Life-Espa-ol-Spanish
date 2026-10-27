@@ -1,0 +1,53 @@
+{
+ "textura": "e/texture/mg_gym_textimg",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    156,
+    10,
+    367,
+    56
+   ],
+   "en": "Meal Plan",
+   "ocr": "Meal Plan",
+   "es": "Plan de comidas",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 207
+  },
+  {
+   "caja": [
+    30,
+    72,
+    228,
+    119
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "SUPERADO",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 198
+  },
+  {
+   "caja": [
+    264,
+    72,
+    505,
+    119
+   ],
+   "en": "FAILED",
+   "ocr": "FAILED",
+   "es": "FALLIDO",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 241
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "textura": "e/texture/gameover_parts",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    643,
+    194,
+    1003,
+    292
+   ],
+   "en": "GAME OVER",
+   "ocr": "GAME OYER",
+   "es": "FIN DEL JUEGO",
+   "fuente": "PermanentMarker-Regular.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 360
+  },
+  {
+   "caja": [
+    0,
+    293,
+    804,
+    512
+   ],
+   "en": "GAME OVER",
+   "ocr": "GAMEOYER",
+   "es": "FIN DEL JUEGO",
+   "fuente": "PermanentMarker-Regular.ttf",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 804,
+   "radio": 5
+  }
+ ]
+}

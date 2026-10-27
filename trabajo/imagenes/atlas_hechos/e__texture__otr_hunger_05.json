@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/otr_hunger_05",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    166,
+    128,
+    256,
+    215
+   ],
+   "en": "MAX",
+   "ocr": "MA&",
+   "es": "MÁX.",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 86,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_01_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    425,
+    4,
+    670,
+    104
+   ],
+   "en": "stage",
+   "ocr": "S tiage) stage)",
+   "es": "stage",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 245,
+   "dejar": true
+  },
+  {
+   "caja": [
+    79,
+    10,
+    259,
+    101
+   ],
+   "en": "Brand Brand",
+   "ocr": "rand Brand",
+   "es": "Brand Brand",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 180,
+   "dejar": true
+  },
+  {
+   "caja": [
+    281,
+    30,
+    407,
+    81
+   ],
+   "en": "new",
+   "ocr": "new",
+   "es": "new",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 126,
+   "dejar": true
+  },
+  {
+   "caja": [
+    307,
+    68,
+    376,
+    98
+   ],
+   "en": "new",
+   "ocr": "new",
+   "es": "new",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 69,
+   "dejar": true
+  },
+  {
+   "caja": [
+    492,
+    58,
+    607,
+    104
+   ],
+   "en": "stage",
+   "ocr": "stage)",
+   "es": "stage",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 115,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_06_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    97,
+    55,
+    239,
+    104
+   ],
+   "en": "da wa",
+   "ocr": "wa",
+   "es": "todo",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 142,
+   "dejar": true
+  },
+  {
+   "caja": [
+    571,
+    52,
+    626,
+    103
+   ],
+   "en": "vke",
+   "ocr": "ke",
+   "es": "es falso,",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 55,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "textura": "e/texture/mg_gym_jump_p1_2_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    177,
+    33,
+    236,
+    52
+   ],
+   "en": "GREAT",
+   "ocr": "GREAT",
+   "es": "¡GENIAL!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 59,
+   "dejar": true
+  },
+  {
+   "caja": [
+    12,
+    7,
+    110,
+    16
+   ],
+   "en": "Squat Jumps",
+   "es": "Sentadillas con salto",
+   "fuente": "tahomabd.ttf",
+   "efecto": "nada",
+   "alto": 4,
+   "alin": "izq",
+   "fondo": "lama",
+   "mediana": false,
+   "color": [
+    214,
+    172,
+    42
+   ]
+  }
+ ]
+}

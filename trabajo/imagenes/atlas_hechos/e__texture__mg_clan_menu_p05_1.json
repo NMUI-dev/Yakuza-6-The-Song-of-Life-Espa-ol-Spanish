@@ -1,0 +1,235 @@
+{
+ "textura": "e/texture/mg_clan_menu_p05_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    6,
+    2,
+    48,
+    19
+   ],
+   "en": "Results",
+   "ocr": "Resnlts",
+   "es": "Resultados",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "estilo": {
+    "arriba": [
+     240,
+     40,
+     40
+    ],
+    "abajo": [
+     180,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      20,
+      0,
+      0
+     ],
+     1
+    ]
+   },
+   "mediana": false
+  },
+  {
+   "caja": [
+    33,
+    18,
+    90,
+    32
+   ],
+   "en": "Battle Against Tenant",
+   "ocr": "lerte Againt Tenzant",
+   "es": "¡Combate contra Tenzan!",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 57,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 10
+  },
+  {
+   "caja": [
+    31,
+    29,
+    61,
+    43
+   ],
+   "en": "Our Items",
+   "ocr": "Cor toa",
+   "es": "Bono",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 30,
+   "color": [
+    200,
+    200,
+    200
+   ],
+   "tam": 7
+  },
+  {
+   "caja": [
+    98,
+    28,
+    121,
+    41
+   ],
+   "en": "cyan",
+   "ocr": "CLEAR",
+   "es": "SUPERADO",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 23,
+   "color": [
+    245,
+    225,
+    40
+   ]
+  },
+  {
+   "caja": [
+    22,
+    69,
+    100,
+    88
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVELUP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 74,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     80
+    ],
+    "abajo": [
+     245,
+     175,
+     0
+    ],
+    "contorno": [
+     [
+      50,
+      15,
+      0
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    124,
+    69,
+    201,
+    88
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVELUP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 73,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     80
+    ],
+    "abajo": [
+     245,
+     175,
+     0
+    ],
+    "contorno": [
+     [
+      50,
+      15,
+      0
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    81,
+    86,
+    104,
+    97
+   ],
+   "en": "ENSO",
+   "ocr": "SSHF",
+   "es": "ENSO",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 23,
+   "dejar": true
+  },
+  {
+   "caja": [
+    22,
+    116,
+    100,
+    134
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVELUP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 74,
+   "estilo": {
+    "arriba": [
+     255,
+     245,
+     80
+    ],
+    "abajo": [
+     245,
+     175,
+     0
+    ],
+    "contorno": [
+     [
+      50,
+      15,
+      0
+     ],
+     2
+    ]
+   }
+  }
+ ]
+}

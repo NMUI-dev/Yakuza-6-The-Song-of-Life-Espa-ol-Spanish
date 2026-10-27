@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/mg_snack_p4_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    184,
+    132,
+    270,
+    148
+   ],
+   "en": "Head over there. Hutakryana",
+   "ocr": "Heed oeer tere. Hutaknyan",
+   "es": "Ve allá. Hutakryana",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 86,
+   "dejar": true
+  }
+ ]
+}

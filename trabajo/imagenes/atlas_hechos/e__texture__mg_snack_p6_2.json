@@ -1,0 +1,76 @@
+{
+ "textura": "e/texture/mg_snack_p6_2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    30,
+    5,
+    66,
+    24
+   ],
+   "en": "kinuracito",
+   "ocr": "saruroero",
+   "es": "kinuracito",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    10,
+    132,
+    53,
+    147
+   ],
+   "en": "COMBO",
+   "ocr": "COMBO",
+   "es": "COMBO",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    163,
+    171,
+    344,
+    189
+   ],
+   "en": "Hold",
+   "ocr": "BB-BHoBBBB",
+   "es": "Mantener",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 181,
+   "dejar": true
+  },
+  {
+   "caja": [
+    181,
+    234,
+    451,
+    268
+   ],
+   "en": "shinu de ru yo u na REM suimin",
+   "ocr": "死人贡上睡眠 SUITOD",
+   "es": "shinu de ru yo u na REM suimin",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 270,
+   "dejar": true
+  }
+ ]
+}

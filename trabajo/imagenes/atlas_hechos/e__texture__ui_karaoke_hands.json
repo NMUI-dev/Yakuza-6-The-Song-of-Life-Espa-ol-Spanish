@@ -1,0 +1,97 @@
+{
+ "textura": "e/texture/ui_karaoke_hands",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    829,
+    202,
+    1276,
+    315
+   ],
+   "en": "hands",
+   "ocr": "hands",
+   "es": "Manos",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 443,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1049,
+    683,
+    1886,
+    764
+   ],
+   "en": "Lyrics : Ryosuke Horii",
+   "ocr": "Lyrics : Ryosuke Hori",
+   "es": "Letra : Ryosuke Horii",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 837,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      175,
+      20,
+      60
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    1051,
+    776,
+    1871,
+    857
+   ],
+   "en": "Composition : ZENTA",
+   "ocr": "Composition : ZENTA",
+   "es": "Música : ZENTA",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 820,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      175,
+      20,
+      60
+     ],
+     4
+    ]
+   }
+  }
+ ]
+}

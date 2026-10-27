@@ -1,0 +1,88 @@
+{
+ "textura": "e/texture/mg_karaoke_p1_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    104,
+    134,
+    137,
+    151
+   ],
+   "en": "MISS",
+   "ocr": "MISS",
+   "es": "MISS",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33
+  },
+  {
+   "caja": [
+    25,
+    232,
+    150,
+    271
+   ],
+   "en": "Kenmei na San",
+   "ocr": "縣命廿 Kenme",
+   "es": "Kenmei na San",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 125
+  },
+  {
+   "caja": [
+    31,
+    250,
+    74,
+    269
+   ],
+   "en": "Kenmei",
+   "ocr": "Kenme",
+   "es": "Kenmei",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43
+  },
+  {
+   "caja": [
+    146,
+    252,
+    194,
+    268
+   ],
+   "en": "sunshine",
+   "ocr": "auysuns",
+   "es": "sunshine",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48
+  },
+  {
+   "caja": [
+    397,
+    251,
+    451,
+    269
+   ],
+   "en": "ga saegi",
+   "ocr": "baeseb",
+   "es": "ga saegi",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 54
+  }
+ ]
+}

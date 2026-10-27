@@ -1,0 +1,1694 @@
+[
+{
+"id": 9123,
+"en": "Anyway, let's not stick around.\nWouldn't want Ed to show up with an army.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9124,
+"en": "It's Date-san.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9125,
+"en": "Kiryu. Where are you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9126,
+"en": "In Kamurocho. I'm over at\nthe Children's Park with Akiyama.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9127,
+"en": "Got it. Think the two of you\ncould come by Touto Hospital?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9128,
+"en": "I have some bad news. I'm not\nsure of all the details yet...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9129,
+"en": "But it's Haruka.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9130,
+"en": "She's been in an accident in Kamurocho.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9131,
+"en": "They're not sure if she'll pull through.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9132,
+"en": "Hold on a second!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9133,
+"en": "Haruka was in Kamurocho?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9134,
+"en": "What?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_sora|# …",
+"max": 15
+},
+{
+"id": 9135,
+"en": "I'll fill you in once you're here.\nHurry.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9136,
+"en": "Hey, hold on! Kiryu-san!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9137,
+"en": "Kiryu!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9138,
+"en": "Date-san!",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 9139,
+"en": "Excuse me, are you a patient here?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9140,
+"en": "Well, uh...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9141,
+"en": "If not, I must ask you to leave.\nYour hygiene is a health hazard!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9142,
+"en": "This is one of my coworkers on the force.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9143,
+"en": "He's the one who let me know\nabout Haruka's accident.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9144,
+"en": "The name's Honjo. Date-san's told\nme a great deal about you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9145,
+"en": "What about Haruka?\nWhere is she!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9146,
+"en": "In the ICU. She's in no state\nto be accepting visitors.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9147,
+"en": "She fractured both her hip and shoulder,\nbut the cranial damage is life threatening.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9148,
+"en": "She's in critical condition,\nunconscious at the moment.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9149,
+"en": "Wh-What happened?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9150,
+"en": "It was a hit-and-run.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9151,
+"en": "Some reckless punk drove into her.\nThe culprit's still at large.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9152,
+"en": "A hit-and-run...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9153,
+"en": "Are you okay, Kiryu?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9154,
+"en": "No. I can barely think straight.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9155,
+"en": "I can imagine.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9156,
+"en": "But there's another piece to the puzzle.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9157,
+"en": "What do you mean?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_cln|# …",
+"max": null
+},
+{
+"id": 9158,
+"en": "Come with me.\nI need to show you something.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9159,
+"en": "Just over there.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9160,
+"en": "Haruka was clutching someone tight\nwhen she saw the car coming.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9161,
+"en": "A life she wanted to protect,\neven if it meant risking her own.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9162,
+"en": "What!?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_cln|# …",
+"max": null
+},
+{
+"id": 9163,
+"en": "This child...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9164,
+"en": "...is Haruka's?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9165,
+"en": "I don't believe it.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9166,
+"en": "Well, it's time to start.\nLook at his name.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9167,
+"en": "It's Haruto.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9168,
+"en": "There's no doubt, he's Haruka's kid.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9169,
+"en": "No way...\nYou're sure!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9170,
+"en": "The last name's just icing on the cake.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9171,
+"en": "Haruka would've died to keep him safe.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9172,
+"en": "That's only a mother's sacrifice.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9173,
+"en": "<font_kind=yakuza_italic>Haruto Sawamura</font_kind>",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9174,
+"en": "It's an honor to have you here,\nFourth Chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9175,
+"en": "Good afternoon. I'm Someya,\nPatriarch of the Someya Family.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9176,
+"en": "Your recent stint in jail was very\nmuch appreciated. You did well.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9177,
+"en": "So you knew I'd come back?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9178,
+"en": "You'll have to forgive the actions of\nmy subordinate, Fourth Chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9179,
+"en": "He's caused a misunderstanding.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9180,
+"en": "And what exactly do you mean by that?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9181,
+"en": "Let's table that conversation for now.\nPerhaps we can discuss further inside?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9182,
+"en": "I'm sure your time behind bars has\nleft you exhausted, and besides...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9183,
+"en": "Sugai-san has been looking forward\nto meeting you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9184,
+"en": "You know of Sugai-san, yes?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9185,
+"en": "His Tojo history may be longer than\nyours, Kiryu-san.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9186,
+"en": "With the sixth chairman indisposed for\nhis trial, Sugai-san is acting chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9187,
+"en": "And he's the one who had\nthat guy trailing me?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9188,
+"en": "Again, let's talk inside.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9189,
+"en": "I would love to be regaled by the tales\nof your days as a young yakuza, Fourth Chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9190,
+"en": "I'm sure we could all stand to learn a thing\nor two from a man as accomplished as you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9191,
+"en": "Right?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 9192,
+"en": "Excuse me.\nApologies for the intrusion.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9193,
+"en": "Come in.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9194,
+"en": "I've brought the fourth chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9195,
+"en": "Long time no see, Fourth Chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9196,
+"en": "Do you remember me?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9197,
+"en": "It appears the answer is no...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9198,
+"en": "Well, I've only ever been an advisor,\neven under the sixth chairman's rule.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9199,
+"en": "I don't blame you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9200,
+"en": "As I'm sure you heard, they called on me\nto step in after the sixth chairman's arrest.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9201,
+"en": "Just as the Tojo Clan was getting younger,\nthe old guard swoops in to fix things.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9202,
+"en": "We must seem rather unstable in your eyes.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9203,
+"en": "This is quite a table you brought in here.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9204,
+"en": "Yakuza seem to talk more with\nour pens than our fists these days.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9205,
+"en": "Another sign of the times.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9206,
+"en": "And Someya over there? He doesn't\nlook like much of a paper pusher to me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9207,
+"en": "I leave the math to the number crunchers.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9208,
+"en": "Every yakuza has his role to play, you know.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9209,
+"en": "Please. Take a seat, Fourth Chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9210,
+"en": "I don't plan on staying long.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9211,
+"en": "But before I go,\nI do have a few questions.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9212,
+"en": "I assume this is about the hit-and-run\non your sweet Haruka?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9213,
+"en": "What a terrible tragedy.\nYou have my condolences.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9214,
+"en": "When did you hear about Haruka's\naccident? Who told you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9215,
+"en": "I was informed by the police\nnot long after the incident.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9216,
+"en": "Do they tell you everything\nthat happens in Kamurocho?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9217,
+"en": "It's no secret that Haruka Sawamura is\nvery special to you, Fourth Chairman.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9218,
+"en": "Naturally, that significance is what led\nthe police to contact us so quickly.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9219,
+"en": "Did you have any other questions for me?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9220,
+"en": "At the scene of the accident,\nthere was a man spying on me with a camera.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9221,
+"en": "He said he was with the Someya Family.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9222,
+"en": "Did you give that order, Sugai?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9223,
+"en": "It wasn't spying.\nIt was protection.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9224,
+"en": "We've been looking for you ever since\nwe heard you'd returned to Kamurocho.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9225,
+"en": "Checking in on you at the scene of the accident\nwas the only way to confirm your well-being.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9226,
+"en": "Someya speaks the truth.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9227,
+"en": "I honestly thought it a bit extreme.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9228,
+"en": "But we're at war with the Chinese, you know.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9229,
+"en": "Though you're a civilian now, they may not\nhave extended you a civilian's courtesy.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9230,
+"en": "I didn't ask for that.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9231,
+"en": "And I don't need your help.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9232,
+"en": "You're a man of strong character,\nFourth Chairman. I'm well aware of that.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9233,
+"en": "Hence why I chose to act in secret.\nYou would never knowingly accept our help.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9234,
+"en": "My apologies if I've upset you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9235,
+"en": "Didn't I tell you, Sugai-san? The fourth\nchairman doesn't need our protection.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9236,
+"en": "It'd be pointless for the Chinese\nto target him anyway.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9237,
+"en": "The Dragon of Dojima is dead.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9238,
+"en": "Any weight that name carried is gone.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9239,
+"en": "We may have been watching you, yes...\nBut don't assume you have any value to us.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9240,
+"en": "The current conflict rests on\nmy generation, not yours.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9241,
+"en": "It has nothing to do with a fossil like you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9242,
+"en": "The new generation sounds pretty cocky.\n",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9243,
+"en": "This war with the Chinese\nhas left us no choice.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9244,
+"en": "And is it any wonder?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9245,
+"en": "Until recently, the yakuza's power\nwas vested in its financial prowess.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9246,
+"en": "So it follows that the sixth chairman's\nofficers were all very intelligent men.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9247,
+"en": "But, now things have changed.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9248,
+"en": "With the Tojo Clan at war, all that matters\nnow is whether or not a yakuza can fight.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9249,
+"en": "Your value as a yakuza has a direct\ncorrelation to your body count.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9250,
+"en": "In other words, you ascend by force.\nIt's the dawn of a new era for us yakuza.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9251,
+"en": "Doesn't that sound amazing,\nFourth Chairman?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9252,
+"en": "You rose to power in much the same way,\ndidn't you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9253,
+"en": "Now even the once invincible Sugai-san\nhas to rely on youth to keep the clan intact.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9254,
+"en": "Isn't that right, Sugai-san?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9255,
+"en": "They risk their lives for our cause,\nso we promote them. It's only fair.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9256,
+"en": "I didn't come here today to talk\nabout the value of a yakuza.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9257,
+"en": "I'm only going to ask this once.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9258,
+"en": "Were you involved in Haruka's accident?\nYou really know nothing?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9259,
+"en": "What are you implying? What purpose\nwould such a horrible act even serve?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9260,
+"en": "As it stands, I believe you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9261,
+"en": "Haruka and I have less than\nnothing to do with your little war.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9262,
+"en": "But hear me now...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9263,
+"en": "If the Tojo Clan even <font_kind=yakuza_italic>thinks</font_kind>\nabout laying a hand on my family...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9264,
+"en": "...I will bury all of you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9265,
+"en": "We aren't interested in making\nan enemy of the Dragon of Dojima.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9266,
+"en": "We have plenty of other playthings\nto keep us occupied.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9267,
+"en": "Let's not do this, Kiryu-san.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9268,
+"en": "And let Nojiri take him? He doesn't\ncare what happens to these kids.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9269,
+"en": "The only one who can keep this\nbaby safe... is me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9270,
+"en": "Maybe, but the guy did have\n<font_kind=yakuza_italic>some</font_kind> logic behind him.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9271,
+"en": "People who know you personally are\none thing, but to the rest of the world...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9272,
+"en": "...You're just an ex-con of a yakuza.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9273,
+"en": "I'm sorry. But there's not much we can do\nfor the kid until Haruka-chan wakes up.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9274,
+"en": "We have to let the authorities\nhandle this how they see fit.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9275,
+"en": "What if Haruka takes a turn for the worse?\nHer son would...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9276,
+"en": "What are you saying, Kiryu-san?\nDon't even go down that path!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9277,
+"en": "How can you know?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9278,
+"en": "They'd put Haruto in an orphanage for sure.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9279,
+"en": "And if they did, there'd be nothing I could\ndo to help him. We'd be total strangers.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9280,
+"en": "I'd never see his face again.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9281,
+"en": "That's what happens when a child\ngets sent off to an orphanage like that.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9282,
+"en": "No matter how hard I struggle,\nit'll be impossible for me to help him.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9283,
+"en": "Haruka wouldn't want that\nfor her only child.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9284,
+"en": "You see?\nThis is my only chance.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9285,
+"en": "What are you doing in here?\nGet your hands off that child!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9286,
+"en": "We're in the middle of something here.\nCan you wait outside?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9287,
+"en": "Absolutely not!",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_b09|#",
+"max": null
+},
+{
+"id": 9288,
+"en": "Unhand that child this instant!\nYou think you can get away with this!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9289,
+"en": "I'm taking him with me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9290,
+"en": "I'll give him back once Haruka wakes up.\nTrust me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9291,
+"en": "I can't let you do this, Kiryu-san.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9292,
+"en": "You'd get taken back in, this time as\na kidnapper. How could I face Haruka?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9293,
+"en": "You'd really do that to her?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9294,
+"en": "My choice is made, Akiyama!\nYou can't change my mind.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9295,
+"en": "I'm trying anyway, Kiryu-san.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9296,
+"en": "I'm telling you you're making\nthe wrong call here.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9297,
+"en": "For once in your life, think something through!\nYou've gotta consider the consequences!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9298,
+"en": "Enough!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9299,
+"en": "You think I don't know this is wrong?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9300,
+"en": "Whatever happens to me doesn't matter,\nand nobody else does either.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9301,
+"en": "I need to protect Haruka's son, now.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9302,
+"en": "I have to do this.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9303,
+"en": "Kiryu-san!",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# …",
+"max": null
+},
+{
+"id": 9304,
+"en": "If you're dead-set on stopping me...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9305,
+"en": "...There's only one way forward.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9306,
+"en": "Step aside.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9307,
+"en": "Akiyama!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9308,
+"en": "Dammit, why won't you listen!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9309,
+"en": "Just a little longer, okay?\nYou must be starving, huh?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9310,
+"en": "You not <font_kind=yakuza_italic>seriously</font_kind> giving\nthat to a baby, are you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9311,
+"en": "If it's food you're looking for,\ntry something more like this.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9312,
+"en": "You never change, do you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9313,
+"en": "Still a loose cannon.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9314,
+"en": "What happened?\nWhat's going on with her?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9315,
+"en": "She had to have emergency surgery.\nThey managed to save her life...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9316,
+"en": "...But she's still comatose.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9317,
+"en": "The doctors don't know when\nshe'll regain consciousness. Or if.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9318,
+"en": "How did it come to this?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9319,
+"en": "Hey, you went poking your nose\naround Kamurocho today, right?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9320,
+"en": "You learn anything about what\nhappened after Haruka disappeared?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9321,
+"en": "Nothing at all.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9322,
+"en": "She left Okinawa, disappeared for\nthree years, then showed up here.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9323,
+"en": "That's all I know.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9324,
+"en": "I see.",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|# …",
+"max": 15
+},
+{
+"id": 9325,
+"en": "In that case, this is probably\nthe only lead we have.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9326,
+"en": "Hm? What's that?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_saki|#",
+"max": null
+},
+{
+"id": 9327,
+"en": "A photo we pulled from Haruka's cell data.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9328,
+"en": "We managed to recover it even though\nthe phone got smashed in the accident.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9329,
+"en": "Any idea where it was taken?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9330,
+"en": "This background tells me nothing.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9331,
+"en": "Well, we actually managed to pull\nGPS data from the photo too.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9332,
+"en": "These crazy phones record the\nexact spot a picture was taken in.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9333,
+"en": "And that spot is, well...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9334,
+"en": "It's in Hiroshima.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9335,
+"en": "Hiroshima?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9336,
+"en": "Yeah, somewhere around Jingaicho,\nin the city of Onomichi.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9337,
+"en": "You're telling me Haruka left\nOkinawa to go to Hiroshima?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9338,
+"en": "Not so bad, huh?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9339,
+"en": "Don't you think, Haruto?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9340,
+"en": "Oh?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main06|# …",
+"max": null
+},
+{
+"id": 9341,
+"en": "Is that an accident I smell?\nHold on a second.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9342,
+"en": "Hey, no squirming.\nI'll be done soon.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9343,
+"en": "Whoa!",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 9344,
+"en": "I'm not falling for that one again.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9345,
+"en": "Are you hungry?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9346,
+"en": "Uh oh...\nI'm all out of milk.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9347,
+"en": "Haruto.\nHere, I got you some milk.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9348,
+"en": "Sorry it took so long.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9349,
+"en": "What's wrong?\nIsn't this what you wanted!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9350,
+"en": "Kiryu-san?\nIt's Kiyomi, from Snack Kiyomi.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9351,
+"en": "O-Oh. It's open!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9352,
+"en": "Come on in!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9353,
+"en": "Ah, figures.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9354,
+"en": "Can I hold him?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9355,
+"en": "This little guy's not hungry at all.\nJust sleepy.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9356,
+"en": "Sleepy!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9357,
+"en": "Best thing to do now is hold\nhim close and wait a while.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9358,
+"en": "That's it...?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9359,
+"en": "You!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9360,
+"en": "Surprised t'see ya still here.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9361,
+"en": "Let me guess... Nagumo?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9362,
+"en": "What do you want?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 9363,
+"en": "Y'don't gotta be so cold.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9364,
+"en": "We ain't strangers no more. Right?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9365,
+"en": "I see you brought friends.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9366,
+"en": "Why are you gunning for me like this?\nI don't want any trouble.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9367,
+"en": "Then maybe y'should run on back to Tokyo.\nHow 'bout that?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9368,
+"en": "Y'know this guy, Cap?\nWho is he?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9369,
+"en": "A mighty fine question!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9370,
+"en": "Y'wanna know who he is?\nA filthy outsider from Tokyo!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9371,
+"en": "Look at 'im! Don't that ugly mug\njus' make ya wanna cry?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9372,
+"en": "Um, Cap...",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main04|#",
+"max": null
+},
+{
+"id": 9373,
+"en": "We should probably get going.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9374,
+"en": "We're gonna get chewed out again\nif we're not there soon.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9375,
+"en": "Ya turdbrain!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9376,
+"en": "Ow!",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a04|#",
+"max": null
+},
+{
+"id": 9377,
+"en": "Ain't nobody gon' chew us out!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9378,
+"en": "Y'hear, Yuta!? Don't go talkin' to\nyer captain like that again!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9379,
+"en": "I'm in the middle of somethin' here!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9380,
+"en": "It looks like yer target's\nnot interested. See?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9381,
+"en": "That highfalutin' asshole!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9382,
+"en": "Let's deal with him later, yeah?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9383,
+"en": "We can't start without ya there, Cap.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9384,
+"en": "Yer in luck this time, Kiryu!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9385,
+"en": "But listen, y'ain't gon' survive our\nnext meetin'! Remember that!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9386,
+"en": "What a mess.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9387,
+"en": "That guy just won't leave me alone...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9388,
+"en": "I thought Nagumo was supposed\nto take baseball seriously.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9389,
+"en": "He usually does, but today he's\nreally out for blood.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9390,
+"en": "C'mon! Y'hurtin'?\nDon't y'wanna fight me, Ino!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9391,
+"en": "Let's dance!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9392,
+"en": "What're y'doin', ya coward!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9393,
+"en": "Y'think yer too cool to throw down, huh!?\nHey, I didn't realize yer balls fell off!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9394,
+"en": "Y'know the next batter?\nIt's that Kiryu guy.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9395,
+"en": "Right. Why's Cap been gettin' all\nworked up over him anyways?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9396,
+"en": "He's screwed if he can't focus on the game.\nBaseball's his one savin' grace.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9397,
+"en": "It doesn't really matter why. He's just\nnot gonna be happy 'til he fights someone.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9398,
+"en": "Let's get this over with so we\ncan go home in peace.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9399,
+"en": "Good thinkin'.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9400,
+"en": "You sure, Kiryu-san?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9401,
+"en": "I'm the one Nagumo wants.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9402,
+"en": "If I'd gone up to bat earlier,\nnobody else would've had to get hurt.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9403,
+"en": "So my prey's finally showed up.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 9404,
+"en": "Y'know, my grip's been\nslippin' real bad today.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+}
+]

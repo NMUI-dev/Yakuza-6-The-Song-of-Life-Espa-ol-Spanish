@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/mg_tera_p1_d",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    359,
+    31,
+    395,
+    46
+   ],
+   "en": "One Throne",
+   "ocr": "DNIMN",
+   "es": "One Throne",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  }
+ ]
+}

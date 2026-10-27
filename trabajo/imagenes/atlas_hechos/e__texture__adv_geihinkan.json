@@ -1,0 +1,442 @@
+{
+ "textura": "e/texture/adv_geihinkan",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    125,
+    65,
+    591,
+    184
+   ],
+   "en": "Floor Map",
+   "ocr": "Floor Map",
+   "es": "Plano de pisos",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 466
+  },
+  {
+   "caja": [
+    407,
+    284,
+    927,
+    362
+   ],
+   "en": "Lobby",
+   "ocr": "Lobby",
+   "es": "Vestíbulo",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 516,
+   "color": [
+    150,
+    35,
+    20
+   ],
+   "tam": 58
+  },
+  {
+   "caja": [
+    1319,
+    295,
+    1839,
+    365
+   ],
+   "en": "Rooms",
+   "ocr": "Rooms",
+   "es": "Habitaciones",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 516,
+   "color": [
+    150,
+    35,
+    20
+   ],
+   "tam": 58
+  },
+  {
+   "caja": [
+    2344,
+    290,
+    2858,
+    353
+   ],
+   "en": "Executive Floor",
+   "ocr": "Executive Floor",
+   "es": "Piso ejecutivo",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 510,
+   "color": [
+    150,
+    35,
+    20
+   ],
+   "tam": 58
+  },
+  {
+   "caja": [
+    530,
+    505,
+    725,
+    547
+   ],
+   "en": "Check-in",
+   "ocr": "Check-in",
+   "es": "Recepción",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 195,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    2652,
+    609,
+    2870,
+    659
+   ],
+   "en": "VIP Suite",
+   "ocr": "VIPSuite",
+   "es": "Suite VIP",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 218,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    2049,
+    806,
+    2154,
+    860
+   ],
+   "en": "Elv.",
+   "ocr": "Elv.",
+   "es": "Elev.",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 105,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 20
+  },
+  {
+   "caja": [
+    2622,
+    806,
+    2766,
+    854
+   ],
+   "en": "Parlor",
+   "ocr": "Parlor",
+   "es": "Sala",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 144,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    238,
+    859,
+    347,
+    912
+   ],
+   "en": "Elv.",
+   "ocr": "Elv.t",
+   "es": "Elev.",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 109,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 20
+  },
+  {
+   "caja": [
+    593,
+    918,
+    750,
+    970
+   ],
+   "en": "Lounge",
+   "ocr": "Lounge",
+   "es": "Salón",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 157,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    402,
+    948,
+    521,
+    992
+   ],
+   "en": "Main",
+   "ocr": "Main",
+   "es": "Entrada",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 115,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    368,
+    992,
+    560,
+    1039
+   ],
+   "en": "Entrance",
+   "ocr": "Entrance",
+   "es": "principal",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 188,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    405,
+    1194,
+    925,
+    1264
+   ],
+   "en": "Rooms",
+   "ocr": "Rooms",
+   "es": "Habitaciones",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 516,
+   "color": [
+    150,
+    35,
+    20
+   ],
+   "tam": 58
+  },
+  {
+   "caja": [
+    1307,
+    1188,
+    1827,
+    1254
+   ],
+   "en": "Amenities",
+   "ocr": "Amenities",
+   "es": "Servicios",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 516,
+   "color": [
+    150,
+    35,
+    20
+   ],
+   "tam": 58
+  },
+  {
+   "caja": [
+    1664,
+    1281,
+    1752,
+    1333
+   ],
+   "en": "Elv.",
+   "ocr": "Elv.",
+   "es": "Elev.",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 88,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 20
+  },
+  {
+   "caja": [
+    1485,
+    1504,
+    1625,
+    1554
+   ],
+   "en": "Sauna",
+   "ocr": "Sauna",
+   "es": "Sauna",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 140,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    1601,
+    1589,
+    1805,
+    1627
+   ],
+   "en": "Banquet",
+   "ocr": "Banquet",
+   "es": "Salón de",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 200,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 20
+  },
+  {
+   "caja": [
+    1600,
+    1628,
+    1806,
+    1668
+   ],
+   "en": "Hall",
+   "ocr": "Hall",
+   "es": "banquetes",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 202,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 20
+  },
+  {
+   "caja": [
+    1409,
+    1682,
+    1500,
+    1739
+   ],
+   "en": "Spa",
+   "ocr": "Spa",
+   "es": "Spa",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 91,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 28
+  },
+  {
+   "caja": [
+    1181,
+    1774,
+    1351,
+    1824
+   ],
+   "en": "Lockers",
+   "ocr": "Lockers",
+   "es": "Vestidor",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 165,
+   "color": [
+    75,
+    30,
+    20
+   ],
+   "alto": 20
+  }
+ ]
+}

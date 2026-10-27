@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/hct_stock_03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    148,
+    133,
+    245,
+    209
+   ],
+   "en": "MAX",
+   "ocr": "MAX",
+   "es": "MÁX.",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 93,
+   "dejar": true
+  }
+ ]
+}

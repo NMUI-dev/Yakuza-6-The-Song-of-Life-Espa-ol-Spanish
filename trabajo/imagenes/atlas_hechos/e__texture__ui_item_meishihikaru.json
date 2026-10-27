@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/ui_item_meishihikaru",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    30,
+    143,
+    144,
+    196
+   ],
+   "en": "HIKARU",
+   "ocr": "HIKARU",
+   "es": "HIKARU",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 110
+  }
+ ]
+}

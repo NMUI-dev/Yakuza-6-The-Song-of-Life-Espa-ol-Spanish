@@ -1,0 +1,71 @@
+{
+ "textura": "e/texture/mg_darts_select",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    515,
+    69,
+    832,
+    131
+   ],
+   "en": "CRICKET",
+   "ocr": "CRICKET",
+   "es": "CRICKET",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 313,
+   "dejar": true
+  },
+  {
+   "caja": [
+    515,
+    133,
+    845,
+    190
+   ],
+   "en": "COUNT-UP",
+   "ocr": "COUNT-UP",
+   "es": "COUNT-UP",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 326,
+   "dejar": true
+  },
+  {
+   "caja": [
+    542,
+    189,
+    699,
+    253
+   ],
+   "en": "EXIT",
+   "ocr": "EXIT",
+   "es": "SALIR",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 153
+  },
+  {
+   "caja": [
+    155,
+    464,
+    265,
+    502
+   ],
+   "en": "ONLINE",
+   "ocr": "ONLINE",
+   "es": "EN LÍNEA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 110,
+   "dejar": true
+  }
+ ]
+}

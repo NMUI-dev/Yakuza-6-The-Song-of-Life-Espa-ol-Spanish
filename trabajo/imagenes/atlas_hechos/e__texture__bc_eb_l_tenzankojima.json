@@ -1,0 +1,53 @@
+{
+ "textura": "e/texture/bc_eb_l_tenzankojima",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    98,
+    1011,
+    205
+   ],
+   "en": "HIROYOSHI TENZAN &",
+   "ocr": "HIROYOSHI TENZAN&",
+   "es": "HIROYOSHI TENZAN &",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1004
+  },
+  {
+   "caja": [
+    109,
+    197,
+    935,
+    310
+   ],
+   "en": "SATOSHI KOJIMA",
+   "ocr": "SATOSHI KOJIMA",
+   "es": "SATOSHI KOJIMA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 822
+  },
+  {
+   "caja": [
+    119,
+    291,
+    933,
+    399
+   ],
+   "en": "THE SIX LUNATICS",
+   "ocr": "THE SIX LUNATICS",
+   "es": "THE SIX LUNATICS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 814
+  }
+ ]
+}

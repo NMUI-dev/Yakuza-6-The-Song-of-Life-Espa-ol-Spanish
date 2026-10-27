@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/batting_parts01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    101,
+    961,
+    493,
+    1018
+   ],
+   "en": "Challenge Complete",
+   "ocr": "Challenge Complete",
+   "es": "Desafío completado",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 392
+  }
+ ]
+}

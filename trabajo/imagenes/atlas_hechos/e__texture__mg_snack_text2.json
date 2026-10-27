@@ -1,0 +1,522 @@
+{
+ "textura": "e/texture/mg_snack_text2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    309,
+    250,
+    492
+   ],
+   "en": "col",
+   "es": " ",
+   "solo_borrar": true,
+   "efecto": "nada",
+   "margen": 0
+  },
+  {
+   "caja": [
+    8,
+    33,
+    748,
+    136
+   ],
+   "en": "Friendship",
+   "es": "Amistad",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 729,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "brillo": [
+     220,
+     40,
+     210
+    ]
+   }
+  },
+  {
+   "caja": [
+    816,
+    37,
+    996,
+    130
+   ],
+   "en": "UP",
+   "es": "SUBE",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 180,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "brillo": [
+     220,
+     40,
+     210
+    ]
+   }
+  },
+  {
+   "caja": [
+    149,
+    177,
+    615,
+    291
+   ],
+   "en": "RANK",
+   "es": "RANGO",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 466,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "brillo": [
+     220,
+     40,
+     210
+    ]
+   }
+  },
+  {
+   "caja": [
+    620,
+    177,
+    879,
+    291
+   ],
+   "en": "UP",
+   "es": "SUBE",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 259,
+   "efecto": "estilo",
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "brillo": [
+     220,
+     40,
+     210
+    ]
+   }
+  },
+  {
+   "caja": [
+    0,
+    311,
+    148,
+    341
+   ],
+   "en": "Bar Patrons",
+   "ocr": "Bar Patrons",
+   "es": "Clientes del bar",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 148,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    755,
+    315,
+    970,
+    349
+   ],
+   "en": "Relationships",
+   "ocr": "Relationships",
+   "es": "Relaciones",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 215,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    0,
+    336,
+    84,
+    370
+   ],
+   "en": "Gauge",
+   "ocr": "Gauge",
+   "es": "Medidor",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 84,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    0,
+    361,
+    78,
+    393
+   ],
+   "en": "Topic",
+   "ocr": "Topic",
+   "es": "Tema",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 78,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    2,
+    386,
+    95,
+    417
+   ],
+   "en": "Details",
+   "ocr": "Details",
+   "es": "Detalles",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 89,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    3,
+    415,
+    160,
+    449
+   ],
+   "en": "Friendship",
+   "ocr": "Friendship",
+   "es": "Amistad",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 157,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    11,
+    450,
+    246,
+    485
+   ],
+   "en": "Customer Rank",
+   "ocr": "Customer Rank",
+   "es": "Rango del cliente",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 235,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true
+  },
+  {
+   "caja": [
+    732,
+    352,
+    851,
+    383
+   ],
+   "en": "Liveliness",
+   "ocr": "Liveliness",
+   "es": "Vitalidad",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 115,
+   "color": [
+    235,
+    245,
+    235
+   ]
+  },
+  {
+   "caja": [
+    215,
+    312,
+    728,
+    407
+   ],
+   "en": "GVB CC",
+   "es": " ",
+   "solo_borrar": true,
+   "efecto": "nada",
+   "margen": 0
+  },
+  {
+   "caja": [
+    219,
+    313,
+    395,
+    361
+   ],
+   "en": "GOOD",
+   "es": "BUENA",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 176,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 46
+  },
+  {
+   "caja": [
+    397,
+    313,
+    574,
+    361
+   ],
+   "en": "VERY",
+   "es": "MUY",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 177,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 46
+  },
+  {
+   "caja": [
+    576,
+    313,
+    720,
+    361
+   ],
+   "en": "BAD",
+   "es": "MALA",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 144,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 46
+  },
+  {
+   "caja": [
+    219,
+    361,
+    470,
+    407
+   ],
+   "en": "CHOICE!",
+   "es": "ELECCIÓN!",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 251,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 46
+  },
+  {
+   "caja": [
+    488,
+    361,
+    726,
+    407
+   ],
+   "en": "CHOICE",
+   "es": "ELECCIÓN",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 238,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 46
+  },
+  {
+   "caja": [
+    250,
+    403,
+    412,
+    503
+   ],
+   "en": "UP TIME",
+   "es": " ",
+   "solo_borrar": true,
+   "efecto": "nada",
+   "margen": 0
+  },
+  {
+   "caja": [
+    252,
+    404,
+    410,
+    453
+   ],
+   "en": "UP",
+   "es": "SUBE",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 158,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 46
+  },
+  {
+   "caja": [
+    252,
+    454,
+    410,
+    502
+   ],
+   "en": "TIME",
+   "es": "TIEMPO",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 158,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 46
+  },
+  {
+   "caja": [
+    453,
+    424,
+    610,
+    476
+   ],
+   "en": "TIME",
+   "es": "TIEMPO",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 157,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    627,
+    428,
+    1010,
+    477
+   ],
+   "en": "EXCELLENT",
+   "es": "EXCELENTE",
+   "fuente": "corbelli.ttf",
+   "alin": "centro",
+   "ancho_max": 383,
+   "efecto": "nada",
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

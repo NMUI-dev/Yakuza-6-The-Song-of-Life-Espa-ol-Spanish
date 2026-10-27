@@ -1,0 +1,41 @@
+{
+ "textura": "e/texture/logo_yebis",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    634,
+    356,
+    1341,
+    463
+   ],
+   "en": "Silicon Studio",
+   "ocr": "Silicon Studio",
+   "es": "Silicon Studio",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 707,
+   "dejar": true
+  },
+  {
+   "caja": [
+    516,
+    371,
+    636,
+    465
+   ],
+   "en": "by",
+   "ocr": "by",
+   "es": "por",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 120
+  }
+ ]
+}

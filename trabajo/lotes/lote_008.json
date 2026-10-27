@@ -1,0 +1,5522 @@
+[
+{
+"id": 1869,
+"en": "NAOTO TAGASHIRA & YUTA USAMI\nOF THE HIROSE FAMILY,\nA MASUZOE FAMILY SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1870,
+"en": "STREET THUGS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1871,
+"en": "DRUNK YAKUZA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1872,
+"en": "ED\nSAIO TRIAD OFFICER",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1873,
+"en": "SHUN AKIYAMA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1874,
+"en": "JINGAI THUNDERS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1875,
+"en": "DRUNK CIVILIANS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1876,
+"en": "MASUZOE FAMILY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1877,
+"en": "SHANGRI-LA PUNKS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1878,
+"en": "MYSTERIOUS ASSASSINS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1879,
+"en": "IWAMI SHIPBUILDING WORKERS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1880,
+"en": "TOJO CLAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1881,
+"en": "PICK-UP ARTISTS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1882,
+"en": "COUPLE HUNTERS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1883,
+"en": "LOWLIFES",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1884,
+"en": "TRIADS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1885,
+"en": "ARSONIST",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1886,
+"en": "MYSTERIOUS MAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1887,
+"en": "SLASHER",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1888,
+"en": "THREATENING MAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1889,
+"en": "MAFIA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1890,
+"en": "GANGSTERS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1891,
+"en": "ESCAPE",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1892,
+"en": "JUSTIS",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1893,
+"en": "AMON ARMY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1894,
+"en": "SATSUKI",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1895,
+"en": "THE SIX LUNATICS\nTETSUYA NAITO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1896,
+"en": "THE SIX LUNATICS\nSATOSHI KOJIMA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1897,
+"en": "THE SIX LUNATICS\nHIROYOSHI TENZAN",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1898,
+"en": "THE SIX LUNATICS\nHIROSHI TANAHASHI",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1899,
+"en": "THE SIX LUNATICS\nTORU YANO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1900,
+"en": "THE SIX LUNATICS\nKAZUCHIKA OKADA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1901,
+"en": "YASUO SODACHI",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1902,
+"en": "TAIJIRO SAIGO",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1903,
+"en": "YUTA USAMI\nOF THE HIROSE FAMILY,\nA MASUZOE FAMILY SUBSIDIARY",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1904,
+"en": "BLOODY SHARK",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1905,
+"en": "THE SIX LUNATICS\nHIROYOSHI TENZAN & SATOSHI KOJIMA",
+"ctx": "caption|message",
+"max": null
+},
+{
+"id": 1906,
+"en": "Sato",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1907,
+"en": "Ito",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1908,
+"en": "Yamamoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1909,
+"en": "Watanabe",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1910,
+"en": "Nakamura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1911,
+"en": "Kobayashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1912,
+"en": "Kato",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1913,
+"en": "Yoshida",
+"ctx": "character_npc_soldier_name_group|table/#//# + complete_checklist|table/#/yoshida/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1914,
+"en": "Yamada",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1915,
+"en": "Sasaki",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1916,
+"en": "Yamaguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1917,
+"en": "Matsumoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1918,
+"en": "Inoue",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1919,
+"en": "Saito",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1920,
+"en": "Shimizu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1921,
+"en": "Yamazaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1922,
+"en": "Mori",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1923,
+"en": "Ikeda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1924,
+"en": "Hashimoto",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 1925,
+"en": "Yamashita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1926,
+"en": "Ishikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1927,
+"en": "Nakajima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1928,
+"en": "Maeda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1929,
+"en": "Fujita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1930,
+"en": "Ogawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1931,
+"en": "Goto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1932,
+"en": "Okada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1933,
+"en": "Hasegawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1934,
+"en": "Murakami",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1935,
+"en": "Ishii",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1936,
+"en": "Kondo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1937,
+"en": "Sakamoto",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1938,
+"en": "Endo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1939,
+"en": "Fujii",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1940,
+"en": "Nishimura",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1941,
+"en": "Fukuda",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1942,
+"en": "Ota",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1943,
+"en": "Fujihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1944,
+"en": "Miura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1945,
+"en": "Okamoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1946,
+"en": "Matsuda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1947,
+"en": "Nakagawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1948,
+"en": "Nakano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1949,
+"en": "Ono",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1950,
+"en": "Harada",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1951,
+"en": "Takeuchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1952,
+"en": "Kaneko",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name + talk",
+"max": 31
+},
+{
+"id": 1953,
+"en": "Nakayama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1954,
+"en": "Ishida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1955,
+"en": "Ueda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1956,
+"en": "Morita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1957,
+"en": "Hara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1958,
+"en": "Yokoyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1959,
+"en": "Miyazaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1960,
+"en": "Kudo",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1961,
+"en": "Miyamoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1962,
+"en": "Uchida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1963,
+"en": "Takagi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1964,
+"en": "Taniguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1965,
+"en": "Ando",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 1966,
+"en": "Maruyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1967,
+"en": "Imai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1968,
+"en": "Takada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1969,
+"en": "Fujimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1970,
+"en": "Kawano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1971,
+"en": "Murata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1972,
+"en": "Takeda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1973,
+"en": "Sugiyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1974,
+"en": "Masuda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1975,
+"en": "Hirano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1976,
+"en": "Sugawara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1977,
+"en": "Koyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1978,
+"en": "Kubo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1979,
+"en": "Otsuka",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1980,
+"en": "Chiba",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1981,
+"en": "Matsui",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 1982,
+"en": "Iwasaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1983,
+"en": "Kinoshita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1984,
+"en": "Matsuo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1985,
+"en": "Noguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1986,
+"en": "Nomura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1987,
+"en": "Sano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1988,
+"en": "Kikuchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1989,
+"en": "Onishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1990,
+"en": "Sugimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1991,
+"en": "Furukawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1992,
+"en": "Sakurai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1993,
+"en": "Komatsu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1994,
+"en": "Ichikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1995,
+"en": "Mizuno",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1996,
+"en": "Takano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1997,
+"en": "Shimada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 1998,
+"en": "Yoshikawa",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 1999,
+"en": "Yamauchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2000,
+"en": "Nishikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2001,
+"en": "Kitamura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2002,
+"en": "Nakata",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2003,
+"en": "Higashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2004,
+"en": "Hamada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2005,
+"en": "Kawaguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2006,
+"en": "Kawasaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2007,
+"en": "Honda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2008,
+"en": "Yoshimura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2009,
+"en": "Nakanishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2010,
+"en": "Tsuji",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2011,
+"en": "Iwata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2012,
+"en": "Hattori",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2013,
+"en": "Matsuoka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2014,
+"en": "Kawakami",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2015,
+"en": "Fukushima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2016,
+"en": "Higuchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2017,
+"en": "Seki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2018,
+"en": "Nagai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2019,
+"en": "Yamanaka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2020,
+"en": "Morimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2021,
+"en": "Yano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2022,
+"en": "Taguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2023,
+"en": "Tsuchiya",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2024,
+"en": "Matsushita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2025,
+"en": "Ishihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2026,
+"en": "Ohashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2027,
+"en": "Yoshioka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2028,
+"en": "Matsuura",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2029,
+"en": "Araki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2030,
+"en": "Koike",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2031,
+"en": "Asano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2032,
+"en": "Kumatani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2033,
+"en": "Noda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2034,
+"en": "Okubo",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2035,
+"en": "Kawamura",
+"ctx": "character_npc_soldier_name_group|table/#//# + complete_checklist|table/#/kawamura/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2036,
+"en": "Hoshino",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2037,
+"en": "Otani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2038,
+"en": "Ozaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2039,
+"en": "Kuroda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2040,
+"en": "Nagata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2041,
+"en": "Matsumura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2042,
+"en": "Hori",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2043,
+"en": "Naito",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2044,
+"en": "Mochizuki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2045,
+"en": "Tanabe",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2046,
+"en": "Sugano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2047,
+"en": "Nishiyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2048,
+"en": "Hirai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2049,
+"en": "Iwamoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2050,
+"en": "Katayama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2051,
+"en": "Hayakawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2052,
+"en": "Yokoda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2053,
+"en": "Okazaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2054,
+"en": "Honma",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2055,
+"en": "Kamata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2056,
+"en": "Oda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2057,
+"en": "Oishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2058,
+"en": "Miyata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2059,
+"en": "Narita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2060,
+"en": "Arai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2061,
+"en": "Sawada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2062,
+"en": "Ishibashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2063,
+"en": "Shinohara",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2064,
+"en": "Konishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2065,
+"en": "Hagiwara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2066,
+"en": "Takayama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2067,
+"en": "Matsubara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2068,
+"en": "Miyake",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2069,
+"en": "Kurihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2070,
+"en": "Fukui",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2071,
+"en": "Kuwabara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2072,
+"en": "Omori",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2073,
+"en": "Kataoka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2074,
+"en": "Oka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2075,
+"en": "Uchiyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2076,
+"en": "Kitagawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2077,
+"en": "Sekiguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2078,
+"en": "Ozawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2079,
+"en": "Tomida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2080,
+"en": "Yagi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2081,
+"en": "Koga",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2082,
+"en": "Kamimura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2083,
+"en": "Uehara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2084,
+"en": "Yoshino",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2085,
+"en": "Imamura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2086,
+"en": "Nakao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2087,
+"en": "Shiraishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2088,
+"en": "Sakaguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2089,
+"en": "Kawashima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2090,
+"en": "Koizumi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2091,
+"en": "Makino",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2092,
+"en": "Hirayama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2093,
+"en": "Okamura",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2094,
+"en": "Kawai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2095,
+"en": "Shibutani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2096,
+"en": "Kodama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2097,
+"en": "Tada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2098,
+"en": "Nishi",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2099,
+"en": "Oyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2100,
+"en": "Onodera",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2101,
+"en": "Miyashita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2102,
+"en": "Ogura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2103,
+"en": "Okumura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2104,
+"en": "Adachi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2105,
+"en": "Ogasawara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2106,
+"en": "Sakai",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2107,
+"en": "Murayama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2108,
+"en": "Amano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2109,
+"en": "Sugiura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2110,
+"en": "Okuda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2111,
+"en": "Obara",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2112,
+"en": "Toyoda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2113,
+"en": "Mizutani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2114,
+"en": "Morishita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2115,
+"en": "Komura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2116,
+"en": "Sakata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2117,
+"en": "Tsunoda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2118,
+"en": "Muto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2119,
+"en": "Nemoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2120,
+"en": "Maekawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2121,
+"en": "Tsukamoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2122,
+"en": "Sekine",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2123,
+"en": "Tajima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2124,
+"en": "Izuka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2125,
+"en": "Abe",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2126,
+"en": "Yamane",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2127,
+"en": "Asai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2128,
+"en": "Miyakawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2129,
+"en": "Sakuma",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2130,
+"en": "Shirai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2131,
+"en": "Okawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2132,
+"en": "Osada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2133,
+"en": "Tani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2134,
+"en": "Horiuchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2135,
+"en": "Nakatani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2136,
+"en": "Inagaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2137,
+"en": "Wakabayashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2138,
+"en": "Matsuzaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2139,
+"en": "Kamiya",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2140,
+"en": "Moriyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2141,
+"en": "Hosokawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2142,
+"en": "Hanayama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2143,
+"en": "Oikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2144,
+"en": "Enomoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2145,
+"en": "Eguchi",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2146,
+"en": "Nishio",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2147,
+"en": "Mikami",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2148,
+"en": "Imano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2149,
+"en": "Doi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2150,
+"en": "Tashiro",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2151,
+"en": "Nakahara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2152,
+"en": "Tsuda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2153,
+"en": "Kishimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2154,
+"en": "Nakazawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2155,
+"en": "Ishizuka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2156,
+"en": "Toda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2157,
+"en": "Nagao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2158,
+"en": "Arakawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2159,
+"en": "Ijima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2160,
+"en": "Morikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2161,
+"en": "Hotta",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2162,
+"en": "Miyoshi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2163,
+"en": "Okano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2164,
+"en": "Matsuyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2165,
+"en": "Kai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2166,
+"en": "Nishioka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2167,
+"en": "Inaba",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2168,
+"en": "Iwai",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2169,
+"en": "Hoshi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2170,
+"en": "Saeki",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2171,
+"en": "Kuroki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2172,
+"en": "Kanda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2173,
+"en": "Nozaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2174,
+"en": "Nishino",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2175,
+"en": "Tsutsumi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2176,
+"en": "Horita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2177,
+"en": "Izumi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2178,
+"en": "Tokunaga",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2179,
+"en": "Machida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2180,
+"en": "Yamagishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2181,
+"en": "Nitta",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2182,
+"en": "Furuta",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2183,
+"en": "Kawata",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2184,
+"en": "Yamakawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2185,
+"en": "Tsuchida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2186,
+"en": "Sugita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2187,
+"en": "Kasahara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2188,
+"en": "Takizawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2189,
+"en": "Miki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2190,
+"en": "Suda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2191,
+"en": "Umeda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2192,
+"en": "Nonaka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2193,
+"en": "Otake",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2194,
+"en": "Kanazawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2195,
+"en": "Kawahashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2196,
+"en": "Kajihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2197,
+"en": "Omura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2198,
+"en": "Hidaka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2199,
+"en": "Kishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2200,
+"en": "Nishimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2201,
+"en": "Mukai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2202,
+"en": "Fujisawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2203,
+"en": "Kawahara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2204,
+"en": "Hirota",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2205,
+"en": "Oki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2206,
+"en": "Iguchi",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2207,
+"en": "Sakakibara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2208,
+"en": "Takenaka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2209,
+"en": "Fujikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2210,
+"en": "Yasui",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2211,
+"en": "Yoshimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2212,
+"en": "Oba",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2213,
+"en": "Matsushima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2214,
+"en": "Yoshiwara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2215,
+"en": "Ouchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2216,
+"en": "Takeshita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2217,
+"en": "Fujioka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2218,
+"en": "Shoji",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 2219,
+"en": "Fukumoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2220,
+"en": "Kotani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2221,
+"en": "Tanikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2222,
+"en": "Takemoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2223,
+"en": "Okuyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2224,
+"en": "Fujimura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2225,
+"en": "Tsukada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2226,
+"en": "Kitano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2227,
+"en": "Miyauchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2228,
+"en": "Shimoda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2229,
+"en": "Ogata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2230,
+"en": "Kubota",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2231,
+"en": "Yanagizawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2232,
+"en": "Ishikuro",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2233,
+"en": "Kurita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2234,
+"en": "Nagasawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2235,
+"en": "Yamamura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2236,
+"en": "Fujino",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2237,
+"en": "Miyazawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2238,
+"en": "Nagano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2239,
+"en": "Shimomura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2240,
+"en": "Niwa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2241,
+"en": "Miwa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2242,
+"en": "Kawamoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2243,
+"en": "Miyahara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2244,
+"en": "Shimata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2245,
+"en": "Mogi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2246,
+"en": "Ideguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2247,
+"en": "Takai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2248,
+"en": "Furuya",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2249,
+"en": "Takemura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2250,
+"en": "Nagashima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2251,
+"en": "Ogino",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2252,
+"en": "Aoyagi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2253,
+"en": "Komori",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2254,
+"en": "Tahara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2255,
+"en": "Yoshizawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2256,
+"en": "Inada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2257,
+"en": "Takase",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2258,
+"en": "Tsutsui",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2259,
+"en": "Fukuoka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2260,
+"en": "Mizoguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2261,
+"en": "Yokoi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2262,
+"en": "Hayashida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2263,
+"en": "Ohira",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2264,
+"en": "Oshiro",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2265,
+"en": "Fukunaga",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2266,
+"en": "Okuno",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2267,
+"en": "Hiramatsu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2268,
+"en": "Ohara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2269,
+"en": "Kurozawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2270,
+"en": "Tominaga",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2271,
+"en": "Nagaoka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2272,
+"en": "Miyagi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2273,
+"en": "Shinozaki",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2274,
+"en": "Kitahara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2275,
+"en": "Ochi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2276,
+"en": "Kaneshiro",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2277,
+"en": "Tsuruta",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2278,
+"en": "Asada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2279,
+"en": "Irie",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2280,
+"en": "Yanagida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2281,
+"en": "Takei",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2282,
+"en": "Haraguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2283,
+"en": "Sonoda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2284,
+"en": "Yuasa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2285,
+"en": "Horikawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2286,
+"en": "Ishiyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2287,
+"en": "Soma",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2288,
+"en": "Ninomiya",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2289,
+"en": "Takamatsu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2290,
+"en": "Seto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2291,
+"en": "Tezuka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2292,
+"en": "Usui",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2293,
+"en": "Hamaguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2294,
+"en": "Koide",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2295,
+"en": "Hiraoka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2296,
+"en": "Tanimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2297,
+"en": "Ikegami",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2298,
+"en": "Nishizawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2299,
+"en": "Numata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2300,
+"en": "Shinoda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2301,
+"en": "Hanada",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2302,
+"en": "Ishizaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2303,
+"en": "Higa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2304,
+"en": "Tomita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2305,
+"en": "Sugihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2306,
+"en": "Hino",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2307,
+"en": "Tabata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2308,
+"en": "Kasai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2309,
+"en": "Nishihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2310,
+"en": "Negishi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2311,
+"en": "Katakiri",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2312,
+"en": "Horiguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2313,
+"en": "Shimura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2314,
+"en": "Kano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2315,
+"en": "Kosaka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2316,
+"en": "Fukazawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2317,
+"en": "Kurata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2318,
+"en": "Senda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2319,
+"en": "Otsuki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2320,
+"en": "Fukuhara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2321,
+"en": "Matsuno",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2322,
+"en": "Nozawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2323,
+"en": "Aratani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2324,
+"en": "Murase",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2325,
+"en": "Tagami",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2326,
+"en": "Suga",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2327,
+"en": "Tokuda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2328,
+"en": "Morioka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2329,
+"en": "Yajima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2330,
+"en": "Yoshi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2331,
+"en": "Shimazaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2332,
+"en": "Hatanaka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2333,
+"en": "Nakamoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2334,
+"en": "Mitani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2335,
+"en": "Kitajima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2336,
+"en": "Utsumi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2337,
+"en": "Iwase",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2338,
+"en": "Koyanagi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2339,
+"en": "Oozaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2340,
+"en": "Akita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2341,
+"en": "Hamano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2342,
+"en": "Kihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2343,
+"en": "Oi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2344,
+"en": "Yoneyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2345,
+"en": "Kawabata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2346,
+"en": "Ide",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2347,
+"en": "Tsujimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2348,
+"en": "Nanba",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2349,
+"en": "Kozawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2350,
+"en": "Iwashita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2351,
+"en": "Tsuboi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2352,
+"en": "Yoshinaga",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2353,
+"en": "Ueki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2354,
+"en": "Kawauchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2355,
+"en": "Mitsui",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2356,
+"en": "Imaizumi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2357,
+"en": "Kishida",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2358,
+"en": "Isobe",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2359,
+"en": "Shioda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2360,
+"en": "Minagawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2361,
+"en": "Otsubo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2362,
+"en": "Hatake",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2363,
+"en": "Kawase",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2364,
+"en": "Ogihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2365,
+"en": "Uemura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2366,
+"en": "Hosotani",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2367,
+"en": "Hosoda",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2368,
+"en": "Satake",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2369,
+"en": "Hashiguchi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2370,
+"en": "Wakamatsu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2371,
+"en": "Otomo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2372,
+"en": "Mimura",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2373,
+"en": "Toyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2374,
+"en": "Muraoka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2375,
+"en": "Matsukawa",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2376,
+"en": "Mishima",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2377,
+"en": "Hirabayashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2378,
+"en": "Kuriyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2379,
+"en": "Kusano",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2380,
+"en": "Aihara",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2381,
+"en": "Tachibana",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2382,
+"en": "Sega",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2383,
+"en": "Wang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2384,
+"en": "Zhang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2385,
+"en": "Chen",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2386,
+"en": "Yang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2387,
+"en": "Huang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2388,
+"en": "Zhao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2389,
+"en": "Wu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2390,
+"en": "Zhou",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2391,
+"en": "Sun",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2392,
+"en": "Xu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2393,
+"en": "Ma",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2394,
+"en": "Zhu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2395,
+"en": "Hu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2396,
+"en": "Guo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2397,
+"en": "Luo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2398,
+"en": "Liu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2399,
+"en": "He",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2400,
+"en": "Gao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2401,
+"en": "Lin",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2402,
+"en": "Zheng",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2403,
+"en": "Liang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2404,
+"en": "Xie",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2405,
+"en": "Song",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2406,
+"en": "Tang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2407,
+"en": "Feng",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2408,
+"en": "Cao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2409,
+"en": "Peng",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2410,
+"en": "Zeng",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2411,
+"en": "Xiao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2412,
+"en": "Tian",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2413,
+"en": "Dong",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2414,
+"en": "Yuan",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2415,
+"en": "Pan",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2416,
+"en": "Yu",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2417,
+"en": "Jiang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2418,
+"en": "Cai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2419,
+"en": "Du",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2420,
+"en": "Ye",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2421,
+"en": "Cheng",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2422,
+"en": "Su",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2423,
+"en": "Wei",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2424,
+"en": "Lu",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2425,
+"en": "Ren",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2426,
+"en": "Shen",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2427,
+"en": "Yao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2428,
+"en": "Cui",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2429,
+"en": "Zhong",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2430,
+"en": "Tan",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2431,
+"en": "Fan",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2432,
+"en": "Jin",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2433,
+"en": "Shi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2434,
+"en": "Liao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2435,
+"en": "Jia",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2436,
+"en": "Xia",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2437,
+"en": "Fu",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_mahjong_string_common|text",
+"max": null
+},
+{
+"id": 2438,
+"en": "Fang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2439,
+"en": "Bai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2440,
+"en": "Zou",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2441,
+"en": "Meng",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2442,
+"en": "Xiong",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2443,
+"en": "Qin",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2444,
+"en": "Qiu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2445,
+"en": "Yin",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2446,
+"en": "Xue",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2447,
+"en": "Yan",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2448,
+"en": "Duan",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2449,
+"en": "Lei",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2450,
+"en": "Hou",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2451,
+"en": "Long",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2452,
+"en": "Tao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2453,
+"en": "Li",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2454,
+"en": "Gu",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2455,
+"en": "Mao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2456,
+"en": "Shao",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2457,
+"en": "Wan",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2458,
+"en": "Jian",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2459,
+"en": "Dai",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2460,
+"en": "Mo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2461,
+"en": "Kong",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2462,
+"en": "Xiang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2463,
+"en": "Lo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2464,
+"en": "Honjo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2465,
+"en": "Yuya",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2466,
+"en": "C Hakoyama",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2467,
+"en": "SS Maimoto",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2468,
+"en": "3B Tokoro",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2469,
+"en": "RF Miyata",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2470,
+"en": "CF Tomosaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2471,
+"en": "LF Nakagami",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2472,
+"en": "Hangman",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2473,
+"en": "Toru Yano",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2474,
+"en": "Tetsuya Naito",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2475,
+"en": "Satoshi Kojima",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2476,
+"en": "Hiroyoshi Tenzan",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2477,
+"en": "Hiroshi Tanahashi",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2478,
+"en": "Kazuchika Okada",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2479,
+"en": "Satsuki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2480,
+"en": "Komei",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2481,
+"en": "Tamotsu",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2482,
+"en": "Yasu",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2483,
+"en": "Dobashi",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2484,
+"en": "Tanogami",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2485,
+"en": "Nogami",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2486,
+"en": "Samurai",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2487,
+"en": "Jono",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2488,
+"en": "Fujitake",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2489,
+"en": "Joe",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2490,
+"en": "Masao",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name + minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 2491,
+"en": "Daijiro Saigo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2492,
+"en": "Wakita",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2493,
+"en": "Hiruta",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2494,
+"en": "Igarashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2495,
+"en": "Takahashi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2496,
+"en": "Torite",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2497,
+"en": "Jo Amon",
+"ctx": "character_npc_soldier_name_group|table/#//# + complete|name + mission_kind|title",
+"max": null
+},
+{
+"id": 2498,
+"en": "Ishigaki",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2499,
+"en": "Munan Akamatsu",
+"ctx": "character_npc_soldier_name_group|table/#//# + talk",
+"max": 63
+},
+{
+"id": 2500,
+"en": "\"Taichi\"",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2501,
+"en": "Moritsuka",
+"ctx": "character_npc_soldier_name_group|table/#//# + complete_checklist|table/#/moriduka/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2502,
+"en": "Muranaka",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2503,
+"en": "Ghost?",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2504,
+"en": "Kim",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2505,
+"en": "Lee",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2506,
+"en": "Park",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2507,
+"en": "Choi",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2508,
+"en": "Jeong",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2509,
+"en": "Kang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2510,
+"en": "Cho",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2511,
+"en": "Yun",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2512,
+"en": "Jang",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2513,
+"en": "Im",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2514,
+"en": "Shin",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2515,
+"en": "Seo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2516,
+"en": "Kwon",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2517,
+"en": "Ahn",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2518,
+"en": "Hong",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2519,
+"en": "Jeon",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2520,
+"en": "Ko",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2521,
+"en": "Moon",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2522,
+"en": "Son",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2523,
+"en": "Paek",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2524,
+"en": "Heo",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2525,
+"en": "Nam",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2526,
+"en": "Sim",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2527,
+"en": "Jung",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2528,
+"en": "Ha",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2529,
+"en": "Brawler",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2530,
+"en": "Gunner",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2531,
+"en": "Heavy",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2532,
+"en": "Rusher",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2533,
+"en": "Grenadier",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name",
+"max": null
+},
+{
+"id": 2534,
+"en": "Ally Leader",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2535,
+"en": "Enemy Leader",
+"ctx": "character_npc_soldier_name_group|table/#//#",
+"max": null
+},
+{
+"id": 2536,
+"en": "Training",
+"ctx": "clan_creator_main_menu|name + manual|table/#//#",
+"max": null
+},
+{
+"id": 2537,
+"en": "Chat with Anri",
+"ctx": "complete_checklist|table/#/LIV_01/#",
+"max": null
+},
+{
+"id": 2538,
+"en": "Chat with Yua",
+"ctx": "complete_checklist|table/#/LIV_02/#",
+"max": null
+},
+{
+"id": 2539,
+"en": "Akira Yuki",
+"ctx": "complete_checklist|table/#/akira/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2540,
+"en": "Akiyoshi",
+"ctx": "complete_checklist|table/#/akiyoshi/# + minigame_sandlot_baseball_player|family_name + sound_auth|table/#//# …",
+"max": 31
+},
+{
+"id": 2541,
+"en": "Amitie",
+"ctx": "complete_checklist|table/#/amity/#",
+"max": null
+},
+{
+"id": 2542,
+"en": "Conger Eel",
+"ctx": "complete_checklist|table/#/anago/# + minigame_spearfishing_course_data|fish6 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2543,
+"en": "Aoi Umenokoji",
+"ctx": "complete_checklist|table/#/aoi/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2544,
+"en": "Arle & Carbuncle",
+"ctx": "complete_checklist|table/#/arle_and_carbuncle/#",
+"max": null
+},
+{
+"id": 2545,
+"en": "Bonus Stage",
+"ctx": "complete_checklist|table/#/bonus_stage/#",
+"max": null
+},
+{
+"id": 2546,
+"en": "A Powerful Foe Appears: Kamurocho",
+"ctx": "complete_checklist|table/#/boss_k/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2547,
+"en": "A Powerful Foe Appears: Onomichi",
+"ctx": "complete_checklist|table/#/boss_o/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2548,
+"en": "Kamurocho Alight",
+"ctx": "complete_checklist|table/#/boya_k1/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2549,
+"en": "Kamurocho Alight 2",
+"ctx": "complete_checklist|table/#/boya_k2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2550,
+"en": "Kamurocho Alight 3",
+"ctx": "complete_checklist|table/#/boya_k3/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2551,
+"en": "Turn Down the Burndown",
+"ctx": "complete_checklist|table/#/boya_k4/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2552,
+"en": "Onomichi Alight",
+"ctx": "complete_checklist|table/#/boya_o1/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2553,
+"en": "Onomichi Alight 2",
+"ctx": "complete_checklist|table/#/boya_o2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2554,
+"en": "Onomichi Alight 3",
+"ctx": "complete_checklist|table/#/boya_o3/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2555,
+"en": "Fuel to the Fire",
+"ctx": "complete_checklist|table/#/boya_o4/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2556,
+"en": "Brad Burns",
+"ctx": "complete_checklist|table/#/brad/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2557,
+"en": "Count-Up",
+"ctx": "complete_checklist|table/#/countup/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2558,
+"en": "Cricket",
+"ctx": "complete_checklist|table/#/cricket/#",
+"max": null
+},
+{
+"id": 2559,
+"en": "A Danger to Dating 2",
+"ctx": "complete_checklist|table/#/cupple2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2560,
+"en": "A Danger to Dating 3",
+"ctx": "complete_checklist|table/#/cupple3/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2561,
+"en": "Dream",
+"ctx": "complete_checklist|table/#/dream/#",
+"max": null
+},
+{
+"id": 2562,
+"en": "Eileen",
+"ctx": "complete_checklist|table/#/eileen/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2563,
+"en": "El Blaze",
+"ctx": "complete_checklist|table/#/el_blaze/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2564,
+"en": "Beginner 1",
+"ctx": "complete_checklist|table/#/elementary_1/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2565,
+"en": "Beginner 2",
+"ctx": "complete_checklist|table/#/elementary_2/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2566,
+"en": "Beginner 3",
+"ctx": "complete_checklist|table/#/elementary_3/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2567,
+"en": "On the Edge: Kamurocho",
+"ctx": "complete_checklist|table/#/falling_k/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2568,
+"en": "On the Edge: Onomichi",
+"ctx": "complete_checklist|table/#/falling_o/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2569,
+"en": "Favorite Food",
+"ctx": "complete_checklist|table/#/favorite_food/#",
+"max": null
+},
+{
+"id": 2570,
+"en": "Favorite Music",
+"ctx": "complete_checklist|table/#/favorite_music/#",
+"max": null
+},
+{
+"id": 2571,
+"en": "Final Stage",
+"ctx": "complete_checklist|table/#/final_stage/#",
+"max": null
+},
+{
+"id": 2572,
+"en": "Genie",
+"ctx": "complete_checklist|table/#/genie/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2573,
+"en": "Goh Hinogami",
+"ctx": "complete_checklist|table/#/goh/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2574,
+"en": "VS Kanamizawa Gorgeous",
+"ctx": "complete_checklist|table/#/gorgeous_1/# + minigame_sandlot_baseball_challenge|enemy_team_name",
+"max": null
+},
+{
+"id": 2575,
+"en": "VS Kanamizawa Gorgeous: Keep It Interesting",
+"ctx": "complete_checklist|table/#/gorgeous_2/#",
+"max": null
+},
+{
+"id": 2576,
+"en": "VS Kanamizawa Gorgeous: Team in Stitches",
+"ctx": "complete_checklist|table/#/gorgeous_3/#",
+"max": null
+},
+{
+"id": 2577,
+"en": "VS Kanamizawa Gorgeous: Colossus of Clout",
+"ctx": "complete_checklist|table/#/gorgeous_4/#",
+"max": null
+},
+{
+"id": 2578,
+"en": "Gori-san",
+"ctx": "complete_checklist|table/#/gorisan/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2579,
+"en": "Gorchov",
+"ctx": "complete_checklist|table/#/goruchofu/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2580,
+"en": "Listened to Hatakeyama-san's worries",
+"ctx": "complete_checklist|table/#/guest_a/#",
+"max": null
+},
+{
+"id": 2581,
+"en": "Listened to Akiyoshi-san's worries",
+"ctx": "complete_checklist|table/#/guest_b/#",
+"max": null
+},
+{
+"id": 2582,
+"en": "Listened to Gen-san's worries",
+"ctx": "complete_checklist|table/#/guest_c/#",
+"max": null
+},
+{
+"id": 2583,
+"en": "Listened to Ando-san's worries",
+"ctx": "complete_checklist|table/#/guest_d/#",
+"max": null
+},
+{
+"id": 2584,
+"en": "Listened to Kaneko-san's worries",
+"ctx": "complete_checklist|table/#/guest_e/#",
+"max": null
+},
+{
+"id": 2585,
+"en": "A Grave Incident",
+"ctx": "complete_checklist|table/#/hakaarashi/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2586,
+"en": "Blowfish",
+"ctx": "complete_checklist|table/#/harisen/# + minigame_spearfishing_course_data|fish5 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2587,
+"en": "Hatakeyama",
+"ctx": "complete_checklist|table/#/hatayama/# + minigame_sandlot_baseball_player|family_name + talk",
+"max": 31
+},
+{
+"id": 2588,
+"en": "Goby",
+"ctx": "complete_checklist|table/#/haze/# + minigame_spearfishing_course_data|fish5 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2589,
+"en": "Hobby",
+"ctx": "complete_checklist|table/#/hobby/#",
+"max": null
+},
+{
+"id": 2590,
+"en": "The Flames of Justice",
+"ctx": "complete_checklist|table/#/houkama_k/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2591,
+"en": "The Flames of Vengeance",
+"ctx": "complete_checklist|table/#/houkama_o/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2592,
+"en": "Squid",
+"ctx": "complete_checklist|table/#/ika/# + minigame_spearfishing_course_data|fish8 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2593,
+"en": "Intermediate 1",
+"ctx": "complete_checklist|table/#/intermediate_1/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2594,
+"en": "Intermediate 2",
+"ctx": "complete_checklist|table/#/intermediate_2/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2595,
+"en": "Intermediate 3",
+"ctx": "complete_checklist|table/#/intermediate_3/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2596,
+"en": "Jacky Bryant",
+"ctx": "complete_checklist|table/#/jacky/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2597,
+"en": "Jean Kujo",
+"ctx": "complete_checklist|table/#/jean/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2598,
+"en": "Jeffry McWild",
+"ctx": "complete_checklist|table/#/jeffry/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2599,
+"en": "Jellyfish",
+"ctx": "complete_checklist|table/#/jellyfish/# + minigame_spearfishing_course_data|fish0 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2600,
+"en": "Bread Over Rice",
+"ctx": "complete_checklist|table/#/k_M_SIDE_CAFE/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2601,
+"en": "Blissfully Drinking Alone",
+"ctx": "complete_checklist|table/#/k_akaushi/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2602,
+"en": "An Elegant Time at Alps",
+"ctx": "complete_checklist|table/#/k_alps/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2603,
+"en": "Depth of 30 Years",
+"ctx": "complete_checklist|table/#/k_bantam/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2604,
+"en": "Harmony of Rice and Noodles",
+"ctx": "complete_checklist|table/#/k_fujisoba0/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2605,
+"en": "Rice Lover",
+"ctx": "complete_checklist|table/#/k_fujisoba1/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2606,
+"en": "This is Gindaco Highball!",
+"ctx": "complete_checklist|table/#/k_gindaco/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2607,
+"en": "A Yakiniku Staple",
+"ctx": "complete_checklist|table/#/k_hanrai0/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2608,
+"en": "Nothing Grilled at Yakiniku!?",
+"ctx": "complete_checklist|table/#/k_hanrai1/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2609,
+"en": "The Holy Trinity",
+"ctx": "complete_checklist|table/#/k_ichibanboshi/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2610,
+"en": "A Solid Lineup",
+"ctx": "complete_checklist|table/#/k_ikinari_steak0/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2611,
+"en": "Eating Wild",
+"ctx": "complete_checklist|table/#/k_ikinari_steak1/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2612,
+"en": "Spicy Combination",
+"ctx": "complete_checklist|table/#/k_osaka_ohsho0/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2613,
+"en": "Griddle Trio",
+"ctx": "complete_checklist|table/#/k_osaka_ohsho1/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2614,
+"en": "Full of Cake",
+"ctx": "complete_checklist|table/#/k_quadra/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2615,
+"en": "Veggie Lover",
+"ctx": "complete_checklist|table/#/k_ringerhut/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2616,
+"en": "The Standard Smile Set",
+"ctx": "complete_checklist|table/#/k_smileburgar0/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2617,
+"en": "Healthy Smile",
+"ctx": "complete_checklist|table/#/k_smileburgar1/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2618,
+"en": "The Ultimate Sushi Gin",
+"ctx": "complete_checklist|table/#/k_sushigin/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2619,
+"en": "Tunalicious",
+"ctx": "complete_checklist|table/#/k_sushizanmai/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2620,
+"en": "Delicious Side Dishes",
+"ctx": "complete_checklist|table/#/k_wettekitchen/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2621,
+"en": "Wild Combo",
+"ctx": "complete_checklist|table/#/k_wildjackson/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2622,
+"en": "I'll Have This to Start!",
+"ctx": "complete_checklist|table/#/k_yoronotaki0/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2623,
+"en": "I've Gotta Order That!",
+"ctx": "complete_checklist|table/#/k_yoronotaki1/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2624,
+"en": "Kage Maru",
+"ctx": "complete_checklist|table/#/kage/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2625,
+"en": "Marlin",
+"ctx": "complete_checklist|table/#/kajiki/# + minigame_spearfishing_course_data|fish3 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2626,
+"en": "Flounder",
+"ctx": "complete_checklist|table/#/karei/# + minigame_spearfishing_course_data|fish7 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2627,
+"en": "Shake Up the Shakedown Squad",
+"ctx": "complete_checklist|table/#/katsuage/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2628,
+"en": "Shake Up the Shakedown Squad 2",
+"ctx": "complete_checklist|table/#/katsuage2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2629,
+"en": "Shake Up the Shakedown Squad 3",
+"ctx": "complete_checklist|table/#/katsuage3/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2630,
+"en": "Thread-sail Filefish",
+"ctx": "complete_checklist|table/#/kawahagi/# + minigame_spearfishing_course_data|fish4 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2631,
+"en": "Place 1st in the Modern Battle Royale",
+"ctx": "complete_checklist|table/#/kindai_event_win/#",
+"max": null
+},
+{
+"id": 2632,
+"en": "Place 1st at Modern Mahjong's medium table",
+"ctx": "complete_checklist|table/#/kindai_normal_win/#",
+"max": null
+},
+{
+"id": 2633,
+"en": "Place 1st at Modern Mahjong's hard table",
+"ctx": "complete_checklist|table/#/kindai_strong_win/#",
+"max": null
+},
+{
+"id": 2634,
+"en": "Used the Tenkaichi Street key",
+"ctx": "complete_checklist|table/#/kinko_01/#",
+"max": null
+},
+{
+"id": 2635,
+"en": "Used the West Taihei Boulevard key",
+"ctx": "complete_checklist|table/#/kinko_02/#",
+"max": null
+},
+{
+"id": 2636,
+"en": "Used the Yoshida Batting Center key",
+"ctx": "complete_checklist|table/#/kinko_03/#",
+"max": null
+},
+{
+"id": 2637,
+"en": "Used the Nakamichi Alley key",
+"ctx": "complete_checklist|table/#/kinko_04/#",
+"max": null
+},
+{
+"id": 2638,
+"en": "Used the Senryo Avenue key",
+"ctx": "complete_checklist|table/#/kinko_05/#",
+"max": null
+},
+{
+"id": 2639,
+"en": "Used the Jingai Ferry Dock key",
+"ctx": "complete_checklist|table/#/kinko_06/#",
+"max": null
+},
+{
+"id": 2640,
+"en": "Used the Pedestrian Bridge key",
+"ctx": "complete_checklist|table/#/kinko_07/#",
+"max": null
+},
+{
+"id": 2641,
+"en": "Used the Second Hill key",
+"ctx": "complete_checklist|table/#/kinko_08/#",
+"max": null
+},
+{
+"id": 2642,
+"en": "Used the Hana-no-kubo key",
+"ctx": "complete_checklist|table/#/kinko_09/#",
+"max": null
+},
+{
+"id": 2643,
+"en": "Used the Central Shopping District key",
+"ctx": "complete_checklist|table/#/kinko_10/#",
+"max": null
+},
+{
+"id": 2644,
+"en": "Kuramoto",
+"ctx": "complete_checklist|table/#/kuramoto/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2645,
+"en": "Klug",
+"ctx": "complete_checklist|table/#/kuruku/#",
+"max": null
+},
+{
+"id": 2646,
+"en": "Queasy in Kamurocho",
+"ctx": "complete_checklist|table/#/kyuubyounin_k/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2647,
+"en": "An Onomichi Illness",
+"ctx": "complete_checklist|table/#/kyuubyounin_o/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2648,
+"en": "Lau Chan",
+"ctx": "complete_checklist|table/#/lau/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2649,
+"en": "VS Onomichi Legends",
+"ctx": "complete_checklist|table/#/legends_1/# + minigame_sandlot_baseball_challenge|enemy_team_name",
+"max": null
+},
+{
+"id": 2650,
+"en": "VS Onomichi Legends: Keep It Interesting",
+"ctx": "complete_checklist|table/#/legends_2/#",
+"max": null
+},
+{
+"id": 2651,
+"en": "VS Onomichi Legends: Landslide Win",
+"ctx": "complete_checklist|table/#/legends_3/#",
+"max": null
+},
+{
+"id": 2652,
+"en": "VS Onomichi Legends: Colossus of Clout",
+"ctx": "complete_checklist|table/#/legends_4/#",
+"max": null
+},
+{
+"id": 2653,
+"en": "Lei-Fei",
+"ctx": "complete_checklist|table/#/lei_fei/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2654,
+"en": "Likes",
+"ctx": "complete_checklist|table/#/like_type/#",
+"max": null
+},
+{
+"id": 2655,
+"en": "Keeping the Peace 2",
+"ctx": "complete_checklist|table/#/linch2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2656,
+"en": "Keeping the Peace 3",
+"ctx": "complete_checklist|table/#/linch3/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2657,
+"en": "Lion Rafale",
+"ctx": "complete_checklist|table/#/lion/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2658,
+"en": "Japanese Sea Bream",
+"ctx": "complete_checklist|table/#/madai/# + minigame_spearfishing_course_data|fish3 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2659,
+"en": "Maetani",
+"ctx": "complete_checklist|table/#/maetani/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2660,
+"en": "Maguro",
+"ctx": "complete_checklist|table/#/maguro/#",
+"max": null
+},
+{
+"id": 2661,
+"en": "Tuna",
+"ctx": "complete_checklist|table/#/maguro/# + minigame_spearfishing_course_data|fish4 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2662,
+"en": "Lost and Found",
+"ctx": "complete_checklist|table/#/maigo/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2663,
+"en": "Relaxed with everyone at New Gaudi",
+"ctx": "complete_checklist|table/#/mama/#",
+"max": null
+},
+{
+"id": 2664,
+"en": "Quick & Easy",
+"ctx": "complete_checklist|table/#/mg_snack/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2665,
+"en": "In Defense of Chivalry",
+"ctx": "complete_checklist|table/#/nanpa/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2666,
+"en": "In Defense of Chivalry 2",
+"ctx": "complete_checklist|table/#/nanpa2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2667,
+"en": "In Defense of Chivalry 3",
+"ctx": "complete_checklist|table/#/nanpa3/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2668,
+"en": "Aspiring Sommelier!?",
+"ctx": "complete_checklist|table/#/o_La_Pente0/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2669,
+"en": "Original Course Menu",
+"ctx": "complete_checklist|table/#/o_La_Pente1/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2670,
+"en": "A Cut Above",
+"ctx": "complete_checklist|table/#/o_juumangoku/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2671,
+"en": "Testing Your Luck",
+"ctx": "complete_checklist|table/#/o_kakikoya/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2672,
+"en": "The Yonetoku Standard!",
+"ctx": "complete_checklist|table/#/o_yonetoku/# + shop_bonus|name",
+"max": null
+},
+{
+"id": 2673,
+"en": "Common Octopus",
+"ctx": "complete_checklist|table/#/octopus/# + minigame_spearfishing_course_data|fish8 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2674,
+"en": "Devil Scorpionfish",
+"ctx": "complete_checklist|table/#/onikasago/# + minigame_spearfishing_course_data|fish2 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2675,
+"en": "Menace to the Middle-aged",
+"ctx": "complete_checklist|table/#/oyajigari/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2676,
+"en": "Menace to the Middle-aged 2",
+"ctx": "complete_checklist|table/#/oyajigari2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2677,
+"en": "Menace to the Middle-aged 3",
+"ctx": "complete_checklist|table/#/oyajigari3/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2678,
+"en": "Pai Chan",
+"ctx": "complete_checklist|table/#/pai/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2679,
+"en": "Paul Lim",
+"ctx": "complete_checklist|table/#/paul/# + minigame_darts_rival|name",
+"max": null
+},
+{
+"id": 2680,
+"en": "In Hot Water",
+"ctx": "complete_checklist|table/#/ramen/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2681,
+"en": "Place 1st in the Lullaby Battle Royale",
+"ctx": "complete_checklist|table/#/rarabai_event_win/#",
+"max": null
+},
+{
+"id": 2682,
+"en": "Place 1st at Lullaby Mahjong's medium table",
+"ctx": "complete_checklist|table/#/rarabai_normal_win/#",
+"max": null
+},
+{
+"id": 2683,
+"en": "Place 1st at Lullaby Mahjong's easy table",
+"ctx": "complete_checklist|table/#/rarabai_weak_win/#",
+"max": null
+},
+{
+"id": 2684,
+"en": "Ringo",
+"ctx": "complete_checklist|table/#/ringo/#",
+"max": null
+},
+{
+"id": 2685,
+"en": "Risukuma",
+"ctx": "complete_checklist|table/#/risukuma/#",
+"max": null
+},
+{
+"id": 2686,
+"en": "Rulue",
+"ctx": "complete_checklist|table/#/rulue/#",
+"max": null
+},
+{
+"id": 2687,
+"en": "Rumblings in Onomichi",
+"ctx": "complete_checklist|table/#/rumor/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2688,
+"en": "Giant Oarfish",
+"ctx": "complete_checklist|table/#/ryuguu/# + minigame_spearfishing_course_data|fish8 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2689,
+"en": "Salmon",
+"ctx": "complete_checklist|table/#/salmon/# + minigame_spearfishing_course_data|fish6 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2690,
+"en": "Great White Shark",
+"ctx": "complete_checklist|table/#/same/# + minigame_spearfishing_course_data|fish1 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2691,
+"en": "Sarah Bryant",
+"ctx": "complete_checklist|table/#/sarah/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2692,
+"en": "Advanced 1",
+"ctx": "complete_checklist|table/#/senior_1/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2693,
+"en": "Advanced 2",
+"ctx": "complete_checklist|table/#/senior_2/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2694,
+"en": "Advanced 3",
+"ctx": "complete_checklist|table/#/senior_3/# + minigame_batting_center_course|difficulty",
+"max": null
+},
+{
+"id": 2695,
+"en": "Shun Di",
+"ctx": "complete_checklist|table/#/shun/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2696,
+"en": "Sig",
+"ctx": "complete_checklist|table/#/sigu/#",
+"max": null
+},
+{
+"id": 2697,
+"en": "Coelacanth",
+"ctx": "complete_checklist|table/#/siirakansu/# + minigame_spearfishing_course_data|fish7 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2698,
+"en": "Special Skill",
+"ctx": "complete_checklist|table/#/skill/#",
+"max": null
+},
+{
+"id": 2699,
+"en": "Worries About",
+"ctx": "complete_checklist|table/#/specific_title/#",
+"max": null
+},
+{
+"id": 2700,
+"en": "Asks for Affection",
+"ctx": "complete_checklist|table/#/specific_title/#",
+"max": null
+},
+{
+"id": 2701,
+"en": "Riona's Fans",
+"ctx": "complete_checklist|table/#/specific_title/#",
+"max": null
+},
+{
+"id": 2702,
+"en": "Saki in Love",
+"ctx": "complete_checklist|table/#/specific_title/#",
+"max": null
+},
+{
+"id": 2703,
+"en": "Love Reference",
+"ctx": "complete_checklist|table/#/specific_title/#",
+"max": null
+},
+{
+"id": 2704,
+"en": "Stage 1",
+"ctx": "complete_checklist|table/#/stage1/#",
+"max": null
+},
+{
+"id": 2705,
+"en": "Stage 2",
+"ctx": "complete_checklist|table/#/stage2/#",
+"max": null
+},
+{
+"id": 2706,
+"en": "Stage 3",
+"ctx": "complete_checklist|table/#/stage3/#",
+"max": null
+},
+{
+"id": 2707,
+"en": "Stage 4",
+"ctx": "complete_checklist|table/#/stage4/#",
+"max": null
+},
+{
+"id": 2708,
+"en": "Stage 5",
+"ctx": "complete_checklist|table/#/stage5/#",
+"max": null
+},
+{
+"id": 2709,
+"en": "Stage 6",
+"ctx": "complete_checklist|table/#/stage6/#",
+"max": null
+},
+{
+"id": 2710,
+"en": "Suketoudara",
+"ctx": "complete_checklist|table/#/suketoudara/#",
+"max": null
+},
+{
+"id": 2711,
+"en": "Pocket Protector",
+"ctx": "complete_checklist|table/#/suri/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2712,
+"en": "Kase",
+"ctx": "complete_checklist|table/#/suzumiya/# + minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 2713,
+"en": "Taka-Arashi",
+"ctx": "complete_checklist|table/#/taka_arashi/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2714,
+"en": "Giant Crab",
+"ctx": "complete_checklist|table/#/takaashigani/# + minigame_spearfishing_course_data|fish6 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2715,
+"en": "VS Jingai Thunders",
+"ctx": "complete_checklist|table/#/thunders_1/# + minigame_sandlot_baseball_challenge|enemy_team_name",
+"max": null
+},
+{
+"id": 2716,
+"en": "VS Jingai Thunders: Victory Lap",
+"ctx": "complete_checklist|table/#/thunders_2/#",
+"max": null
+},
+{
+"id": 2717,
+"en": "VS Jingai Thunders: Landslide Win",
+"ctx": "complete_checklist|table/#/thunders_3/#",
+"max": null
+},
+{
+"id": 2718,
+"en": "VS Jingai Thunders: Team in Stitches",
+"ctx": "complete_checklist|table/#/thunders_4/#",
+"max": null
+},
+{
+"id": 2719,
+"en": "VS Jingai Thunders Reserves",
+"ctx": "complete_checklist|table/#/thunders_second_1/# + minigame_sandlot_baseball_challenge|enemy_team_name",
+"max": null
+},
+{
+"id": 2720,
+"en": "VS Jingai Thunders Reserves: Victory Lap",
+"ctx": "complete_checklist|table/#/thunders_second_2/#",
+"max": null
+},
+{
+"id": 2721,
+"en": "VS Jingai Thunders Reserves: Keep It Interesting",
+"ctx": "complete_checklist|table/#/thunders_second_3/#",
+"max": null
+},
+{
+"id": 2722,
+"en": "VS Jingai Thunders Reserves: Landslide Win",
+"ctx": "complete_checklist|table/#/thunders_second_4/#",
+"max": null
+},
+{
+"id": 2723,
+"en": "Wiped Out",
+"ctx": "complete_checklist|table/#/toilet/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2724,
+"en": "Tiger Puffer",
+"ctx": "complete_checklist|table/#/torafugu/# + minigame_spearfishing_course_data|fish7 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 2725,
+"en": "Vanessa Lewis",
+"ctx": "complete_checklist|table/#/vanessa/#",
+"max": null
+},
+{
+"id": 2726,
+"en": "Witch",
+"ctx": "complete_checklist|table/#/which/#",
+"max": null
+},
+{
+"id": 2727,
+"en": "Wolf Hawkfield",
+"ctx": "complete_checklist|table/#/wolf/# + manual|table/#//#",
+"max": null
+},
+{
+"id": 2728,
+"en": "An Explosive Game",
+"ctx": "complete_checklist|table/#/yokoku1/# + instant_mission_kind|title + mission_kind|title …",
+"max": null
+},
+{
+"id": 2729,
+"en": "An Explosive End",
+"ctx": "complete_checklist|table/#/yokoku2/# + instant_mission_kind|title + mission_kind|title",
+"max": null
+},
+{
+"id": 2730,
+"en": "A Sauced-Up Sod",
+"ctx": "complete_checklist|table/#/yopparai/# + instant_mission_kind|title",
+"max": null
+},
+{
+"id": 2731,
+"en": "I protected Takayama from some\npunks. So I'm the Kabedon King, huh?\nThat doesn't sound so bad.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2732,
+"en": "Talk to people in the city 10 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2733,
+"en": "Talk to people in the city 30 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2734,
+"en": "Talk to people in the city 50 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2735,
+"en": "Take 10 photos with your smartphone camera",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2736,
+"en": "Take 30 photos with your smartphone camera",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2737,
+"en": "Drink a total of 10 drinks from the\nvending machine",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2738,
+"en": "Drink a total of 30 drinks from the\nvending machine",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2739,
+"en": "Drink all Mystery Drinks from the\nvending machine",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2740,
+"en": "Discover 3 types of menu combinations at\neateries",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2741,
+"en": "Discover 10 types of menu combinations at\neateries",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2742,
+"en": "Discover all types of menu combinations at\neateries",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2743,
+"en": "Defeat a total of 10 enemies in\nClan Battles",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2744,
+"en": "Defeat a total of 50 enemies in\nClan Battles",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2745,
+"en": "Defeat a total of 100 enemies in\nClan Battles",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2746,
+"en": "Defeat a total of 300 enemies in\nClan Battles",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2747,
+"en": "Defeat a total of 500 enemies in\nClan Battles",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2748,
+"en": "Defeat a total of 700 enemies in\nClan Battles",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2749,
+"en": "The scammers never stop figuring out\nnew ways to part an idiot from his money.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2750,
+"en": "Ayaka was happy about the Haruka\nmerchandise I gave her. I definitely\nneed to show Haruka that picture.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2751,
+"en": "I didn't think I'd ever have to chase down\na cleaning robot. It's kinda romantic that\nthe little thing brought those two\ntogether, though.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2752,
+"en": "The digital personal assistant, \"Hiji\"...\nShe was convenient, but I don't like a\nmachine making me do things without my\nconsent.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2753,
+"en": "It's fine to take a risk by posting videos\nonline, but it's not okay to cause trouble\nfor other people. Well, I'm sure he\nlearned his lesson.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2754,
+"en": "Using a drone to gather information...\nTechnology is moving too fast.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2755,
+"en": "To think someone from the Snake Flower\nTriad was still in this city... It's\nprobably best for me to lay low with\nhow Kamurocho currently is.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2756,
+"en": "The remnants of the Snake Flower Triad had\nsuch an elaborate plan. But now with this, that\ngroup should be quiet for a while.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2757,
+"en": "Someone was running a blackmail scheme\nthrough Troublr. Some things really are\ntoo good to be true...",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2758,
+"en": "Date-san's account was hijacked...\nThere are so many ways to commit fraud,\nI need to stay aware of them.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2759,
+"en": "Enjoy yourself at an entertainment\nvenue 5 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2760,
+"en": "Enjoy yourself at an entertainment\nvenue 10 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2761,
+"en": "Enjoy yourself at an entertainment\nvenue 20 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2762,
+"en": "Enjoy yourself at an entertainment\nvenue 30 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2763,
+"en": "Get a score of over 90 for 3 songs at\nkaraoke",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2764,
+"en": "Get a score of over 90 for 5 songs at\nkaraoke",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2765,
+"en": "Win a total of 10 games with the Warriors",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2766,
+"en": "Win a total of 20 games with the Warriors",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2767,
+"en": "Win a total of 30 games with the Warriors",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2768,
+"en": "Earn double-digit wins on a single pitcher\nin baseball",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2769,
+"en": "Earn double-digit home runs on a single\nplayer in baseball",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2770,
+"en": "Earn 100 hits on a single player in\nbaseball",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2771,
+"en": "Complete all Beginner Challenge\nCourses at the batting center",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2772,
+"en": "Complete all Intermediate Challenge\nCourses at the batting center",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2773,
+"en": "Complete all Advanced Challenge\nCourses at the batting center",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2774,
+"en": "Hit a total of 10 home runs in\nthe Home Run Course",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2775,
+"en": "Hit a total of 30 home runs in\nthe Home Run Course",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2776,
+"en": "Hit a total of 50 home runs in\nthe Home Run Course",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2777,
+"en": "Give an offering to the Jizo statues\n5 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2778,
+"en": "Give an offering to the Jizo statues\n10 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2779,
+"en": "Give an offering to the Jizo statues\n20 times",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2780,
+"en": "I'm sure there will be lots of trials\nahead of you, but you'll become a great\nidol in Tokyo, Misa.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2781,
+"en": "I met the legendary darts player,\nPaul Lim. It might not hurt to polish\nmy darts skills when I get a chance.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2782,
+"en": "I took on Paul Lim in a darts match and he\nwas indeed amazing. I'll ask him for\nanother match sometime.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2783,
+"en": "Saki is a great professional wrestler and\ngives courage to her fans. I'm cheering\nyou on too. Keep doing your best.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2784,
+"en": "While there was a lot of fuss, it helped\nme get to know Hikaru a little better.\nI'm still going to support and protect\nher however I can.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2785,
+"en": "I was able to have a nice long talk with\nSora so we could get to know each other\nbetter. She taught me the importance of\nthinking about my family.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2786,
+"en": "Erina won't have to worry about that\nstalker anymore. Always stay true to\nwho you are, Erina.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2787,
+"en": "Everyone loves Riona because of the\nstandards she holds herself to as a\nhostess. She's really quite something.",
+"ctx": "complete|explanation",
+"max": null
+},
+{
+"id": 2788,
+"en": "I became friends with Manager Yoshida from\nthe Batting Center and he joined my\nbaseball team. His knowledge of the game\nmight prove to be pretty useful!",
+"ctx": "complete|explanation",
+"max": null
+}
+]

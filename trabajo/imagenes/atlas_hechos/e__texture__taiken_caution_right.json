@@ -1,0 +1,196 @@
+{
+ "textura": "e/texture/taiken_caution_right",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    522,
+    248,
+    1760,
+    291
+   ],
+   "en": "This software uses fonts based on fonts from Fontworks Inc.",
+   "ocr": "This software uses fonts based on fonts from Fontworks Inc.",
+   "es": "Este software utiliza fuentes basadas en las fuentes de Fontworks Inc.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 1238,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 34
+  },
+  {
+   "caja": [
+    522,
+    300,
+    1760,
+    345
+   ],
+   "en": "and modified to fit the software design. The company name",
+   "ocr": "and modified to fit the software design. The company name",
+   "es": "y modificadas para adaptarse al diseño del software. El nombre de la empresa",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 1238,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 34
+  },
+  {
+   "caja": [
+    524,
+    354,
+    1760,
+    395
+   ],
+   "en": "of Fontworks and the name of the Fontworks fonts are",
+   "ocr": "of Fontworks and the name of the Fontworks fonts are",
+   "es": "Fontworks y el nombre de las fuentes de Fontworks son",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 1236,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 34
+  },
+  {
+   "caja": [
+    523,
+    408,
+    1760,
+    445
+   ],
+   "en": "trademarks or registered trademarks of Fontworks Inc.",
+   "ocr": "trademarksor registered trademarks of FontworksInc.",
+   "es": "marcas comerciales o marcas registradas de Fontworks Inc.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 1237,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 34
+  },
+  {
+   "caja": [
+    526,
+    498,
+    1760,
+    538
+   ],
+   "en": "DynaFont is a registered trademark of DynaComware Taiwan Inc.",
+   "ocr": "DynaFont is a registered trademark of DynaComware Taiwan Inc.",
+   "es": "DynaFont es una marca registrada de DynaComware Taiwan Inc.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 1234,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 34
+  },
+  {
+   "caja": [
+    935,
+    589,
+    1760,
+    627
+   ],
+   "en": "YEBIS is a registered trademark of",
+   "ocr": "※YEBlSisaregistered trademarkof",
+   "es": "*YEBIS es una marca registrada de",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 800,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 34
+  },
+  {
+   "caja": [
+    961,
+    632,
+    1249,
+    671
+   ],
+   "en": "Silicon Studio Corp.",
+   "ocr": "SiliconStudioCorp.",
+   "es": "Silicon Studio Corp.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 288,
+   "dejar": true
+  },
+  {
+   "caja": [
+    683,
+    660,
+    914,
+    702
+   ],
+   "en": "by Silicon Studio",
+   "ocr": "bySiliconStudio",
+   "es": "por Silicon Studio",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 231,
+   "dejar": true
+  },
+  {
+   "caja": [
+    958,
+    677,
+    1760,
+    715
+   ],
+   "en": "©Silicon Studio Corp., all rights reserved.",
+   "ocr": "OSilicon Studio Corp., all rights reserved.",
+   "es": "©Silicon Studio Corp., todos los derechos reservados.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 802,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "tam": 34
+  }
+ ]
+}

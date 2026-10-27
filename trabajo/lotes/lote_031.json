@@ -1,0 +1,1178 @@
+[
+{
+"id": 8349,
+"en": "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\n\nPerhaps you need some <color=batting_pitch_yellow>new members</color>?\nI overheard some conversation about baseball at <color=batting_pitch_yellow>New Gaudi</color>, you know!",
+"ctx": "minigame_sandlot_baseball_hint_message|text",
+"max": null
+},
+{
+"id": 8350,
+"en": "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\n\nYour team is kinda hurting out there...\nWhy don't you use a <color=batting_pitch_yellow>Training Ticket</color> to whip those guys into shape?",
+"ctx": "minigame_sandlot_baseball_hint_message|text",
+"max": null
+},
+{
+"id": 8351,
+"en": "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\n\nYou're really giving up runs out there!\nYou've gotta <color=batting_pitch_yellow>switch out pitchers when their stamina runs out</color>.",
+"ctx": "minigame_sandlot_baseball_hint_message|text",
+"max": null
+},
+{
+"id": 8352,
+"en": "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\n\nSeems like you're still kind of feeling your team out. Are you\nhaving trouble getting <color=batting_pitch_yellow>on base</color>? Your <color=batting_pitch_yellow>team's strength</color>\nwill go up if you get a hit during critical moments in the game.",
+"ctx": "minigame_sandlot_baseball_hint_message|text",
+"max": null
+},
+{
+"id": 8353,
+"en": "<color=batting_pitch_yellow>Color Commentator Miyaken's Advice</color>\n\nYour batters are going downhill here. Have you tried changing the lineup?\n Switching the lineup based on the player's <color=batting_pitch_yellow>condition</color> is one way to do it.",
+"ctx": "minigame_sandlot_baseball_hint_message|text",
+"max": null
+},
+{
+"id": 8354,
+"en": "LF",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8355,
+"en": "CF",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8356,
+"en": "RF",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8357,
+"en": "DH",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8358,
+"en": "Top",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8359,
+"en": "Bottom",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8360,
+"en": "Switch Players",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8361,
+"en": "(${intervention_num} Interventions left)",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8362,
+"en": "Fast Forward",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8363,
+"en": "Pitcher",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8364,
+"en": "Catcher",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8365,
+"en": "Shortstop",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8366,
+"en": "Outfielder",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8367,
+"en": "Righty Pitcher",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8368,
+"en": "Lefty Pitcher",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8369,
+"en": "Righty Batter",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8370,
+"en": "Lefty Batter",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8371,
+"en": "1st Baseman",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8372,
+"en": "2nd Baseman",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8373,
+"en": "3rd Baseman",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8374,
+"en": "FB",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8375,
+"en": "GB",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8376,
+"en": "${homerun_num}",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8377,
+"en": "${homerun_num},",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8378,
+"en": "Inning",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8379,
+"en": "<symbol=arrow_right>",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8380,
+"en": "<color=batting_pitch_red>MAX</color>",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8381,
+"en": "Use one <color=batting_pitch_red>Training Ticket</color> to train <color=batting_pitch_yellow>${player_name}</color>?",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8382,
+"en": "<color=batting_pitch_yellow>${player_name}</color> is already maxed out.",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8383,
+"en": "<color=batting_pitch_red>Success!</color>",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8384,
+"en": "<color=batting_pitch_blue>Fail...</color>",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8385,
+"en": "No <color=batting_pitch_red>Training Tickets</color> left. Get more by winning!",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8386,
+"en": "SUB",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8387,
+"en": "Close the results screen?",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8388,
+"en": "\n${name}\n\n${explanation}",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8389,
+"en": "That Training Went Well!\nGained <color=batting_pitch_red>100</color> EXP!\n\n<color=batting_pitch_yellow>${after_experience}</color> EXP left to level up!",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8390,
+"en": "That Training Went <color=batting_pitch_red>Great</color>!\nGained <color=batting_pitch_red>150</color> EXP!\n\n<color=batting_pitch_yellow>${after_experience}</color> EXP left to level up!",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8391,
+"en": "You've used the max number of Training Tickets already.\n*You can only use <color=batting_pitch_red>one</color> training ticket per player.\n*Limits <color=batting_pitch_red>reset when you play a game</color>.",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8392,
+"en": "Challenge Clear",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8393,
+"en": "Bonus Clear",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8394,
+"en": "Tickets Acquired",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8395,
+"en": "Total Tickets Held",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8396,
+"en": "Choose a starting lineup.",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8397,
+"en": "Change positions and switch players.",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8398,
+"en": "Choose a player to train using a <color=batting_pitch_red>Training Ticket</color>.\n*Limit one Training Ticket per player per game.",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8399,
+"en": "Choose an option.",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8400,
+"en": "SF",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8401,
+"en": "Left Fielder",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8402,
+"en": "Center Fielder",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8403,
+"en": "Right Fielder",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8404,
+"en": "<color=${pitch_color}>${pitch_name}</color>",
+"ctx": "minigame_sandlot_baseball_message|text",
+"max": null
+},
+{
+"id": 8405,
+"en": "A well-rounded player who not only specializes in outfield roles,\nbut can also fill in for all other positions except pitcher.\nHe's got a great RBI average, and he's a heavy hitter to boot.\nAs the glue of the team, he's the key to victory.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8406,
+"en": "A fast outfielder who's always making contact with the ball.\nSpeed is his pride, allowing him to cover a wide range of\npositions. His flaw is that sometimes he buckles under\npressure. In hopes of overcoming his weakness, he tries to\ntrain more mentally than physically.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8407,
+"en": "A strong starting pitcher with good control. The curveball is\nhis secret weapon, a throw he learned from his father as a\nchild. When the going gets rough, though, he does tend\nto get too careful. He hopes to gain more experience and\nthe courage to stay cool under pressure.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8408,
+"en": "This catcher is also a real slugger, swinging for the fences\nwith every swing. His hits go flying further than anyone else\non the team, but his lack of control often leads to strikes.\nHe also tends to neglect training his catcher role because\nbatting is so much cooler.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8409,
+"en": "An outfielder with a good eye for the ball, giving him a high\non-base percentage. He handles fielding and base running\nflawlessly as well, making him a near perfect player.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8410,
+"en": "A first baseman with a nice batting average. He was an honor\nstudent with a talent for just about everything of course,\nand when the bases are loaded, it's his time to shine - he'll\naim to bring those runners home and all the glory with it.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8411,
+"en": "Aside from his main position at third base, he excels at\nplaying shortstop. People tend to think of him as a fielder,\nbut his batting average is nothing to scoff at. A utility player\nwho can clean up at the top or create opportunities at the\nbottom, you can count on him to get it done.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8412,
+"en": "Although he prefers second base, he's a utility infielder who\ncan fill in any role just fine. He tends to get swept up in the\nmoment, though. This is great if his team is doing well, but\nhe'll suffer if the team is flagging.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8413,
+"en": "A fast infielder who also excels at making contact with the\nball. Once he gets on base, he applies immense pressure to\nthe opposing team with his sheer speed. But knowing how\nfast he is has led to an obsession with running speed, and his\nteammates often need to bully him into focusing on his\nfielding and batting.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8414,
+"en": "A slugger with a batting average he can take pride in. His\nimmense concentration at the plate, even when pinch\nhitting, is second to none. Problem is, hitting is all he\ncares about, so his fielding and base running averages are\npretty subpar.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8415,
+"en": "A reliable catcher who brings out the best in his pitchers.\nHe's a great communicator, and understanding the team's\nchemistry and quirks makes him ideal for support. He's\nnot bad at the plate, either.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8416,
+"en": "The whole team counts on this slugger to step to the plate and\nget results, and he often does just that. He's a decent fielder\nas well. His downside is drinking too much at post-game parties.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8417,
+"en": "An outfielder who prides himself on both his power and\naccuracy. For whatever reason, he's especially reliable at\ntipping the game in his favor at the bottom of the 9th.\nAlthough his fielding isn't as great as his batting, he does\nhave some nice utility in both infield and outfield roles.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8418,
+"en": "A lead-off hitter who loves a challenge. Don't expect any\ndistance from him, but if you just need a guy to get on base,\nhis excellent control and speed make him your man. He's\nthe life of the party too, keeping his team's spirits high when\nthey're losing with rowdy shouting and friendly smacks.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8419,
+"en": "If he connects with the ball, you can expect a home run from\nthis herculean hitter. People often compare the speed of his\nswing to a ceiling fan set on kill. He loves practicing his batting,\nbut that's literally the only thing he'll practice.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8420,
+"en": "An outfielder with good speed and strong defense. He's a\nfielding enthusiast who traps fly balls like a vice. He's also a\npretty accurate hitter, but not an especially powerful one.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8421,
+"en": "An aloof batter who strives to reach baseball zen in his pursuit\nof the perfect swing. His dedication to this leads to friction\nwith his team, but at the end of the day, they acknowledge\nthat he's a great batter. He's also a skilled fielder and runner.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8422,
+"en": "This skilled infielder likes to show off how great he is, which\nsometimes leads to errors. He's also got a powerful swing, but\nhe tends to make intimidating poses when he gets on base that\ncan lead to friction with the opposing team.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8423,
+"en": "A southpaw equipped with a dangerously fast and accurate\nfastball. He's practically a strikeout factory when he busts\nout his forkballs, but his stamina wears down fast, so it's best\nto pull him before he starts giving up runs.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8424,
+"en": "A relief specialist who's got some mean breaking balls.\nIt's like he was born to be a relief pitcher, excelling at\nlate-game entries and crumbling whenever he starts.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8425,
+"en": "A player with the perfect pitching skill set who can even stay\ncool and collected under pressure. Maybe his lack of flaws\nis a flaw, in its own way.",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8426,
+"en": "An ace rookie with a wealth of hidden talents. Although he\nreally devotes himself to practice, he's too young to have\nexperienced true failure, so he starts to buckle if he lets a\nfew hits go. He'll be one to watch<symbol=em_dash_with_outline>will he rise to greatness,\nor remain saddled by his insecurities?",
+"ctx": "minigame_sandlot_baseball_player|comment_message",
+"max": null
+},
+{
+"id": 8427,
+"en": "Miyakoshi",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8428,
+"en": "Shimokubo",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8429,
+"en": "Kumada",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8430,
+"en": "Shindo",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8431,
+"en": "Yanagitani",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8432,
+"en": "Omichi",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8433,
+"en": "Yamagoshi",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8434,
+"en": "Furumiya",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8435,
+"en": "Matsuhira",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8436,
+"en": "Uchikawa",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8437,
+"en": "Ashikaga",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8438,
+"en": "Hamana",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8439,
+"en": "Yonekura",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8440,
+"en": "Shibahara",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8441,
+"en": "Bomber",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8442,
+"en": "Yueda",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8443,
+"en": "Murasame",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8444,
+"en": "Uchikura",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8445,
+"en": "Wakada",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8446,
+"en": "Shigenaga",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8447,
+"en": "Takabayashi",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8448,
+"en": "Shiromachi",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8449,
+"en": "Oshimizu",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8450,
+"en": "Awada",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8451,
+"en": "Sugayama",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8452,
+"en": "Shimohara",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8453,
+"en": "Hachiro",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8454,
+"en": "Selby",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8455,
+"en": "Canoe",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8456,
+"en": "Rodrigues",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8457,
+"en": "Barber",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8458,
+"en": "Sauce",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8459,
+"en": "Joshima",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8460,
+"en": "Bowers",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8461,
+"en": "Fukutomi",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8462,
+"en": "Zhen",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8463,
+"en": "Kozuka",
+"ctx": "minigame_sandlot_baseball_player|family_name",
+"max": null
+},
+{
+"id": 8464,
+"en": "Kazuma",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8465,
+"en": "Fuuta",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8466,
+"en": "Yuichi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8467,
+"en": "Junji",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8468,
+"en": "Toshimasa",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8469,
+"en": "Masaharu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8470,
+"en": "Ryuji",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8471,
+"en": "Kentaro",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8472,
+"en": "Shinjiro",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8473,
+"en": "Koshi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8474,
+"en": "Naoya",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8475,
+"en": "Takanobu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8476,
+"en": "Haruki",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8477,
+"en": "Kenji",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8478,
+"en": "Tomokazu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8479,
+"en": "Shunichi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8480,
+"en": "Tadahiko",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8481,
+"en": "Takao",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8482,
+"en": "Tadashi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8483,
+"en": "Toshio",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8484,
+"en": "Manabu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8485,
+"en": "Hisashi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8486,
+"en": "Michihiro",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8487,
+"en": "Junya",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8488,
+"en": "Makoto",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8489,
+"en": "Kazuhiro",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8490,
+"en": "Hisami",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8491,
+"en": "Yoshihiko",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8492,
+"en": "Satoshi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8493,
+"en": "Yuji",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8494,
+"en": "Ryo",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8495,
+"en": "Issei",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8496,
+"en": "Kosuke",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8497,
+"en": "Takatoshi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8498,
+"en": "Tomoki",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8499,
+"en": "Shuji",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8500,
+"en": "Kenzo",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8501,
+"en": "Toshimitsu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8502,
+"en": "Toshiaki",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8503,
+"en": "Hayato",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8504,
+"en": "Shigenobu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8505,
+"en": "Sadao",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8506,
+"en": "Hideyuki",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8507,
+"en": "Yoshiharu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8508,
+"en": "Shintaro",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8509,
+"en": "Nobuyuki",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8510,
+"en": "Tatsuo",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8511,
+"en": "Kazuhisa",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8512,
+"en": "Kenichi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8513,
+"en": "Tomonori",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8514,
+"en": "Keita",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8515,
+"en": "Kouichi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8516,
+"en": "Noritake",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8517,
+"en": "Tsubasa",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8518,
+"en": "Tsutomu",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8519,
+"en": "Shinsuke",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8520,
+"en": "Kazuyoshi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8521,
+"en": "Takeshi",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8522,
+"en": "Jian-min",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8523,
+"en": "Wei-duan",
+"ctx": "minigame_sandlot_baseball_player|first_name",
+"max": null
+},
+{
+"id": 8524,
+"en": "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8525,
+"en": "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8526,
+"en": "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8527,
+"en": "In clutch moments, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_blue>decrease</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8528,
+"en": "When under pressure, <color=batting_pitch_yellow>the likelihood of striking out</color> <color=batting_pitch_blue>increases</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8529,
+"en": "In exchange for <color=batting_pitch_yellow>the likelihood of striking out</color> <color=batting_pitch_blue>increasing</color>,\n<color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8530,
+"en": "In exchange for <color=batting_pitch_yellow>the likelihood of striking out</color> <color=batting_pitch_blue>increasing</color>,\n<color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8531,
+"en": "<color=batting_pitch_yellow>Slugging</color> and <color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8532,
+"en": "<color=batting_pitch_yellow>Slugging</color> and <color=batting_pitch_yellow>the likelihood of hitting a home run</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8533,
+"en": "He'll be <color=batting_pitch_red>more likely to hit</color> <color=batting_pitch_yellow> toward the opposite side of the field</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8534,
+"en": "<color=batting_pitch_yellow>The likelihood of getting a hit</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8535,
+"en": "<color=batting_pitch_yellow>The likelihood of striking out</color> <color=batting_pitch_red>decreases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8536,
+"en": "<color=batting_pitch_yellow>The likelihood of striking out</color> <color=batting_pitch_red>decreases tremendously</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8537,
+"en": "When bases are loaded, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8538,
+"en": "When bases are loaded, <color=batting_pitch_yellow>Batting</color> <color=batting_pitch_red>increases moderately</color>,\nwhile <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increases tremendously</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8539,
+"en": "<color=batting_pitch_yellow>The likelihood of causing an error</color> <color=batting_pitch_red>decreases slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8540,
+"en": "<color=batting_pitch_yellow>The likelihood of causing an error</color> <color=batting_pitch_red>decreases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8541,
+"en": "<color=batting_pitch_red>He won't cause any errors.</color>",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8542,
+"en": "When the preceding batter gets a hit,\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8543,
+"en": "When the preceding batter gets a hit,\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8544,
+"en": "<color=batting_pitch_yellow>The success rate of base stealing</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+}
+]

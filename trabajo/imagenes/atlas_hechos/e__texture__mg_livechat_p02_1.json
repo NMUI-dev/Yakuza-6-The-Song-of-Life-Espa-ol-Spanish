@@ -1,0 +1,246 @@
+{
+ "textura": "e/texture/mg_livechat_p02_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    180,
+    0,
+    211,
+    11
+   ],
+   "en": "DNV LAK CHAI",
+   "ocr": "WN Ch",
+   "es": "DNV LAK CHAI",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 31,
+   "dejar": true
+  },
+  {
+   "caja": [
+    91,
+    23,
+    164,
+    36
+   ],
+   "en": "Let's enjoy our time together.",
+   "ocr": "Lef'i trpoy oor Eae Mgrts",
+   "es": "Disfrutemos de nuestro tiempo juntos.",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 73,
+   "dejar": true
+  },
+  {
+   "caja": [
+    311,
+    21,
+    353,
+    36
+   ],
+   "en": "Current Points",
+   "ocr": "Gpmet Peits",
+   "es": "Puntos actuales",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    65,
+    371,
+    81
+   ],
+   "en": "And :) Really! That makes me happy.",
+   "ocr": "Asi: brlyt Dat sakts se NNHnc",
+   "es": "Y :) ¡De verdad! Eso me hace feliz.",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 95,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    75,
+    392,
+    92
+   ],
+   "en": "Ani : People always say I look like an adult.",
+   "ocr": "Acli: Piee n yy I lk i a ad/L",
+   "es": "Ani: La gente siempre dice que me miran como a una persona adulta.",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 116,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    86,
+    335,
+    101
+   ],
+   "en": "Kiru : So irresistible.",
+   "ocr": "Krre : 5o lesstkt",
+   "es": "Kiru: Tan irresistible.",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 59,
+   "dejar": true
+  },
+  {
+   "caja": [
+    275,
+    106,
+    343,
+    122
+   ],
+   "en": "Alpecs : This excites me.",
+   "ocr": "Alpeca : Ts's ractes .",
+   "es": "Alpecs: Esto me excita.",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 68,
+   "dejar": true
+  },
+  {
+   "caja": [
+    277,
+    118,
+    315,
+    132
+   ],
+   "en": "Asi : Ready?",
+   "ocr": "Asri: Selyt",
+   "es": "Asi: ¿Todo listo?",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 38,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    128,
+    434,
+    142
+   ],
+   "en": "Asri : Yes, Maybe I can provide you all with some entertainment",
+   "ocr": "Atrl : Ms, nbe I-0s pmtr+ ru aF vlh se* derlee*",
+   "es": "Asri: Sí, tal vez pueda ofrecerles a todos un poco de entretenimiento",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 158,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    138,
+    334,
+    152
+   ],
+   "en": "Solo Play : YES YES",
+   "ocr": "Solp ay : Y[R: YIS",
+   "es": "Solo Play: SÍ SÍ",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 58,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    149,
+    353,
+    163
+   ],
+   "en": "Wizard : I'm getting aroused!",
+   "ocr": "Fzerd : Fe getteg epese",
+   "es": "Wizard: ¡Me estoy excitando!",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 77,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    158,
+    337,
+    174
+   ],
+   "en": "Solo Play : 099999999",
+   "ocr": "Sols Play : 0699**99",
+   "es": "Solo Play: 099999999",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 61,
+   "dejar": true
+  },
+  {
+   "caja": [
+    276,
+    169,
+    336,
+    183
+   ],
+   "en": "Rock Sun : Anti-Chan",
+   "ocr": "Pork. v4 : Ae6i-(hh",
+   "es": "Rock Sun: Anti-Chan",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    394,
+    212,
+    432,
+    233
+   ],
+   "en": "Send",
+   "ocr": "Send",
+   "es": "Enviar",
+   "fuente": "CaveatBrush-Regular.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  }
+ ]
+}

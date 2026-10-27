@@ -1,0 +1,1322 @@
+[
+{
+"id": 18316,
+"en": "Can you contact him?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18317,
+"en": "I have some questions I'd like\nto ask him regarding the Chinese.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18318,
+"en": "Nope. He said he'd give me a call\nif he ever needs something.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18319,
+"en": "He didn't leave me any contact info.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18320,
+"en": "Either way, how is talking to\nAkiyama going to help you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18321,
+"en": "When we were together earlier, we fought\nagainst a large Chinese man named Ed.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18322,
+"en": "I'd bet he's a Saio officer.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18323,
+"en": "If anyone can tell me where that\nguy might be, it's Akiyama.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18324,
+"en": "And once I find Ed, I want to ask him\nwhy the Saio killed Tatsukawa.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18325,
+"en": "I understand. But you know that's\nlaw enforcement's job, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18326,
+"en": "Well, not like that's ever stopped you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18327,
+"en": "Regardless, I need some answers, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18328,
+"en": "How Tatsukawa ended up in Kamurocho,\nhis disposition, his interactions with Haruka.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18329,
+"en": "Anything helps.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18330,
+"en": "Sorry, just doing my job.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18331,
+"en": "That Date fella ain't half bad.\nHe's still real sharp fer an old fart.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18332,
+"en": "Seems real trustworthy, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18333,
+"en": "Right. Maybe we should leave\nall o' this to Date-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18334,
+"en": "He might be able to find out\nwhy Tatsukawa had to die like that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18335,
+"en": "I'm sure he could, but I need to know now.\nThe earlier we learn the truth, the better.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18336,
+"en": "I'm not going to just sit around\nhere and wait for things to happen.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18337,
+"en": "Why're you in such a hurry?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18338,
+"en": "With the police on the Tatsukawa case,\nour trail is going to get cut off soon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18339,
+"en": "Outside of Date-san, the force doesn't\ntake half measures here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18340,
+"en": "Earlier today, a detective named Honjo\nwas already treating me like a suspect.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18341,
+"en": "I need to take care of this before it's too late.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18342,
+"en": "I'm going to start by looking for Akiyama.\nI'll start with his sewer hideout from before.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18343,
+"en": "You should stay here in the meantime.\nJust make sure I can reach you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18344,
+"en": "We'll keep an eye out while yer gone,\nso y'can do what needs doin'.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18345,
+"en": "Kiryu-aniki. Be careful out there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|# + sound_auth_subtitles_speech_list_main08|#",
+"max": null
+},
+{
+"id": 18346,
+"en": "Who are you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|# + sound_auth_subtitles_speech_list_sub_a07|# …",
+"max": null
+},
+{
+"id": 18347,
+"en": "[Surround him! Don't let him escape!\nThis is where he dies!]",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18348,
+"en": "The Chinese? I guess you've been\nwaiting for Akiyama to come back.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18349,
+"en": "Guess negotiations are off the table.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18350,
+"en": "[I'll slice you up!\nThe yakuza are done for!]",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18351,
+"en": "[Dammit, who is this guy!?\nCome on, let's get out of here!]",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18352,
+"en": "You're still here. Shouldn't you be\nrunning away with your friends?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18353,
+"en": "Hold on, Kiryu-san. It's me.\nYou remember?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18354,
+"en": "Oh, you're the guy who showed me\nthis place a while back.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18355,
+"en": "Thank god you recognize me. I was worried\nyou were gonna start punching <font_kind=yakuza_italic>me</font_kind> soon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18356,
+"en": "But Kiryu-san, what are you doing here?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18357,
+"en": "Akiyama-san hasn't come back down to\nthese sewers since he left with you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18358,
+"en": "I need to get in touch with him again.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18359,
+"en": "Do you know how to reach him?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18360,
+"en": "I do, but it'll take a bit of time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18361,
+"en": "Akiyama-san's super careful.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18362,
+"en": "You've gotta go through a whole web of\npeople if you ever wanna contact him.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18363,
+"en": "Right. After all, the triads\nstill have him in their crosshairs.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18364,
+"en": "Honestly, I think he should just get outta\nKamurocho entirely if it's that bad.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18365,
+"en": "Anyway, do you think you could\ntell Akiyama to give me a call?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18366,
+"en": "Can do. Just give me some time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18367,
+"en": "Okay. Thanks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18368,
+"en": "(There's nothing for me to do now but walk\naround town and wait for Akiyama to call...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18369,
+"en": "(Hm? They blocked the exit.\nI guess I have to go the other way...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18370,
+"en": "This is Kiryu.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|# + sound_auth_subtitles_speech_list_sub_b07|#",
+"max": null
+},
+{
+"id": 18371,
+"en": "It's Akiyama. Sorry it's so tough to reach me.\nI heard you want something?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18372,
+"en": "I do. Where are you right now?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18373,
+"en": "Let's just say I'm on the move.\nStill in Kamurocho, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18374,
+"en": "Great. There's something I need to ask you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18375,
+"en": "The other day, we fought against that\ntriad guy, Ed, remember?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18376,
+"en": "How high up the ladder do you think he is?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18377,
+"en": "You mean in the Saio?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18378,
+"en": "I'm pretty certain he's an officer. He's one\nof the few who talks to their boss directly.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18379,
+"en": "I thought so.\nI want to speak to him.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18380,
+"en": "Do you have any idea where he is?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18381,
+"en": "You wanna talk to Ed?\nBut why?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18382,
+"en": "The Saio Triad might've been involved\nin Haruka's accident in some way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18383,
+"en": "Ed should be in Little Asia.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18384,
+"en": "He's the head honcho of that\nhuge building in the middle, but... Hm...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18385,
+"en": "If you just stroll in asking to talk to Ed,\nyou'll have an ice cube's chance in hell.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18386,
+"en": "That place is the Saio Triad nerve center.\nMay as well walk up and declare war.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18387,
+"en": "If that's what it takes, so be it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18388,
+"en": "Not exactly what I wanna hear from\na guy who says he's gone clean.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18389,
+"en": "Anyway, it's clear we need to talk.\nAre you free now?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18390,
+"en": "Is that okay?\nWhere to?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18391,
+"en": "Over in Theater Square, there's an APA Hotel.\nMeet me up on the sixth floor.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18392,
+"en": "Kiryu-san, you're alone, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18393,
+"en": "Yeah, I am.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|# + sound_auth_subtitles_speech_list_main10|#",
+"max": null
+},
+{
+"id": 18394,
+"en": "Great. I'll head over, then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18395,
+"en": "Oh, and try to make sure you don't\nget followed this time, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18396,
+"en": "Heh. You got it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18397,
+"en": "(Time to go meet Akiyama.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18398,
+"en": "(This is the APA Hotel. Akiyama said\nhe'd be on the sixth floor.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18399,
+"en": "(It looks like I'm being followed, but they\nclearly won't start a fight out in public.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18400,
+"en": "(I need to take care of them before\nI can go up to meet Akiyama, though.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18401,
+"en": "(Maybe I should walk over to somewhere\nmore secluded so we can \"chat\" a bit.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18402,
+"en": "(Theater Alley would be the perfect place.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18403,
+"en": "So you're the ones who have\nbeen following me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18404,
+"en": "So much for talking.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18405,
+"en": "Wait, these are Tojo men?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18406,
+"en": "What's going on here?\nWhy is the Tojo Clan following me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18407,
+"en": "(I'm in the clear now.\nI should go meet up with Akiyama.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18408,
+"en": "(That door is open.\nAm I supposed to go in there?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18409,
+"en": "Akiyama!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18410,
+"en": "Hey. Kinda like a spy, yeah?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18411,
+"en": "Sad part is that I'm not joking.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18412,
+"en": "You say that, but it looks like\nyou're enjoying yourself.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18413,
+"en": "On a more serious note, it's been a real\npain for me to get around Kamurocho.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18414,
+"en": "Plus, today I thought I should play it\nextra safe. I have a guest with me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18415,
+"en": "A guest?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18416,
+"en": "I'm Murota from the Jinsei Family.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18417,
+"en": "I still haven't forgotten what you did\nfor me in that alleyway, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18418,
+"en": "Wait... Why are you here?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18419,
+"en": "Well, Murota-kun and I started talking\nwhen he saw through my disguise.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18420,
+"en": "He mentioned how he led you to me when\nI was living in the sewer, and we hit it off.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18421,
+"en": "Apparently the triads aren't the only\nones we need to be worrying about.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18422,
+"en": "Sugai from the Tojo Clan\nis just as dangerous.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18423,
+"en": "But anyway, it might be best for you to hear\nall the details directly from Murota-kun.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18424,
+"en": "What can you tell me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18425,
+"en": "Man, you really are the fourth chairman!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18426,
+"en": "It was a huge shock when I realized\nwho you were after you saved me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18427,
+"en": "Anyway, the Tojo Clan execs are annoyed\nthat you're back. Almost more of a panic.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18428,
+"en": "Well right now, control of the Tojo Clan rests\nwith Acting Chairman Sugai and Someya.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18429,
+"en": "Of course, that's only because\nthe sixth chairman was arrested.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18430,
+"en": "Speaking of his arrest, I've heard rumors\nthat the whole thing was planned.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18431,
+"en": "Let me explain from the beginning.\nFirst we had that arson in Little Asia.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18432,
+"en": "Several fires flared up at the same time,\nyet they still couldn't make a single arrest.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18433,
+"en": "At that point, the only group who could carry\nout such a coordinated plan was the Tojo Clan.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18434,
+"en": "You're telling me the Tojo Clan\nburned down Little Asia?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18435,
+"en": "Exactly. After the fire, Little Asia was ripe\nfor the Saio Triad to move into the ruins.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18436,
+"en": "That's when the turf war erupted.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18437,
+"en": "When that conflict escalated, the cops blamed\nthe Tojo Clan sixth chairman and arrested him.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18438,
+"en": "The power vacuum that arrest created was\nsoon filled by a lifelong advisor, Sugai-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18439,
+"en": "Rumor has it,\nSugai was in bed with the Saio Triad.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18440,
+"en": "The point of the Little Asia fire was to\ncreate a space the Saio could move into.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18441,
+"en": "And the \"war\" he incited was all staged\nin order to bring down the sixth chairman.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18442,
+"en": "So imagine how Sugai must've felt when you\nshowed up just as he drove Daigo-san out.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18443,
+"en": "It's no surprise he wanted to keep\nhis distance from you, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18444,
+"en": "If you had realized what actually happened,\nyou might've come to avenge Daigo-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18445,
+"en": "I thought it'd be pretty important for\nyou to know about this, Fourth Chairman.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18446,
+"en": "Please try to be extra careful\naround Sugai and Someya.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18447,
+"en": "Funny you say that. I got attacked\nby some Tojo guys on my way here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18448,
+"en": "It looks like these rumors of yours\naren't very far from the truth.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18449,
+"en": "I appreciate you telling me all this, Murota.\nI owe you one.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18450,
+"en": "Not at all.\nAnyway, I should be going.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18451,
+"en": "Murota's not the only one in the Tojo Clan\nwho thinks the rumors are true.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18452,
+"en": "But with Sugai and Someya watching their\nevery move, nobody can say anything.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18453,
+"en": "And what are your thoughts?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18454,
+"en": "About Sugai and the Saio conspiring?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18455,
+"en": "At a bare minimum, I know they\nreally want to kill each other now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18456,
+"en": "Even if the war started as some kind of act,\nit's blossomed into something very real now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18457,
+"en": "Kamurocho's such a goddamn mess.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18458,
+"en": "Even if I wanted to reopen Sky Finance,\nit'd be totally impossible in this climate.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18459,
+"en": "You'd reopen Sky Finance?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18460,
+"en": "Well, I only started it up to give loans\nto those who dreamed of saving this city.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18461,
+"en": "This place picked me back up when I was\nat rock bottom, so it's only fair I repay it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18462,
+"en": "But not only is it apparently open-season on\ncrime, but the Jingweon are on a spending spree.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18463,
+"en": "As you might have heard,\neven Stardust fell victim to that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18464,
+"en": "Yeah, I've heard.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18465,
+"en": "If there's any hope left in this town, it's\nbecause the Dragon of Dojima has returned.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18466,
+"en": "Yeah right.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|# + talk",
+"max": 15
+},
+{
+"id": 18467,
+"en": "I know, I know. Putting an end to this conflict\nis probably the last thing on your mind.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18468,
+"en": "But to be blunt with you,\nI kinda hope you'll do it anyway.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18469,
+"en": "Sorry. That was selfish of me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18470,
+"en": "I've looked into Little Asia.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18471,
+"en": "Kicking down the front door may not\nbe the only way to get to Ed.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18472,
+"en": "There's an alternate route.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18473,
+"en": "An alternate route?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18474,
+"en": "One that'll help us avoid\nthe Saio mob at the entrance.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18475,
+"en": "They'll never see us coming.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18476,
+"en": "By the way, what is it you're\nhoping to ask Ed?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18477,
+"en": "I want to know why the Saio Triad\nkilled a man named Tatsukawa.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18478,
+"en": "Tatsukawa?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18479,
+"en": "An ex-yakuza from Onomichi. More recently,\nhe was working as a Saio Triad informant.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18480,
+"en": "Beyond that, he's apparently Haruto's dad.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18481,
+"en": "Huh? You're saying Haruka-chan got with\na guy like that? No way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18482,
+"en": "I have my doubts too. That's why I\nwant to have a talk with Ed.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18483,
+"en": "I get you. Okay then,\nI'll help you get into Little Asia.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18484,
+"en": "Yeah, I'll be fine. Let's meet up\nagain near the border of Little Asia.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18485,
+"en": "I'd feel better with more guys, though...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18486,
+"en": "Actually, I have two friends from Onomichi\nthat I can bring with me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18487,
+"en": "Perfect. Sorry I keep dragging you all\naround town. Anyway, I'll see you later.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18488,
+"en": "(I should head back to Serena and\nmeet up with Nagumo and Yuta.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18489,
+"en": "I'm back.\nWere you bored? Hm?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18490,
+"en": "Kiryu-aniki. Sorry 'bout this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18491,
+"en": "Cap jus' wouldn't stop drinking.\nTurns out he still had a soft spot for Tatsukawa.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18492,
+"en": "I was kinda hoping t'drink myself, but he\ndowned it all before I got the chance.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18493,
+"en": "Yeah, well... I know you two are feeling low...\nBut that sake's worth 50 grand.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18494,
+"en": "One bottle is 50,000 yen.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18495,
+"en": "Wait, what?\nSo ten is... 500,000!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18496,
+"en": "I did tell him to take it easy, didn't I?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18497,
+"en": "Cap! Y'gotta get up! Hey!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18498,
+"en": "...The hell?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18499,
+"en": "Yuta, y'shit. Y'should've stopped me\nway quicker, y'damn moron.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18500,
+"en": "Tatsukawa ain't worth 500 grand.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18501,
+"en": "Mama said she put it on our tab, so we can\nfigure out how to handle this later.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18502,
+"en": "Fer now, we need to talk about Little Asia.\nRight, Kiryu-aniki?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18503,
+"en": "Right. Are you sober enough, Nagumo?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18504,
+"en": "'Course I am.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18505,
+"en": "I ain't one t'doze off while we're talkin'\n'bout bustin' into the enemy base.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18506,
+"en": "Speakin' of, one second yer pummelin'\na Korean host, the next yer onto the triads.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18507,
+"en": "I like your style, Aniki.\nY'keep givin' me reasons t'whoop on guys!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18508,
+"en": "Hold on a sec. This is the crew who\nmurdered Tatsukawa in cold blood, yeah?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18509,
+"en": "Even if we do sneak into their base,\nhow're we gonna get out alive?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18510,
+"en": "Y'goin' limp!? Think about what\nwe're doin' in Kamurocho t'begin with!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18511,
+"en": "Why'd we come if it ain't worth dyin', huh!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18512,
+"en": "No, don't get careless.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18513,
+"en": "Our lives <font_kind=yakuza_italic>are</font_kind> on the line here.\nThese guys won't think twice about murder.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18514,
+"en": "All the same, this is how we're\ngonna honor Tatsukawa's memory.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18515,
+"en": "Y'best be ready t'get down, Yuta!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18516,
+"en": "Damn straight.\nKiryu-aniki. Are you ready?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18517,
+"en": "Yeah, it's about time.\nLet's head to Little Asia.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18518,
+"en": "All right! I'd follow ya t'the depths\no' hell n' back, Kiryu-aniki!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18519,
+"en": "(Akiyama said to meet him outside of\nLittle Asia. We should get going...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18520,
+"en": "Aniki, this here's Little Asia. We're s'posed\nt'be meetin' that Akiyama fella here, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18521,
+"en": "I'm over here, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18522,
+"en": "Follow me, but don't get too close.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18523,
+"en": "Nagumo, Yuta. That's Akiyama.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18524,
+"en": "Kiryu-san. Ed should be in there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18525,
+"en": "It won't be quite as direct, but my\nalternate route should get us in unseen.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18526,
+"en": "Come on, this way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18527,
+"en": "Hey, the name's Akiyama.\nThese your Hiroshima friends, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18528,
+"en": "Yeah. Hirose Family Captain Nagumo\nand one of his subordinates, Yuta.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18529,
+"en": "Haruto's father Tatsukawa used to\nbe part of the Hirose Family as well.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18530,
+"en": "I'm Nagumo.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18531,
+"en": "And I'm Yuta Usami. Kiryu-aniki's told us\na lot about you, Akiyama-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18532,
+"en": "He said yer a lender 'round these parts?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18533,
+"en": "I was. I'm not much more than\na homeless bum nowadays.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18534,
+"en": "That aside, lemme explain how we reach Ed.\nThis building will be our entry point.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 18535,
+"en": "From there we'll pass through a few others.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+}
+]

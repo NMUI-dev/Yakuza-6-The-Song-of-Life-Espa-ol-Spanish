@@ -1,0 +1,93 @@
+{
+ "textura": "e/texture/firstload_fiction",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    424,
+    342,
+    1555,
+    392
+   ],
+   "en": "This is a work of fiction. Names, characters, businesses,",
+   "ocr": "This is a work of fiction. Names, characters, businesses,",
+   "es": "Esta es una obra de ficción. Los nombres, personajes, empresas,",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 1131,
+   "tam": 40
+  },
+  {
+   "caja": [
+    426,
+    417,
+    1600,
+    461
+   ],
+   "en": "places, events and incidents are either the products of the",
+   "ocr": "places, events and incidents are either the products of the",
+   "es": "lugares, eventos e incidentes son producto de la imaginación",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 1174,
+   "tam": 40
+  },
+  {
+   "caja": [
+    424,
+    486,
+    1546,
+    536
+   ],
+   "en": "author's imagination or used in a fictitious manner. Any",
+   "ocr": "author' s imagination or used in a fictitious manner. Any",
+   "es": "del autor o se usan de manera ficticia. Cualquier parecido con",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 1122,
+   "tam": 40
+  },
+  {
+   "caja": [
+    423,
+    559,
+    1548,
+    606
+   ],
+   "en": "resemblance to actual persons, living or dead, or actual",
+   "ocr": "resemblance to actual persons, living or dead, or actual",
+   "es": "personas reales, vivas o muertas, o con hechos reales",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 1125,
+   "tam": 40
+  },
+  {
+   "caja": [
+    425,
+    632,
+    1014,
+    678
+   ],
+   "en": "events is purely coincidental.",
+   "ocr": "events is purely coincidental.",
+   "es": "es pura coincidencia.",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 589,
+   "tam": 40
+  }
+ ]
+}

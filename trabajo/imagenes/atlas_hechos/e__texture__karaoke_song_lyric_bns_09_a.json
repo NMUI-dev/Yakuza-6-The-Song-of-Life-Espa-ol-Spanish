@@ -1,0 +1,56 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_09_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    271,
+    0,
+    1044,
+    104
+   ],
+   "en": "My Best Friend",
+   "ocr": "Best Friend best friend",
+   "es": "My Best Friend",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 773,
+   "dejar": true
+  },
+  {
+   "caja": [
+    108,
+    56,
+    164,
+    101
+   ],
+   "en": "shi",
+   "ocr": "shi",
+   "es": "shi",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    197,
+    62,
+    237,
+    101
+   ],
+   "en": "te",
+   "ocr": "te",
+   "es": "te",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 40,
+   "dejar": true
+  }
+ ]
+}

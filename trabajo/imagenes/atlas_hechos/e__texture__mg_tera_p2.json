@@ -1,0 +1,63 @@
+{
+ "textura": "e/texture/mg_tera_p2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    174,
+    99,
+    308,
+    113
+   ],
+   "en": "(How many coins should I throw in at once...?)",
+   "ocr": "[Hoe many coits shouid 1 theew in at onct...7]",
+   "es": "(¿Cuántas monedas debería lanzar a la vez...?)",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 130,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    219,
+    160,
+    254,
+    176
+   ],
+   "en": "Logism",
+   "ocr": "ACofra",
+   "es": "Logism",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    424,
+    247,
+    442,
+    260
+   ],
+   "en": "quit",
+   "ocr": "OuR",
+   "es": "Salir",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 18,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "textura": "e/texture/otr_kyaba_tlk_03",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    166,
+    138,
+    249,
+    208
+   ],
+   "en": "MAX",
+   "ocr": "MAX",
+   "es": "MÁX.",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 79,
+   "dejar": true
+  }
+ ]
+}

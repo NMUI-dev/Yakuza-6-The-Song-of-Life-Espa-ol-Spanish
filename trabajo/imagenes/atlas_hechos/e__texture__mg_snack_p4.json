@@ -1,0 +1,59 @@
+{
+ "textura": "e/texture/mg_snack_p4",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    31,
+    6,
+    71,
+    19
+   ],
+   "en": "liverness",
+   "ocr": "Lvelness",
+   "es": "vivacidad",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 40,
+   "dejar": true
+  },
+  {
+   "caja": [
+    223,
+    103,
+    253,
+    116
+   ],
+   "en": "choice",
+   "ocr": "CHECE",
+   "es": "elección",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    178,
+    130,
+    286,
+    148
+   ],
+   "en": "Head over there, Katakeyana-san!",
+   "ocr": "Hed e ereRteyn",
+   "es": "¡Ve allá, Katakeyana-san!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 108,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_05_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    192,
+    63,
+    245,
+    104
+   ],
+   "en": "ya",
+   "ocr": "ya",
+   "es": "y",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    281,
+    66,
+    387,
+    98
+   ],
+   "en": "sainou",
+   "ocr": "sainou",
+   "es": "no hay",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 106,
+   "dejar": true
+  },
+  {
+   "caja": [
+    696,
+    65,
+    745,
+    98
+   ],
+   "en": "na",
+   "ocr": "na",
+   "es": "talento.",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49,
+   "dejar": true
+  }
+ ]
+}

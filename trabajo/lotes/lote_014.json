@@ -1,0 +1,374 @@
+[
+{
+"id": 4194,
+"en": "Jingaicho Central Shopping District\n\nOnce a bustling market during the boom years, this local shopping\nalley now sits quietly with many of the storefronts shuttered.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4195,
+"en": "Haruka Sawamura\n\nThe daughter of Kiryu's first love, Yumi Sawamura. The two met in\n2005 and a father-daughter relationship bloomed as Kiryu risked his\nlife to protect hers.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4196,
+"en": "Daigo Dojima\n\nThe sixth chairman of the Tojo Clan, inducted in 2006. Daigo's road to\nleadership has been rocky, but Kiryu has supported him since he was\na child.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4197,
+"en": "Makoto Date\n\nOnce in charge of Kiryu's murder case in 1995, the two became friends\nafter his release. Date has been a cop, a journalist, and a bartender,\nbut police work runs in his blood.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4198,
+"en": "Shintaro Kazama\n\nThe founder of Sunflower Orphanage, where both Kiryu and Haruka\ngrew up. He was a model yakuza, earning the trust and respect of the\nentire city. Kiryu considered him a father.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4199,
+"en": "Akira Nishikiyama\n\nOnce Kiryu's oath brother, the two were torn apart by Nishiki's ambition\nto claim the Tojo Clan chairmanship. Their relationship ended in blows\nand an explosion atop the Millennium Tower.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4200,
+"en": "Goro Majima\n\nKnown as the Mad Dog of Shimano, his unpredictable nature\nhas made him a force to be reckoned with both in the Tojo\nClan and to Kiryu, his long-time friend and nemesis.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4201,
+"en": "Taiga Saejima\n\nOnce sentenced to death row for the murder of 18 men, this massive\nman became a yakuza legend. After clearing his name, Saejima has\nbeen in and out of prison, escaping whenever the need arises.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4202,
+"en": "The Snake Flower Triad\n\nOnce a prominent foreign crime organization in Kamurocho, they lost\ntheir footing after their leader, Lau Ka Long, was killed by the CIA.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4203,
+"en": "Club Stardust\n\nOnce owned by Kazuki and Yuya, close friends of Kiryu's, this host\nclub has changed ownership and no longer offers Kiryu asylum from\nthe busy streets of the city.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4204,
+"en": "Morning Glory Orphanage\n\nFounded in Okinawa by Kiryu after he retired from the yakuza, this\nbeachfront property is home to eight now-teenage orphans.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4205,
+"en": "Kamurocho\n\nAn area of Tokyo, this red-light district is home to cabaret clubs,\ngambling houses, a thriving nightlife, and all the ills that follow suit.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4206,
+"en": "The Millennium Tower\n\nThe pride of Kamurocho, this skyscraper was built on the blood\nspilled over an empty lot in the late 80s. When the fighting among\nyakuza gets serious, the roof often becomes an arena.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4207,
+"en": "Shangri-La\n\nA derelict \"soapland\" that Kiryu and Haruka infiltrated in 2005\nto gain crucial information. Goro Majima found him though,\ndriving a dump truck through the front doors in an attack.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4208,
+"en": "Taxis\n\nTaxis offer convenient shortcuts to other parts of the city, marked\non your map by a car icon. You can also travel between cities\nwhen the story allows. Get in from the left side.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4209,
+"en": "Green Marks the Spot\n\nDid you know you can create a marker on your map?\nPress <Action=Confirm,UI> on the map to create the marker,\nand a green arrow will appear on your minimap directing you to it.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4210,
+"en": "Sprinting\n\nHold <Action=Run,Adventure> to sprint. Best used in short bursts, it's worth noting\nthat sprinting draws more attention from thugs looking for a fight.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4211,
+"en": "All Things in Moderation\n\nKiryu has been known to enjoy a good drink, but if you overdo it,\nyou'll find it more difficult to walk in a straight line.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4212,
+"en": "Jizo Statues\n\nLining temples and cemeteries across Japan, these small childlike\nstatues are said to protect travelers and children.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4213,
+"en": "Cabaret Clubs\n\nThese popular nightlife spots are frequented by men looking for a\ndrink and a conversation or businessmen taking clients for a fun\nnight out. Sometimes negotiations require a woman's touch.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4214,
+"en": "Salarymen\n\nA term used to describe men who dedicate their lives to a company.\nIt can have a derogatory connotation when used to describe a man who\nhas lost sight of his individuality or been broken by work-related stress.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4215,
+"en": "Before Eating\n\nJapanese people often utter the phrase \"itadakimasu\" while clasping their\nhands together with a short bow before eating. Originating in Buddhism,\nthis practice is grounded in gratitude for the lives of the organisms\nabout to be consumed.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4216,
+"en": "Yubitsume\n\nThe ritual act of cutting off one's finger in repentance or atonement.\nPracticed almost exclusively by the yakuza, it makes it more difficult\nto hold a sword, forcing the perpetrator to act more cautiously.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4217,
+"en": "Pocket Tissues\n\nOften handed out on the streets of Japan, these \"free gifts\" bear\nadvertisements and phone numbers for local clubs and hot spots.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4218,
+"en": "Onigiri\n\nA ball of rice wrapped around various things such as pickled plums, \nsalmon, or other delights, \"onigiri\" are a staple of the Japanese diet.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4219,
+"en": "Tea\n\nThe quintessential Japanese beverage \"ocha\" comes in many varieties,\nsuch as black (oolong), roasted (hoji), rice-infused (genmai), or \neven barley (mugi).",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4220,
+"en": "Vending Machines\n\nThe Japanese \"jido hanbaiki\" is a global marvel, dispensing all sorts of\nconsumable delights, from tea to coffee to beer, in hot and cold varieties!",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4221,
+"en": "Karaoke\n\nA popular pastime that has picked up steam even in Western cultures.\nGroups of friends can reserve a room with a hot mic and belt out all\nthe latest hits and classics.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4222,
+"en": "Cat Cafés\n\nLove cats but can't have one at home? Why not drop by a\ncat café and enjoy coffee, sweets, and amorous kitties?",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4223,
+"en": "Four players compete to be the first to complete a 14-tile hand.\nThis hand is typically composed of 4 groups of 3-tile combinations and 1 pair. \n\nThe point value of a player's hand is determined by the tiles they have collected.\nFor a list of mahjong hands, please refer to Hands. \n\nEach player takes turns drawing and discarding tiles to construct their hand to reach the win condition.\nIn addition to drawing them, players can steal certain tiles that their opponents discard. \n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4224,
+"en": "Basic Rules",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4225,
+"en": "A game of mahjong consists of 136 tiles. There are exactly 4 copies of each tile, resulting in 34 unique tiles. \n<color=mg_relu_topic>Tiles:</color> Numbers 1-9 of 3 different suits: Circles, Bamboo, & Characters\n      4 Wind tiles (East, South, West, North)\n      3 Dragon tiles (White, Green, Red)\n\n\n\n\nThe Wind and Dragon tiles are collectively referred to as honor tiles. \nTiles 1 and 9 of each suit are referred to as terminal tiles.  \n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4226,
+"en": "Game Components",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4227,
+"en": "The three suits are fairly easy to identify:\n\n<color=mg_relu_topic>Circles:</color>",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4228,
+"en": "\n<color=mg_relu_topic>Bamboo:</color>\nThe peacock belongs to the bamboo suit.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4229,
+"en": "<color=mg_relu_topic>Characters:</color>",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4230,
+"en": "Identifying the Tiles",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4231,
+"en": "<color=mg_relu_topic>Winds:</color>\nEast, South, West, North.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4232,
+"en": "<color=mg_relu_topic>Dragons:</color>\nWhite, Green, Red.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4233,
+"en": "<color=mg_relu_topic>Hand:</color>\nThis region contains the tiles you are using to construct your winning hand.\nTiles you want to keep will remain here.   \n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4234,
+"en": "Game Layout",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4235,
+"en": "<color=mg_relu_topic>Discard Area:</color>\nThis region below the player name is the discard area.\nYou can get an idea of the other players' hands by looking at what they discard. \n\n<color=mg_relu_topic>Meld Area:</color>\nThe region to the right of your hand is your meld area. \nSets made from stolen discards are placed here.\nThese tiles are locked and you cannot take them apart to change up your hand.\nRemember, your melds can be seen by everyone!\n\n<color=mg_relu_topic>A Note on Stealing Tiles:</color>\nA hand that has no exposed melds is called a concealed hand. It is generally considered smarter play\nto keep your hand concealed for as long as you can, so melding (stealing) isn't always the right move.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4236,
+"en": "<color=mg_relu_topic>Dealer:</color>\nThe dealer starts off each game, and the position rotates each round. \n\nWhen you win a game as the dealer, you earn more points than usual; conversely, \nif the dealer wins off your discard, you pay more. \nIf you win a hand as the dealer (or if the game ends in a draw),\nyou remain the dealer until another player wins. \n\n<color=mg_relu_topic>Dora:</color>\nIn the center area, there are tiles that represent the dora.\nOnly one is revealed at the start, but more can be flipped to create point bonuses.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4237,
+"en": "The sets you need to collect are divided into chi, pon, and kan:\n\n<color=mg_relu_topic>Chi:</color>\nThree consecutive numbered tiles of the same suit.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4238,
+"en": "<color=mg_relu_topic>Pon:</color>\nThree-of-a-kind of the same tile.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4239,
+"en": "Sets",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4240,
+"en": "<color=mg_relu_topic>Kan:</color>\nFour-of-a-kind of the same tile.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4241,
+"en": "<color=mg_relu_topic>Pair:</color>\nTwo of the same tile.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4242,
+"en": "Mahjong can be overwhelming for new players. Here are a few suggested hands\nto aim for when you're getting started:\n\n<color=mg_relu_topic>All Simples</color>\nSimply discard any tiles that are not 2-8 of a suit. If the rule Kuitan is set, you\nare able to freely steal discards, making this one of the most accessible ways to win.\n\n<color=mg_relu_topic>Dragon Triplet or Prevailing Wind/Seat Wind</color>\nYou can win with any tile combination as long as you have at least one triplet of\na Dragon, one triplet of your seat Wind, or one triplet of the round Wind.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4243,
+"en": "Tips for Beginners",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4244,
+"en": "As you play through a game, you will draw and discard tiles while trying to\nform sets of straights and three-of-a-kinds to meet the win condition.\nSometimes you can steal from others players to reach that goal quicker.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4245,
+"en": "Aim to form 4 sets of three (straights or triplets) and 1 pair.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4246,
+"en": "Completing a Hand",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4247,
+"en": "But do note　that there are alternate win conditions, such as Seven Pairs, or more\nadvanced hands such as Thirteen Orphans, which have higher point values.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4248,
+"en": "Immediately after an opponent discards a tile, you can claim and add it to your hand, creating\na \"meld.\" Melds are divided into <color=mg_relu_topic>pon</color>, <color=mg_relu_topic>chi</color>, and <color=mg_relu_topic>kan</color>, explained on the next page.\n\nSeveral scoring elements are only valid in concealed hands and others are reduced in value when\na player has one or more exposed melds, so remember, steal wisely.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4249,
+"en": "Exposed Melds & Melding (Stealing)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4250,
+"en": "<color=mg_relu_topic>Chi: </color>\nIf an opponent discards a tile that completes a 3-number straight, that\ntile can be claimed and melded to form a set by selecting \"Chi.\" You can only\nsteal a tile from the opponent sitting to your left for this meld.\n\n<color=mg_relu_topic>Pon: </color>\nIf an opponent discards a tile that matches a pair in your hand, that\ntile can be claimed and melded to form a triplet by selecting \"Pon.\"\n\n<color=mg_relu_topic>Kan: </color>\nIf you have a triplet and an opponent discards a fourth matching tile,\nyou can select \"Kan\" to claim it and form an exposed kan. If you have an\nexposed pon and draw the fourth tile, you may select \"Kan\" to upgrade that\npon into a kan. Each time a kan is announced, a new dora (bonus title) is added.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4251,
+"en": "If you manage to draw all 4 of the same tile, you can declare a concealed\nkan. This differs from the normal one in that your hand is still technically\nconcealed, and you reap the benefits of making a kan.\n\n<color=mg_relu_topic>Riichi:</color>\nIf you have a concealed hand that needs only one more tile to win, you \ncan declare \"Riichi\" by paying 1,000 points. However, you will not be able \nto change the tiles in your hand and are forced to discard any draws that \nare not your winning tile.\nThe advantage of declaring Riichi is the potential to increase the value of\nyour hand.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4252,
+"en": "Concealed Kan and Riichi",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4253,
+"en": "Each round of mahjong has a tile representing the dora. By having your hand\nconsist of tiles that correspond to the doras revealed, you can increase the\nvalue of your hand; it can potentially turn a mediocre hand into a high-value\nhand!\n\nThe dora is the indicator's succeeding tile:\n\nDora order is: \n1 > 2 > 3 > 4 > 5 > 6 > 7 > 8 > 9 > 1\nEast > South > West > North > East\nWhite > Green > Red > White",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4254,
+"en": "In this example, the dora is 2 bamboo, since the tile revealed is\nthe 1 bamboo.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4255,
+"en": "There are two ways to complete a hand: ron and tsumo.\n\n<color=mg_relu_topic>Ron</color> (completing a hand by stealing): \nAny time you need one more tile to win, you can claim the current discard if it\ncompletes your hand by selecting \"Ron.\"\n\n<color=mg_relu_topic>Tsumo</color> (completing a hand with a self-drawn tile): \nAny time you need one more tile to win and you draw a tile that completes your hand, \nyou can select \"Tsumo.\"\n\nWhen you win by ron, the opponent who discarded the winning tile pays \nyou the resulting points. When you win by tsumo, your three opponents \npay the resulting points.",
+"ctx": "manual|table/#//#",
+"max": null
+}
+]

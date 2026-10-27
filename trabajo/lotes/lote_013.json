@@ -1,0 +1,2198 @@
+[
+{
+"id": 3828,
+"en": "Beef Bowl (Standard)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3829,
+"en": "Beef Bowl (Large)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3830,
+"en": "Beef Bowl (Extra Large)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3831,
+"en": "Beef Plate",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3832,
+"en": "Miso Soup",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3833,
+"en": "Coleslaw Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3834,
+"en": "Specialty Green Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3835,
+"en": "Ratatouille",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3836,
+"en": "Tournedos Rossini",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3837,
+"en": "Grilled Lobster",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3838,
+"en": "Bouillabaisse",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3839,
+"en": "Oven-baked Chicken Thigh",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3840,
+"en": "Roasted Duck",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3841,
+"en": "Homemade Baguette",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3842,
+"en": "Onomichi Pudding",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3843,
+"en": "Hiyashiame",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3844,
+"en": "Tofu",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3845,
+"en": "Blue Mountain",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3846,
+"en": "Earl Grey Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3847,
+"en": "Strawberry Parfait",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3848,
+"en": "Chocolate Parfait",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3849,
+"en": "Original Beef Curry",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3850,
+"en": "Milk Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3851,
+"en": "Matcha Latte",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3852,
+"en": "Chocolate Cake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3853,
+"en": "Cheesecake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3854,
+"en": "Original Cake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3855,
+"en": "Seasonal Cake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3856,
+"en": "Baguette Sandwich",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3857,
+"en": "Club Sandwich",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3858,
+"en": "Original Bread",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3859,
+"en": "Special Bread",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3860,
+"en": "Tuna Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3861,
+"en": "Braised Pork Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3862,
+"en": "Wild Avocado Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3863,
+"en": "Wild Chicken Sandwich",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3864,
+"en": "Wild Fried Chicken",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3865,
+"en": "Wild Hot Chicken",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3866,
+"en": "Orange Juice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3867,
+"en": "Oolong Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3868,
+"en": "Chashu Rice Bowl",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3869,
+"en": "Special Strawberry Shortcake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3870,
+"en": "Red Wine",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3871,
+"en": "White Wine",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3872,
+"en": "Yamazaki 18 Years Old",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3873,
+"en": "Suntory Old Whisky",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3874,
+"en": "Laphroaig 10 Years Old",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3875,
+"en": "The Premium Malt's",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3876,
+"en": "Suntory Brandy V.S.O.P",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3877,
+"en": "Absolutely Tasty Takoyaki",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3878,
+"en": "Cheese and Spicy Fish Roe",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3879,
+"en": "Welsh Onion Takoyaki",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3880,
+"en": "Sauce Yakisoba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3881,
+"en": "The Premium Malt's Draft",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3882,
+"en": "Fresh Cassis and Orange",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3883,
+"en": "Soba in Hot Broth",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3884,
+"en": "Chilled Soba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3885,
+"en": "Chilled Tanuki Soba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3886,
+"en": "Chilled Kitsune Soba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3887,
+"en": "Egg & Tempura Soba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3888,
+"en": "Special Fuji Soba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3889,
+"en": "Katsudon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3890,
+"en": "Draft Beer (Medium)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3891,
+"en": "Lemon Sour (Medium)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3892,
+"en": "Kyoho Grape Sour",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3893,
+"en": "Fresh Grapefruit Sour (Medium)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3894,
+"en": "Bakuhai",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3895,
+"en": "Gyokuro Green Tea Shochu (Medium)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3896,
+"en": "Kaku Highball",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3897,
+"en": "Cassis Oolong",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3898,
+"en": "Value Sashimi Platter 7 pcs.",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3899,
+"en": "Sashimi Platter 3 pcs.",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3900,
+"en": "Hand-selected Vinegar Mackerel",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3901,
+"en": "Kotchori Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3902,
+"en": "Skewer Platter",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3903,
+"en": "Smelt Fish with Roe",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3904,
+"en": "Salted Yakisoba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3905,
+"en": "Juicy Mince Cutlet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3906,
+"en": "Stir-fried Bean Sprouts",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3907,
+"en": "Nagasaki Champon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3908,
+"en": "Vegetable Champon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3909,
+"en": "Spicy Champon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3910,
+"en": "Nagasaki Saraudon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3911,
+"en": "Vegetable Saraudon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3912,
+"en": "Thick Saraudon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3913,
+"en": "Light Saraudon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3914,
+"en": "Gyoza 5 pcs.",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3915,
+"en": "Choice Chirashi Bowl",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3916,
+"en": "Special Bluefin Tuna Bowl",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3917,
+"en": "Special Sushi Zanmai",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3918,
+"en": "Tuna Zanmai",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3919,
+"en": "Tenderloin Steak 200g",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3920,
+"en": "Rib-eye Steak 300g",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3921,
+"en": "Sirloin Steak 200g",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3922,
+"en": "Original Fried Gyoza",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3923,
+"en": "Soft and Creamy Crab Omelette on Rice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3924,
+"en": "Mixed Fried Rice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3925,
+"en": "Ramen",
+"ctx": "item|name + item|name_for_shop + minigame_cabaret_cabaret|table/#/erina/favorite_food",
+"max": null
+},
+{
+"id": 3926,
+"en": "Sichuan Dandan Noodles",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3927,
+"en": "Chinese Yakisoba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3928,
+"en": "Shrimp in Chili Sauce",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3929,
+"en": "Pork Pepper Steak",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3930,
+"en": "Stir-fried Liver and Onion",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3931,
+"en": "Sweet and Sour Pork",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3932,
+"en": "Twice-cooked Pork",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3933,
+"en": "Mapo Tofu",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3934,
+"en": "Banbanji Chicken Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3935,
+"en": "Sesame Dumplings",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3936,
+"en": "Gold Champagne",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3937,
+"en": "Rosé Champagne",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3938,
+"en": "Black Champagne",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3939,
+"en": "Cassis Orange",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3940,
+"en": "Water",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3941,
+"en": "C.C. Lemon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3942,
+"en": "Dekavita C",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3943,
+"en": "Iyemon Tokucha Green Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3944,
+"en": "Suntory Black Oolong Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3945,
+"en": "Suntory Oolong Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3946,
+"en": "BOSS Rainbow Mountain",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3947,
+"en": "BOSS Light Sugar",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3948,
+"en": "BOSS Black",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3949,
+"en": "GREEN DAKARA",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3950,
+"en": "Suntory Mineral Water (S. Alps)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3951,
+"en": "Suntory Mineral Water (Okudaisen)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3952,
+"en": "Muscle Soda",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3953,
+"en": "Aomidorijiru",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3954,
+"en": "Sukusuku Au Lait",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3955,
+"en": "Sengoku Coffee",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3956,
+"en": "Shoryu Beer",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3957,
+"en": "Kouryu Beer",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3958,
+"en": "Power Drink",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3959,
+"en": "Vitamin C Energy Drink",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3960,
+"en": "Grape (500 ml)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3961,
+"en": "Grape",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3962,
+"en": "Lemon-lime Soda",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3963,
+"en": "White Soda",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3964,
+"en": "Lemon Squash",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3965,
+"en": "Mandarin Orange 100% Juice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3966,
+"en": "Rich Tea (500 ml)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3967,
+"en": "Rich Tea (280 ml)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3968,
+"en": "Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3969,
+"en": "Hoji-cha (500 ml)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3970,
+"en": "Hoji-cha (280 ml)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3971,
+"en": "Genmai-cha (500 ml)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3972,
+"en": "Genmai-cha (280 ml)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3973,
+"en": "Tropical Ultra Melon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3974,
+"en": "Coffee Moca",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3975,
+"en": "Lucky Soda",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3976,
+"en": "Poseidon Power",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3977,
+"en": "Clear Marine",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3978,
+"en": "Forest Meltwater",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3979,
+"en": "Yuzu Chicken & Spinach Soba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3980,
+"en": "Wette Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3981,
+"en": "Wette Egg Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3982,
+"en": "Onion Ring",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3983,
+"en": "Tomato Onion Soup",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3984,
+"en": "Wette Original Coffee",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3985,
+"en": "Iced Lemon Tea",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3986,
+"en": "Imuraya Steamed Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3987,
+"en": "Imuraya Bean Paste Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3988,
+"en": "Imuraya Pizza Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3989,
+"en": "Imuraya Gold Steamed Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3990,
+"en": "Imuraya Gold Pizza Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3991,
+"en": "Beginner Darts",
+"ctx": "item|name + item|name_for_shop + minigame_darts_dart_kind|name",
+"max": null
+},
+{
+"id": 3992,
+"en": "Intermediate Darts",
+"ctx": "item|name + item|name_for_shop + minigame_darts_dart_kind|name",
+"max": null
+},
+{
+"id": 3993,
+"en": "Expert Darts",
+"ctx": "item|name + item|name_for_shop + minigame_darts_dart_kind|name",
+"max": null
+},
+{
+"id": 3994,
+"en": "Paul Lim's Darts",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3995,
+"en": "Homestyle Chicken Cat Food",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3996,
+"en": "Miso Crispy Beef Cat Food",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3997,
+"en": "Fresh Tuna Cat Food",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3998,
+"en": "Cheese Salmon Paté Cat Food",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3999,
+"en": "White Fish and Sardine Cat Food",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4000,
+"en": "Bonito Flake Cat Food",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4001,
+"en": "Gold Tuna Cat Food",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4002,
+"en": "RISINGWAVE Zero Black",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4003,
+"en": "Wild Steak 300g",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4004,
+"en": "Wild Hamburg Steak 300g",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4005,
+"en": "Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4006,
+"en": "Soup",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4007,
+"en": "Uni Ikura Bowl",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4008,
+"en": "Uruoi Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4009,
+"en": "Toritoku Yakitori Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4010,
+"en": "Reduced Sodium Champon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4011,
+"en": "Veggie-filled Soup",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4012,
+"en": "Napolitan Champon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4013,
+"en": "Onomichi Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4014,
+"en": "Large Onomichi Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4015,
+"en": "Chashu Onomichi Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4016,
+"en": "Large Chashu Onomichi Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4017,
+"en": "Chicken Karaage Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4018,
+"en": "Rice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4019,
+"en": "Onigiri (2pcs)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4020,
+"en": "Inari Sushi (2pcs)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4021,
+"en": "Boiled Egg",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4022,
+"en": "Teriyaki and Egg",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4023,
+"en": "Delicious Cheese Pepper",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4024,
+"en": "Octopus and Avocado with Yuzu Pepper",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4025,
+"en": "Spicy Deep-fried Octopus",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4026,
+"en": "Sour Cream Fries",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4027,
+"en": "Cucumber Pot",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4028,
+"en": "The Kaku Highball",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4029,
+"en": "Yamazaki Highball",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4030,
+"en": "Blood Orange Highball",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4031,
+"en": "Jim Beam Highball",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4032,
+"en": "Citrus Lemon Highball",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4033,
+"en": "Oden",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4034,
+"en": "Seaweed Onigiri",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4035,
+"en": "Tuna Onigiri",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4036,
+"en": "Salmon Onigiri",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4037,
+"en": "Bento Lunch Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4038,
+"en": "Special Yakisoba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4039,
+"en": "Bento Lunch Set (Pork)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4040,
+"en": "Healthy Balanced Bento",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4041,
+"en": "Luxury Yakiniku Bento",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4042,
+"en": "Sushi Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4043,
+"en": "Fresh Lettuce Sandwich",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4044,
+"en": "Tuna & Egg Sandwich",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4045,
+"en": "MUSCLE",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4046,
+"en": "FIBAX",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4047,
+"en": "LIMIT+",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4048,
+"en": "BURN+",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4049,
+"en": "QUICK BURNER",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4050,
+"en": "Red Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4051,
+"en": "Blue Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4052,
+"en": "Orange Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4053,
+"en": "Green Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4054,
+"en": "Purple Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4055,
+"en": "Rainbow Bun",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4056,
+"en": "Pocket Tissues",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4057,
+"en": "Beautiful Driftwood",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4058,
+"en": "Small Driftwood",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4059,
+"en": "Large Driftwood",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4060,
+"en": "Decayed Driftwood",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4061,
+"en": "Beautiful Seashell",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4062,
+"en": "Broken Seashell",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4063,
+"en": "Small Seashell",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4064,
+"en": "Trash",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4065,
+"en": "Seaweed",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4066,
+"en": "Prepaid Card",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4067,
+"en": "Ice Cream",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4068,
+"en": "Hakushu 12 Years Old",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4069,
+"en": "Complimentary Vegetables",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4070,
+"en": "Shochu",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4071,
+"en": "Sake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4072,
+"en": "Internet Café Membership Card",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4073,
+"en": "Strength Tome",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4074,
+"en": "Agility Tome",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4075,
+"en": "Technique Tome",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4076,
+"en": "Charm Tome",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4077,
+"en": "Spirit Tome",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4078,
+"en": "Kakubin",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4079,
+"en": "The Premium Malt's Master's Dream",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4080,
+"en": "Super Cup Soy Sauce Chicken Broth",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4081,
+"en": "Super Cup Extra Large Squid Yakisoba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4082,
+"en": "JAN JAN Sauce Yakisoba",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4083,
+"en": "Wakame Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4084,
+"en": "Soup Harusame: Wonton",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4085,
+"en": "Chicken Broth Pho",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4086,
+"en": "Standard Speargun",
+"ctx": "item|name + item|name_for_shop + minigame_spearfishing_speargun|name",
+"max": null
+},
+{
+"id": 4087,
+"en": "High-impact Speargun",
+"ctx": "item|name + item|name_for_shop + minigame_spearfishing_speargun|name",
+"max": null
+},
+{
+"id": 4088,
+"en": "High-capacity Speargun",
+"ctx": "item|name + item|name_for_shop + minigame_spearfishing_speargun|name",
+"max": null
+},
+{
+"id": 4089,
+"en": "Modded Speargun",
+"ctx": "item|name + item|name_for_shop + minigame_spearfishing_speargun|name",
+"max": null
+},
+{
+"id": 4090,
+"en": "Kiwami Speargun",
+"ctx": "item|name + item|name_for_shop + minigame_spearfishing_speargun|name",
+"max": null
+},
+{
+"id": 4091,
+"en": "Ahab's Revenge",
+"ctx": "item|name + item|name_for_shop + minigame_spearfishing_speargun|name",
+"max": null
+},
+{
+"id": 4092,
+"en": "Sora's Business Card",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4093,
+"en": "Hikaru's Business Card",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4094,
+"en": "Riona's Business Card",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4095,
+"en": "Saki's Business Card",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4096,
+"en": "Erina's Business Card",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4097,
+"en": "The Macallan 30 Years Old",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4098,
+"en": "Hibiki 30 Years Old",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4099,
+"en": "Hibiki 17 Years Old",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4100,
+"en": "Ballantine's 30 Years Old",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4101,
+"en": "Platinum Plate",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4102,
+"en": "Gold Plate",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4103,
+"en": "Silver Plate",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4104,
+"en": "Bronze Plate",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4105,
+"en": "Iron Plate",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4106,
+"en": "Paper Plate",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4107,
+"en": "Haruka's Bromide",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4108,
+"en": "Drawing of Haruka",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4109,
+"en": "Cassata",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4110,
+"en": "Ono Michio's CD Sample",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4111,
+"en": "Drawing of Michio",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4112,
+"en": "Poem Picture 1",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4113,
+"en": "Poem Picture 2",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4114,
+"en": "Poem Picture 3",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4115,
+"en": "Poem Picture 4",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4116,
+"en": "Poem Picture 5",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4117,
+"en": "Poem Picture 6",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4118,
+"en": "Poem Picture 7",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4119,
+"en": "Poem Picture 8",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4120,
+"en": "Poem Picture 9",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4121,
+"en": "Memo of the Code",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4122,
+"en": "Selfie Photo 1",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4123,
+"en": "Selfie Photo 2",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4124,
+"en": "Selfie Photo 3",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4125,
+"en": "Safe Key Found on Tenkaichi Street",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4126,
+"en": "Safe Key Found on West Taihei Boulevard",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4127,
+"en": "Safe Key Found at Yoshida Batting Center",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4128,
+"en": "Safe Key Found in Nakamichi Alley",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4129,
+"en": "Safe Key Found on Senryo Avenue",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4130,
+"en": "Safe Key Found at Jingai Ferry Dock",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4131,
+"en": "Safe Key Found on Pedestrian Bridge",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4132,
+"en": "Safe Key Found on Second Hill",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4133,
+"en": "Safe Key Found at Hana-no-kubo",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4134,
+"en": "Safe Key Found at Central Shopping District",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4135,
+"en": "Photo of Osamu Kashiwagi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4136,
+"en": "Photo of Shintaro Kazama",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4137,
+"en": "Photo of Akira Nishikiyama",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4138,
+"en": "Photo of Yoshitaka Mine",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4139,
+"en": "Photo of Sohei Dojima",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4140,
+"en": "Photo of Shinji Tanaka",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4141,
+"en": "Photo of Yumi Sawamura",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4142,
+"en": "Photo of Lau Ka Long",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4143,
+"en": "Photo of Masaru Ihara",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4144,
+"en": "Photo of Yoshinobu Tokugawa",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4145,
+"en": "Beads of Exorcism",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4146,
+"en": "UFO Finder",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4147,
+"en": "Parry Talisman",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4148,
+"en": "War God Talisman",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4149,
+"en": "Staminan Royale (Bonus Item)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 4150,
+"en": "Increases hostess\naffection rate by 5%.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4151,
+"en": "Decreases probability of\ngetting into a fight.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4152,
+"en": "Increases digestion by 10%.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4153,
+"en": "Increases probability of\ngetting into a fight.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4154,
+"en": "Increases Heat gain by 10%\nwhen near death.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4155,
+"en": "Increases digestion by 10%.\nIncreases EXP gain by 10%.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4156,
+"en": "Increases digestion by 30%.\nIncreases EXP gain by 30%.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4157,
+"en": "Allows you to parry\nalmost any attack.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4158,
+"en": "Increases your Heat Gauge\nat all times.",
+"ctx": "item|special_explanation",
+"max": null
+},
+{
+"id": 4159,
+"en": "Onomichi\n\nA small port town in Hiroshima Prefecture in the south of Japan,\nOnomichi is famous for its unique style of ramen. It is also known\nfor the great number of traditional temples in and around the town\nand carved stones engraved with Onomichi-related poems, originally\npenned by various famous Japanese authors.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4160,
+"en": "Aniki\n \nA term that roughly translates to \"big brother,\" often used in\ndeference to a more senior member of a yakuza organization.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4161,
+"en": "Shun Akiyama\n \nFounder of Sky Finance, a Kamurocho-based loan company that\nearned him the nickname \"The Lifeline of Kamurocho.\"",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4162,
+"en": "New Serena\n\nThe second coming of the Serena bar, which closed after the death\nof its original owner, Reina. One of Kiryu and Date's usual haunts.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4163,
+"en": "This demo represents a work in-progress.\nFinal version is subject to change.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4164,
+"en": "Hiroshima Prefecture\n\nNamed for its capital city meaning \"broad island,\" this region of Japan\nis known for its oysters, ocean views, rolling mountains, and its\nbaked treat, the \"momiji manju,\" a type of steamed bun.\n",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4165,
+"en": "The Omi Alliance\n\nThe reigning yakuza faction in the Kansai region, based in\nSotenbori, Osaka. Their power rivals that of the Tojo Clan.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4166,
+"en": "The Tojo Clan\n\nThe reigning yakuza faction over the Kanto region, based in Tokyo.\nWith its senior members in prison, its grip on the territory is waning.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4167,
+"en": "Chairman\n\nThe topmost figure of an entire yakuza organization.\nDaigo Dojima currently serves as the Tojo Clan's sixth chairman.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4168,
+"en": "Patriarch\n\nThe head of a yakuza family, a single group in a yakuza organization.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4169,
+"en": "Captain\n\nA rank reserved for the right-hand man of a patriarch.\nCaptains of larger families often have their own sub-families.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4170,
+"en": "Lieutenant Advisor\n\nA higher-ranking lieutenant, given this term because he has the\near of the captain.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4171,
+"en": "Lieutenant\n\nAn officer of a family with influence over the day-to-day operation and\ncollections. Some lieutenants have sub-families of their own.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4172,
+"en": "Family\n\nA general term for a single yakuza unit, large or small,\nled by a patriarch.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4173,
+"en": "The Dragon of Dojima\n\nThough the Dojima Family itself has long-since faded from existence,\nthe dragon on Kiryu's back earned him this nickname, now legendary\namong yakuza across Japan.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4174,
+"en": "Yakuza - The Meaning\n\nThe word comes from a losing hand in the gambling game oicho-kabu\nand came to be associated with those lost to gambling. Yakuza\nthemselves prefer a word with a more righteous connotation: \"gokudo.\"",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4175,
+"en": "Chinpira\n\nA word that translates roughly to \"punk,\" used to describe\nlow-level yakuza or the street thugs who pick fights with Kiryu.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4176,
+"en": "Kyodai\n\nWhen yakuza swear their oath, they often do so in pairs, tying their\nfates to one another as sworn brothers. It follows that if one succeeds,\nso does the other, and if one fails, the other is brought down with him.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4177,
+"en": "History of the Tojo Clan\n\nDetails are scant about the founder of the Tojo Clan, Makoto Tojo,\nbut it is said he enjoyed Japanese gardens and was known for his\npack of vicious dogs.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4178,
+"en": "History of the Tojo Clan\n\nWith the death of Makoto Tojo and no captain to replace him, Takashi\nNihara stepped in as acting second chairman. The clan secured the\nKamurocho Revitalization Project in 1988 under his leadership.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4179,
+"en": "History of the Tojo Clan\n\nNot long after his promotion to clan captain, Masaru Sera became\nthe third chairman. His political ties led to an era of prosperity, but\nwhen ten billion yen turned up missing, he was assassinated in 2005.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4180,
+"en": "History of the Tojo Clan\n\nWith the Tojo Clan in civil war, the fourth chairman was named in the\nwill of Masaru Sera: Kazuma Kiryu. He was inducted and retired from\nthe role on the same day.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4181,
+"en": "History of the Tojo Clan\n\nKazuma Kiryu passed the chairmanship to the fifth chairman, Yukio\nTerada. But Terada was compromised in a way that nearly led to\nwar with the Jingweon Mafia and the Omi Alliance.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4182,
+"en": "History of the Tojo Clan\n\nWithout a chairman in 2006, the Tojo Clan was held together by\nOsamu Kashiwagi and Sohei Dojima's widow, Yayoi Dojima, until her\nson, Daigo Dojima, became the sixth chairman at Kiryu's insistence.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4183,
+"en": "The Jingweon Mafia\n\nA Korean crime syndicate that was all but eradicated by the Dojima\nFamily in the early 80s but resurfaced in 2006 in a plot to destroy \nthe entire Tojo Clan. They were pushed back by Kazuma Kiryu and\nhis allies.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4184,
+"en": "The Jingweon Massacre\n\nIn the early 1980s, two members of the Dojima Family ambushed\nthis Korean mafia syndicate, killing nearly every member of its\nranks. The Jingweon never forgot and never forgave.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4185,
+"en": "Poem Stones\n\nInspired by Onomichi's natural beauty, many famous poets have had\ntheir verses inscribed on the stones dotting the streets. Pause for\na moment and read them if you spot one.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4186,
+"en": "The Ropeway\n\nWhile visiting Onomichi, one would be remiss not to ride\nthe ropeway on their trip up the hillside to Senkoji Temple.\nMost who visit choose to ride up and walk back down.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4187,
+"en": "Ono Michio\n\nJapanese citizens are instilled with pride in their cities by colorful\nmascot characters, representing a city's unique culture in various\nways. Ono Michio is kind of unofficial.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4188,
+"en": "Seto Inner Sea\n\nThis body of water is nestled between Honshu and Shikoku, providing \nsafe harbor from seasonal typhoons. It has a long history and \nculture based around shipbuilding and fishing.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4189,
+"en": "Mikan\n\nA favorite winter treat in western Japan, the mikan is a small, easy-to-peel\nvariety of tangerine. They are plentiful on the islands off the shore of \nOnomichi.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4190,
+"en": "Onomichi Ramen\n\nEvery region of Japan has its own style of noodles, and Onomichi is\nno different. This ramen is notable for its straight noodles and bits\nof pork fat floating in soy-sauce-based broth.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4191,
+"en": "Jingaicho, Onomichi\n\nQuiet streets lined by the softly glowing signs of snack bars, \nJingaicho is home to numerous dives that service the locals.\nOften run by a single \"mama,\" they cater to clientele looking for\na drink and a conversation.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4192,
+"en": "Senkoji Temple\n\nSaid to have been established over 1200 years ago, this temple is\nperched on a hill overlooking Onomichi and has been the \nsubject of artists and writers since times immemorable.",
+"ctx": "loading_text|text",
+"max": null
+},
+{
+"id": 4193,
+"en": "Hiroshima Oysters\n\nCaught fresh out of the Seto Inner Sea, Hiroshima \"kaki\" are known\nthroughout the country as being some of the finest.\n\n",
+"ctx": "loading_text|text",
+"max": null
+}
+]

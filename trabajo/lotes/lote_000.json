@@ -1,0 +1,2552 @@
+[
+{
+"id": 0,
+"en": "Look",
+"ctx": "access_type|info + ui_text|text",
+"max": null
+},
+{
+"id": 1,
+"en": "Exit",
+"ctx": "access_type|info + msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 2,
+"en": "Stand",
+"ctx": "access_type|info + ui_text|text",
+"max": null
+},
+{
+"id": 3,
+"en": "Bench",
+"ctx": "asset_asset_name|arms_name + ui_text|text",
+"max": null
+},
+{
+"id": 4,
+"en": "Baseball",
+"ctx": "asset_asset_name|arms_name + controller_guide|message + manual|title",
+"max": null
+},
+{
+"id": 5,
+"en": "Quit",
+"ctx": "auth_costume_change|name + ui_text|text",
+"max": null
+},
+{
+"id": 6,
+"en": "What's wrong?",
+"ctx": "auth|cinema_telop/#//# + pause_mail|table/#//# + sound_auth|table/#//# …",
+"max": 15
+},
+{
+"id": 7,
+"en": "PREMIUM ADVENTURE",
+"ctx": "caption|message + title_root|name + ui_text|text",
+"max": null
+},
+{
+"id": 8,
+"en": "Han",
+"ctx": "character_npc_soldier_name_group|table/#//# + minigame_mahjong_string_common|text + msg|table/#//#",
+"max": null
+},
+{
+"id": 9,
+"en": "Shun Akiyama",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 10,
+"en": "Makoto Date",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_mail|name + pause_profile|name",
+"max": null
+},
+{
+"id": 11,
+"en": "Goro Majima",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 12,
+"en": "Taiga Saejima",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 13,
+"en": "Daigo Dojima",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 14,
+"en": "Takumi Someya",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 15,
+"en": "Katsumi Sugai",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 16,
+"en": "Takeru Kurusu",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 17,
+"en": "Tsuneo Iwami",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 18,
+"en": "Kanji Koshimizu",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 19,
+"en": "Koji Masuzoe",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 20,
+"en": "Tsuyoshi Nagumo",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 21,
+"en": "Toru Hirose",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 22,
+"en": "Yuta Usami",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 23,
+"en": "Takaaki Matsunaga",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 24,
+"en": "Naoto Tagashira",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 25,
+"en": "Ino",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 26,
+"en": "Joon-gi Han",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 27,
+"en": "Ed",
+"ctx": "character_npc_soldier_name_group|table/#//# + pause_profile|name",
+"max": null
+},
+{
+"id": 28,
+"en": "Yasuo Sodachi",
+"ctx": "character_npc_soldier_name_group|table/#//# + msg|table/#//#",
+"max": null
+},
+{
+"id": 29,
+"en": "Pocket Circuit Fighter",
+"ctx": "character_npc_soldier_name_group|table/#//# + clan_creator_member|name + msg|table/#//#",
+"max": null
+},
+{
+"id": 30,
+"en": "No",
+"ctx": "character_npc_soldier_name_group|table/#//# + msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 31,
+"en": "Help",
+"ctx": "clan_creator_main_menu|name + ui_text|text",
+"max": null
+},
+{
+"id": 32,
+"en": "Strike Team",
+"ctx": "clan_creator_main_menu|name + ui_text|text",
+"max": null
+},
+{
+"id": 33,
+"en": "Defense Force",
+"ctx": "clan_creator_main_menu|name + ui_text|text",
+"max": null
+},
+{
+"id": 34,
+"en": "Back",
+"ctx": "clan_creator_main_menu|name + controller_guide|buttons/#//# + msg|table/#//# …",
+"max": null
+},
+{
+"id": 35,
+"en": "Sodachi",
+"ctx": "clan_creator_member|name + pause_mail|name",
+"max": null
+},
+{
+"id": 36,
+"en": "Bartender",
+"ctx": "clan_creator_member|name + pause_mail|name",
+"max": null
+},
+{
+"id": 37,
+"en": "Saigo",
+"ctx": "clan_creator_member|name + pause_mail|name",
+"max": null
+},
+{
+"id": 38,
+"en": "Amon",
+"ctx": "clan_creator_member|name + pause_mail|name",
+"max": null
+},
+{
+"id": 39,
+"en": "Chairman",
+"ctx": "clan_creator_organization_position|name + ui_text|text",
+"max": null
+},
+{
+"id": 40,
+"en": "Captain",
+"ctx": "clan_creator_organization_position|name + ui_text|text",
+"max": null
+},
+{
+"id": 41,
+"en": "Lieutenant",
+"ctx": "clan_creator_organization_position|name + ui_text|text",
+"max": null
+},
+{
+"id": 42,
+"en": "Soldier",
+"ctx": "clan_creator_organization_position|name + ui_text|text",
+"max": null
+},
+{
+"id": 43,
+"en": "Chief of HQ",
+"ctx": "clan_creator_organization_position|name + ui_text|text",
+"max": null
+},
+{
+"id": 44,
+"en": "Lieutenant Advisor",
+"ctx": "clan_creator_organization_position|name + ui_text|text",
+"max": null
+},
+{
+"id": 45,
+"en": "Adventure",
+"ctx": "complete_category|name + qloc_qloc_gamestates|name + ui_text|text",
+"max": null
+},
+{
+"id": 46,
+"en": "Battle",
+"ctx": "complete_category|name + qloc_qloc_gamestates|name + ui_text|text",
+"max": null
+},
+{
+"id": 47,
+"en": "Substories",
+"ctx": "complete_category|name + ui_text|text",
+"max": null
+},
+{
+"id": 48,
+"en": "Minigames",
+"ctx": "complete_category|name + ui_text|text",
+"max": null
+},
+{
+"id": 49,
+"en": "Clan Creator",
+"ctx": "complete_category|name + ui_text|text",
+"max": null
+},
+{
+"id": 50,
+"en": "Bench Press",
+"ctx": "complete_checklist|table/#/benchpress/# + manual|title + manual|table/#//# …",
+"max": null
+},
+{
+"id": 51,
+"en": "BRAND NEW STAGE",
+"ctx": "complete_checklist|table/#/bran_new_stage/# + msg|table/#//#",
+"max": null
+},
+{
+"id": 52,
+"en": "A Danger to Dating",
+"ctx": "complete_checklist|table/#/cupple/# + instant_mission_kind|title + mission_kind|title …",
+"max": null
+},
+{
+"id": 53,
+"en": "Deadlifts",
+"ctx": "complete_checklist|table/#/deadlift/# + controller_guide|message + manual|table/#//# …",
+"max": null
+},
+{
+"id": 54,
+"en": "Gen-san",
+"ctx": "complete_checklist|table/#/gensan/# + minigame_sandlot_baseball_player|family_name + minigame_snack_character_info|name …",
+"max": null
+},
+{
+"id": 55,
+"en": "Today is a Diamond",
+"ctx": "complete_checklist|table/#/honjitsu_ha_daiamond/# + msg|table/#//#",
+"max": null
+},
+{
+"id": 56,
+"en": "Medium",
+"ctx": "complete_checklist|table/#/intermediate/# + option|subtable/#/quality_med/name + option|subtable/#/texture_quality_med/name …",
+"max": null
+},
+{
+"id": 57,
+"en": "Lat Pulldowns",
+"ctx": "complete_checklist|table/#/latpulldown/# + controller_guide|message + manual|title …",
+"max": null
+},
+{
+"id": 58,
+"en": "Azure Coast",
+"ctx": "complete_checklist|table/#/level1_1/# + minigame_spearfishing_course_data|name + ui_text|text",
+"max": null
+},
+{
+"id": 59,
+"en": "Sunken Labyrinth",
+"ctx": "complete_checklist|table/#/level1_2/# + minigame_spearfishing_course_data|name + ui_text|text",
+"max": null
+},
+{
+"id": 60,
+"en": "Dragon's Den",
+"ctx": "complete_checklist|table/#/level1_3/# + minigame_spearfishing_course_data|name + ui_text|text",
+"max": null
+},
+{
+"id": 61,
+"en": "Like a Butterfly",
+"ctx": "complete_checklist|table/#/like_a_butterfly/# + msg|table/#//#",
+"max": null
+},
+{
+"id": 62,
+"en": "Keeping the Peace",
+"ctx": "complete_checklist|table/#/linch/# + instant_mission_kind|title + mission_kind|title …",
+"max": null
+},
+{
+"id": 63,
+"en": "Easy",
+"ctx": "complete_checklist|table/#/rookie/# + option|subtable/#/easy/name",
+"max": null
+},
+{
+"id": 64,
+"en": "Seated Row",
+"ctx": "complete_checklist|table/#/seatedrowing/# + controller_guide|message + manual|title …",
+"max": null
+},
+{
+"id": 65,
+"en": "Squats",
+"ctx": "complete_checklist|table/#/squat/# + controller_guide|message + manual|title …",
+"max": null
+},
+{
+"id": 66,
+"en": "Jump Squats",
+"ctx": "complete_checklist|table/#/squatjump/# + controller_guide|message + manual|title …",
+"max": null
+},
+{
+"id": 67,
+"en": "Hard",
+"ctx": "complete_checklist|table/#/veteran/# + option|subtable/#/hard/name",
+"max": null
+},
+{
+"id": 68,
+"en": "Fork in the Road",
+"ctx": "complete_checklist|table/#/y_ji_road/# + msg|table/#//#",
+"max": null
+},
+{
+"id": 69,
+"en": "Extreme Heat Mode",
+"ctx": "controller_guide|buttons/#//# + pause_mail|table/#//# + pause_tutorial|title …",
+"max": null
+},
+{
+"id": 70,
+"en": "Reset Camera / Disable Heat Actions",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 71,
+"en": "Guard / Change Grab Type",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 72,
+"en": "Fighting Stance",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 73,
+"en": "Strong Attack / Heat Action",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 74,
+"en": "Weak Attack",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 75,
+"en": "Grab / Throw",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 76,
+"en": "Quickstep / Sprint (Outside of Battle)",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 77,
+"en": "Move Camera",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 78,
+"en": "Move",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 79,
+"en": "First Person View (Outside of Battle)",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 80,
+"en": "Take Out Camera (Outside of Battle)",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 81,
+"en": "Drop Weapon",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 82,
+"en": "Check Inbox (Outside of Battle)",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 83,
+"en": "Open Troublr (Outside of Battle)",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 84,
+"en": "View Map",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 85,
+"en": "Open Pause Menu",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 86,
+"en": "Pause / Quit",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 87,
+"en": "View Controls",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name + ui_text|text",
+"max": null
+},
+{
+"id": 88,
+"en": "Select Tile",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 89,
+"en": "Check Discard",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 90,
+"en": "View Tutorial",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 91,
+"en": "Toggle Command Display",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 92,
+"en": "Cancel",
+"ctx": "controller_guide|buttons/#//# + minigame_mahjong_string_common|text + msg|table/#//# …",
+"max": 63
+},
+{
+"id": 93,
+"en": "Confirm",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name + ui_text|text",
+"max": null
+},
+{
+"id": 94,
+"en": "Move Cursor",
+"ctx": "controller_guide|buttons/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 95,
+"en": "Shoot",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 96,
+"en": "Reload",
+"ctx": "controller_guide|buttons/#//# + manual|table/#//# + qloc_qloc_binding_actions|name …",
+"max": null
+},
+{
+"id": 97,
+"en": "Pause / Quit\nTouch to Move Swing Cursor\nRelease to Swing Bat",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 98,
+"en": "Move Swing Cursor",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 99,
+"en": "Rules",
+"ctx": "controller_guide|buttons/#//# + minigame_mahjong_string_common|text + qloc_qloc_binding_actions|name …",
+"max": null
+},
+{
+"id": 100,
+"en": "Swing Bat\nConfirm",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 101,
+"en": "Change Game Speed",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 102,
+"en": "Substitute Players",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 103,
+"en": "Select a Card",
+"ctx": "controller_guide|buttons/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 104,
+"en": "Check Profile",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 105,
+"en": "Exchange Cards",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 106,
+"en": "Throw / Select",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 107,
+"en": "Move Camera (On Opponent's Turn)",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 108,
+"en": "Press Rapidly to Raise Barbell",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 109,
+"en": "Squat",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 110,
+"en": "Mash to Lift",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 111,
+"en": "Jump Squat",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 112,
+"en": "Press the L1 and R1 buttons at\nthe same time to raise/lower bar",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 113,
+"en": "Hold to Increase Gauge\nRelease to Stop Gauge",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 114,
+"en": "Select Unit",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 115,
+"en": "Skill Activation",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 116,
+"en": "Snap to Selected Leader",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 117,
+"en": "Increase Cursor Speed",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 118,
+"en": "Deploy Unit / Move Leader",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 119,
+"en": "Press / Rapid Press / Hold to Sing",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 120,
+"en": "Controls",
+"ctx": "controller_guide|buttons/#//# + pause_others|name + ui_text|text",
+"max": null
+},
+{
+"id": 121,
+"en": "Press <symbol=vf5_key_arrow_n8> on both the left\nand right sticks to raise Haruto up",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 122,
+"en": "Head Rub",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 123,
+"en": "Pacify Haruto by shaking the controller up/down and left/right.",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 124,
+"en": "Throw Money",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 125,
+"en": "Stop Right Reel",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 126,
+"en": "Stop Left Reel",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 127,
+"en": "Enter Message",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 128,
+"en": "Start the Game\nView Controls",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 129,
+"en": "Toggle Screen Options",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 130,
+"en": "Add Credit",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 131,
+"en": "Shoot / Select Parts",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 132,
+"en": "Bomb / Select Parts",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 133,
+"en": "Rapid Fire",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 134,
+"en": "Rapid Bombs",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 135,
+"en": "Turbo",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 136,
+"en": "Accelerate / Confirm",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 137,
+"en": "Brake",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 138,
+"en": "Steering Wheel",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 139,
+"en": "Change Gears",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 140,
+"en": "Add Credit / Controls",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 141,
+"en": "Move Harrier",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 142,
+"en": "Invert Y-axis",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 143,
+"en": "Shoot / Confirm",
+"ctx": "controller_guide|buttons/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 144,
+"en": "Display Skill",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 145,
+"en": "Remove",
+"ctx": "controller_guide|buttons/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 146,
+"en": "Swap",
+"ctx": "controller_guide|buttons/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 147,
+"en": "Interject",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 148,
+"en": "Maracas",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 149,
+"en": "Tambourine",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 150,
+"en": "Clap",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 151,
+"en": "Select Response",
+"ctx": "controller_guide|buttons/#//#",
+"max": null
+},
+{
+"id": 152,
+"en": "How to Play",
+"ctx": "controller_guide|message + manual|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 153,
+"en": "Mahjong",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 154,
+"en": "Spearfishing",
+"ctx": "controller_guide|message + manual|title + map_place|name",
+"max": null
+},
+{
+"id": 155,
+"en": "Batting Center",
+"ctx": "controller_guide|message + manual|title",
+"max": null
+},
+{
+"id": 156,
+"en": "New Gaudi",
+"ctx": "controller_guide|message + map_place|name + shop|name",
+"max": null
+},
+{
+"id": 157,
+"en": "Cabaret Club",
+"ctx": "controller_guide|message + manual|title",
+"max": null
+},
+{
+"id": 158,
+"en": "Darts",
+"ctx": "controller_guide|message + manual|title + manual|table/#//# …",
+"max": 63
+},
+{
+"id": 159,
+"en": "Bench Presses",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 160,
+"en": "Clan Creator Battles",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 161,
+"en": "Karaoke",
+"ctx": "controller_guide|message + manual|title + minigame_snack_character_info|name …",
+"max": 63
+},
+{
+"id": 162,
+"en": "Calming Haruto",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 163,
+"en": "Donation Box",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 164,
+"en": "Live Chat",
+"ctx": "controller_guide|message + manual|title + ui_text|text",
+"max": null
+},
+{
+"id": 165,
+"en": "Fantasy Zone",
+"ctx": "controller_guide|message + manual|title",
+"max": null
+},
+{
+"id": 166,
+"en": "Super Hang-On",
+"ctx": "controller_guide|message + manual|title",
+"max": null
+},
+{
+"id": 167,
+"en": "Out Run",
+"ctx": "controller_guide|message + manual|title",
+"max": null
+},
+{
+"id": 168,
+"en": "Space Harrier",
+"ctx": "controller_guide|message + manual|title",
+"max": null
+},
+{
+"id": 169,
+"en": "Clan Creator Menu",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 170,
+"en": "Karaoke Interjections",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 171,
+"en": "New Gaudi Conversation Events",
+"ctx": "controller_guide|message",
+"max": null
+},
+{
+"id": 172,
+"en": "None",
+"ctx": "item|special_explanation + minigame_vf5_key_set|name + msg|table/#//# …",
+"max": null
+},
+{
+"id": 173,
+"en": "Dora",
+"ctx": "manual|table/#//# + minigame_mahjong_string_common|text + minigame_mahjong_string_yaku|text …",
+"max": null
+},
+{
+"id": 174,
+"en": "Points",
+"ctx": "manual|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 175,
+"en": "Heat Mode",
+"ctx": "manual|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 176,
+"en": "Virtua Fighter 5 Final Showdown",
+"ctx": "manual|title + title_root|name",
+"max": null
+},
+{
+"id": 177,
+"en": "Puyo Puyo",
+"ctx": "manual|title + title_root|name",
+"max": null
+},
+{
+"id": 178,
+"en": "Beginner",
+"ctx": "minigame_batting_center_course|difficulty + minigame_cabaret_cabaret|table/#/none/name + ui_text|text",
+"max": null
+},
+{
+"id": 179,
+"en": "Intermediate",
+"ctx": "minigame_batting_center_course|difficulty + ui_text|text",
+"max": null
+},
+{
+"id": 180,
+"en": "Advanced",
+"ctx": "minigame_batting_center_course|difficulty + option|name + ui_text|text",
+"max": null
+},
+{
+"id": 181,
+"en": "Expert",
+"ctx": "minigame_batting_center_course|difficulty + ui_text|text",
+"max": null
+},
+{
+"id": 182,
+"en": "Score",
+"ctx": "minigame_batting_center_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 183,
+"en": "Score:",
+"ctx": "minigame_batting_center_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 184,
+"en": "Runs",
+"ctx": "minigame_batting_center_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 185,
+"en": "Home Runs",
+"ctx": "minigame_batting_center_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 186,
+"en": "Slider",
+"ctx": "minigame_batting_center_type_of_pitch|name + ui_text|text",
+"max": null
+},
+{
+"id": 187,
+"en": "Sinker",
+"ctx": "minigame_batting_center_type_of_pitch|name + ui_text|text",
+"max": null
+},
+{
+"id": 188,
+"en": "Curveball",
+"ctx": "minigame_batting_center_type_of_pitch|name + ui_text|text",
+"max": null
+},
+{
+"id": 189,
+"en": "Forkball",
+"ctx": "minigame_batting_center_type_of_pitch|name + ui_text|text",
+"max": null
+},
+{
+"id": 190,
+"en": "Shootball",
+"ctx": "minigame_batting_center_type_of_pitch|name + ui_text|text",
+"max": null
+},
+{
+"id": 191,
+"en": "Erina",
+"ctx": "minigame_cabaret_cabaret|table/#/erina/select_name + minigame_darts_rival|name + msg|table/#//# …",
+"max": null
+},
+{
+"id": 192,
+"en": "Hikaru",
+"ctx": "minigame_cabaret_cabaret|table/#/hikaru/select_name + minigame_darts_rival|name + msg|table/#//# …",
+"max": null
+},
+{
+"id": 193,
+"en": "Riona",
+"ctx": "minigame_cabaret_cabaret|table/#/riona/select_name + minigame_darts_rival|name + msg|table/#//# …",
+"max": null
+},
+{
+"id": 194,
+"en": "Saki",
+"ctx": "minigame_cabaret_cabaret|table/#/saki/select_name + minigame_darts_rival|name + msg|table/#//# …",
+"max": null
+},
+{
+"id": 195,
+"en": "Sora",
+"ctx": "minigame_cabaret_cabaret|table/#/sora/select_name + minigame_darts_rival|name + msg|table/#//# …",
+"max": null
+},
+{
+"id": 196,
+"en": "Mama",
+"ctx": "minigame_darts_rival|name + minigame_snack_character_info|name + sound_auth|table/#//# …",
+"max": null
+},
+{
+"id": 197,
+"en": "Ando-san",
+"ctx": "minigame_darts_rival|name + minigame_snack_character_info|name + sound_auth|table/#//# …",
+"max": null
+},
+{
+"id": 198,
+"en": "Leave",
+"ctx": "minigame_live_chat_message|text + msg|table/#//#",
+"max": null
+},
+{
+"id": 199,
+"en": "Rank",
+"ctx": "minigame_mahjong_string_common|text + ui_text|text",
+"max": null
+},
+{
+"id": 200,
+"en": "Ura-Dora",
+"ctx": "minigame_mahjong_string_common|text + ui_text|text",
+"max": null
+},
+{
+"id": 201,
+"en": "Quit Game",
+"ctx": "minigame_mahjong_string_mainmenu|text + pause_others|name",
+"max": null
+},
+{
+"id": 202,
+"en": "Kuitan",
+"ctx": "minigame_mahjong_string_setting|text + ui_text|text",
+"max": null
+},
+{
+"id": 203,
+"en": "Two Han Minimum",
+"ctx": "minigame_mahjong_string_setting|text + ui_text|text",
+"max": null
+},
+{
+"id": 204,
+"en": "Red Dora",
+"ctx": "minigame_mahjong_string_setting|text + ui_text|text",
+"max": null
+},
+{
+"id": 205,
+"en": "All",
+"ctx": "minigame_offertory_box_slot_item|message + ui_text|text",
+"max": null
+},
+{
+"id": 206,
+"en": "Attack",
+"ctx": "minigame_offertory_box_slot_item|message + player_ability|name + player_point|title …",
+"max": null
+},
+{
+"id": 207,
+"en": "Defense",
+"ctx": "minigame_offertory_box_slot_item|message + player_ability|name + player_point|title …",
+"max": null
+},
+{
+"id": 208,
+"en": "Stamina",
+"ctx": "minigame_offertory_box_slot_item|message + player_ability|name + player_point|title …",
+"max": null
+},
+{
+"id": 209,
+"en": "SS",
+"ctx": "minigame_sandlot_baseball_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 210,
+"en": "HR",
+"ctx": "minigame_sandlot_baseball_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 211,
+"en": "BB",
+"ctx": "minigame_sandlot_baseball_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 212,
+"en": "Next",
+"ctx": "minigame_sandlot_baseball_message|text + msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 213,
+"en": "Manual",
+"ctx": "minigame_sandlot_baseball_message|text + msg|table/#//#",
+"max": null
+},
+{
+"id": 214,
+"en": "Auto",
+"ctx": "minigame_sandlot_baseball_message|text + option|subtable/#/auto/name",
+"max": null
+},
+{
+"id": 215,
+"en": "OF",
+"ctx": "minigame_sandlot_baseball_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 216,
+"en": "Wins",
+"ctx": "minigame_sandlot_baseball_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 217,
+"en": "Starting Lineup",
+"ctx": "minigame_sandlot_baseball_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 218,
+"en": "Player",
+"ctx": "minigame_sandlot_baseball_message|text + ui_text|text",
+"max": null
+},
+{
+"id": 219,
+"en": "Kiryu",
+"ctx": "minigame_sandlot_baseball_player|family_name + msg|table/#//# + player|name …",
+"max": 31
+},
+{
+"id": 220,
+"en": "Setouchi Warriors",
+"ctx": "minigame_sandlot_baseball_team_id|name + ui_text|text",
+"max": null
+},
+{
+"id": 221,
+"en": "Onomichi",
+"ctx": "minigame_sandlot_baseball_team_id|name_initial + ui_text|text",
+"max": null
+},
+{
+"id": 222,
+"en": "Hatakeyama-san",
+"ctx": "minigame_snack_character_info|name + sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_etc|# …",
+"max": null
+},
+{
+"id": 223,
+"en": "Akiyoshi-san",
+"ctx": "minigame_snack_character_info|name + sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_etc|# …",
+"max": null
+},
+{
+"id": 224,
+"en": "Kaneko-san",
+"ctx": "minigame_snack_character_info|name + sound_auth|table/#//# + sound_auth_subtitles_speech_list_snack_etc|# …",
+"max": null
+},
+{
+"id": 225,
+"en": "Unknown",
+"ctx": "minigame_snack_rank|rank_title + ui_text|text",
+"max": null
+},
+{
+"id": 226,
+"en": "Occasional Customer",
+"ctx": "minigame_snack_rank|rank_title + ui_text|text",
+"max": null
+},
+{
+"id": 227,
+"en": "Frequent Customer",
+"ctx": "minigame_snack_rank|rank_title + ui_text|text",
+"max": null
+},
+{
+"id": 228,
+"en": "Regular Customer",
+"ctx": "minigame_snack_rank|rank_title + ui_text|text",
+"max": null
+},
+{
+"id": 229,
+"en": "Beloved Customer",
+"ctx": "minigame_snack_rank|rank_title + ui_text|text",
+"max": null
+},
+{
+"id": 230,
+"en": "King of New Gaudi",
+"ctx": "minigame_snack_rank|rank_title + ui_text|text",
+"max": null
+},
+{
+"id": 231,
+"en": "<symbol=vf5_key_p>",
+"ctx": "minigame_vf5_key_set|name + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 232,
+"en": "<symbol=vf5_key_g>",
+"ctx": "minigame_vf5_key_set|name + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 233,
+"en": "You don't have enough money.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 234,
+"en": "RESULT",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 235,
+"en": "Confirm your order?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 236,
+"en": "Cancel your order?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 237,
+"en": "Purchase",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 238,
+"en": "Order",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 239,
+"en": "You cannot choose any more.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 240,
+"en": "Kiryu will be full if he eats any more. Eating while\nfull will replenish health, but will not grant\nextra effects like EXP or bonuses from menu\ncombinations.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 241,
+"en": "Please select a product.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 242,
+"en": "Purchase the ${item_name}?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 243,
+"en": "Sell",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 244,
+"en": "Proceed with purchase?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 245,
+"en": "Proceed with sale?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 246,
+"en": "You cannot buy items with a full inventory.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 247,
+"en": "Cancel your purchase?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 248,
+"en": "Cancel your sale?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 249,
+"en": "You have no more to sell.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 250,
+"en": "(I can't drink another drop...)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 251,
+"en": "Do you want to continue?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 252,
+"en": "Yes",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 253,
+"en": "Return to Title",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 254,
+"en": "Load Save Data",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 255,
+"en": "Exit Game",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 256,
+"en": "Continue on Easy difficulty?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 257,
+"en": "Defeat the enemy with <symbol=button_r2,Combat> Extreme Heat Mode!",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 258,
+"en": "Quit the game?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 259,
+"en": "OK",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 260,
+"en": "Forward",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 261,
+"en": "Previous",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 262,
+"en": "Close",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 263,
+"en": "Reset to default game settings? (Excludes Difficulty)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 264,
+"en": "Reset to default audio settings?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 265,
+"en": "Reset to default game settings?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 266,
+"en": "Reset to default graphics settings?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 267,
+"en": "Save current graphics settings?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 268,
+"en": "Reset to default settings?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 269,
+"en": "[Press a key...]",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 270,
+"en": "[Press a button...]",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 271,
+"en": "[Press a button or move analog stick...]",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 272,
+"en": "Keyboard & Mouse",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 273,
+"en": "Controller",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 274,
+"en": "Controller Sensitivity",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 275,
+"en": "Mouse Sensitivity",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 276,
+"en": "Do you want to leave the settings with unsaved changes?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 277,
+"en": "Save current graphics settings?\n${timer}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 278,
+"en": "Controller Vibration",
+"ctx": "msg|table/#//# + option|name",
+"max": null
+},
+{
+"id": 279,
+"en": "On",
+"ctx": "msg|table/#//# + option|subtable/#/enabled/name + option|subtable/#/hud_enabled_on/name …",
+"max": null
+},
+{
+"id": 280,
+"en": "Off",
+"ctx": "msg|table/#//# + option|subtable/#/disabled/name + option|subtable/#/hud_enabled_off/name …",
+"max": null
+},
+{
+"id": 281,
+"en": "Mouse Cursor",
+"ctx": "msg|table/#//# + option|name",
+"max": null
+},
+{
+"id": 282,
+"en": "Game Cursor",
+"ctx": "msg|table/#//# + option|subtable/#/mouse_cursor_game/name",
+"max": null
+},
+{
+"id": 283,
+"en": "System Cursor",
+"ctx": "msg|table/#//# + option|subtable/#/mouse_cursor_system/name",
+"max": null
+},
+{
+"id": 284,
+"en": "Quit and return to the title screen?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 285,
+"en": "If you have not saved manually, it is\nrecommended that you do so in order\nto avoid losing any progress. Continue?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 286,
+"en": "No mission currently in progress.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 287,
+"en": "${name}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 288,
+"en": "Learn skill?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 289,
+"en": "Health recovered by ${reconver_point}.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 290,
+"en": "Use ${item_name}?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 291,
+"en": "You've already learned this skill.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 292,
+"en": "Delete this image?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 293,
+"en": "You don't have enough EXP.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 294,
+"en": "Your inbox is empty.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 295,
+"en": "Hand over the ${item_name}?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 296,
+"en": "Skip?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 297,
+"en": "You have nothing to equip.\nAcquire equipment at shops or as rewards.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 298,
+"en": "You can't raise this stat any further.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 299,
+"en": "This skill is not unlocked yet.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 300,
+"en": "${value} km",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 301,
+"en": "${value}0,000 yen",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 302,
+"en": "${value} yen",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 303,
+"en": "Are you sure?",
+"ctx": "msg|table/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|# …",
+"max": 15
+},
+{
+"id": 304,
+"en": "You can purchase skills in the full game.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 305,
+"en": "This is the max level for the demo.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 306,
+"en": "Are you sure you want to use ${item_name}?\n(Kiryu is too full to gain EXP.)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 307,
+"en": "You are currently at full health.\nAre you sure you want to use ${item_name}?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 308,
+"en": "You are currently at full health.\nAre you sure you want to use ${item_name}?\n(Kiryu is too full to gain EXP.)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 309,
+"en": "Your Heat Gauge is currently full.\nAre you sure you want to use ${item_name}?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 310,
+"en": "Your Heat Gauge is currently full.\nAre you sure you want to use ${item_name}?\n(Kiryu is too full to gain EXP.)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 311,
+"en": "You are currently at full health and Heat.\nAre you sure you want to use ${item_name}?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 312,
+"en": "You are currently at full health and Heat.\nAre you sure you want to use ${item_name}?\n(Kiryu is too full to gain EXP.)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 313,
+"en": "Heat cannot be replenished while in Extreme Heat Mode.\nAre you sure you want to use ${item_name}?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 314,
+"en": "Heat cannot be replenished while in Extreme Heat Mode.\nAre you sure you want to use ${item_name}?\n(Kiryu is too full to gain EXP.)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 315,
+"en": "You are currently at full health.\nAre you sure you want to use ${item_name}?\n(Heat cannot be replenished while in Extreme Heat Mode.)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 316,
+"en": "Your inventory is full.",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 317,
+"en": "The controller was disconnected.\nPlease reconnect it or use a different controller to resume playing.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 318,
+"en": "The keyboard or mouse was disconnected.\nPlease reconnect it to resume playing.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 319,
+"en": "If you have not saved manually, it is\nrecommended that you do so in order\nto avoid losing any progress.\nPress ALT+F4 again to quit, press any other key to go back to game",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 320,
+"en": "YAKUZA 6: The Song of Life",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 321,
+"en": "System Data",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 322,
+"en": "${title} system data.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 323,
+"en": "${save_id} ${chapter_title}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 324,
+"en": "Difficulty: ${difficulty}\n                                 Total Play Time: ${play_time}\n                                 Money: ${money}\n[Stats]                    Overall: ${abillity_total}\n                                 Stats: ${abillity_skill_base}\n                                 Health: ${abillity_hit_point}\n                                 Attack: ${abillity_attack}\n                                 Defense: ${abillity_defence}\n                                 Evasion: ${abillity_agility}\n                                 Heat Gauge: ${abillity_heat_gauge}\n                                 Battle Skills: ${abillity_skill_battle}\n                                 Heat Actions: ${abillity_skill_heat}\n                                 Other Skills: ${abillity_skill_other}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 325,
+"en": "New Save Data",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 326,
+"en": "Could not save data. Continue without saving?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 327,
+"en": "Unused",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 328,
+"en": "In order to load this save data, the game must be fully installed.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 329,
+"en": "Use this save file to start a new game? Select \"No\" to continue\nexploring the world at your leisure.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 330,
+"en": "This game uses an autosave feature. When the autosave icon is displayed,\nplease do not quit the game or turn power off.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 331,
+"en": "This save data is not compatible with the trial version.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 332,
+"en": "Difficulty",
+"ctx": "msg|table/#//# + option|name + ui_text|text",
+"max": null
+},
+{
+"id": 333,
+"en": "Play Time",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 334,
+"en": "Date",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 335,
+"en": "Autosave",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 336,
+"en": "Create New",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 337,
+"en": "Unsaved data will be lost. Are you sure?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 338,
+"en": "Do you want to save? Content will be lost if overwritting.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 339,
+"en": "Are you sure you want to delete this data?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 340,
+"en": "Load",
+"ctx": "msg|table/#//# + pause_others|name",
+"max": null
+},
+{
+"id": 341,
+"en": "Save",
+"ctx": "msg|table/#//# + pause_others|name + ui_text|text",
+"max": null
+},
+{
+"id": 342,
+"en": "Return",
+"ctx": "msg|table/#//# + qloc_qloc_binding_actions|name + ui_text|text …",
+"max": 63
+},
+{
+"id": 343,
+"en": "Delete",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 344,
+"en": "Failed to load data!",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 345,
+"en": "Saving is complete.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 346,
+"en": "Failed to save data!",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 347,
+"en": "Failed to save data! Not enough space!",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 348,
+"en": "Data deleted",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 349,
+"en": "Failed to delete",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 350,
+"en": "Autosave complete",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 351,
+"en": "Exit minigame?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 352,
+"en": "Are you sure you want to exit the minigame?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 353,
+"en": "Drank ${item_name}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 354,
+"en": "Relaxed with cats",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 355,
+"en": "Made some gains",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 356,
+"en": "The training results are clear",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 357,
+"en": "Clan Creator victory",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 358,
+"en": "Obtained EXP",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 359,
+"en": "${number}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 360,
+"en": "TONIGHT",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 361,
+"en": "Kiwami Kazumasa",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 362,
+"en": "Lee Ree",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 363,
+"en": "Ryo Kojima",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 364,
+"en": "Chiba Hiro",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 365,
+"en": "J-Fan",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 366,
+"en": "San Du'fur",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 367,
+"en": "Matsushita@Congrats on Marriage",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 368,
+"en": "Yuzo Wada",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 369,
+"en": "Kakegaenai kono hibi wo...",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 370,
+"en": "Yoku ni obore wana ni hamari",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 371,
+"en": "Eien ni kawaranai no ka",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 372,
+"en": "Saenai michigusa kirei to hirotta",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 373,
+"en": "Muchuu de tsuranuita itsuwari no JUSTICE",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 374,
+"en": "Shinya ni ji kinitsu na LOOP",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 375,
+"en": "Do you want to quit karaoke?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 376,
+"en": "There are no missions at this time.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 377,
+"en": "Level up?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 378,
+"en": "Lv. ${level}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 379,
+"en": "Not enough EXP.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 380,
+"en": "${member_num} members",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 381,
+"en": "Select a member to strengthen.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 382,
+"en": "${member_name} has joined the Kiryu Clan.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 383,
+"en": "Connecting. Just a moment...",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 384,
+"en": "Enter a code.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 385,
+"en": "The code you entered is incorrect.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 386,
+"en": "You already have this leader in the clan.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 387,
+"en": "${num} times",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 388,
+"en": "${ratio}%",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 389,
+"en": "Upload your current Defense Force?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 390,
+"en": "This Defense Force will replace the one currently uploaded.\nProceed?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 391,
+"en": "The process did not complete due to cancellation or a connection error.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 392,
+"en": "Defense Force upload complete.\n(Your changes may not be reflected immediately.)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 393,
+"en": "Unable to find an opponent.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 394,
+"en": "Round 1",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 395,
+"en": "Round 2",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 396,
+"en": "Round 3",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 397,
+"en": "1st Win",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 398,
+"en": "2nd Win",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 399,
+"en": "3rd Win",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 400,
+"en": "Your current Defense Force will be discarded.\nProceed?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 401,
+"en": "Rank: ${rank}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 402,
+"en": "You do not have enough leaders in your Defense Force.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 403,
+"en": "A change was made to your saved Defense Force,\nso your online Defense Force has been updated accordingly.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 404,
+"en": "EXP Acquired: ${get_exp}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 405,
+"en": "${explanation}\nDeadline: ${duration}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 406,
+"en": "${day}:${time}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 407,
+"en": "${time}",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 408,
+"en": "End",
+"ctx": "msg|table/#//# + qloc_qloc_binding_actions|name",
+"max": null
+},
+{
+"id": 409,
+"en": "This mission's deadline has passed. Sorry.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 410,
+"en": "This member has no skills.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 411,
+"en": "You have no members who can be deployed.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 412,
+"en": "You cannot deploy with the same leaders.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 413,
+"en": "In order to play online, you must accept the EULA.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 414,
+"en": "There are no PlayStation™Network friends available.\nAsk them to set up a Defense Force in order to play!",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 415,
+"en": "Your consecutive win bonus streak will be discarded.\nAre you sure?",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 416,
+"en": "You lost the Raid. New opponents will be chosen.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 417,
+"en": "You won the Raid. New opponents will be chosen.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 418,
+"en": "${win_count} win(s) ${lose_count} loss(es)",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 419,
+"en": "Victory",
+"ctx": "msg|table/#//# + ui_text|text",
+"max": null
+},
+{
+"id": 420,
+"en": "Defeat",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 421,
+"en": "Your Defense Force engaged in a Raid. Here's the results.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 422,
+"en": "You defeated a ranked player. You cannot play against this\nplayer for 24 hours.",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 423,
+"en": "MAX",
+"ctx": "msg|table/#//#",
+"max": null
+},
+{
+"id": 424,
+"en": "THIS SOFTWARE IS LICENSED, NOT SOLD. Sega Corporation and its affiliated \ncompanies (collectively, \"SEGA\" or \"We\") reserves all rights not expressly \ngranted to you. The product that is subject to this license is referred to\nin this license as the \"Game Software.\"\n\nIf you have any questions about this agreement, you can reach SEGA at SEGA\nof America, Inc. 250 East Olive Avenue, Suite 200 Burbank, CA 91502. Legal \nDepartment.\n\nThis is a legal agreement between you and SEGA. Please review this End User \nLicense Agreement (\"Agreement\") carefully before installing, accessing or \nutilizing the game you have just purchased (\"GAME SOFTWARE\") and please \ninquire about anything you do not understand. If you are not eighteen (18) \nyears of age, have your parents review this Agreement. By installing, copying \nand/or otherwise using the Game Software you are signifying your \nacknowledgement, acceptance and agreement to this Agreement.\n\nIMPORTANT - READ CAREFULLY:\nBY INSTALLING, COPYING AND/OR OTHERWISE USING THIS GAME SOFTWARE, YOU\nAGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT AND THE TERMS SET FORTH\nBELOW. THE \"GAME SOFTWARE\" INCLUDES ALL SOFTWARE INCLUDED WITH THE VIDEO\nGAME, THE ASSOCIATED MEDIA, ANY UPDATES AND UPGRADES THAT REPLACE OR\nSUPPLEMENT THE SOFTWARE THAT ARE NOT DISTRIBUTED WITH A SEPARATE LICENSE,\nTHE ASSOCIATED MEDIA, ANY SOFTWARE ASSOCIATED WITH THE ONLINE MODE OF THE\nVIDEO GAME, ANY PRINTED MATERIALS, ANY ONLINE OR ELECTRONIC DOCUMENTATION,\nAND ANY AND ALL COPIES OF SUCH SOFTWARE AND MATERIALS. THE AGREEMENT, AS\nAMENDED FROM TIME TO TIME AND PUBLISHED AT WWW.SEGA.COM/LEGAL, INCORPORATES\nTHE SEGA PRIVACY POLICY (PUBLISHED AT WWW.SEGA.COM/LEGAL/PRIVACY).\nBY OPENING THE GAME SOFTWARE, INSTALLING, AND/OR USING THE GAME SOFTWARE\nAND ANY OTHER MATERIALS INCLUDED WITH THE GAME SOFTWARE, AND ANY UPDATES\nAND UPGRADES THERETO, YOU HEREBY ACCEPT THE TERMS OF THIS AGREEMENT WITH\nSEGA. THE AGREEMENT APPLIES TO ALL USERS OF THE GAME SOFTWARE, INCLUDING\nUSERS WHO ARE ALSO CONTRIBUTORS OF CONTENT, INFORMATION, AND OTHER\nMATERIALS OR SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT,\nYOU ARE NOT PERMITTED TO INSTALL, COPY OR OTHERWISE USE THE GAME SOFTWARE.\nYOUR REMEDY FOR DISSATISFACTION WITH THE GAME SOFTWARE OR ANY PRODUCTS,\nCONTENT, OR OTHER INFORMATION MADE AVAILABLE BY OR THROUGH SEGA, IS TO\nSTOP USING THE GAME SOFTWARE. YOUR AGREEMENT WITH SEGA REGARDING\nCOMPLIANCE WITH THE AGREEMENT BECOMES EFFECTIVE IMMEDIATELY UPON\nCOMMENCEMENT OF YOUR USE OF THE GAME SOFTWARE. IF YOU DO NOT AGREE TO\nTHE TERMS SET FORTH IN THIS AGREEMENT, DO NOT DOWNLOAD OR USE THE GAME\nSOFTWARE, AND SEGA SHALL NOT GRANT TO YOU THE LICENSE TO INSTALL AND USE\nTHE GAME SOFTWARE.\n\n1. USER'S ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS\nThe Game Software is offered subject to your compliance with all of the terms \nand conditions contained herein and all other operating rules, policies and \nprocedures. In addition, some applications offered through or in connection \nwith the Game Software may be subject to additional terms and conditions \npromulgated by SEGA from time to time. Any material modifications to the \nAgreement will also be brought to your attention by posting on\nWWW.SEGA.COM/LEGAL. Such material modifications will be effective immediately,\nand will apply to disputes arising under the Agreement from the date of\nposting forward. Your continued use of the Game Software after a modification\nhas been made to the Agreement constitutes your acceptance of such modification.\n\n2. LIMITED USE LICENSE\nSubject to your compliance with the terms and conditions of the Agreement, \nSEGA hereby grants you a non-exclusive, non-transferable, limited right and \nlicense to install and use one (1) copy of the Game Software solely and \nexclusively for your personal and non-commercial use. This Agreement shall \nalso apply to any patches or updates you may obtain for the Software. IN \nACCORDANCE WITH AND NOT INTENDING TO LIMIT ANY OF THE PROVISIONS\nOR PROTECTIONS SET FORTH HEREIN, DUPLICATION, COPYING OR ANY FORM OF \nREPRODUCTION OF THE GAME SOFTWARE OR RELATED INFORMATION, MATERIALS\nOR OTHER CONTENT TO ANY OTHER SERVER OR LOCATION FOR THE PURPOSES OF\nDUPLICATION, COPYING OR ANY OTHER FORM OF REPRODUCTION IS EXPRESSLY\nAND EXPLICITLY PROHIBITED. This license does not give you any title or ownership\nin the Game Software, and should not be construed as a sale or transfer of any \nintellectual property rights to the Game Software. All rights not specifically\ngranted under this Agreement are hereby reserved by Sega and, as applicable,\nby its licensors.\n\n3. NO RIGHT TO OWNERSHIP\nYOU ACKNOWLEDGE AND AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER\nPROPERTY INTEREST IN THE GAME SOFTWARE, AND YOU FURTHER ACKNOWLEDGE\nAND AGREE THAT ALL SUCH RIGHTS ARE AND SHALL FOREVER BE OWNED BY AND\nINURE TO THE BENEFIT OF SEGA. Except as expressly licensed to you herein,\nall right, title, and interest in and to the Game Software and any and all\nassociated copyrights, trademarks and intellectual properties therein and/or\nrelated thereto and all copies thereof (including, but not limited to, any\npatches, updates, copies, derivative works, titles, computer code, themes,\nobjects, characters, character names, stories, dialogs, catch phrases,\nlocations, concepts, artwork, images, animation, sounds, musical compositions,\naudio-visual effects, text, methods of operation, moral rights, \"applets\"\nincorporated into the Game Software, and any related documentation) are\nowned by SEGA or SEGA's licensors.\n\nThe Game Software is protected by the copyright laws of the United States, \ninternational copyright treaties and conventions, and other laws. All rights \nare reserved. The Game Software contains certain licensed materials, and Sega \nand Sega's licensors may protect their rights in the event of any violation \nof this Agreement.\n\n4. NO SALE OR ASSIGNMENT\nSEGA does not recognize the transfer of the Game Software. Therefore, you\nmay not give, purchase, sell, bargain, barter, market, trade, offer for sale, \nsell, license, assign or otherwise divest your rights, responsibilities or \nobligations under the Agreement, either in whole or in part, without the \nprior written consent of SEGA. Any attempt to do so shall be void and of\nno effect.\n\nLICENSE CONDITIONS\nYou agree to only use the Game Software, or any part of it, in a manner that \nis consistent with this Agreement, and you SHALL NOT:\n\n(a) exploit the Game Software or any of its parts commercially, including, \nbut not limited to, at a cyber (Internet) cafe, computer gaming center or any \nother location-based site;\n\n(b) use the Game Software or permit the use of the Game Software, on more \nthan one computer, game console, mobile device, handheld device or PDA at\nthe same time;\n\n(c) use the Game Software, or permit use of the Game Software, or make the \nGame Software available for use in a network, multi-user arrangement, remote \naccess arrangement, including where it could be downloaded by multiple users;\n\n(d) sell, rent, lease, license, distribute or otherwise transfer this Game \nSoftware or any copies;\n\n(e) reverse engineer, derive source code, modify, decompile, disassemble, \ncopy, or create derivative works of the Game Software, in whole or in part \n(except as the applicable law expressly permits, in which case all and any \nmodifications, adaptations, copies, improvements, etc. shall belong to, vest \nin and be the exclusive property of Sega and/or its licensors on creation,\nin any event);\n\n(f) remove, disable or circumvent any security protections, proprietary \nnotices or labels contained on or within the Game Software;\n\n(g) export or re-export the Game Software or any copy or adaptation in \nviolation of any applicable laws or regulations;\n\n(h) create data or executable programs which mimic data or functionality\nin the Game Software unless provided for in Section 5(i) below; or\n\n(i) use the part of the Game Software which allows you to construct new \nvariations (\"Editor\") to create new levels which\n\n(i) can be used otherwise in connection with the Game Software;\n\n(ii) to modify any executable file;\n\n(iii) to product any libelous, defamatory or other illegal material or \nmaterial that is scandalous or invades the rights of privacy or publicity\nof a third party;\n\n(iv) to use the trademarks, copyright or intellectual property rights of\nany third party;\n\n(v) are then commercially exploited by you (through pay-per-play or \ntimesharing services or otherwise). For the avoidance of doubt you are\nsolely liable and responsible for any claims by a third party resulting\nfrom your use of the Editor.\n\nFurthermore, you agree that you shall abide by the safety information, \nmaintenance instructions or other relevant notices contained in the manual\nor other documentation accompanying the Game Software.\n\nDISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY\nTO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, YOU EXPRESSLY AGREE \nTHAT THE USE OF THE GAME SOFTWARE IS AT YOUR SOLE RISK AND THAT THE ENTIRE \nRISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. \nTO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL MATERIALS AND GAME \nSOFTWARE ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS WITH ALL FAULTS \nAND WITHOUT WARRANTY OF ANY KIND, AND SEGA HEREBY DISCLAIMS ALL WARRANTIES \nAND CONDITIONS WITH RESPECT TO THE GAME SOFTWARE, EITHER EXPRESS OR IMPLIED, \nINCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, OF \nSATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF \nQUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. WITHOUT\nLIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT (A) THE GAME SOFTWARE WILL\nMEET YOUR REQUIREMENTS, (B) THE GAME SOFTWARE WILL BE UNINTERRUPTED, TIMELY,\nSECURE, OR ERROR-FREE, (C) THE GAME SOFTWARE WILL BE INTERAOPERABLE OR\nCOMPATABILE WITH OTHER SOFTWARE, OR (D) THE RESULTS THAT MAY BE OBTAINED\nFROM THE USE OF THE GAME SOFTWARE WILL BE EFFECTIVE, ACCURATE OR RELIABLE.\nNO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SEGA OR ITS AUTHORIZED\nREPRESENTATIVE(S) SHALL CREATE A WARRANTY. AT SOME POINT IN THE FUTURE THE\nGAME SOFTWARE MAY GO OUT OF DATE, AND SEGA MAKES NO COMMITMENT TO UPDATE\nSUCH GAME SOFTWARE. THE DISCLAIMERS OF LIABILITY CONTAINED IN THIS SECTION\nAPPLY TO ANY DAMAGES OR INJURY CAUSED BY ANY FAILURE OF PERFORMANCE, ERROR,\nOMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION,\nCOMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT OR DESTRUCTION OR\nUNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF THE GAME SOFTWARE,\nWHETHER FOR BREACH OF CONTRACT, TORTIOUS BEHAVIOR, NEGLIGENCE, OR UNDER\nANY OTHER CAUSE OF ACTION. THE USE OF THE GAME SOFTWARE OR THE DOWNLOADING\nOR OTHER ACQUISITION OF ANY MATERIALS THROUGH OR IN CONNECTION WITH THE\nGAME SOFTWARE IS DONE AT YOUR OWN DISCRETION AND RISK AND WITH YOUR\nAGREEMENT THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR\nCOMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM SUCH ACTIVITIES.\n\nSEGA MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE INFORMATION \nCONTAINED IN THE GAME SOFTWARE, INFORMATION AND/OR RELATED GRAPHICS\nPUBLISHED AS PART OF THE GAME SOFTWARE FOR ANY PURPOSE. THE GAME SOFTWARE,\nINFORMATION AND RELATED GRAPHICS PUBLISHED AS PART OF THE GAME SOFTWARE\nMAY INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. You understand\nand agree that temporary interruptions of the Game Software may occur as normal\nevents. You further understand and agree that we have no control over third\nparty networks you may access in the course of the use of the Game Software,\nand therefore, delays and disruption of other network transmissions are \ncompletely beyond SEGA's control. YOU ACKNOWLEDGE AND AGREE THAT YOUR \nEXCLUSIVE REMEDY FOR ANY DISPUTE WITH SEGA IS TO STOP USING THE GAME\nSOFTWARE. IN NO CASE SHALL ANY LIABILITY OF SEGA TO YOU EXCEED THE AMOUNT\nTHAT YOU PAID TO SEGA OR ITS AFFILIATES AND/OR DESIGNEES FOR THE APPLICABLE\nGAME SOFTWARE GIVING RISE TO ANY SUCH LIABILITY. IN NO EVENT SHALL SEGA OR\nITS AFFILIATES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL,\nPUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES OF ANY KIND, OR ANY\nDAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM\nLOSS OF USE, DATA OR PROFITS, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE\nPOSSIBILITY OF SUCH DAMAGES, AND ON ANY THEORY OF LIABILITY, ARISING OUT OF\nOR IN CONNECTION WITH THE USE OF THE GAME SOFTWARE, INCLUDING DAMAGES TO\nPROPERTY, LOSS OF GOODWILL, COMPUTER FAILURE OR MALFUNCTION AND, TO THE\nEXTENT PERMITTED BY LAW, DAMAGES FOR PERSONAL INJURIES, EVEN IF SEGA HAS\nBEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR\nJURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY\nFOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS,\nTHE LIABILITY OF SEGA AND THE SEGA PARTIES SHALL BE LIMITED TO THE FULLEST\nEXTENT PERMITTED BY LAW. Residents of California are entitled to the following\nspecific consumer rights information: you may contact the Complaint Assistance\nUnit of the Division of Consumer Software of the Department of Consumer Affairs\nby mail at 400 R St., Suite 1080, Sacramento, California, 95814, or by telephone\nat 916.445.1254. California residents expressly agree to waive California Civil\nCode Sec. 1542, which states: \"A general release does not extend to claims\nwhich the creditor does not know or suspect to exist in his favor at the time\nof executing the release, which if known by him must have materially affected\nhis settlement with the debtor.\"\n\n7. INDEMNIFICATION\nUpon a request by SEGA, you agree to defend, indemnify, and hold SEGA and\nits affiliates harmless from all liabilities, claims, losses, costs and expenses, \nincluding attorney's fees, that arise from (a) your use of, or activities in \nconnection with the Game Software; (b) any violation of the Agreement by you; \nor (c) any allegation that any content that you make available via the Game \nSoftware infringes or otherwise violates the copyright, trademark, trade \nsecret, privacy or other intellectual property or other rights of any third \nparty. SEGA reserves the right, at its own expense, to assume the exclusive \ndefense and control of any matter otherwise subject to indemnification by you, \nin which event you will cooperate with SEGA in asserting any available defenses.\n\n8. E-MAIL, MESSAGING, BLOGGING AND CHAT\nSEGA may make email, messaging, blogging, or chat (collectively, \n\"Communication Software\") available through the Game Software, either directly\nor through a third-party provider. SEGA is not responsible for communications\nmade by other users via the Communication Software. We are not responsible\nfor communications made by you via the Communication Software. You \nacknowledge and agree that your communications made via the Communication \nSoftware are public and not private communications and that you have no \nexpectation of privacy concerning your use of the Communication Software. You \nacknowledge and agree that personal information that you communicate via the \nCommunication Software may be seen and used by others and may result in \nwidespread distribution of such information. We strongly encourage you not\nto disclose any personal information in your public communications via the \nCommunication Software unless you wish such information to be made \npermanently available to the public.\n\n9. INTERNATIONAL USE\nAlthough the Game Software may be accessible worldwide, we make no \nrepresentation that the Game Software or related materials are appropriate or \navailable for use in locations outside the United States, and accessing them \nfrom territories where the content is illegal is prohibited. Those who choose \nto access the Game Software from other locations do so on their own \ninitiative and are responsible for compliance with local laws, if and to the \nextent local laws are applicable. Any offer and/or information made in \nconnection with the Game Software is void where prohibited. Without limiting \nthe foregoing, the Game Software may not be exported or re-exported\n(a) into (or to a national resident of) any U.S. embargoed countries\nor (b) to anyone on the U.S. Treasury Department's list of Specially Designated\nNationals or the U.S. Department of Commerce Denied Person's List or Entity List.\nBy accessing and using the Game Software, you represent and warrant that you\nare not located in, under control of, or a national resident of any such country \nor on any such list.\n\n10. TERMINATION AND SURVIVABILITY OF TERMS\nThe Agreement set forth herein continue to remain in full force and effect \nuntil such time as terminated by either party. You agree and acknowledge that \nyou are not entitled to any refund for any amounts which were paid to SEGA \nprior to any termination. You retain full discretion to end or terminate your \naccount, if applicable, and discontinue use of the Game Software at any time, \npursuant to the terms of this Agreement. Without prejudice to any other \nrights of SEGA, this Agreement shall terminate automatically if you fail to \ncomply with its terms and conditions. Upon termination, you must destroy all \ncopies of the Game Software. The provisions of Sections 3, 4, 6, 7, 8, 10, 11 \nand 12 shall survive any termination of this Agreement.\n\n11. INJUNCTION\nBecause SEGA would be irreparably damaged if the terms of this Agreement\nwere not specifically enforced, you agree that SEGA shall be entitled, without \nbond or other security or proof of damages, to take such action as may be \nrequired, including seeking an injunction and other equitable remedies, in \naddition to any other remedies available to it under the applicable law.\n\n12. MISCELLANEOUS\nThis Agreement represents the complete agreement between you and SEGA \nconcerning the Game Software and supersedes all prior agreements and \nrepresentations, warranties or understandings between you and SEGA\n(whether negligently or innocently made but excluding those made fraudulently), \nregarding the same subject matter. SEGA reserves the right to amend this \nAgreement at any time, at its sole discretion. If any part of the Agreement \nis determined to be invalid or unenforceable pursuant to applicable law \nincluding, but not limited to, the warranty disclaimers and liability \nlimitations set forth above, then the invalid or unenforceable provision will \nbe deemed superseded by a valid, enforceable provision that most closely \nmatches the intent of the original provision and the remainder of the \nAgreement shall continue in effect. Any failure by us to enforce or exercise \nany provision of the Agreement or related rights shall not constitute a waiver\nof that right or provision.\n\nSEGA may assign this Agreement, in whole or in part, at any time. \nNotwithstanding, you may not assign, transfer or sublicense any or all of \nyour rights or obligations under the Agreement without SEGA's express prior \nwritten consent. SEGA's performance of the Agreement is subject to existing \nlaws and legal process, and nothing contained in the Agreement is in \nderogation of SEGA's right to comply with governmental, court, and law \nenforcement requests or requirements relating to your use of the Game \nSoftware or information provided to or gathered by SEGA with respect to\nsuch use. In addition to any excuse provided by applicable law, we shall\nbe excused from liability for non-delivery or delay in delivery of the Game \nSoftware arising from any event beyond our reasonable control, whether or not \nforeseeable by either party, including but not limited to, labor disturbance, \nwar, terrorism, fire, denial of service attack, internet outages, accident, \nadverse weather, inability to secure transportation, governmental act or \nregulation, and other causes or events beyond our reasonable control, whether \nor not similar to those which are enumerated above. The parties agree that \nall correspondence relating to this Agreement shall be written in the English \nlanguage.\n\nThis Agreement shall be construed under California law as such law is applied \nto agreements between California residents entered into and to be performed \nwithin California, except as governed by federal law, and you consent to the \nexclusive jurisdiction of the state and federal courts in San Francisco, \nCalifornia.\nYou may contact SEGA at the following address:\n\nSEGA of America, Inc. \n250 East Olive Avenue, Suite 200\nBurbank, CA 91502\nEmail: help@SEGA.com\n \nI HEREBY ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE FOREGOING END\nUSER LICENSE AGREEMENT AND AGREE THAT MY USE OF THE GAME SOFTWARE IS AN \nACKNOWLEDGMENT OF MY AGREEMENT TO BE BOUND BY THE END USER LICENSE\nAGREEMENT.",
+"ctx": "msg|table/#//#",
+"max": null
+}
+]

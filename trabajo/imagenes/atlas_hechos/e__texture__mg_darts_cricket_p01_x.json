@@ -1,0 +1,93 @@
+{
+ "textura": "e/texture/mg_darts_cricket_p01_x",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    9,
+    7,
+    81,
+    30
+   ],
+   "en": "CRICKET",
+   "ocr": "CRICKET",
+   "es": "CRICKET",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 68,
+   "dejar": true
+  },
+  {
+   "caja": [
+    15,
+    24,
+    99,
+    60
+   ],
+   "en": "3/ 5 ROUND SCORE",
+   "ocr": "3/5SCORD R1",
+   "es": "PUNTUACIÓN DE LA RONDA 3/5",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 84,
+   "dejar": true
+  },
+  {
+   "caja": [
+    409,
+    37,
+    465,
+    54
+   ],
+   "en": "DART SCORES",
+   "ocr": "DART SCORES",
+   "es": "PUNTUACIONES DE DARDOS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    379,
+    222,
+    425,
+    237
+   ],
+   "en": "Yuki Koshita",
+   "ocr": "Yu Keoshu",
+   "es": "Yuki Koshita",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 46,
+   "dejar": true
+  },
+  {
+   "caja": [
+    345,
+    243,
+    367,
+    259
+   ],
+   "en": "BRL",
+   "ocr": "BORL",
+   "es": "BRL",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 22,
+   "dejar": true
+  }
+ ]
+}

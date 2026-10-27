@@ -1,0 +1,82 @@
+{
+ "textura": "e/texture/phone_stamp_10",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    2,
+    1,
+    128,
+    31
+   ],
+   "en": "Wanna get",
+   "ocr": "Wanna get",
+   "es": "¿Quieres",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 126,
+   "estilo": {
+    "arriba": [
+     10,
+     10,
+     10
+    ],
+    "abajo": [
+     10,
+     10,
+     10
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   },
+   "fondo": "lama",
+   "tam": 26
+  },
+  {
+   "caja": [
+    37,
+    98,
+    125,
+    126
+   ],
+   "en": "drinks?",
+   "ocr": "drinks?",
+   "es": "tomar algo?",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 88,
+   "estilo": {
+    "arriba": [
+     10,
+     10,
+     10
+    ],
+    "abajo": [
+     10,
+     10,
+     10
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   },
+   "fondo": "lama",
+   "tam": 26
+  }
+ ]
+}

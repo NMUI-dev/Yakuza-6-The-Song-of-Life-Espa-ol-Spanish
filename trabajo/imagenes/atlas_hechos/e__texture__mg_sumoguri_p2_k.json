@@ -1,0 +1,144 @@
+{
+ "textura": "e/texture/mg_sumoguri_p2_k",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    82,
+    44,
+    176,
+    70
+   ],
+   "en": "Results",
+   "ocr": "Results",
+   "es": "Resultados",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  },
+  {
+   "caja": [
+    109,
+    67,
+    150,
+    83
+   ],
+   "en": "Today's Mail",
+   "ocr": "fodar's Had",
+   "es": "Correo de hoy",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  },
+  {
+   "caja": [
+    17,
+    106,
+    78,
+    124
+   ],
+   "en": "Stats",
+   "ocr": "Stats-",
+   "es": "Atributos",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 57,
+   "dejar": true
+  },
+  {
+   "caja": [
+    54,
+    131,
+    95,
+    146
+   ],
+   "en": "To Next Level",
+   "ocr": "T Net (raek",
+   "es": "Al Siguiente Nivel",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    166,
+    65,
+    184
+   ],
+   "en": "Area",
+   "ocr": "-Arear",
+   "es": "Área",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 49,
+   "dejar": true
+  },
+  {
+   "caja": [
+    51,
+    187,
+    95,
+    201
+   ],
+   "en": "beginner",
+   "ocr": "Beeinnor",
+   "es": "Principiante",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 40,
+   "dejar": true
+  },
+  {
+   "caja": [
+    105,
+    188,
+    159,
+    201
+   ],
+   "en": "intermediate",
+   "ocr": "itermodat",
+   "es": "Intermedio",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 50,
+   "dejar": true
+  },
+  {
+   "caja": [
+    166,
+    186,
+    217,
+    202
+   ],
+   "en": "Advanced",
+   "ocr": "Acvanced",
+   "es": "Avanzado",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 47,
+   "dejar": true
+  }
+ ]
+}

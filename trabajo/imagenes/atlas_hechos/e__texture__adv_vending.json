@@ -1,0 +1,53 @@
+{
+ "textura": "e/texture/adv_vending",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    215,
+    64,
+    244,
+    83
+   ],
+   "en": "EXP",
+   "ocr": "EXP",
+   "es": "EXP",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 25
+  },
+  {
+   "caja": [
+    141,
+    192,
+    178,
+    218
+   ],
+   "en": "Atk",
+   "ocr": "Atk",
+   "es": "Atq.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 37
+  },
+  {
+   "caja": [
+    143,
+    217,
+    179,
+    242
+   ],
+   "en": "Def",
+   "ocr": "Def",
+   "es": "Def.",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 36
+  }
+ ]
+}

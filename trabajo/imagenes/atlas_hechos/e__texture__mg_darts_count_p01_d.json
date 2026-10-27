@@ -1,0 +1,110 @@
+{
+ "textura": "e/texture/mg_darts_count_p01_d",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    9,
+    7,
+    99,
+    30
+   ],
+   "en": "COUNT UP",
+   "ocr": "COUNTUP",
+   "es": "CONTAR",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  },
+  {
+   "caja": [
+    51,
+    28,
+    94,
+    55
+   ],
+   "en": "1/3 ROUND SCORE",
+   "ocr": "ROUND SCORE",
+   "es": "PUNTUACIÓN DE LA RONDA 1/3",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    444,
+    12,
+    464,
+    26
+   ],
+   "en": "LINE",
+   "ocr": "LI9E",
+   "es": "LÍNEA",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 20,
+   "dejar": true
+  },
+  {
+   "caja": [
+    408,
+    38,
+    464,
+    53
+   ],
+   "en": "DART SCORES",
+   "ocr": "DARTSCORES",
+   "es": "PUNTUACIONES DE DARDOS",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    11,
+    223,
+    55,
+    238
+   ],
+   "en": "Karina Kery",
+   "ocr": "XarvN Crw",
+   "es": "Karina Kery",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    379,
+    223,
+    424,
+    237
+   ],
+   "en": "Yuka Koushika",
+   "ocr": "Yuka Cnouhita",
+   "es": "Yuka Koushika",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  }
+ ]
+}

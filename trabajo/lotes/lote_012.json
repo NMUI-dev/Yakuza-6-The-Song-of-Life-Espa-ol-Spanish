@@ -1,0 +1,1856 @@
+[
+{
+"id": 3519,
+"en": "A pizza bun containing three types of cheese\nand delicious tomato.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3520,
+"en": "A quality steamed bun with juicy filling and\nflavorful, chewy dough.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3521,
+"en": "The latest in the Gold Chinese Bun series.\nA pizza bun with quality ingredients and flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3522,
+"en": "Completely standard darts. Since they're for\ngeneral-use, they have low performance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3523,
+"en": "Darts made for people becoming familiar with the\ngame. They have average performance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3524,
+"en": "Custom-made darts. Since they're designed for\nexpert users, they're very high-performance.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3525,
+"en": "Darts given by the legendary player, Paul Lim.\nThey have exquisite detail and are easy to use.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3526,
+"en": "Cats just love this chicken cooked to perfection\nand sliced into bite-sized flakes.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3527,
+"en": "No cat can resist beef slightly charred\nand soaked in delicious miso.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3528,
+"en": "Cats practically beg when the aroma of this\nfreshly caught tuna wafts through the air.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3529,
+"en": "These butter-sautéed salmon flakes mixed with\ncheese are a feline delight.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3530,
+"en": "White meat fish flavored Japanese-style using\nkombu soup stock, garnished with dried sardines.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3531,
+"en": "For a cat who deserves only the best, give them\nthis delicacy of flakey fish protein.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3532,
+"en": "Cat food of impeccable quality made from\nthe cheek meat of fresh, premium tuna.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3533,
+"en": "An eau de toilette perfect for the elegant, refined\nKamurocho gentleman. Makes you more popular with the ladies.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3534,
+"en": "Comes with rice, salad and soup. Charge up your\nenergy with a full stomach.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3535,
+"en": "Comes with rice, salad, and soup. The kids\nlove the house secret \"onion sauce\" with this.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3536,
+"en": "The crunchy salad goes along well with meat.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3537,
+"en": "A consommé based soup.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3538,
+"en": "The original hamburger known throughout\nKamurocho for years.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3539,
+"en": "A bowl overflowing with a harmony of ikura and\nuni. Salmon roe and sea urchin, respectively.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3540,
+"en": "An economical sushi set of 12-piece nigiri-sushi\nand miso soup.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3541,
+"en": "A 3-piece yakitori set.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3542,
+"en": "The same delicious taste as the Nagasaki Champon,\nwith 30% less sodium!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3543,
+"en": "Soup with delicious vegetables and ginger. Topped\nwith ginger dressing or yuzu pepper dressing.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3544,
+"en": "By combining champon noodles with ketchup,\na champon noodle Napolitan is made.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3545,
+"en": "Ringer Hut is particular with vegetables, and\nthey take pride in their homemade fried rice.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3546,
+"en": "The ultimate bowl made through devoted studying\nand research since 1989.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3547,
+"en": "There are extra noodles and soup.\nThe taste and volume are perfect.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3548,
+"en": "Onomichi ramen with extra chashu.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3549,
+"en": "Onomichi ramen with more of everything.\nMore chashu, more noodles, and more broth!",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3550,
+"en": "A value set of Onomichi ramen, deep-fried\nchicken, and rice.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3551,
+"en": "Five large pieces of deep-fried chicken.\nA huge meal.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3552,
+"en": "A perfect compliment to Onomichi ramen and\ndeep-fried chicken.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3553,
+"en": "Two large rice balls wrapped in crispy seaweed.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3554,
+"en": "Vinegar rice wrapped in sweet, deep-fried tofu\npockets. Goes well with Onomichi ramen.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3555,
+"en": "Boiled egg you can eat as a light snack.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3556,
+"en": "Topped with teriyaki sauce and fresh egg salad,\nit has a rich flavor and can satisfy any hunger.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3557,
+"en": "An extravagant takoyaki topped with bacon and\ncheese, giving it a premium, delicious taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3558,
+"en": "Combines the spicy goodness of yuzu pepper with\na hit of wasabi.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3559,
+"en": "Plump, deep-fried octopus covered with super\nspicy cayenne pepper and Japanese pepper.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3560,
+"en": "Take french fries to the next level with\na dollop of fresh and cool sour cream.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3561,
+"en": "Gindaco Highball's No. 1 side dish that goes\nwell with alcohol.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3562,
+"en": "This icy cold highball goes perfectly with\ntakoyaki.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3563,
+"en": "Enjoy the moment with the full-bodied flavor\nof this exceptional highball.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3564,
+"en": "The refreshing citrus taste of blood orange goes\nperfectly with the highball.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3565,
+"en": "A highball with a strong Jim Beam taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3566,
+"en": "The Jim Beam Highball garnished with lemon.\nIt has a fresh taste and is easy to drink.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3567,
+"en": "A hearty stew packed with more than enough\nassorted goodies to satisfy your hunger.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3568,
+"en": "Seaweed boiled in soy sauce is at the center of\nthis rice ball.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3569,
+"en": "This rice ball has tuna dressed with\nmayonnaise in the middle.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3570,
+"en": "This rice ball has a familiar salmon flake\nfilling.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3571,
+"en": "Your average bento lunch. This is enough to fill\nyou up.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3572,
+"en": "Yakisoba with cabbage and pork. The smell of\nthe sauce is simply mouth-watering.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3573,
+"en": "This tonkatsu lunch set is made with rich\nSatsuma pork.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3574,
+"en": "A healthy bento where you can enjoy ten types\nof food. Popular with women.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3575,
+"en": "A luxurious yakiniku bento that lavishly uses\nmarbled kalbi.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3576,
+"en": "A sushi set filled with a popular selection of\nsushi. Popular with all genders and ages.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3577,
+"en": "It's about as filling as you might expect.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3578,
+"en": "This sandwich features an egg-mayo mix with\ntuna on white bread.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3579,
+"en": "RIZAP original protein with high-grade WPI.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3580,
+"en": "RIZAP original supplement that accelerates\nnutrient absorption.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3581,
+"en": "RIZAP original supplement that decreases carb\nabsorption.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3582,
+"en": "RIZAP original supplement that helps burn fat.\nIt also greatly stimulates appetite.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3583,
+"en": "RIZAP original drink supplement that accelerates\nmetabolism. It also stimulates appetite.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3584,
+"en": "The legendary confection, Red Bun.\nEating this improves your abilities.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3585,
+"en": "The legendary confection, Blue Bun.\nEating this improves your abilities.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3586,
+"en": "The legendary confection, Orange Bun.\nEating this improves your abilities.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3587,
+"en": "The legendary confection, Green Bun.\nEating this improves your abilities.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3588,
+"en": "The legendary confection, Purple Bun.\nEating this improves your abilities.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3589,
+"en": "The legendary confection, Rainbow Bun.\nEating this improves your abilities.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3590,
+"en": "You never know when these might come in handy.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3591,
+"en": "A beautiful-looking piece of driftwood that\nhas been polished from its long time drifting.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3592,
+"en": "A small piece of driftwood.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3593,
+"en": "A large piece of driftwood.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3594,
+"en": "A decayed piece of driftwood, corroded by its\nlong time drifting.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3595,
+"en": "A beautiful seashell with a rainbow shine.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3596,
+"en": "A seashell that is slightly chipped.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3597,
+"en": "A small seashell.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3598,
+"en": "A buoy that has drifted from somewhere.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3599,
+"en": "Looks like it came from another country.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3600,
+"en": "Seaweed washed ashore.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3601,
+"en": "A prepaid card with 10,000 yen charged on it.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3602,
+"en": "A light and crisp salad.\n<symbol=caba_talk> becomes 2 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3603,
+"en": "The perfect dessert for cooling down.\n<symbol=caba_love> becomes 2 Chain.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3604,
+"en": "A Japanese whisky made at the Suntory Hakushu\ndistillery located on Mt. Kaikoma in the Minami Alps.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3605,
+"en": "Fresh vegetables chopped into fun sticks.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3606,
+"en": "Shochu with a mellow taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3607,
+"en": "Refined sake with a refreshing taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3608,
+"en": "Red wine with just the right amount of bitter taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3609,
+"en": "White wine with a fruity taste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3610,
+"en": "A membership card for the internet café. It\nallows use of the facility as often as you want.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3611,
+"en": "A mysterious book that boosts your\nStrength EXP by 100 when read.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3612,
+"en": "A mysterious book that boosts your\nAgility EXP by 100 when read.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3613,
+"en": "A mysterious book that boosts your\nTechnique EXP by 100 when read.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3614,
+"en": "A mysterious book that boosts your\nCharm EXP by 100 when read.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3615,
+"en": "A mysterious book that boosts your\nSpirit EXP by 100 when read.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3616,
+"en": "This large bottle of sake can be enjoyed heated\nor chilled.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3617,
+"en": "A whisky known for its sweet scent, deep\nrichness, and dry aftertaste.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3618,
+"en": "Layered and dense. The ultimate beer full of\neverything a brewmaster dreams of.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3619,
+"en": "Using chicken as a base, fat and spices accent\nthe rich tasting cup ramen.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3620,
+"en": "This yakisoba blends several types of sauce with\npork and fish broth for a sour and rich flavor.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3621,
+"en": "Yakisoba in a stylish container. The sauce, with\nten different fruits and vegetables, is irresistible.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3622,
+"en": "This smooth-tasting cup ramen mixes organic\nmarudaizu sauce with great seafood and spices.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3623,
+"en": "These glass noodles are made specifically for\nsoup by combining mung bean and potato starch.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3624,
+"en": "Authentic pho with a delicious yet simple taste.\nIt's low on calories and popular with women.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3625,
+"en": "A gun designed for beginning fishermen. It has\nlow power, but great aim and spear count.",
+"ctx": "item|explanation + minigame_spearfishing_speargun|information",
+"max": null
+},
+{
+"id": 3626,
+"en": "A powerful weapon perfect for tackling bosses.\nHowever, low spear capacity hinders it in normal use.",
+"ctx": "item|explanation + minigame_spearfishing_speargun|information",
+"max": null
+},
+{
+"id": 3627,
+"en": "This speargun can load a lot of low damage shots,\nso you need to make every shot count.",
+"ctx": "item|explanation + minigame_spearfishing_speargun|information",
+"max": null
+},
+{
+"id": 3628,
+"en": "A modified version of the Standard Speargun.\nIts high performance doesn't drag down usability.",
+"ctx": "item|explanation + minigame_spearfishing_speargun|information",
+"max": null
+},
+{
+"id": 3629,
+"en": "Extremely high damage, but can only load a few\nspears at a time. Make sure you don't miss.",
+"ctx": "item|explanation + minigame_spearfishing_speargun|information",
+"max": null
+},
+{
+"id": 3630,
+"en": "The denizens of the sea will cower before the\nhigh damage and spear count of this elite weapon.",
+"ctx": "item|explanation + minigame_spearfishing_speargun|information",
+"max": null
+},
+{
+"id": 3631,
+"en": "A business card from Sora, a hostess.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3632,
+"en": "A business card from Hikaru, a hostess.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3633,
+"en": "A business card from Riona, a hostess.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3634,
+"en": "A business card from Saki, a hostess.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3635,
+"en": "A business card from Erina, a hostess.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3636,
+"en": "Unblended whisky that's been aged for at least\n30 years in a sherry cask. It's rare worldwide.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3637,
+"en": "This is Japan's finest, if not one of the entire\nworld's finest whiskies.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3638,
+"en": "Japan's world-class premium whisky.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3639,
+"en": "A bottle that is worthy of its titles as the\ngreatest Scotch whisky.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3640,
+"en": "Made of some of the rarest metal in the world.\nCould fetch you a small fortune at a pawn shop.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3641,
+"en": "The gold standard in plates.\nCould go for quite a lot at a pawn shop.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3642,
+"en": "This well-crafted plate could net you\na hefty sum over at a pawn shop.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3643,
+"en": "It's not particularly valuable, but it could\ngo for a relatively nice price at a pawn shop.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3644,
+"en": "It's not too special, but it could go for\na decent price at a pawn shop.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3645,
+"en": "This thing is practically worthless.\nYou could sell it at a pawn shop, if you want.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3646,
+"en": "A bromide of Haruka from her idol days.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3647,
+"en": "A drawing of Haruka and her friends by Ayaka.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3648,
+"en": "An ice cream cake that goes well with rich\ncheese and sour blueberry sauce.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3649,
+"en": "Rich espresso crowned with fluffy,\nfrothed milk that lingers on the lips.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3650,
+"en": "Buttery, flaky, and served warm if asked.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3651,
+"en": "Warmed to golden brown and toasty.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3652,
+"en": "Ono Michio's sample CD.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3653,
+"en": "A drawing of Michio by Shizuko.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3654,
+"en": "A photo of the poem found in Onomichi.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3655,
+"en": "A note from Lo with a clue leading toward the\nSecret of Onomichi.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3656,
+"en": "A selfie of a woman named Reiko.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3657,
+"en": "A safe key found on Tenkaichi Street.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3658,
+"en": "A safe key found on West Taihei Boulevard.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3659,
+"en": "A safe key found at Yoshida Batting Center.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3660,
+"en": "A safe key found in Nakamichi Alley.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3661,
+"en": "A safe key found on Senryo Avenue.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3662,
+"en": "A safe key found at Jingai Ferry Dock.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3663,
+"en": "A safe key found on Pedestrian Bridge.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3664,
+"en": "A safe key found on Second Hill.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3665,
+"en": "A safe key found at Hana-no-kubo.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3666,
+"en": "A safe key found at Central Shopping District.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3667,
+"en": "A photo filled with mystery.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3668,
+"en": "Mysterious beads said to ward off ghosts.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3669,
+"en": "Helps you find everyone's favorite unexplained\nphenomenon, the elusive UFO.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3670,
+"en": "A talisman with a mysterious aura.\nAllows you to parry almost any attack.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3671,
+"en": "While equipped, your Heat Gauge will increase\nat all times.",
+"ctx": "item|explanation",
+"max": null
+},
+{
+"id": 3672,
+"en": "Smile Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3673,
+"en": "Double Smile Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3674,
+"en": "Ham Katsu Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3675,
+"en": "Potato Salad Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3676,
+"en": "Chicken Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3677,
+"en": "French Fries (M)",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3678,
+"en": "POWER Drink",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3679,
+"en": "Red Gem Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3680,
+"en": "Black Gem Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3681,
+"en": "White Gem Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3682,
+"en": "Blue Gem Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3683,
+"en": "Leather Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3684,
+"en": "Beads of Good Fortune",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3685,
+"en": "Suzaku Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3686,
+"en": "Genbu Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3687,
+"en": "Byakko Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3688,
+"en": "Seiryu Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3689,
+"en": "Heavenly Beast Bracelet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3690,
+"en": "Mouth Guard",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3691,
+"en": "Custom Mouth Guard",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3692,
+"en": "Transcendent Mouth Guard",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3693,
+"en": "Morning Glory Waistband",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3694,
+"en": "Binding",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3695,
+"en": "Fighter's Binding",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3696,
+"en": "Fearless Binding",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3697,
+"en": "Bloody Binding",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3698,
+"en": "Dragon's Binding",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3699,
+"en": "Bulletproof Vest",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3700,
+"en": "Military-grade Bulletproof Vest",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3701,
+"en": "Body Armor",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3702,
+"en": "Military-grade Body Armor",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3703,
+"en": "Transcendent Body Armor",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3704,
+"en": "Rusted Chain Mail",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3705,
+"en": "Chain Mail",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3706,
+"en": "Blood-caked Chain Mail",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3707,
+"en": "Vinyl Belt",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3708,
+"en": "Leather Belt",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3709,
+"en": "Stamina Belt",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3710,
+"en": "Hunger Belt",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3711,
+"en": "Expensive Leather Belt",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3712,
+"en": "Comfy Insoles",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3713,
+"en": "High-tech Insoles",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3714,
+"en": "Transcendent Insoles",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3715,
+"en": "Good Health Amulet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3716,
+"en": "Road Safety Amulet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3717,
+"en": "Good Luck Amulet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3718,
+"en": "Travel Safety Amulet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3719,
+"en": "Romance Amulet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3720,
+"en": "Charismatic Photo",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3721,
+"en": "Morning Glory Photo",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3722,
+"en": "Eye of the Dragon",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3723,
+"en": "Dragon God Amulet",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3724,
+"en": "Pure White Briefs",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3725,
+"en": "Boxer Briefs",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3726,
+"en": "Trunks",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3727,
+"en": "Boomerang Briefs",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3728,
+"en": "Rokushaku Fundoshi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3729,
+"en": "Etchu Fundoshi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3730,
+"en": "Steel Underwear",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3731,
+"en": "Bloody Fundoshi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3732,
+"en": "Wrist Training Gear",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3733,
+"en": "Ankle Training Gear",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3734,
+"en": "Yakuza Training Gear",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3735,
+"en": "Substory Finder",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3736,
+"en": "Safe Finder",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3737,
+"en": "Toughness Z",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3738,
+"en": "Toughness ZZ",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3739,
+"en": "Toughness Infinity",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3740,
+"en": "Tauriner",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3741,
+"en": "Tauriner +",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3742,
+"en": "Tauriner ++",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3743,
+"en": "Tauriner Maximum",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3744,
+"en": "Staminan X",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3745,
+"en": "Staminan XX",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3746,
+"en": "Staminan Royale",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3747,
+"en": "Staminan Spark",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3748,
+"en": "AppStim Half",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3749,
+"en": "AppStim RX",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3750,
+"en": "Mystery Drink",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3751,
+"en": "Blended Coffee",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3752,
+"en": "Mocha",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3753,
+"en": "Special Shortcake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3754,
+"en": "Mont Blanc",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3755,
+"en": "Sandwich Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3756,
+"en": "Napolitan",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3757,
+"en": "Cappuccino",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3758,
+"en": "Espresso",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3759,
+"en": "Sandwich",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3760,
+"en": "Croissant",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3761,
+"en": "Toast",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3762,
+"en": "Teriyaki Smile Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3763,
+"en": "King Smile Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3764,
+"en": "Smile Fries",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3765,
+"en": "Smile Shake",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3766,
+"en": "Smile Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3767,
+"en": "Limited Millennium Tower Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3768,
+"en": "Wild Burger",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3769,
+"en": "Kyushu Tonkotsu Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3770,
+"en": "Stewed Pork Tonkotsu Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3771,
+"en": "Chashu Tonkotsu Ramen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3772,
+"en": "Kyushu Tonkotsu Tsukemen",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3773,
+"en": "Fried Rice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3774,
+"en": "Gyoza",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3775,
+"en": "Salted Tongue",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3776,
+"en": "Grade A Salted Tongue",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3777,
+"en": "Kalbi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3778,
+"en": "Grade A Kalbi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3779,
+"en": "Sirloin",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3780,
+"en": "Grade A Sirloin",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3781,
+"en": "Harami",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3782,
+"en": "Grade A Harami",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3783,
+"en": "Tripe BBQ",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3784,
+"en": "Seafood Platter",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3785,
+"en": "Kimchi Combo",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3786,
+"en": "Stone-cooked Bibimbap",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3787,
+"en": "Spicy Beef Soup",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3788,
+"en": "Grilled Garlic",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3789,
+"en": "Kanrai Special Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3790,
+"en": "Nishiki Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3791,
+"en": "Miyabi Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3792,
+"en": "Kiwami Set",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3793,
+"en": "Flower Chirashi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3794,
+"en": "Kiwami Chirashi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3795,
+"en": "Tuna Rice Bowl",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3796,
+"en": "Kiwami Seafood Rice Bowl",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3797,
+"en": "Osuimono",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3798,
+"en": "Lobster Miso Soup",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3799,
+"en": "Chef's Selection Pudding",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3800,
+"en": "Meat Nabe",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3801,
+"en": "Stew",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3802,
+"en": "Crunchy Shochu Highball",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3803,
+"en": "Takobutsu",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3804,
+"en": "Pickle Platter",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3805,
+"en": "Edamame",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3806,
+"en": "Potato Salad",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3807,
+"en": "Draft Beer",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3808,
+"en": "Pickles",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3809,
+"en": "Chicken Karaage",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3810,
+"en": "Kimchi Fried Rice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3811,
+"en": "Omurice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3812,
+"en": "Curry & Rice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3813,
+"en": "Chirashi Sushi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3814,
+"en": "Fruit Platter",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3815,
+"en": "Carbonara",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3816,
+"en": "Potato Wedges",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3817,
+"en": "Grilled Oyster",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3818,
+"en": "Raw Oyster",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3819,
+"en": "Fried Oysters",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3820,
+"en": "Oyster Omelette",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3821,
+"en": "Salt Grilled Rockfish",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3822,
+"en": "Oyster Dotenabe",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3823,
+"en": "Oyster Rice",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3824,
+"en": "Fisherman Soup",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3825,
+"en": "Octopus Sashimi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3826,
+"en": "Squid Sashimi",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+},
+{
+"id": 3827,
+"en": "Sashimi Platter",
+"ctx": "item|name + item|name_for_shop",
+"max": null
+}
+]

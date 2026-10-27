@@ -1,0 +1,80 @@
+[
+{
+"id": 4452,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\n　The readable second strike can easily be dodged by your opponents.\n　Mix things up by stopping after only one  <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　Will floor opponents when activated as a Counter Hit.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_k> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\n　A half-spin that will floor an opponent if used as a Counter Hit.\n　You will be left slightly vulnerable if your opponent blocks this move.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Turns the opponent sideways to give you an offensive advantage.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Hurl opponents behind you. This may fling them out of the ring.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4453,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　A handy move that puts some distance between you and your opponent.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w9> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Pulling this move off will slam your opponent down on the ground.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　A half-spin technique useful against dodging opponents.\n　Will give you the advantage when activated as a Counter Hit.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　A low circular, effective against standing guards.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Pushes opponents away. Most useful when you have them cornered.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4454,
+"en": "Vanessa can switch styles by pressing <symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g>.\n<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　A half-spin move useful against dodging opponents.\n　There are also variations such as <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k> and <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　A High Attack that knocks opponents down with ease.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　A full-spin that will even hit dodging opponents.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Turns the opponent sideways to give you an offensive advantage.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Break your opponent's neck for severe damage.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4455,
+"en": "Vanessa Lewis (Defensive)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4456,
+"en": "Vanessa can switch styles by pressing <symbol=vf5_key_p> + <symbol=vf5_key_k> + <symbol=vf5_key_g>.\n*She will begin each round in Defensive Style.\n<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　Will give you a great advantage if used as a Counter Hit. Try an extra <symbol=vf5_key_k> at the end.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w9> <symbol=vf5_key_k>\n　Pulling this move off will launch your opponent into the air.\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\n　A half-spin technique useful against dodging opponents.\n　Will give you the advantage when activated as a Counter Hit.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Great against guarding opponents, but vulnerable if the opponent is crouching.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Expertly utilizes your legs to slam your opponent to the ground.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4457,
+"en": "Vanessa Lewis (Offensive)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4458,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　Using this as a Counter Hit will give you a major advantage. Keep your offense up!\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\n　Especially useful when activated as a Counter Hit.\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> or <symbol=vf5_key_arrow_w8> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Shift your body for a sweeping kick. This can even be used to dodge attacks.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Turns the opponent sideways to give you an offensive advantage.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Strangles your opponents for severe damage.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4459,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　Will give you a great advantage if used as a Counter Hit.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Pulling this move off will launch your opponent into the air.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Long reach means you can use this move from a great distance.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　A low circular, effective against standing guards.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Let loose three quick knee strikes in succession.\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_k>.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4460,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　Will give you a great advantage if used as a Counter Hit.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Pulling this move off will launch your opponent into the air.\n　Continue the combo with <symbol=vf5_key_k> <symbol=vf5_key_k> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\n　A half-spin technique useful against dodging opponents.\n　Will give you the advantage when activated as a Counter Hit.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Turns the opponent sideways to give you an offensive advantage.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Hurl opponents forward. This may fling them out of the ring.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4461,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　A quick attack with long reach. Use it to jumpstart your offense.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w9> <symbol=vf5_key_k>\n　Pulling this move off will launch your opponent into the air.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k> <symbol=vf5_key_p> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　Will floor opponents when activated as a Counter Hit.\n　Continue the combo with <symbol=vf5_key_arrow_w8> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　A circular that will transition you into a backward-facing stance.\n　As it's a High Attack, you will be left vulnerable if the opponent crouches.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Hold the opponent's head between your legs, spin, and slam them into the ground.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4462,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\n　Knocks an opponent down with just the first strike. A useful offense starter.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　Pulling this move off will launch your opponent into the air.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_k> <symbol=vf5_key_p> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　A low half-spin useful against dodging opponents.\n　You'll be left vulnerable if your opponent manages to guard it.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p>\n　This will transition you to a backward-facing stance.\n　From there, use <symbol=vf5_key_k> for a Mid Attack or <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> for a Low Attack.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Grab your opponent's head and swing them around. Inflicts severe damage.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4463,
+"en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　You can also perform a longer string by pressing <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_k>.\n　Be careful: The last two hits in that variant will be High Attacks.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\n　Pulling this move off will launch your opponent into the air.\n　Continue the combo with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_p>\n　A half-circular technique useful against dodging opponents.\n　Will give you the advantage when activated as a Counter Hit.\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Turns the opponent sideways to give you an offensive advantage.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Sends out continuous punches and kicks toward your opponent.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4464,
+"en": "<color=mg_relu_topic>Basic Rules</color>\nOnce the game begins, pairs of Puyos will start to fall\nfrom the upper part of the screen. Create a group of 4 or more\nPuyos of the same color to pop them. The clear Garbage Puyos\ncan be cleared by popping a Puyo chain adjacent to them.\n\nCharacters will appear consecutively to battle you.\nTry to see how many wins you can rack up! \n\n<color=mg_relu_topic>Chains</color>\nA chain is when, after popping one group of Puyos, more Puyos\nfall into place and pop as well. Large chains are the key to\noverwhelming your opponent with Garbage Puyos.",
+"ctx": "manual|table/#//#",
+"max": null
+}
+]

@@ -1,0 +1,45 @@
+{
+ "textura": "e/texture/nouryoku_bg",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1480,
+    27,
+    2006,
+    103
+   ],
+   "en": "Limit Break",
+   "ocr": "Limit Break",
+   "es": "Ruptura de límites",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 520,
+   "tam": 76
+  },
+  {
+   "caja": [
+    1462,
+    140,
+    2022,
+    246
+   ],
+   "en": "Limit Break",
+   "ocr": "Limit Break",
+   "es": "Ruptura de límites",
+   "fuente": "timesbd.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 520,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "tam": 76
+  }
+ ]
+}

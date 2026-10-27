@@ -1,0 +1,644 @@
+{
+ "textura": "e/texture/mg_sumoguri_text",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    6,
+    3,
+    541,
+    92
+   ],
+   "en": "FAILED",
+   "ocr": "FAILED",
+   "es": "FALLÓ",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 535,
+   "estilo": {
+    "arriba": [
+     120,
+     180,
+     255
+    ],
+    "abajo": [
+     120,
+     40,
+     210
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     5
+    ]
+   }
+  },
+  {
+   "caja": [
+    626,
+    0,
+    751,
+    36
+   ],
+   "en": "Reward",
+   "ocr": "Reward",
+   "es": "Recompensa",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 121
+  },
+  {
+   "caja": [
+    865,
+    0,
+    983,
+    44
+   ],
+   "en": "Rare",
+   "ocr": "Rare",
+   "es": "Raro",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 118
+  },
+  {
+   "caja": [
+    667,
+    33,
+    819,
+    63
+   ],
+   "en": "Advanced",
+   "ocr": "Advanced",
+   "es": "Avanzado",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 148
+  },
+  {
+   "caja": [
+    838,
+    44,
+    1017,
+    87
+   ],
+   "en": "Premium",
+   "ocr": "Premium",
+   "es": "Premium",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 179
+  },
+  {
+   "caja": [
+    654,
+    63,
+    827,
+    95
+   ],
+   "en": "Intermediate",
+   "ocr": "Intermediate",
+   "es": "Intermedio",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 169
+  },
+  {
+   "caja": [
+    8,
+    97,
+    360,
+    181
+   ],
+   "en": "STAR",
+   "ocr": "STAR",
+   "es": "ESTRELLA",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 352,
+   "estilo": {
+    "arriba": [
+     255,
+     160,
+     40
+    ],
+    "abajo": [
+     230,
+     20,
+     20
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     5
+    ]
+   }
+  },
+  {
+   "caja": [
+    365,
+    96,
+    581,
+    139
+   ],
+   "en": "DANGER",
+   "ocr": "DANGER",
+   "es": "PELIGRO",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 216
+  },
+  {
+   "caja": [
+    672,
+    89,
+    809,
+    127
+   ],
+   "en": "Beginner",
+   "ocr": "Beginner",
+   "es": "Principiante",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 133
+  },
+  {
+   "caja": [
+    869,
+    88,
+    982,
+    132
+   ],
+   "en": "GET!",
+   "ocr": "GET!",
+   "es": "¡OBTENIDO!",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 113,
+   "estilo": {
+    "arriba": [
+     255,
+     60,
+     60
+    ],
+    "abajo": [
+     200,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    876,
+    130,
+    1024,
+    165
+   ],
+   "en": "Advanced",
+   "ocr": "Advanced",
+   "es": "Avanzado",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 144
+  },
+  {
+   "caja": [
+    859,
+    164,
+    1024,
+    194
+   ],
+   "en": "Intermediate",
+   "ocr": "Intermediate",
+   "es": "Intermedio",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 161
+  },
+  {
+   "caja": [
+    891,
+    189,
+    1024,
+    228
+   ],
+   "en": "Beginner",
+   "ocr": "Beginner",
+   "es": "Principiante",
+   "fuente": "comicbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 129
+  },
+  {
+   "caja": [
+    835,
+    315,
+    958,
+    365
+   ],
+   "en": "Total",
+   "ocr": "Total",
+   "es": "Total",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 123,
+   "dejar": true
+  },
+  {
+   "caja": [
+    759,
+    355,
+    902,
+    404
+   ],
+   "en": "Stats",
+   "ocr": "Stats",
+   "es": "Atributos",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 139,
+   "estilo": {
+    "arriba": [
+     15,
+     15,
+     15
+    ],
+    "abajo": [
+     15,
+     15,
+     15
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    758,
+    398,
+    876,
+    444
+   ],
+   "en": "Area",
+   "ocr": "Area",
+   "es": "Área",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 118,
+   "estilo": {
+    "arriba": [
+     15,
+     15,
+     15
+    ],
+    "abajo": [
+     15,
+     15,
+     15
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    779,
+    438,
+    1007,
+    486
+   ],
+   "en": "Equipment",
+   "ocr": "Equipment",
+   "es": "Equipo",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 224,
+   "estilo": {
+    "arriba": [
+     15,
+     15,
+     15
+    ],
+    "abajo": [
+     15,
+     15,
+     15
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    759,
+    481,
+    993,
+    523
+   ],
+   "en": "Today's Catch",
+   "ocr": "Today's Catch",
+   "es": "Captura de hoy",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 234,
+   "estilo": {
+    "arriba": [
+     15,
+     15,
+     15
+    ],
+    "abajo": [
+     15,
+     15,
+     15
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    17,
+    498,
+    496,
+    580
+   ],
+   "en": "Defeated!",
+   "ocr": "Defeated!",
+   "es": "¡Derrotado!",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 479,
+   "estilo": {
+    "arriba": [
+     255,
+     70,
+     70
+    ],
+    "abajo": [
+     205,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     5
+    ]
+   }
+  },
+  {
+   "caja": [
+    707,
+    530,
+    997,
+    593
+   ],
+   "en": "Results",
+   "ocr": "Results",
+   "es": "Resultados",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 286,
+   "estilo": {
+    "arriba": [
+     15,
+     15,
+     15
+    ],
+    "abajo": [
+     15,
+     15,
+     15
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    29,
+    609,
+    991,
+    743
+   ],
+   "en": "Emperor",
+   "ocr": "Emperor",
+   "es": "Calamar emperador",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 595,
+   "estilo": {
+    "arriba": [
+     25,
+     10,
+     10
+    ],
+    "abajo": [
+     225,
+     30,
+     20
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     5
+    ]
+   }
+  },
+  {
+   "caja": [
+    619,
+    613,
+    991,
+    731
+   ],
+   "en": "Squid",
+   "ocr": "Squid",
+   "es": "",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 368,
+   "estilo": {
+    "arriba": [
+     25,
+     10,
+     10
+    ],
+    "abajo": [
+     225,
+     30,
+     20
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     5
+    ]
+   }
+  },
+  {
+   "caja": [
+    21,
+    771,
+    1011,
+    872
+   ],
+   "en": "Delicious",
+   "ocr": "Delicious",
+   "es": "Pulpo delicioso",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 506,
+   "estilo": {
+    "arriba": [
+     25,
+     10,
+     10
+    ],
+    "abajo": [
+     225,
+     30,
+     20
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     5
+    ]
+   }
+  },
+  {
+   "caja": [
+    523,
+    773,
+    1011,
+    872
+   ],
+   "en": "Octopus",
+   "ocr": "Octopus",
+   "es": "",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 488,
+   "estilo": {
+    "arriba": [
+     25,
+     10,
+     10
+    ],
+    "abajo": [
+     225,
+     30,
+     20
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     5
+    ]
+   }
+  },
+  {
+   "caja": [
+    82,
+    894,
+    950,
+    1016
+   ],
+   "en": "Bloody Shark",
+   "ocr": "Bloody Shark",
+   "es": "Tiburón sangriento",
+   "fuente": "comicbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 864
+  }
+ ]
+}

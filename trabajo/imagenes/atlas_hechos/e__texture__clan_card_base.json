@@ -1,0 +1,210 @@
+{
+ "textura": "e/texture/clan_card_base",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    238,
+    144,
+    460,
+    190
+   ],
+   "en": "EMPTY",
+   "ocr": "EMPTY",
+   "es": "VACÍO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 222
+  },
+  {
+   "caja": [
+    235,
+    198,
+    464,
+    237
+   ],
+   "en": "PLAYER RANK",
+   "ocr": "PLAYER RANK",
+   "es": "RANGO DEL JUGADOR",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 229
+  },
+  {
+   "caja": [
+    477,
+    244,
+    505,
+    262
+   ],
+   "en": "EXP",
+   "ocr": "EXP",
+   "es": "EXP",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 24
+  },
+  {
+   "caja": [
+    36,
+    306,
+    181,
+    345
+   ],
+   "en": "DEPLOYED",
+   "ocr": "DEPLOYED",
+   "es": "DESPLEGADO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 145
+  },
+  {
+   "caja": [
+    44,
+    343,
+    166,
+    381
+   ],
+   "en": "HEALING",
+   "ocr": "HEALING",
+   "es": "CURANDO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 122
+  },
+  {
+   "caja": [
+    187,
+    410,
+    296,
+    450
+   ],
+   "en": "NEW",
+   "ocr": "NEW",
+   "es": "NUEVO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 109
+  },
+  {
+   "caja": [
+    301,
+    412,
+    455,
+    446
+   ],
+   "en": "FAILED",
+   "ocr": "FAILED",
+   "es": "FALLIDO",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 154,
+   "estilo": {
+    "arriba": [
+     255,
+     60,
+     50
+    ],
+    "abajo": [
+     205,
+     0,
+     0
+    ],
+    "contorno": [
+     [
+      80,
+      0,
+      0
+     ],
+     1
+    ],
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    140,
+    459,
+    290,
+    498
+   ],
+   "en": "CLEAR",
+   "ocr": "CLEAR",
+   "es": "DESPEJADO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 150
+  },
+  {
+   "caja": [
+    326,
+    453,
+    404,
+    492
+   ],
+   "en": "AREA",
+   "ocr": "AREA12345",
+   "es": "ÁREA",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 78
+  },
+  {
+   "caja": [
+    256,
+    512,
+    331,
+    560
+   ],
+   "en": "Lv.",
+   "ocr": "Lv.1234",
+   "es": "Nv.",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 75
+  },
+  {
+   "caja": [
+    352,
+    562,
+    505,
+    613
+   ],
+   "en": "MAX",
+   "ocr": "MAX",
+   "es": "MÁX.",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 149,
+   "dejar": true
+  },
+  {
+   "caja": [
+    258,
+    636,
+    462,
+    676
+   ],
+   "en": "PERFECT",
+   "ocr": "PERFECT",
+   "es": "PERFECTO",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 204
+  }
+ ]
+}

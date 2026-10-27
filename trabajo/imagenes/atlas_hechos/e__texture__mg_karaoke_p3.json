@@ -1,0 +1,42 @@
+{
+ "textura": "e/texture/mg_karaoke_p3",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    9,
+    133,
+    53,
+    150
+   ],
+   "en": "COMBO",
+   "ocr": "COMAO",
+   "es": "COMBO",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 44,
+   "dejar": true
+  },
+  {
+   "caja": [
+    105,
+    233,
+    213,
+    269
+   ],
+   "en": "Tano mu ka ra",
+   "ocr": "力 Tanomu",
+   "es": "Tano mu ka ra",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 108,
+   "dejar": true
+  }
+ ]
+}

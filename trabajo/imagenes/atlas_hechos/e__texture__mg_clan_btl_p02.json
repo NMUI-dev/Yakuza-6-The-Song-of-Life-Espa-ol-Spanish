@@ -1,0 +1,93 @@
+{
+ "textura": "e/texture/mg_clan_btl_p02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    7,
+    41,
+    79,
+    56
+   ],
+   "en": "Wipe out the enemy!",
+   "ocr": "Wipe out the enemy!",
+   "es": "¡Acaba con el enemigo!",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 68,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    14,
+    63,
+    55,
+    78
+   ],
+   "en": "enemies left",
+   "ocr": "(nenies Left",
+   "es": "Restantes",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 37,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    18,
+    132,
+    49,
+    147
+   ],
+   "en": "AREA 1",
+   "ocr": "AREAT",
+   "es": "ÁREA 1",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 31,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    227,
+    175,
+    300,
+    195
+   ],
+   "en": "Start Battle",
+   "ocr": "Start Battle",
+   "es": "Iniciar batalla",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 73,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ]
+}

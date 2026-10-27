@@ -1,0 +1,42 @@
+{
+ "textura": "e/texture/mg_snack_p4_x",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    10,
+    5,
+    36,
+    27
+   ],
+   "en": "PROPRIO",
+   "ocr": "PrA",
+   "es": "PROPIO",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 26,
+   "dejar": true
+  },
+  {
+   "caja": [
+    178,
+    130,
+    271,
+    150
+   ],
+   "en": "Head over there, Katakryana.",
+   "ocr": "ed ere.Bt",
+   "es": "Ve allá, Katakryana.",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 93,
+   "dejar": true
+  }
+ ]
+}

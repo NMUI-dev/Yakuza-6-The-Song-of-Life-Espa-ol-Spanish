@@ -1,0 +1,48 @@
+{
+ "textura": "e/texture/mg_gym_benchpress",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    15,
+    9,
+    112,
+    23
+   ],
+   "en": "Bench Press",
+   "ocr": "Bench Press",
+   "es": "Press de banca",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 54,
+   "color": [
+    196,
+    156,
+    44
+   ],
+   "alto": 7,
+   "mediana": false
+  },
+  {
+   "caja": [
+    188,
+    188,
+    236,
+    234
+   ],
+   "en": "RIZAN",
+   "ocr": "CRIEAP",
+   "es": "RIZAN",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  }
+ ]
+}

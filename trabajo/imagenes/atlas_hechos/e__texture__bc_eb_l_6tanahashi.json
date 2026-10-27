@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/bc_eb_l_6tanahashi",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    24,
+    152,
+    1006,
+    259
+   ],
+   "en": "HIROSHI TANAHASHI",
+   "ocr": "HIROSHI TANAHASHI",
+   "es": "HIROSHI TANAHASHI",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 978
+  },
+  {
+   "caja": [
+    106,
+    258,
+    924,
+    363
+   ],
+   "en": "THE SIX LUNATICS",
+   "ocr": "THE SIX LUNATICS",
+   "es": "THE SIX LUNATICS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 818
+  }
+ ]
+}

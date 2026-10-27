@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/ui_food_jm_ootyashusoba",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    136,
+    162,
+    239,
+    228
+   ],
+   "en": "BIG!",
+   "ocr": "BIG!",
+   "es": "¡GRANDE!",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 103,
+   "dejar": true
+  }
+ ]
+}

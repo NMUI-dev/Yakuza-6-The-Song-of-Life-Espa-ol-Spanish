@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/batting_parts02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    180,
+    959,
+    532,
+    1018
+   ],
+   "en": "Challenge Failed",
+   "ocr": "Challenge Failed",
+   "es": "Desafío fallido",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 352
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "textura": "e/texture/mg_clan_btl_p06_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    42,
+    126,
+    64
+   ],
+   "en": "Ultimate Dropkick",
+   "ocr": "UltimateDropkick",
+   "es": "Patada voladora definitiva",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 122
+  },
+  {
+   "caja": [
+    187,
+    45,
+    312,
+    67
+   ],
+   "en": "Ultimate Dropkick",
+   "ocr": "Ultimate Dropkick",
+   "es": "Patada voladora definitiva",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 121
+  },
+  {
+   "caja": [
+    2,
+    143,
+    89,
+    168
+   ],
+   "en": "DEPLOYED",
+   "ocr": "DEPLOYED",
+   "es": "DESPLEGADO",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 80,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     225,
+     225,
+     225
+    ],
+    "contorno": [
+     [
+      20,
+      0,
+      0
+     ],
+     2
+    ]
+   },
+   "mediana": false
+  },
+  {
+   "caja": [
+    189,
+    145,
+    275,
+    170
+   ],
+   "en": "DEPLOYED",
+   "ocr": "DEPLOYED",
+   "es": "DESPLEGADO",
+   "fuente": "segoeuiz.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 80,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     225,
+     225,
+     225
+    ],
+    "contorno": [
+     [
+      20,
+      0,
+      0
+     ],
+     2
+    ]
+   },
+   "mediana": false
+  }
+ ]
+}

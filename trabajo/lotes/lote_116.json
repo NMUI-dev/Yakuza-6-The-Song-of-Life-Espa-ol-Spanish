@@ -1,0 +1,1550 @@
+[
+{
+"id": 28496,
+"en": "A person's ambition reveals who they are.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28497,
+"en": "Gen-san must be a nutjob, then.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28498,
+"en": "Leave Mama alone.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28499,
+"en": "Leave Mama a tip.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28500,
+"en": "Leave it to Mama.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28501,
+"en": "Mama, what about your ambitions?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28502,
+"en": "Ambitions...",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28503,
+"en": "Maybe franchise a second n' third bar to conquer Onomichi!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28504,
+"en": "Or Tokyo's Kamurocho! Y'could open up in the red-light district!",
+"ctx": "talk",
+"max": 79
+},
+{
+"id": 28505,
+"en": "Pay me protection money.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28506,
+"en": "Steer clear, Mama.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28507,
+"en": "You'd do that?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28508,
+"en": "Tokyo, huh? Never gave it much thought.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28509,
+"en": "Hm, I don't know if I like the idea of Mama bein' a success.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28510,
+"en": "Yeah. Kinda bothers me a little too.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28511,
+"en": "What!? Why not?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28512,
+"en": "Good analogy.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28513,
+"en": "Good apology.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28514,
+"en": "Good epiphany.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28515,
+"en": "Y'know, it's like when a band you love starts sellin' out.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28516,
+"en": "When we became your fans.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28517,
+"en": "When you rocked out at karaoke.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28518,
+"en": "When you stole my heart.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28519,
+"en": "When did I become a band?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28520,
+"en": "Oh? Well that's sweet of ya t'say.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28521,
+"en": "Stole the words outta my mouth!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28522,
+"en": "Liar.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28523,
+"en": "Don't go all big time, Mama. And don't move to Tokyo.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28524,
+"en": "It'd be tough.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28525,
+"en": "Not for me.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28526,
+"en": "Too harsh.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28527,
+"en": "Yeah, that's too far t'go for a drink for us.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28528,
+"en": "What's with this silliness?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28529,
+"en": "I would.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28530,
+"en": "I wouldn't dream of it.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28531,
+"en": "I would go home.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28532,
+"en": "But wouldn't you guys just find another bar if I left?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28533,
+"en": "Really? Then stayin' here makes sense t'me.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28534,
+"en": "Ehhh.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28535,
+"en": "Where's the tip jar?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28536,
+"en": "You guys better keep supporting me here, though.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28537,
+"en": "A family like ours...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28538,
+"en": "A family like the Tojo Clan...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28539,
+"en": "A family for orphans...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28540,
+"en": "This place calms me down. Y'all are like family.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28541,
+"en": "Y'already got a family, Hatakeyama-san.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28542,
+"en": "Well said.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28543,
+"en": "Well, not really.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28544,
+"en": "Well, skunks.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28545,
+"en": "Could y'say that in front of yer daughter?",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28546,
+"en": "You're not far off, though. It feels like home here.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28547,
+"en": "Exactly.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28548,
+"en": "Ecstasy.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28549,
+"en": "Excelsior.",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28550,
+"en": "My worries slip away when I drink with the regulars.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28551,
+"en": "\"Regulars\" mean the world to a bar like this, I guess.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28552,
+"en": "When?",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28553,
+"en": "She means Kiryu-san, obviously.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28554,
+"en": "Absolutely. Kiryu-san listened to us like a champ.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28555,
+"en": "You're a man of the world.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28556,
+"en": "Kiryu-san seems to have really helped us out.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28557,
+"en": "We're just gettin' started, rookie!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28558,
+"en": "He's the furthest thing from a rookie...",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28559,
+"en": "To more drinks and good times!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28560,
+"en": "Y'gotta go out with a bang!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28561,
+"en": "Place an Order",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28562,
+"en": "Learn about the Bar",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28563,
+"en": "About Regulars",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28564,
+"en": "Reputation",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28565,
+"en": "Would you like to play darts?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28566,
+"en": "Play with Mama",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28567,
+"en": "(Not too bad, I guess.)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28568,
+"en": "(It didn't go so well...)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28569,
+"en": "Would you like to sing karaoke?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28570,
+"en": "(Heh, sounds like things got lively.)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28571,
+"en": "(Not bad I guess.)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28572,
+"en": "(I didn't feel too good about that one...)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28573,
+"en": "Would you like to leave the bar?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28574,
+"en": "Thanks for the other day!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28575,
+"en": "I'll be counting on you again!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28576,
+"en": "Sure.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28577,
+"en": "I'm busy right now.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28578,
+"en": "Go Inside",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28579,
+"en": "Don't Go Inside",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28580,
+"en": "(What the hell is this person saying?)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28581,
+"en": "All right, that'll do it.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28582,
+"en": "I guess I'll head over to the meeting spot.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28583,
+"en": "Hide it Behind the Poster",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28584,
+"en": "Look Elsewhere",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28585,
+"en": "Place the Letter on the Counter",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28586,
+"en": "Hide the Letter in the Darts Machine",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28587,
+"en": "Hide the Letter in the Karaoke Machine",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28588,
+"en": "Place the Letter onto the Table",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28589,
+"en": "Place it Under the Electric Pot",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28590,
+"en": "(I'll come back later.)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28591,
+"en": "Is it some kind of rice bowl?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28592,
+"en": "It sounds like a Greek god.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28593,
+"en": "Does it have to do with hitting a wall?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28594,
+"en": "You're not going home tonight.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28595,
+"en": "You're mine.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28596,
+"en": "(No. Daigo's young, but he's not this young.)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28597,
+"en": "(That sounds reasonable.)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28598,
+"en": "Sounds like Daigo.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28599,
+"en": "Sounds like Haruto.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28600,
+"en": "Sounds like Taichi.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28601,
+"en": "No, this is definitely Taichi.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28602,
+"en": "This is probably a scam.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28603,
+"en": "This doesn't seem like a scam.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28604,
+"en": "This is definitely a scam!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28605,
+"en": "Maybe they were wrestling.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28606,
+"en": "Taichi's probably flustered.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28607,
+"en": "Mensore!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28608,
+"en": "(This is weird...)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28609,
+"en": "I should hand over the money.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28610,
+"en": "This is a scam!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28611,
+"en": "I've had enough of your lies.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28612,
+"en": "The modern world is a crazy place.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28613,
+"en": "I'm going home.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28614,
+"en": "I'm too busy right now.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28615,
+"en": "(Damn, I lost track of Soji.)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28616,
+"en": "(I'm going to catch it this time!)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28617,
+"en": "Sure, why not.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28618,
+"en": "Yeah, let's give it a try.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28619,
+"en": "Younger sounds good.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28620,
+"en": "How about sexier?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28621,
+"en": "Do you want to exterminate mankind?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28622,
+"en": "I'm too busy for this.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28623,
+"en": "I might like that other app better.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28624,
+"en": "Hiji's the best.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28625,
+"en": "Yeah, enter it again for me.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28626,
+"en": "No, let's leave it be actually.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28627,
+"en": "(Dammit, I lost track of the drone...)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28628,
+"en": "(I'll definitely catch it this time.)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28629,
+"en": "I was too slow...",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28630,
+"en": "I can't wait any longer.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28631,
+"en": "Are you sure this isn't a trap?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28632,
+"en": "You don't need to know that.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28633,
+"en": "I love you, Reiko.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28634,
+"en": "\"Please? I really need your help.\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28635,
+"en": "\"Thanks. Buy five \\10,000 cards.\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28636,
+"en": "\"Let me know when you get them.\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28637,
+"en": "Sorry, I'm a little busy right now.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28638,
+"en": "Yeah. What do you need me to do?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28639,
+"en": "\"What the hell's going on, Kiryu!?\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28640,
+"en": "\"That wasn't me you were talking to!\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28641,
+"en": "\"Your 50 grand could be anywhere by now!\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28642,
+"en": "\"No, dammit!\"",
+"ctx": "talk",
+"max": 15
+},
+{
+"id": 28643,
+"en": "\"Family issues.\"",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28644,
+"en": "\"Fine. Let's meet up.\"",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28645,
+"en": "\"The roof of the Senryo Building.\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28646,
+"en": "Send the Photos",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28647,
+"en": "Ask Why He Wants Them",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28648,
+"en": "Pry Further",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28649,
+"en": "Pry Even Further",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28650,
+"en": "\"Kiryu, I just found out my account got hacked!\"",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28651,
+"en": "\"You <font_kind=yakuza_italic>handled</font_kind> it? How?\"",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28652,
+"en": "\"I'll send some guys to clean this up.\"",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28653,
+"en": "I guess I have time for a round.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28654,
+"en": "Let's save it for some other time.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28655,
+"en": "Pure, energetic women.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28656,
+"en": "Pure, ladylike women.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28657,
+"en": "There's something I need to do first.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28658,
+"en": "I can't right now...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28659,
+"en": "Maybe someday.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28660,
+"en": "They're pretty fun.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28661,
+"en": "They're boring.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28662,
+"en": "They're too easy.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28663,
+"en": "They're way too hard.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28664,
+"en": "Attempt Yoshida's trial challenge?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28665,
+"en": "I want you to be my friend.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28666,
+"en": "I want you on my baseball team.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28667,
+"en": "You're on!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28668,
+"en": "I am.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28669,
+"en": "Not right now.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28670,
+"en": "B V<qAM=",
+"ctx": "talk",
+"max": 43
+},
+{
+"id": 28671,
+"en": "(What's going on over there...?)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28672,
+"en": "A room full of kittens.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28673,
+"en": "A place for short conversations.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28674,
+"en": "An online messaging group.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28675,
+"en": "Become a member.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28676,
+"en": "Don't become a member.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28677,
+"en": "You're cute.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28678,
+"en": "Go inside.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28679,
+"en": "Don't go inside.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28680,
+"en": "(How did he get my email address...?)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28681,
+"en": "Why don't you talk to me for a bit?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28682,
+"en": "& 7;>BEILPSWZ^`VLkmjYGkK_oxiS>)",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28683,
+"en": "Go tell him how you feel.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28684,
+"en": "Everyone just wants you to succeed.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28685,
+"en": "You should be a track star instead.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28686,
+"en": "Sure, I'll hear you out.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28687,
+"en": "Dolche Uho",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28688,
+"en": "Munancho",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28689,
+"en": "Hept-onast",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28690,
+"en": "Kulipaas",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28691,
+"en": "Kulibaaf",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28692,
+"en": "Munan Suzuki",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28693,
+"en": "Munan Sato",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28694,
+"en": "Brainwashing",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28695,
+"en": "Re-education",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28696,
+"en": "Sex Education",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28697,
+"en": "Say It with the Pose",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28698,
+"en": "Just Say the Word",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28699,
+"en": "Refuse",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28700,
+"en": "I'll help you out.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28701,
+"en": "Introduce Yourself Casually",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28702,
+"en": "Introduce Yourself Passionately",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28703,
+"en": "Sake and cucumber salad.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28704,
+"en": "Sexy women.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28705,
+"en": "I once loved someone...",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28706,
+"en": "I'm actually a virgin.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28707,
+"en": "Honestly, I am.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28708,
+"en": "If you insist.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28709,
+"en": "Will there be any serious disasters?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28710,
+"en": "Who'll win the top horse races?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28711,
+"en": "Okay, I'll believe you.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28712,
+"en": "No way, I can't believe you after all.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28713,
+"en": "After a closer look, she's pretty cute.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28714,
+"en": "You can't expect that to work.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28715,
+"en": "Crying isn't gonna solve anything.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28716,
+"en": "There's no way you swapped bodies.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28717,
+"en": "I'll lend you my shoulder to cry on.",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28718,
+"en": "Moritsuka has joined the Setouchi Warriors!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28719,
+"en": "All riiiiiiiiight!",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28720,
+"en": "Let's do it!",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28721,
+"en": "Would you like to go fishing?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28722,
+"en": "Gorchov has joined the Setouchi Warriors!",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28723,
+"en": "Depart for Onomichi?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28724,
+"en": "Don't Go",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28725,
+"en": "Depart for Kamurocho?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28726,
+"en": "Would you like to return to the city?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28727,
+"en": "Not Yet",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28728,
+"en": "Where would you like to go?",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28729,
+"en": "We look forward to seeing you again.",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28730,
+"en": "Well then, let's get going.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28731,
+"en": "4th Floor",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28732,
+"en": "3rd Floor",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28733,
+"en": "2nd Floor",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28734,
+"en": "1st Floor",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28735,
+"en": "6th Floor",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28736,
+"en": "Rooftop",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28737,
+"en": "Basement",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28738,
+"en": "Try again?",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28739,
+"en": "Please enter a passcode.",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28740,
+"en": "Buy a One-way Ticket",
+"ctx": "talk",
+"max": 63
+},
+{
+"id": 28741,
+"en": "Clan Creator Special Leader Goro Majima (SSR)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28742,
+"en": "Clan Creator Special Leader Taiga Saejima (SSR)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28743,
+"en": "Clan Creator Special Leader Daigo Dojima (SSR)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28744,
+"en": "Clan Creator Special Leader Makoto Date (SSR)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28745,
+"en": "Clan Creator Special Leader Shun Akiyama (SSR)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28746,
+"en": "Clan Creator Special Leader Kazuma Kiryu (SSR)",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28747,
+"en": "Strategy Guide Exclusive Item",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28748,
+"en": "Kiryu Best Exclusive Item",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28749,
+"en": "Bonus For Completing Achievement List",
+"ctx": "talk",
+"max": 47
+},
+{
+"id": 28750,
+"en": "Yakuza 6 Fun Pack 1",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28751,
+"en": "Yakuza 6 Fun Pack 2",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28752,
+"en": "Yakuza 6 Fun Pack 3",
+"ctx": "talk",
+"max": 31
+},
+{
+"id": 28753,
+"en": "Yakuza 6 Fun Pack 4",
+"ctx": "talk",
+"max": 31
+}
+]

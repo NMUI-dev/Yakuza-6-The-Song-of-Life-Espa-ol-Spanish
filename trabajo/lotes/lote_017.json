@@ -1,0 +1,320 @@
+[
+{
+"id": 4387,
+"en": "Pay attention to the flow of the conversation and\nchoose responses that keep it flowing naturally.\nRather than drawing attention to yourself,\nencourage them to open up and keep talking\nwhile you avoid being socially awkward.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4388,
+"en": "Making Conversation",
+"ctx": "manual|table/#//# + talk",
+"max": 63
+},
+{
+"id": 4389,
+"en": "If you can get the conversation past the Liveliness Marker,\nyou'll get the Conversation Finisher, indicated by a <symbol=button_sankaku,Minigame_NewGaudiBar_Conversation>.\n\nIf you don't meet the marker, the conversation will taper off\nand end on a sour note, but you can re-enter the bar to try again.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4390,
+"en": "Making Conversation (cont.)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4391,
+"en": "By succeeding in conversations and becoming friendly with the regulars,\nKiryu's social status within the bar will rise. Aim to become the kind\nof friend people talk about in bars.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4392,
+"en": "The New Gaudi Hierarchy",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4393,
+"en": "The New Gaudi bar also has darts and karaoke!\n\nShowing off your darts skills or letting others\nhear your manly singing voice is a great way\nto endear yourself to the locals.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4394,
+"en": "However, you can only increase the friendship meter\nonce via each game per visit.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4395,
+"en": "Darts and Karaoke",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4396,
+"en": "Use the Conversation Cards to get the conversation rolling\nwith a hostess. Your time will be up after you play six cards, but\nyou can extend your session twice for an additional two plays each.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4397,
+"en": "Depending on your card choices, you can raise the hostess's <color=mg_relu_strong>Mood Gauge</color>.\nThe higher the <color=mg_relu_strong>Mood Gauge</color> is by the end of the session, the closer you will\nbecome with the girl. Use the cards to win her heart!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4398,
+"en": "Mood Gauge",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4399,
+"en": "Use a <color=mg_relu_strong>Conversation Card</color> to discuss that topic with the girl.\nYour choices and her preferences have a big impact on the\nMood Gauge. Moreover, some cards will change topics\nbased on the current Mood Level.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4400,
+"en": "Conversation Cards",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4401,
+"en": "Use a <color=mg_relu_strong>Food Card</color> to place a food order. This may increase\nthe Mood Gauge, and some dishes even increase the\nnext Conversation Card's effect on the Mood Gauge.\nFood Cards reset your Chain, though, and cannot Chain\nwith other cards.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4402,
+"en": "Food Cards",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4403,
+"en": "Use a <color=mg_relu_strong>Drink Card</color> to place a drink order.\nIt's similar to the Food Card, but can be even more effective.\nHowever, if you get too drunk, your session may end abruptly,\nand they have the same effect on your Chain.\n",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4404,
+"en": "Drink Cards",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4405,
+"en": "Conversation Cards fall under five categories:\n<symbol=caba_love> <symbol=caba_talk> <symbol=caba_party> <symbol=caba_sexy> <symbol=caba_dandy>\nWhen you use the same category twice in a row, you'll get\na <color=mg_relu_strong>Card Chain</color>.\n\nUsing a category under the effect of a <color=mg_relu_strong>Chain</color> will increase\nthe Mood Gauge more than usual.\n\nIncrease the <color=mg_relu_strong>Chain</color> to a max of 7 for the best gains.\nThe Food Cards and Drink Cards can <color=mg_relu_strong>chain</color> as well,\nso try to maximize your returns!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4406,
+"en": "Card Chains",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4407,
+"en": "Use <Action=All_Directions,Minigame_OfferityBox> to throw your offerings into the box. Your goal is to fill up the Blessings Gauge,\nwhich will activate the Bonus Roulette! This will confer a variety of special buffs upon you.\nBut be careful, if you slide <Action=All_Directions,Minigame_OfferityBox> too strongly or at too much of an angle, the offerings won't\nland in the box, saddening the gods and your wallet.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4408,
+"en": "Temple Offering",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4409,
+"en": "The Gods Smile Upon the Generous",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4410,
+"en": "You can throw between 5 to 20 coins at once, but the more you throw in,\nthe more your Blessings Gauge increases.\n*If you run out of money or quit, the gauge remains filled.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4411,
+"en": "The shiny part of the offering box is called the \"Blessed Area.\" If you can land your coins there,\nthe Blessings Gauge goes up dramatically. The Blessed Area changes every time, so aim well.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4412,
+"en": "The Blessed Area",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4413,
+"en": "Once the Blessings Gauge is filled up, the Bonus Roulette will activate!\nPress <symbol=button_shikaku,Minigame_OfferityBox> and <symbol=button_sankaku,Minigame_OfferityBox> to stop the reels.\n<color=mg_relu_topic>*The roulette will stop automatically after 30 seconds. The gods are only so patient.</color>",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4414,
+"en": "The Bonus Roulette",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4415,
+"en": "\"Fantasy Zone\" is a side-scrolling shooting game introduced to arcades in 1986. The player controls its\nprotagonist, Opa-Opa, to fight through eight stages and clear the game.\n\n<color=mg_relu_topic>The Epic Prologue!</color>\nLONG AGO, FAR AWAY IN SPACE, THERE EXISTED A \"FANTASY ZONE\" WHERE A COURAGEOUS HERO CALLED\nOPA-OPA (THE PLAYER) FOUGHT IN A VALIANT CAUSE TO RESCUE THE \"FANTASY ZONE\" FROM ITS ENEMIES.\nIN THE SPACE YEAR 1422, THE INTERPLANETARY MONETARY SYSTEM COLLAPSED, CAUSING ALL OF THE PLANETS\nTO BECOME PANIC-STRICKEN.\n\nACCORDING TO AN OFFICIAL INQUIRY MADE BY THE SPACE GUILD, SOMEONE IS LEADING THE MENON PLANET\nFORCES, USING THEM TO STEAL THE FOREIGN CURRENCIES OF THE OTHER PLANETS, AND WITH THE FUNDS,\nCONSTRUCT A HUGE FORTRESS IN THE \"FANTASY ZONE.\"\n\nTO PUT AN END TO THEIR AMBITIOUS PLANS, OPA-OPA PROMPTLY TAKES OFF FOR THE \"FANTASY ZONE\" WHERE...",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4416,
+"en": "Welcome to the Fantasy Zone!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4417,
+"en": "Press <symbol=button_sankaku,Minigame_FantasyZone> to input credits, then press <symbol=button_options,Minigame_FantasyZone> to start the game.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4418,
+"en": "Starting the Game",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4419,
+"en": "Controlling Opa-Opa, destroy all the enemy bases on the planet.\nDefeated foes may drop coins, which you can use to buy parts in\nthe Parts Shop to power up. Defeat the enemies in all\neight stages to restore peace to the Fantasy Zone.\n\n<color=mg_relu_topic>Navigate With Your Radar!</color>\n　   Enemy bases appear on the radar at the bottom of the screen in red.\n     A white box on the radar indicates your position.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4420,
+"en": "Making Progress",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4421,
+"en": "<color=mg_relu_topic>The Parts Shop</color>\n　  Sometimes a Parts Shop shaped like a red balloon will appear.\n    Touch it to enter the Parts Shop and purchase power-up parts.\n    Choose a part, and press either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>.\n\n　  Do note that some parts increase in price as you buy more.\n    To leave the Parts Shop, choose \"EXIT\" with <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4422,
+"en": "<color=mg_relu_topic>Choose Your Weapons!</color>\n   After buying parts in the Parts Shop or touching a yellow balloon,\n   you're taken to the Parts Select Screen. Choose a part and press\n   either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>.\n   To go back to the game, choose \"EXIT\" with either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone>.\n\n<color=mg_relu_topic>Weapons Are Not Infinite!</color>\n   A weapon power-up will be used up when its gauge depletes.\n   A bomb power-up will be used up when it runs out of ammo.\n   You will be restored to default equipment when weapons run out.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4423,
+"en": "<color=mg_relu_topic>Defeat the Boss!</color>\n   After you destroy all the enemy bases in a stage, the boss will appear.\n   Defeat it to move on to the next stage!\n\n<color=mg_relu_topic>There Are No Continues!</color>\n   Touching an enemy, enemy base, enemy bullet, or the boss will result in\n   losing a life and all the weapons you bought in the Parts Shop,\n   restoring you to default equipment. There are no continues, but that's\n   life in the Fantasy Zone!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4424,
+"en": "<color=mg_relu_topic>Go Down in History!</color>\n　If you clear all eight stages or end the game with a high score,\n  you can enter your initials on the score board. Use <symbol=button_left,Minigame_FantasyZone> and <symbol=button_right,Minigame_FantasyZone>\n  to choose letters, and press either <symbol=button_decide,Minigame_FantasyZone> or <symbol=button_cancel,Minigame_FantasyZone> to confirm.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4425,
+"en": "\"Super Hang-On\" is a motorcycle racing game where the entire world becomes\nyour race course.\n\n<color=mg_relu_topic>Course</color>\n　There are four courses separated by difficulty:\n  BEGINNER (Africa)\n  JUNIOR (Asia)\n  SENIOR (America)\n  EXPERT (Europe)",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4426,
+"en": "Game Introduction",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4427,
+"en": "Press <symbol=button_sankaku,Minigame_SuperHangOn> to input credits, then select a course and BGM\nto begin the race.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4428,
+"en": "Drive toward the goal to clear the course!\n\n<color=mg_relu_topic>Checkpoints</color>\n   There are checkpoints at regular intervals in each course.\n   Passing it will extend your time limit and display the lap time.\n\n<color=mg_relu_topic>Turbo</color>\n   When you reach 280km per hour, the speed display turns red.\n   If you hold down the turbo switch at this point, you'll be\n   able to reach a top speed of 324km per hour.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4429,
+"en": "<color=mg_relu_topic>Time is Precious!</color>\n   If you go off course or collide with other motorcycles, you'll lose\n   speed. Crashing into an obstacle will really set you back, too.\n\n<color=mg_relu_topic>End of the Road...</color>\n   If you run out of time, it's game over. Clearing the course also ends\n   the game, but you can be more satisfied with this conclusion.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4430,
+"en": "<color=mg_relu_topic>Name Entry</color>\n   When you clear the course or get a high score after game over, you\n   can enter your initials. Use <symbol=button_left,Minigame_SuperHangOn> <symbol=button_right,Minigame_SuperHangOn> to choose letters, and press <symbol=button_cancel,Minigame_SuperHangOn> to confirm.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4431,
+"en": "\"Out Run\" is a driving game introduced to arcades in 1986.\n\nThe game is a single road that branches off at certain points,\ntotaling 16 different routes you can take.\n\nThere is no greater feeling in life than riding your sports car off\ninto the horizon.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4432,
+"en": "Press <symbol=button_sankaku,Minigame_OutRun> to input credits. After choosing a BGM with <symbol=button_left,Minigame_OutRun> <symbol=button_right,Minigame_OutRun>,\npress <symbol=button_options,Minigame_OutRun> to start driving.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4433,
+"en": "The game begins once the signal turns green. Your goal is to reach\nthe checkpoints within the time limit.\n\n<color=mg_relu_topic>Shifting Gears</color>\n   There are two gear levels: LOW and HIGH. Change your gear to HIGH\n   when you're going fast enough, but go back to LOW for lower speeds.\n\n<color=mg_relu_topic>Checkpoints</color>\n   Reach the checkpoint before time's up. Passing the checkpoint\n   adds more time to the clock.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4434,
+"en": "<color=mg_relu_topic>The Road Less Traveled</color>\n Before the checkpoint, the road splits two ways.\n Lean the car in the direction of the road you want to take.\n\n<color=mg_relu_topic>Game Over</color>\n The game ends when you reach the goal or if time runs out.\n Your progress is displayed on the map afterwards.\n There are no continues, because that's life in the fast lane for you.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4435,
+"en": "<color=mg_relu_topic>Name Entry</color>\n   If you reach the goal or get a high score after ending the game, you can enter your initials.\n   Press <symbol=button_left,Minigame_OutRun> <symbol=button_right,Minigame_OutRun> to choose letters, and press <symbol=button_cancel,Minigame_OutRun> to confirm.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4436,
+"en": "\"Space Harrier\" is a shooting game where you control the protagonist, a warrior by the name of Harrier,\nwho uses his supernatural powers to shoot down wave after wave of monsters. \n\n<color=mg_relu_topic>Prologue</color>\nOnce upon a time, a beautiful utopia called \"Dragon Land\"\nwas beset upon by the dastardly schemes of the evil one.\nAlthough all seemed lost, \"Uriah,\" a friendly dragon, continued to\nresist. He was nearly at his wits' end in his unrelenting search for a\nsavior, when a fighter from Earth heard his plea and arrived to\nhelp save the day.\n\nWelcome to the Fantasy Zone.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4437,
+"en": "Press <symbol=button_sankaku,Minigame_SpaceHarrier> to input credits, then press <symbol=button_options,Minigame_SpaceHarrier> to start the game.",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4438,
+"en": "Shoot down foes with Harrier's powerful supernatural cannon!\n\n<color=mg_relu_topic>This Game Has Bosses!</color>\n   A powerful boss awaits at the end of each stage. Shoot it down\n   to progress!\n\n<color=mg_relu_topic>Bonus Stage</color>\n   If you get far enough, you'll encounter a bonus stage!\n   Ride atop the friendly dragon, Uriah, and use its massive\n   strength to destroy obstacles. There are no enemies here!",
+"ctx": "manual|table/#//#",
+"max": null
+},
+{
+"id": 4439,
+"en": "<color=mg_relu_topic>Game Over!?</color>\n   Getting hit by enemy attacks or touching obstacles will cause you \n   to lose a life. Run out of lives, and your journey is at an end.\n   *You gain a life at five million points! Good luck out there!\n\n<color=mg_relu_topic>Name Entry</color>\n   If the game ends and you are worthy enough, you can enter your name.\n   Use <symbol=button_left,Minigame_SpaceHarrier> <symbol=button_right,Minigame_SpaceHarrier> to choose letters, and press <symbol=button_cancel,Minigame_SpaceHarrier> to confirm.",
+"ctx": "manual|table/#//#",
+"max": null
+}
+]

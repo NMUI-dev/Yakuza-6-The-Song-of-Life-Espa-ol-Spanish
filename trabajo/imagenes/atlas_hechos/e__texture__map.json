@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/map",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    8,
+    9,
+    300,
+    56
+   ],
+   "en": "Kamurocho",
+   "ocr": "Kamurocho",
+   "es": "Kamurocho",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 288
+  },
+  {
+   "caja": [
+    12,
+    73,
+    263,
+    119
+   ],
+   "en": "Onomichi",
+   "ocr": "Onomichi",
+   "es": "Onomichi",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 247
+  }
+ ]
+}

@@ -1,0 +1,670 @@
+{
+ "textura": "e/texture/batting_parts04",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    58,
+    17,
+    179,
+    53
+   ],
+   "en": "Beginner",
+   "ocr": "Beginner",
+   "es": "Principiante",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 119,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    270,
+    20,
+    418,
+    52
+   ],
+   "en": "Beginner - 1",
+   "ocr": "Beginner-1",
+   "es": "Principiante · 1",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 146,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    500,
+    21,
+    652,
+    47
+   ],
+   "en": "Intermediate 1",
+   "ocr": "Intermediate-1",
+   "es": "Intermedio · 1",
+   "fuente": "segoeui.ttf",
+   "fondo": "fila",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 150,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    733,
+    18,
+    881,
+    46
+   ],
+   "en": "Advanced · 1",
+   "ocr": "Advanced-1",
+   "es": "Avanzado · 1",
+   "fuente": "segoeui.ttf",
+   "fondo": "fila",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 146,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    46,
+    82,
+    186,
+    112
+   ],
+   "en": "Intermediate",
+   "ocr": "Intermediate",
+   "es": "Intermedio",
+   "fuente": "segoeui.ttf",
+   "fondo": "fila",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 138,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    270,
+    80,
+    424,
+    114
+   ],
+   "en": "Beginner 2",
+   "ocr": "Beginner-2",
+   "es": "Principiante · 2",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 152,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    497,
+    85,
+    653,
+    112
+   ],
+   "en": "Intermediate 2",
+   "ocr": "Intermediate.2",
+   "es": "Intermedio · 2",
+   "fuente": "segoeui.ttf",
+   "fondo": "fila",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 154,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    732,
+    82,
+    883,
+    110
+   ],
+   "en": "Advanced 2",
+   "ocr": "Advanced-2",
+   "es": "Avanzado · 2",
+   "fuente": "segoeui.ttf",
+   "fondo": "fila",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 149,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    50,
+    145,
+    185,
+    177
+   ],
+   "en": "Advanced",
+   "ocr": "Advanced",
+   "es": "Avanzado",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 133,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    270,
+    146,
+    421,
+    179
+   ],
+   "en": "Beginner 3",
+   "ocr": "Beginner-3",
+   "es": "Principiante · 3",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 149,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    500,
+    141,
+    653,
+    167
+   ],
+   "en": "Intermediate 3",
+   "ocr": "Intermediate-3",
+   "es": "Intermedio · 3",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 151,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    732,
+    144,
+    882,
+    174
+   ],
+   "en": "Advanced 3",
+   "ocr": "Advanced-3",
+   "es": "Avanzado · 3",
+   "fuente": "segoeui.ttf",
+   "fondo": "fila",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 148,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    69,
+    205,
+    165,
+    240
+   ],
+   "en": "Expert",
+   "ocr": "Expert",
+   "es": "Experto",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 94,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    287,
+    206,
+    409,
+    239
+   ],
+   "en": "Expert • 1",
+   "ocr": "Expert-1",
+   "es": "Experto · 1",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 120,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    517,
+    206,
+    641,
+    238
+   ],
+   "en": "Expert 2",
+   "ocr": "Expert-2",
+   "es": "Experto · 2",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 122,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    745,
+    206,
+    871,
+    239
+   ],
+   "en": "Expert-3",
+   "ocr": "Expert-3",
+   "es": "Experto · 3",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 124,
+   "color": [
+    55,
+    62,
+    62
+   ],
+   "fondo": "fila",
+   "lama_umbral": 150,
+   "lama_dila": 2,
+   "estilo": {
+    "arriba": [
+     50,
+     56,
+     56
+    ],
+    "abajo": [
+     50,
+     56,
+     56
+    ],
+    "contorno": null,
+    "brillo": null
+   }
+  },
+  {
+   "caja": [
+    94,
+    272,
+    344,
+    310
+   ],
+   "en": "Challenge Course",
+   "ocr": "Challenge Course",
+   "es": "Desafío",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 246,
+   "estilo": {
+    "arriba": [
+     75,
+     75,
+     75
+    ],
+    "abajo": [
+     60,
+     60,
+     60
+    ],
+    "contorno": [
+     [
+      215,
+      215,
+      215
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    533,
+    270,
+    782,
+    308
+   ],
+   "en": "Home Run Course",
+   "ocr": "Home Run Course",
+   "es": "Desafío de jonrones",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 245,
+   "estilo": {
+    "arriba": [
+     75,
+     75,
+     75
+    ],
+    "abajo": [
+     60,
+     60,
+     60
+    ],
+    "contorno": [
+     [
+      215,
+      215,
+      215
+     ],
+     2
+    ]
+   }
+  }
+ ]
+}

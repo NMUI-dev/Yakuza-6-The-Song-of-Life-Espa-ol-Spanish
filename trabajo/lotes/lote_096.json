@@ -1,0 +1,1334 @@
+[
+{
+"id": 23544,
+"en": "All right.\nI'll help, for a bit.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23545,
+"en": "Y-You mean it, sir!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23546,
+"en": "Yeah, but I'm not doing this for you.\nThis is for the cats.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23547,
+"en": "I won't stand for them getting killed.\nNo animal deserves a fate that cruel.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23548,
+"en": "Thank you so much, sir!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23549,
+"en": "Kiryu-san! You're a real blessing to feline-kind!\nNow let's clean up the streets!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23550,
+"en": "So? What do you need me to do?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23551,
+"en": "Right. If you come across a stray somewhere,\ngive it food until it takes a shine to you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23552,
+"en": "It might take a few attempts before\nit really latches on, so just keep trying!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23553,
+"en": "So I find cats, and feed them.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23554,
+"en": "Yes. Each one will like different food, though.\nTake that into consideration.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23555,
+"en": "I'll go anywhere in the country for my feline friends!\nGive it your all, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23556,
+"en": "If things go well, I may even scrounge\ntogether a thank-you gift someday.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23557,
+"en": "Sounds good.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|# + talk",
+"max": 15
+},
+{
+"id": 23558,
+"en": "Well then, Kiryu-san...\nThe time is meow!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23559,
+"en": "(What have I gotten myself into...?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23560,
+"en": "It's a crime to be that cute...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23561,
+"en": "That should be good.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23562,
+"en": "Okay, time to get in touch with that café manager.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23563,
+"en": "Kiryu-san! Thank you so much!\nI'll make sure this little guy loves his new home!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23564,
+"en": "Let me know if you find any more kitty cats!\nThanks in advance!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23565,
+"en": "It's Kiryu.\nI found a cat for you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23566,
+"en": "That's great news, Kiryu-san!\nWhere are you right now?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23567,
+"en": "Onomichi...\nI don't think I recognize that street name.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23568,
+"en": "Well, it's down in Hiroshima.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23569,
+"en": "Oh, yes yes. That one.\n...Wait, <font_kind=yakuza_italic>Hiroshima</font_kind>!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23570,
+"en": "What? I thought you said you'd go anywhere\nto help one of your feline friends.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23571,
+"en": "Th-That's true... but I didn't really think\nyou'd go so far away...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23572,
+"en": "Regardless, I'll keep my promise!\nJust wait there, I'll send someone!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23573,
+"en": "I'll make sure they're there soon.\nThanks again for this, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23574,
+"en": "Nyan Nyan Café, at your service!\nI heard you have a furry friend for us!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23575,
+"en": "Please let us know if you find any more!\nWell, I'm off!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23576,
+"en": "Well? That's a lot of cats.\nYou guys should be set now, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23577,
+"en": "Yes! We're chock full of furry friends.\nThank you so much for all your help!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23578,
+"en": "I know this isn't much...\nbut I want you to have it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23579,
+"en": "I guess this is the end of my journey.\nHonestly, I'm a little sad.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23580,
+"en": "But all those adorable furballs you found\nwill be waiting for you at my café, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23581,
+"en": "Feel free to stop by whenever you want!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23582,
+"en": "Yeah, I will.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|# + sound_auth_subtitles_speech_list_sub_b20|#",
+"max": null
+},
+{
+"id": 23583,
+"en": "Meow then... Thank you again!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23584,
+"en": "Hey, what's going on, you guys?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23585,
+"en": "Whoa! They haven't been this amped for a while!\nThey must've really missed you, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23586,
+"en": "Hm? Why do you say that?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23587,
+"en": "Like I said, they've been pretty low-energy.\nI'm pretty sure it's 'cause they were lonely.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23588,
+"en": "Is that true, you guys?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23589,
+"en": "That reminds me, Kiryu-san! How would you\nfeel about coming in to feed them every so often?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23590,
+"en": "That way they won't miss you so much!\nI don't want 'em running out on me again...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23591,
+"en": "I'm not so sure.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23592,
+"en": "Guess I can't say no.\nI've come this far. Can't back out now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23593,
+"en": "Y-You really mean it!?\nYou're the cat's meow, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23594,
+"en": "Well, just come see me when you're available!\nLet's make these little guys purr!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|#",
+"max": null
+},
+{
+"id": 23595,
+"en": "(I don't have any cat food...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a23|# + talk",
+"max": 31
+},
+{
+"id": 23596,
+"en": "Stop stalling and start explaining!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23597,
+"en": "P-Please, you got it all wrong!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23598,
+"en": "Is this... a lover's quarrel?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23599,
+"en": "I know what you've been up to!\nI've seen how much money you spend!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23600,
+"en": "Huh? That's, um...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23601,
+"en": "How often do you see her?\nDo you really love her!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23602,
+"en": "W-Well, talking to her\n<font_kind=yakuza_italic>does</font_kind> excite me...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23603,
+"en": "Huh? So you won't deny it?\nUgh, you're the lowest of the low!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23604,
+"en": "Wait, I've never even met her, though!\nThat means I wasn't cheating!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23605,
+"en": "How can you say that!?\nNot like it matters. We're finished!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23606,
+"en": "Ah! Wait, Yuka-chan!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23607,
+"en": "Sorry, man!\nCrap, where's Yuka-chan?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23608,
+"en": "She's gone...\nDamn it all...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23609,
+"en": "Hey, pull yourself together.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23610,
+"en": "But she's taking this all wrong.\nI just got a <font_kind=yakuza_italic>little</font_kind> hooked on live chat...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23611,
+"en": "Live... chat?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23612,
+"en": "Yeah, you heard me.\nI've been spending all my time there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23613,
+"en": "Yuka-chan somehow thought\nI was cheating on her, though...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23614,
+"en": "But she's wrong, right!? Live chat isn't\ncheating, I just know it! Don't you agree?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23615,
+"en": "Sorry, but I can't weigh in if I don't\nknow what you're talking about.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23616,
+"en": "Huh? You don't know live chat!?\nHow is that possible!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23617,
+"en": "It's exactly what it sounds like!\nYou know what a chat room is, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23618,
+"en": "Ch-Chat room...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23619,
+"en": "Of course I know. That's a room\nfull of adorable kittens, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23620,
+"en": "No, that would be a <font_kind=yakuza_italic>cat</font_kind> room.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23621,
+"en": "A chat room, on the other hand, is\na handy way to talk to people online.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23622,
+"en": "A chat room, huh? It's where you go\nto have short conversations with people.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23623,
+"en": "Sort of, but there's more to it than that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23624,
+"en": "A chat room refers specifically to\na handy way to talk to people online.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23625,
+"en": "A chat room... That's some kind of\nonline messaging group, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23626,
+"en": "Yes, you're totally right!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23627,
+"en": "As for live chat, it's a chat room made\nespecially for talking to cute girls.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23628,
+"en": "Hmm... So it's an online cabaret club?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23629,
+"en": "I guess you could say that...\nbut live chat is way better!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23630,
+"en": "After all, some things are off-limits at cabarets.\nY'know, the <font_kind=yakuza_italic>really good</font_kind> stuff.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23631,
+"en": "The... really good stuff?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23632,
+"en": "Have I piqued your interest?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23633,
+"en": "Y-Yeah, maybe a little bit.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23634,
+"en": "Awesome! Man, just thinking about\nlive chat makes me wanna go again.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23635,
+"en": "That's it! If you come with me to\nlive chat, I can teach you how to do it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23636,
+"en": "Huh? Me...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23637,
+"en": "Yup! My favorite net café's right over there,\nso just drop by when you're in the mood!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23638,
+"en": "I'll show you everything, and so will the girls!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23639,
+"en": "I'm no good with computers, though...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23640,
+"en": "Don't worry, I'll help you through it!\nOnward to the <font_kind=yakuza_italic>really good</font_kind> stuff!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23641,
+"en": "Well, I'll be waiting for you!\nSee you over there!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23642,
+"en": "Y-Yeah, I'll stop by at some point.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23643,
+"en": "Live chat, huh? I guess I <font_kind=yakuza_italic>am</font_kind> interested.\nI should poke my head into that net café...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23644,
+"en": "We are a members only internet café.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23645,
+"en": "For only 5,000 yen a month, you'll get full access\nto our services. Would you like to join?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23646,
+"en": "Yeah, sign me up.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23647,
+"en": "Thank you.\nUse this as your membership card.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23648,
+"en": "Please enjoy your stay.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23649,
+"en": "I understand.\nWe look forward to your return.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23650,
+"en": "Oh, there you are!\nI'm all ready, so let's go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23651,
+"en": "Okay.\nI don't know what to do, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23652,
+"en": "Don't worry, I'll be by your side the whole time!\nCome on, let's get chatting!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23653,
+"en": "I recommend DMM if you want to live chat. \nDouble-click this icon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23654,
+"en": "When it comes to live chat, this is the site.\nStart by double-clicking on that icon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23655,
+"en": "Icon? Um...\nSo... Like this...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23656,
+"en": "Perfect! You're connected to the site now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23657,
+"en": "Just click a girl's photo to start chatting.\nEasy, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23658,
+"en": "Oh, and you can send messages by\njust typing them out and pressing enter.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23659,
+"en": "Typing's not really my strong suit...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23660,
+"en": "Ah! That one looks pretty cute, doesn't she?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23661,
+"en": "Agreed. Let's go.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23662,
+"en": "All right, you're in!\nLive chat starts now. Simple, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23663,
+"en": "Hello there!\nIs this your first time?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23664,
+"en": "H-Hey, why's she talking to me!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23665,
+"en": "Don't worry, this is how it works.\nJust type your response out to her.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23666,
+"en": "R-Right. But... how am I\nsupposed to respond to that?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23667,
+"en": "How about a compliment or a greeting?\n\"You're cute,\" or maybe \"Sup?\"!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23668,
+"en": "You... are... very... cute...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23669,
+"en": "W-Well?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23670,
+"en": "You think I'm cute?\nI'm so glad!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23671,
+"en": "Look, she's blushing!\nYou're doing it, you're doing it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23672,
+"en": "Huh.\nSo this is live chat...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23673,
+"en": "Yup! Now get those keys clacking!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23674,
+"en": "Uh, what?\nIs that <font_kind=yakuza_italic>really</font_kind> what I should put?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23675,
+"en": "\"S\"... \"U\"... \"P\"... \"?\"...\nThere.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23676,
+"en": "I think I messed up...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23677,
+"en": "Hey there!\n'Sup to you, too!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23678,
+"en": "Whoa, she liked that!\nYou're doing it, you're doing it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23679,
+"en": "Huh.\nSo this is how live chat goes...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23680,
+"en": "Yup yup! Now get those keys clacking!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23681,
+"en": "This... is... so... much... fun...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23682,
+"en": "It's fun for me, too! <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23683,
+"en": "Dude, you're like some kinda chat wizard!\nShe's totally loving it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23684,
+"en": "I wasn't sure how this would turn out,\nbut it's actually kinda fun.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23685,
+"en": "Ain't it?\nBut the <font_kind=yakuza_italic>real</font_kind> best of live chat is yet to come!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23686,
+"en": "Huh? There's more?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23687,
+"en": "You bet there is.\nAh, here it comes!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23688,
+"en": "You've been so sweet to me today...\nWhy don't I make up for it? <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23689,
+"en": "Sh-She's stripping!\nHey, what do I do now!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23690,
+"en": "You're getting a private show!\nThis is the true live chat now!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23691,
+"en": "Wh-Whoa...!\nLive chat is... amazing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23692,
+"en": "Damn right it is!\nNow let's get the show started!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23693,
+"en": "So curvy!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23694,
+"en": "Tell her to show us more!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23695,
+"en": "Show... me... some... more... please...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23696,
+"en": "She really is...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23697,
+"en": "That was great.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23698,
+"en": "So what did you think?\nPretty damn fun, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23699,
+"en": "Yeah, how do I put this...\nIt was refreshing, to say the least.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23700,
+"en": "I can understand how you got\nwrapped up in all this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23701,
+"en": "But no matter how fun it is,\nyou shouldn't ignore your girlfriend.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23702,
+"en": "I've actually been considering that...\nand I've reached a turning point.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23703,
+"en": "Yup! I've decided I don't need\na girlfriend anymore!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23704,
+"en": "Live chat's way more enticing than a girlfriend\ncould ever be! Don't you think?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23705,
+"en": "Real-life women can be moody,\nbut chat ladies are always energetic and cute!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23706,
+"en": "Besides, having a girlfriend would\njust cut into my chat time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23707,
+"en": "So I'm better off not having one at all!\nThat way, I can chat forever without regret!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23708,
+"en": "Well, I guess that's one angle...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23709,
+"en": "A new me is born today!\nI'm gonna devote my life to live chat!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23710,
+"en": "Speaking of, I should log back in there.\nWe should talk some more later!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23711,
+"en": "Maybe next time we see each\nother will be in a chat room!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23712,
+"en": "Uh... Yeah...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23713,
+"en": "Live chat...\nWhat a rush...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 23714,
+"en": "Man, RIZAP's the real deal, huh?\nTotally proved me wrong.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23715,
+"en": "It's pretty freaking amazing.\nI mean, check out this slim body!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23716,
+"en": "And you used to be a real chubfest, too.\nNice, RIZAP! Think I should join up too?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23717,
+"en": "For sure, for sure!\nYou're not gonna regret it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23718,
+"en": "RIZAP...\nI've heard a lot about this gym lately.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23719,
+"en": "All right, I'll see what this is all about.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23720,
+"en": "Hm? Can I help you, sir?\nAre you interested in joining our gym?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23721,
+"en": "Hm? Oh, nah.\nI just wanted to see what it's about.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23722,
+"en": "Very well, sir. We usually ask for\nappointments, but I've got a moment.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23723,
+"en": "This is where you check in, sir.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23724,
+"en": "RIZAP... I've heard a lot about this gym lately.\nShould I head in?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23725,
+"en": "Welcome, sir!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23726,
+"en": "This is, uh... my first time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23727,
+"en": "So you're a new customer.\nThen first, let me explain how we do things.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23728,
+"en": "We're a membership-based gym, outfitted with dozens\nof private training rooms and state-of-the-art equipment.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23729,
+"en": "Members only, huh?\nI need to join?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23730,
+"en": "Yep! First you'll need to undergo\na free counseling session.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23731,
+"en": "Based on that session, we then create\na personalized training plan, just for you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23732,
+"en": "If you like what we have on offer,\nyou'll be able to register right then and there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23733,
+"en": "Interesting. So I get free counseling,\nthen decide whether or not I wanna join...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23734,
+"en": "All right then, I'll give it a shot.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23735,
+"en": "Great, let me go get your counselor, sir.\nPlease take a seat over there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23736,
+"en": "Sure, no prob.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23737,
+"en": "Thank you for waiting, sir.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23738,
+"en": "I'll be both your counselor and trainer.\nThe name's Makuta.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23739,
+"en": "Wait, you're the trainer, too?\nAnyway, I'm Kazuma Kiryu. Good to meet you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23740,
+"en": "Kiryu-san, then? Great name.\nYou're already in great shape, too!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23741,
+"en": "Such finely toned muscles!\nI'll have to beef up my training to match you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23742,
+"en": "Now then, let me tell you just\nhow things go down here at RIZAP.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23743,
+"en": "Please do.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23744,
+"en": "As our receptionist mentioned,\nwe're known for our private training rooms.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23745,
+"en": "Each member gets one-on-one care from a trainer,\nresulting in absolutely out of this world service!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23746,
+"en": "Oh, and you can change trainers whenever you want!\nFind the one that suits your style!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23747,
+"en": "That option sounds kinda appealing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23748,
+"en": "One more thing we offer here<symbol=em_dash_with_outline>\nWe also include free diet advice to help you slim down!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23749,
+"en": "So you do training...\n<font_kind=yakuza_italic>And</font_kind> you plan my meals?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23750,
+"en": "That's right. Our dietitians work 'round the clock\nto offer only the best tips for maximum gains!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23751,
+"en": "I mean, a customer who never eats protein would\nnever get the rippling muscles he desires, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23752,
+"en": "Our training and diet tips are absolutely vital for\ngetting the most out of your experience.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23753,
+"en": "True enough.\nI guess you have a point there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23754,
+"en": "Now then, a training session and a diet plan\ncombine to form one round of the RIZAP Challenge.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23755,
+"en": "As a member of our gym, you'll have the opportunity\nto take on 12 whole RIZAP Challenge rounds.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23756,
+"en": "And that's the whole RIZAP experience!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23757,
+"en": "Great. Sounds pretty useful.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23758,
+"en": "Now then, let's head to the counseling room!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23759,
+"en": "Your answers'll help us map out your training plan,\nso be sure to tell the truth!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23760,
+"en": "Yeah, I can do that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23761,
+"en": "Well, that concludes the assessment.\nThe counseling part of our training is now over!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23762,
+"en": "I have the perfect regimen for you, Kiryu-san.\nCome on, take a look!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23763,
+"en": "Wow, it actually looks pretty good.\nI'm impressed.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23764,
+"en": "Don't be.\nTraining you right is just part of my job.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+},
+{
+"id": 23765,
+"en": "Anyway, Kiryu-san...\nHow do you feel about joining us?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a25|#",
+"max": null
+}
+]

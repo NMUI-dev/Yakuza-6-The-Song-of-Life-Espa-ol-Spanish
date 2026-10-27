@@ -1,0 +1,55 @@
+{
+ "textura": "e/texture/ui_item_meishiriona_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    84,
+    228,
+    200,
+    294
+   ],
+   "en": "SHINE",
+   "ocr": "SHINE SEWCtCS.KIMEROCuO",
+   "es": "SHINE",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    73,
+    297,
+    265,
+    386
+   ],
+   "en": "RIONA",
+   "ocr": "RIONA",
+   "es": "RIONA",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 192
+  },
+  {
+   "caja": [
+    78,
+    353,
+    276,
+    431
+   ],
+   "en": "CLUB SHINE w-xxx, Kamuro-cho-xxxxx Tokyo",
+   "ocr": "CESH xx-xxKanur-choxxx Tokyo Telxx-xxxxxxwww.clubshine.xxxx.co",
+   "es": "CLUB SHINE w-xxx, Kamuro-cho-xxxxx Tokyo",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 198
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/bc_eb_s_satsuki",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    42,
+    512,
+    214
+   ],
+   "en": "SATSUKI",
+   "ocr": "SATSUKI",
+   "es": "SATSUKI",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 508
+  }
+ ]
+}

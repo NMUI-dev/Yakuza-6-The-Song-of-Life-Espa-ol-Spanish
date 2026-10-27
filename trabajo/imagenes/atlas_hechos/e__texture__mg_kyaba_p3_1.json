@@ -1,0 +1,123 @@
+{
+ "textura": "e/texture/mg_kyaba_p3_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    131,
+    82,
+    174,
+    107
+   ],
+   "en": "LOVE",
+   "ocr": "LOVE",
+   "es": "AMOR",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52,
+   "estilo": {
+    "arriba": [
+     255,
+     120,
+     140
+    ],
+    "abajo": [
+     200,
+     20,
+     50
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    178,
+    83,
+    248,
+    107
+   ],
+   "en": "PARTY",
+   "ocr": "PARTY",
+   "es": "GRUPO",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 68,
+   "estilo": {
+    "arriba": [
+     140,
+     230,
+     140
+    ],
+    "abajo": [
+     20,
+     140,
+     60
+    ],
+    "contorno": [
+     [
+      255,
+      255,
+      255
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    126,
+    123,
+    322,
+    152
+   ],
+   "en": "What's your favorite",
+   "ocr": "What'syour favorite",
+   "es": "¿Cuál es tu comida",
+   "fuente": "courbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 196,
+   "color": [
+    245,
+    245,
+    245
+   ],
+   "tam": 20
+  },
+  {
+   "caja": [
+    126,
+    154,
+    250,
+    186
+   ],
+   "en": "food?",
+   "es": "favorita?",
+   "fuente": "courbd.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "fondo": "lama",
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "ancho_max": 124,
+   "tam": 20
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "textura": "e/texture/mg_clan_menu_p02_2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    11,
+    3,
+    81,
+    24
+   ],
+   "en": "Hierarchy",
+   "ocr": "Hierarchy",
+   "es": "Jerarquía",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 66
+  },
+  {
+   "caja": [
+    53,
+    34,
+    109,
+    48
+   ],
+   "en": "Kiryu Clan Org Chart",
+   "ocr": "Kinw Clas Oeg Cart",
+   "es": "Organigrama del Clan Kiryu",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 59,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "_x": 1
+  },
+  {
+   "caja": [
+    285,
+    26,
+    332,
+    42
+   ],
+   "en": "Leader Stars",
+   "ocr": "F Lesde Stts",
+   "es": "Datos del líder",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 47,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    386,
+    76,
+    419,
+    90
+   ],
+   "en": "S.S.S.S.S. (V)",
+   "ocr": "(A) (horg",
+   "es": "S.S.S.S.S. (V)",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 33,
+   "dejar": true
+  },
+  {
+   "caja": [
+    299,
+    88,
+    368,
+    108
+   ],
+   "en": "EMPTY",
+   "ocr": "EMPTY",
+   "es": "VACÍO",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 69,
+   "color": [
+    125,
+    115,
+    115
+   ]
+  },
+  {
+   "caja": [
+    387,
+    143,
+    424,
+    156
+   ],
+   "en": "WATCH PARTY",
+   "ocr": "Nsce Pwty",
+   "es": "GRUPO DE OBSERVAR",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 37,
+   "dejar": true
+  },
+  {
+   "caja": [
+    285,
+    156,
+    329,
+    170
+   ],
+   "en": "leader list",
+   "ocr": "E Leader Lst",
+   "es": "Lista de líderes",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 40,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    11,
+    204,
+    52,
+    218
+   ],
+   "en": "Strike Team",
+   "ocr": " StriGe Tean",
+   "es": "Equipo de ataque",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 37,
+   "color": [
+    140,
+    140,
+    140
+   ]
+  },
+  {
+   "caja": [
+    392,
+    253,
+    474,
+    268
+   ],
+   "en": "Skill Info",
+   "ocr": "B 9elL me  Seen  s",
+   "es": "Info de habilidad",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 82,
+   "dejar": true
+  }
+ ],
+ "contraste": true
+}

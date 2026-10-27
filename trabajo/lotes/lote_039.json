@@ -1,0 +1,1952 @@
+[
+{
+"id": 10284,
+"en": "What exactly is this secret?\nAnd who's keeping it hidden?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10285,
+"en": "You'll have to speak to Chairman Kurusu\nof the Yomei Alliance for that answer.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10286,
+"en": "Fact is, he's the one who holds\nthe truth to the big mystery.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10287,
+"en": "The source of Hiroshima's power is...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10288,
+"en": "[You know who I am, right?]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10289,
+"en": "[I'm here for my father.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10290,
+"en": "[If he's not here...\nI can wait inside.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10291,
+"en": "[Spread your arms.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10292,
+"en": "[Hands off.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10293,
+"en": "[I need more booze than\nthis to talk to that bastard.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10294,
+"en": "Yo, bio-dad.\nCare for a drink?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10295,
+"en": "[That's Kiryu! Stop him!]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10296,
+"en": "[We can't let a yakuza inside!]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10297,
+"en": "[Stay back!\nWe'll kill you!]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10298,
+"en": "You're in the way.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10299,
+"en": "Move it!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10300,
+"en": "You did this to Lo?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10301,
+"en": "Aren't you impressed?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10302,
+"en": "I owe it all to you, Aniki.\nYou helped me see this shit.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10303,
+"en": "Don't tell me... You really planned\nto die here with Lo, Yuta?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10304,
+"en": "You think that will fix anything!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10305,
+"en": "Sorry, but...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10306,
+"en": "If Lo and I die here, nobody will\nhave to come for Haruto anymore.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10307,
+"en": "It'll all be over.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10308,
+"en": "So you're not gonna listen.\nIs that what you're saying?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10309,
+"en": "Yo, bio-dad.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10310,
+"en": "Care for a drink?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10311,
+"en": "So, it appears you've learned the truth.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10312,
+"en": "I found out how you're trying\nto murder Haruto, you mean?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10313,
+"en": "Just like Masuzoe.\nYou kill him to shut him up?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10314,
+"en": "Masuzoe is dead...?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10315,
+"en": "Well?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_sub_a04|#",
+"max": null
+},
+{
+"id": 10316,
+"en": "Why have you come here?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10317,
+"en": "I already told you that.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10318,
+"en": "I want you to join me for a drink.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10319,
+"en": "Gasoline?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10320,
+"en": "I'm gonna make sure you Saio bastards\ngive up on me and Haruto for good.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10321,
+"en": "I'd rather die than keep living as\nthe heir to this bullshit triad.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10322,
+"en": "So you plan to kill me\nand yourself in the process?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10323,
+"en": "How shortsighted.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10324,
+"en": "If you had simply chosen to negotiate,\nnobody would have to die here today.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10325,
+"en": "I didn't come to negotiate.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10326,
+"en": "I'm too dumb for that, you know.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10327,
+"en": "There's only one thing I can do now...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10328,
+"en": "I'm going to die here\nto keep my son safe.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10329,
+"en": "Just get out of here already.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10330,
+"en": "You don't need to be a part of this, Aniki.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10331,
+"en": "If you die here, what happens to Haruto!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10332,
+"en": "He'll be able to live in peace.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10333,
+"en": "With me and Lo dead,\nthe Saio Triad goes up for grabs.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10334,
+"en": "They can kill each other over it for all I care.\nThe boy won't need to be involved.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10335,
+"en": "That's not what I asked you!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10336,
+"en": "You're really gonna let him\ngrow up without a father!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10337,
+"en": "I'm asking you...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10338,
+"en": "This is my last request, Aniki.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10339,
+"en": "As for Haruto and Haruka-chan...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10340,
+"en": "Can I leave them to you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10341,
+"en": "I mean...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10342,
+"en": "They don't need a punk like me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10343,
+"en": "Especially when they could have you inst<symbol=em_dash_with_outline>",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10344,
+"en": "I won't let you abandon them!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10345,
+"en": "You're not dying over something so stupid.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10346,
+"en": "We're all leaving alive.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10347,
+"en": "Don't mess this up for me, Aniki!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10348,
+"en": "This is the only way I can save Haruto!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10349,
+"en": "Fine then...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10350,
+"en": "...I'll have to drag you out by force.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10351,
+"en": "And if you insist on getting in my way,\nI'll do what it takes to stop you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10352,
+"en": "Even by force.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10353,
+"en": "I already decided, this is\nthe place where I die.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10354,
+"en": "I made this choice like a man.\nAnd then I made peace with it.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10355,
+"en": "Nobody can stop me now, Aniki.\nNot even you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10356,
+"en": "You're being selfish.\nThis is bigger than just you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10357,
+"en": "Think about your family!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10358,
+"en": "Let's go.",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_cln|# …",
+"max": null
+},
+{
+"id": 10359,
+"en": "Sorry about this.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10360,
+"en": "I know you're a busy man.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10361,
+"en": "Hirose-san, was it?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10362,
+"en": "You're a grandfather now.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10363,
+"en": "Figured it'd be nice for you t'see\nyer grandson's face once in a while.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10364,
+"en": "I assume that's not why you're here, though.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10365,
+"en": "You wish to speak of\nthe secret of Onomichi, yes?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10366,
+"en": "You're sharper than I thought.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10367,
+"en": "Truth is, killing you would be\nthe easiest way outta this.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10368,
+"en": "But Chairman Kurusu's willing t'let you live.\nIf you leave Japan, that is.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10369,
+"en": "The chairman and I...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10370,
+"en": "We're both tired o' bloodshed.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10371,
+"en": "The Saio Triad has poured a hefty sum of\nmoney into this location in Little Asia.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10372,
+"en": "We have yet to recoup our investment.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10373,
+"en": "So ya don't plan on leaving?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10374,
+"en": "Consider the actions of Kurusu's son.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10375,
+"en": "He murdered the heir to our triad, Jimmy Lo.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10376,
+"en": "As a businessman and as a father...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10377,
+"en": "...I have no reason to accept your request.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10378,
+"en": "I half expected you'd say that.\nSo I've got a deal for ya instead.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10379,
+"en": "And that is?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_main12|#",
+"max": null
+},
+{
+"id": 10380,
+"en": "Do you plan on killing the child before\nmy eyes to convince me to leave?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10381,
+"en": "I'll give you Yuta Usami.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10382,
+"en": "I can convince him to take\nthe reins of the Saio Triad.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10383,
+"en": "How's that sound?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10384,
+"en": "Oh, and if you don't accept...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10385,
+"en": "...I'll tell Yuta everything.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10386,
+"en": "About how this kid here's his son.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10387,
+"en": "About how you wanna murder him.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10388,
+"en": "He'll want less than nothin'\nto do with you after that.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10389,
+"en": "Your precious bloodline\nwill come to an end.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10390,
+"en": "And I know how much\nyou value that blood stuff.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10391,
+"en": "That what you want?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10392,
+"en": "What will you do with the child?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10393,
+"en": "I'll keep him safe.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10394,
+"en": "I'll make it so that Yuta could never\npossibly know about his existence.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10395,
+"en": "To be honest, I don't see why I shouldn't\nsilence both you and the child here.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10396,
+"en": "Wanna try that?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10397,
+"en": "I promise you'll be the dead one.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10398,
+"en": "Don't think I'll spare yer men, either.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10399,
+"en": "Every last one of 'em, dead.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10400,
+"en": "You overestimate your ability.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10401,
+"en": "My subordinates all carry firearms.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10402,
+"en": "Y'think I care what they're packing?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10403,
+"en": "I didn't expect Kurusu to have\nsuch a reptile in his den.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10404,
+"en": "Oh, and those two goons y'have watchin'\nmy hideout... Tatsukawa n' Masuzoe?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10405,
+"en": "Pull 'em off me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10406,
+"en": "The Saio Triad's days\nin Kamurocho are numbered.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10407,
+"en": "You have one month.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10408,
+"en": "As fer the secret of Onomichi...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10409,
+"en": "I've lost track of how many men\nI've killed to protect it.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10410,
+"en": "Some were my friends.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10411,
+"en": "Some were my aniki.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10412,
+"en": "If you go and reveal it all now...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10413,
+"en": "...You'd be disrespecting their memory.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10414,
+"en": "I'm sure it sounds quite strange to you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10415,
+"en": "I was in my compound guarded by\nover a hundred able men.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10416,
+"en": "And yet, a single old man with a gun\nforced me to accept his terms.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10417,
+"en": "After my negotiations with Hirose\nconcluded...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10418,
+"en": "...I immediately retracted the order I had given\nfor Masuzoe and Tatsukawa to kill the child.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10419,
+"en": "However, Tsuneo Iwami had already\nsunk his fangs into Tatsukawa by then.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10420,
+"en": "Then came the hit-and-run in Kamurocho.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10421,
+"en": "And the child slipped through Hirose's fingers.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10422,
+"en": "He likely thought he had lost\nhis sole bargaining chip.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10423,
+"en": "Hence, there was only one way for him\nto ensure the secret of Onomichi stayed safe.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10424,
+"en": "He needed me dead.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10425,
+"en": "And you're saying Patriarch Hirose turned\nYuta against you to do that?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10426,
+"en": "Is it not obvious?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10427,
+"en": "Who was the one who told you\nthat Yuta is the child's father?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10428,
+"en": "And who revealed that Masuzoe\nand Tatsukawa wanted the child dead?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10429,
+"en": "I expect Hirose murdered Masuzoe\nonce he was no longer of use to him.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10430,
+"en": "The longer you thrive in the underworld...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10431,
+"en": "...The more bound you become to ideals.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10432,
+"en": "I was bound to blood law.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10433,
+"en": "For Kurusu and Hirose...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10434,
+"en": "...It's the secret of Onomichi.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10435,
+"en": "That's what drives Hirose.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10436,
+"en": "He even sacrificed Yuta,\none of his own.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10437,
+"en": "That is how low he could sink.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10438,
+"en": "You think I'm gonna believe that!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10439,
+"en": "He'd never.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10440,
+"en": "This is bullshit!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10441,
+"en": "There is only one road to the truth.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10442,
+"en": "Which is?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10443,
+"en": "Reveal the secret of Onomichi.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10444,
+"en": "That will bring the nature of\nHiroshima's true authority to light.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10445,
+"en": "But be warned...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10446,
+"en": "If you do this...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10447,
+"en": "...No amount of preparation\nwill be enough to face it.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10448,
+"en": "The fact is, he is the one who holds\nthe truth to the mystery of which we speak.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10449,
+"en": "I'm pleased with our progress thus far.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10450,
+"en": "And we have Jimmy to thank.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10451,
+"en": "You have a worthy heir.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10452,
+"en": "It's not often that my father compliments me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10453,
+"en": "...Perhaps today will be different.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10454,
+"en": "[Father.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10455,
+"en": "[You see that burning district\nthey call Little Asia?]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10456,
+"en": "[It now belongs to the Saio Triad.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10457,
+"en": "[Jimmy. You shouldn't have gone\nbehind my back on this.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10458,
+"en": "[What?]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10459,
+"en": "[I explicitly forbade you from\nexpanding into Kamurocho.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10460,
+"en": "[Didn't I tell you we need to stay\nas far away from Kurusu as possible?]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10461,
+"en": "[You know damn well why.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10462,
+"en": "Is something the matter?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10463,
+"en": "[Do what you must to ensure\nthis deal is called off.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10464,
+"en": "[Come on. We're leaving.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10465,
+"en": "Please give my regards to your\nfather. We must be leaving.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10466,
+"en": "Hold a moment, sir.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10467,
+"en": "Jimmy and I are the only two\nprivy to this proposal.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10468,
+"en": "My father, Kurusu,\nhas no knowledge of it.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10469,
+"en": "Oh, and one more thing.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10470,
+"en": "[This is not an offer you can refuse.]",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10471,
+"en": "You're quite a devil.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10472,
+"en": "I hadn't realized you were\nproficient in our language.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10473,
+"en": "But I cannot help but wonder,\nwhy do you say we cannot refuse?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10474,
+"en": "The secret of Onomichi.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10475,
+"en": "I believe you know nothing\nof its true nature.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10476,
+"en": "Isn't that right?",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_cln|#",
+"max": null
+},
+{
+"id": 10477,
+"en": "It was only a day or so ago.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10478,
+"en": "Your son and I had a lovely dinner together.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10479,
+"en": "But after a few pours,\nhe spoke rather ill of you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10480,
+"en": "He claimed you were blackmailing\nKurusu with an empty secret.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10481,
+"en": "And you fear he may discover that.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10482,
+"en": "He said it several times.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10483,
+"en": "You...!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10484,
+"en": "Men who talk too much after\na drink are easy to manipulate.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10485,
+"en": "Kurusu remains in the dark, though!\nIt'll be fine.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10486,
+"en": "Do you see why your father forbid\nthe Saio Triad from coming to Japan?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10487,
+"en": "It was all to keep Takeru Kurusu from learning\nthat he didn't know the truth of the secret.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10488,
+"en": "That is why he was so intent on limiting\nhis interactions with my father.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10489,
+"en": "You needn't worry, though.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10490,
+"en": "<font_kind=yakuza_italic>Your</font_kind> secret is safe with me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10491,
+"en": "If my father learned the truth, the <font_kind=yakuza_italic>heihaizi</font_kind>\nhe smuggled in would be in grave danger.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10492,
+"en": "None would be spared.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10493,
+"en": "And I don't wish that upon them.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10494,
+"en": "Why exactly have you\nlured us here to Kamurocho?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10495,
+"en": "What is your goal in all of this?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10496,
+"en": "In Kamurocho...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10497,
+"en": "...The Tojo Clan shall be reborn.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10498,
+"en": "Tagashira!\nWhere are you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10499,
+"en": "Aniki! Over here!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10500,
+"en": "This is the spot the code was pointin' to.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10501,
+"en": "The secret's in here.\nIt's gotta be!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10502,
+"en": "It's real freakin' rusty...!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10503,
+"en": "Tagashira!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10504,
+"en": "Hirose?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10505,
+"en": "Secrets are funny things.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10506,
+"en": "They only stay secret 'cause someone\nworks to keep 'em that way.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10507,
+"en": "So it really is you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10508,
+"en": "Patriarch Hirose.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10509,
+"en": "People shouldn't go digging around\nin other people's business.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10510,
+"en": "Right, Kiryu-san?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10511,
+"en": "Down there!\nThe boss!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10512,
+"en": "He's really here...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10513,
+"en": "W-We gotta get down there!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10514,
+"en": "To protect this secret...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10515,
+"en": "You used Yuta and Haruto.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10516,
+"en": "You took advantage of Haruka, too.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10517,
+"en": "Hey, Tagashira!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10518,
+"en": "Sit tight fer a sec.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10519,
+"en": "I'll explain this whole mess t'you later.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10520,
+"en": "Yer really the one who's been\nprotectin' the secret o' Onomichi.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10521,
+"en": "What about Yuta, huh?\nYou tried t'turn him into a murderer!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10522,
+"en": "Get outta my way.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10523,
+"en": "Tagashira'll find it soon enough.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10524,
+"en": "I got no time to waste on you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10525,
+"en": "Before I let you go,\nthe Hirose Family needs answers.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10526,
+"en": "They need to know why you've\nlied to them this whole time!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10527,
+"en": "Just move already.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10528,
+"en": "Ain't askin' again.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10529,
+"en": "Answer me first.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10530,
+"en": "Hirose!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10531,
+"en": "I told you to stand the fuck down!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10532,
+"en": "You want past...\nYou'll have to go through me!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10533,
+"en": "Patriarch... Hirose.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10534,
+"en": "B-Boss!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10535,
+"en": "Wh-What's that?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10536,
+"en": "Looks like... I failed...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10537,
+"en": "The hell's goin' on!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10538,
+"en": "Y-You guys!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10539,
+"en": "I pulled this giant lever back there.\nThat's what set off this alarm!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10540,
+"en": "Tagashira. This is yer fault?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10541,
+"en": "The... Yamato...?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10542,
+"en": "That's it!\nThe Battleship Yamato!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10543,
+"en": "That's...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10544,
+"en": "The secret of Onomichi?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10545,
+"en": "Ch-Chairman Kurusu!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10546,
+"en": "That... isn't the Yamato.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10547,
+"en": "To be more accurate,\nit is the Yamato Mark II.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10548,
+"en": "The most classified military secret in Japan.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10549,
+"en": "Y'goddamn punk!\nWe ain't gonna let this slide, y'know!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10550,
+"en": "The hell's this? I didn't realize\nthey were hirin' yakuza around here.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10551,
+"en": "Right? No bullshit thug can lecture me!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10552,
+"en": "That's enough outta you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10553,
+"en": "Really? Yer gonna pull a gun on a kid?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10554,
+"en": "Go on, just try n' shoot me.\nBet y'can't pull the trigger!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10555,
+"en": "Little fuck...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10556,
+"en": "Let's not.",
+"ctx": "auth|cinema_telop/#//# + talk",
+"max": 15
+},
+{
+"id": 10557,
+"en": "Why you little...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10558,
+"en": "Who the hell're you?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10559,
+"en": "You break into this factory,\nbut don't recognize its owner?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10560,
+"en": "No matter.\nJust hand the gun to me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10561,
+"en": "Stay back!",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10562,
+"en": "My apologies for him.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10563,
+"en": "This only happened because you tried\nto punch above your weight, though.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10564,
+"en": "However, you have guts for a youngster.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10565,
+"en": "You seem strong as well.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10566,
+"en": "What's yer point?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10567,
+"en": "Well... I want you to join me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10568,
+"en": "I can look after you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10569,
+"en": "I assume you have no family.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10570,
+"en": "And if you continue on with those kids you\ncame in with, you won't have a future, either.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10571,
+"en": "My friends?\nWhat'd you do to them!?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10572,
+"en": "Nothing. Just a little slap on the wrist.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10573,
+"en": "They're gone already.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10574,
+"en": "When asked who led this little operation...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10575,
+"en": "...They didn't hesitate to pin the whole\nplan on you.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10576,
+"en": "Each one said the same thing.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10577,
+"en": "You call those people your friends...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10578,
+"en": "...But considering their betrayal,\nperhaps you should reconsider.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10579,
+"en": "Is that what real friends would do?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10580,
+"en": "What do you gain from them?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10581,
+"en": "What's the point of it?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10582,
+"en": "Discard your former self.\nJoin me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10583,
+"en": "I will make you into a real man.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10584,
+"en": "That's it.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10585,
+"en": "That's how I joined the Yomei Alliance.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10586,
+"en": "I didn't fit in too good there.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10587,
+"en": "I was always fightin' my aniki.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10588,
+"en": "If I didn't like 'em, I'd hit 'em.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10589,
+"en": "Cause of that, I only ever got sent\non the most dangerous missions.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10590,
+"en": "Havin' a \"people\" problem?\n\"Hirose, get on it.\"",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10591,
+"en": "It was bad, but...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10592,
+"en": "Kurusu-san took real good care of me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10593,
+"en": "After I came back,\nhe'd always treat me to a fancy meal.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10594,
+"en": "Kept my pockets full, too.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10595,
+"en": "But t'be honest, I was only happy\nwhen he approved of me.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10596,
+"en": "I woulda done anythin'\njust t'hear his praise.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10597,
+"en": "All I could be proud of\nwas bein' good at fighting.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10598,
+"en": "But Kurusu-san gave me a reason to live.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10599,
+"en": "It might've been hard\nto say at the time...",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10600,
+"en": "...But I was real grateful fer that.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10601,
+"en": "One night though,\nhe called me in fer a meeting.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10602,
+"en": "Everythin' changed.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10603,
+"en": "Sorry I'm late.",
+"ctx": "auth|cinema_telop/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_sora|#",
+"max": null
+},
+{
+"id": 10604,
+"en": "What's up, Boss?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10605,
+"en": "How have you been?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10606,
+"en": "Oh, uh... I'm scrapin' by.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10607,
+"en": "When you look at me, what do you see?",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+},
+{
+"id": 10608,
+"en": "The chairman of the Yomei Alliance.\nOh, and the president of Iwami Shipbuilding.",
+"ctx": "auth|cinema_telop/#//#",
+"max": null
+}
+]

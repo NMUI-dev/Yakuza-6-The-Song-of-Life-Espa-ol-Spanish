@@ -1,0 +1,1064 @@
+[
+{
+"id": 8545,
+"en": "<color=batting_pitch_yellow>The success rate of base stealing</color> <color=batting_pitch_red>increases greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8546,
+"en": "When entering as a pinch-hitter, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8547,
+"en": "When entering as a pinch-hitter, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8548,
+"en": "When protecting the catcher, <color=batting_pitch_yellow>the pitcher's Control</color> <color=batting_pitch_red>increases slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8549,
+"en": "When protecting the catcher, <color=batting_pitch_yellow>the pitcher's Control</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8550,
+"en": "When protecting the catcher, <color=batting_pitch_yellow>the pitcher's Control</color> <color=batting_pitch_red>increases greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8551,
+"en": "When his batting order is 3, 4, or 5, <color=batting_pitch_yellow>Batting</color> <color=batting_pitch_red>increases slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8552,
+"en": "When his batting order is 3, 4, or 5, <color=batting_pitch_yellow>Batting</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8553,
+"en": "During a chance of a walk-off win,\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8554,
+"en": "During a chance of a walk-off win, <color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8555,
+"en": "When he's up to bat while the team is losing,\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8556,
+"en": "When he's up to bat while the team is losing,\n<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8557,
+"en": "<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8558,
+"en": "<color=batting_pitch_yellow>Batting</color> and <color=batting_pitch_yellow>Slugging</color> <color=batting_pitch_red>increase greatly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8559,
+"en": "In exchange for <color=batting_pitch_yellow>the likelihood of causing an error</color> <color=batting_pitch_blue>increases moderately</color>,\n<color=batting_pitch_yellow>the likelihood of making a great catch</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8560,
+"en": "<color=batting_pitch_yellow>The likelihood of making a great catch</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8561,
+"en": "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_blue>decrease moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8562,
+"en": "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8563,
+"en": "<color=batting_pitch_yellow>The likelihood of striking out a batter</color> <color=batting_pitch_red>increases slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8564,
+"en": "<color=batting_pitch_yellow>The likelihood of striking out a batter</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8565,
+"en": "When coming on as relief, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8566,
+"en": "When coming on as relief, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8567,
+"en": "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase slightly</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8568,
+"en": "When his pitches get hit repeatedly, his <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color>\n<color=batting_pitch_blue>decrease moderately</color> while going against the next batter.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8569,
+"en": "<color=batting_pitch_yellow>The likelihood of striking out a batter</color> <color=batting_pitch_red>increases tremendously</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8570,
+"en": "In clutch moments, <color=batting_pitch_yellow>Speed</color> and <color=batting_pitch_yellow>Control</color> <color=batting_pitch_red>increase tremendously</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8571,
+"en": "<color=batting_pitch_yellow>Speed</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8572,
+"en": "When pitching the ball diagonally from the\ndominant arm, <color=batting_pitch_yellow>Speed</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8573,
+"en": "When taking the mound at 7th inning or later, <color=batting_pitch_yellow>Speed</color> <color=batting_pitch_red>increases moderately</color>.",
+"ctx": "minigame_sandlot_baseball_skill|explanation",
+"max": null
+},
+{
+"id": 8574,
+"en": "Clutch Hitter",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8575,
+"en": "Superstar",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8576,
+"en": "Lord of Bats",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8577,
+"en": "Sultan of Swat",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8578,
+"en": "Man Who Can't Score",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8579,
+"en": "Pressure Cooked",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8580,
+"en": "For the Fences",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8581,
+"en": "Slugger",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8582,
+"en": "Heat Eye",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8583,
+"en": "National Pastime",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8584,
+"en": "God Swing",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8585,
+"en": "Home Run King of the World",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8586,
+"en": "Controlled Hit",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8587,
+"en": "Batting Specialist",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8588,
+"en": "Eye on the Ball",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8589,
+"en": "Third Eye",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8590,
+"en": "Bring 'Em Home",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8591,
+"en": "Grand Slam",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8592,
+"en": "Fielder Trainee",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8593,
+"en": "Fielder Specialist",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8594,
+"en": "Golden Glove",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8595,
+"en": "Combo Maker",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8596,
+"en": "Combo Master",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8597,
+"en": "Base Burglar",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8598,
+"en": "Base Bandit",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8599,
+"en": "In a Pinch",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8600,
+"en": "Pinch Master",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8601,
+"en": "Framing",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8602,
+"en": "Tactician",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8603,
+"en": "Mound General",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8604,
+"en": "Clean Up",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8605,
+"en": "Leader's Dignity",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8606,
+"en": "The Walk-off Man",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8607,
+"en": "Finisher",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8608,
+"en": "Sore Loser",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8609,
+"en": "Comeback Kid",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8610,
+"en": "Hit Maker",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8611,
+"en": "Batting Prodigy",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8612,
+"en": "Attention-seeker",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8613,
+"en": "Super Play",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8614,
+"en": "Weak Heart",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8615,
+"en": "Ijizakura",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8616,
+"en": "Doctor K",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8617,
+"en": "Strikeout King",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8618,
+"en": "Relief Ace",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8619,
+"en": "Lifesaver",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8620,
+"en": "Stress Tolerant",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8621,
+"en": "Glass Heart",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8622,
+"en": "Rising Fastball",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8623,
+"en": "Rocket",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8624,
+"en": "Crossfire",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8625,
+"en": "7th Inning Stretch",
+"ctx": "minigame_sandlot_baseball_skill|name",
+"max": null
+},
+{
+"id": 8626,
+"en": "Jingai Thunders",
+"ctx": "minigame_sandlot_baseball_team_id|name",
+"max": null
+},
+{
+"id": 8627,
+"en": "Onomichi Legends",
+"ctx": "minigame_sandlot_baseball_team_id|name",
+"max": null
+},
+{
+"id": 8628,
+"en": "Kanamizawa Gorgeous",
+"ctx": "minigame_sandlot_baseball_team_id|name",
+"max": null
+},
+{
+"id": 8629,
+"en": "Setouchi",
+"ctx": "minigame_sandlot_baseball_team_id|name_initial",
+"max": null
+},
+{
+"id": 8630,
+"en": "Jingai",
+"ctx": "minigame_sandlot_baseball_team_id|name_initial",
+"max": null
+},
+{
+"id": 8631,
+"en": "Life of the Party",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8632,
+"en": "Expert Communicator",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8633,
+"en": "Good Listener",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8634,
+"en": "Poor Speaker",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8635,
+"en": "Out of the Loop",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8636,
+"en": "Bars are the best place to relax...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8637,
+"en": "The daughter's new boyfriend...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8638,
+"en": "Whether to go to the class reunion...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8639,
+"en": "Afraid of new technology...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8640,
+"en": "Getting his wife back...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8641,
+"en": "Being a professional boxer...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8642,
+"en": "Became Kindred Spirits with ${name} and rose to ${rank}!",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8643,
+"en": "Familiar",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8644,
+"en": "Acquaintances",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8645,
+"en": "Good Friends",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8646,
+"en": "Close Friends",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8647,
+"en": "Kindred Spirits",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8648,
+"en": "You are now ${rank} with ${name}.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8649,
+"en": "You can become closer to this person.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8650,
+"en": "That's me.\nI still don't know much about you. \nLet's talk more at the bar, okay?",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8651,
+"en": "That's me.\nI'm glad you come to the bar a lot lately.\nWe have darts and karaoke, so have some fun.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8652,
+"en": "That's me.\nIt makes me really happy when you come visit.\nI'm sure everyone else thinks the same thing.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8653,
+"en": "That's me. \nWhen you don't come by, I get a little sad.\nI'm always here, so make some time for me!",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8654,
+"en": "That's me. \nThank you for the wonderful letter, I loved it.\nI hope we continue to get closer, Kiryu-san.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8655,
+"en": "That's Hatakeyama-san.\nHe's owns the oyster restaurant in Onomichi.\nHe's always selling oysters in the streets.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8656,
+"en": "That's Hatakeyama-san.\nHe cares deeply about people and sells oysters.\nI'm sure he'll open up to you very quickly.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8657,
+"en": "That's Hatakeyama-san. \nHe seems to be troubled over something lately.\nI wonder what's wrong...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8658,
+"en": "That's Hatakeyama-san.\nHe always talked about his daughter, but lately\nhe hasn't at all. I wonder if they had a fight.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8659,
+"en": "That's Hatakeyama-san.\nHe was depressed over his daughter getting\na boyfriend... But things seem better now!",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8660,
+"en": "That's Akiyoshi-kun.\nHe's the youngest of the regulars. He's kinda\nintroverted, but you'll be friends in no time.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8661,
+"en": "That's Akiyoshi-kun. \nHe said he's been having fun drinking with\nKiryu-san lately. Look after him, okay?",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8662,
+"en": "That's Akiyoshi-kun.\nApparently he used to play baseball.\nI heard he did pretty well in big games, too.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8663,
+"en": "That's Akiyoshi-kun.\nHe's been staring anxiously at a yearbook.\nI wonder why he'd bring that to a bar.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8664,
+"en": "That's Akiyoshi-kun.\nHe seems psyched to get back into playing\nbaseball! Maybe I'll go watch his games.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8665,
+"en": "That's Gen-san. \nThat man loves his karaoke. If you like\nkaraoke, too, you might get along well!",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8666,
+"en": "That's Gen-san.\nHe works out every day to improve his vocals.\nThat well-built body is entirely for karaoke.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8667,
+"en": "That's Gen-san. \nHe's actually a carpenter. But I think he\nhandles a mic more often than a hammer...",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8668,
+"en": "That's Gen-san.\nHe loves karaoke... Or so I thought.\nBut he hasn't sung at all lately.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8669,
+"en": "That's Gen-san.\nHe really fell in love with technology...\nNow he's singing and fiddling with his phone.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8670,
+"en": "That's Ando-san.\nHe runs the Otafuku Pawn Shop in Onomichi.\nHe's a little shy, but he has a good heart.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8671,
+"en": "That's Ando-san.\nHe's a pretty fashionable man. He loves darts,\nso I'm sure he'd love to play a game with you.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8672,
+"en": "That's Ando-san.\nI hear he used to live in Tokyo. He said he\nquit being a businessman to open his pawn shop.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8673,
+"en": "That's Ando-san.\nHe keeps looking at his texts and smiling.\nI wonder who's cheering him up.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8674,
+"en": "That's Ando-san.\nA lot happened, but I'm glad he got his wife\nback. Watching those two fills my heart.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8675,
+"en": "That's Kaneko-san.\nHe can be a little difficult, but he's\nhonest. I'm sure he'll like you, Kiryu-san.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8676,
+"en": "That's Kaneko-san.\nHe works at a city office. He may not look like\nit, but he takes good care of his subordinates.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8677,
+"en": "That's Kaneko-san.\nHe was complimenting you on your good manners.\nMaybe the two of you have some things in common.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8678,
+"en": "That's Kaneko-san.\nHe usually drinks here happily, but sometimes\nhe looks a little lonely. It bothers me.",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8679,
+"en": "That's Kaneko-san.\nHe looks like a weight has been lifted off him.\nWould you know anything about that, Kiryu-san?",
+"ctx": "minigame_snack_common_message|message",
+"max": null
+},
+{
+"id": 8680,
+"en": "Nobody really knows you right now.\nStart off by making a friend or two.",
+"ctx": "minigame_snack_rank|mamas_comment",
+"max": null
+},
+{
+"id": 8681,
+"en": "You're still not too important here.\nShow off your darts and karaoke skills!",
+"ctx": "minigame_snack_rank|mamas_comment",
+"max": null
+},
+{
+"id": 8682,
+"en": "Everyone at least knows who you are now.\nTry and get a little closer with our less outgoing patrons!",
+"ctx": "minigame_snack_rank|mamas_comment",
+"max": null
+},
+{
+"id": 8683,
+"en": "Looks like you made friends with everyone!\nKeep up that socializing, Kiryu-san.",
+"ctx": "minigame_snack_rank|mamas_comment",
+"max": null
+},
+{
+"id": 8684,
+"en": "You're really popular around here.\nEveryone loves when you stop by, Kiryu-san!",
+"ctx": "minigame_snack_rank|mamas_comment",
+"max": null
+},
+{
+"id": 8685,
+"en": "You're like some kind of bargoing legend!\nWell, at least in this bar.",
+"ctx": "minigame_snack_rank|mamas_comment",
+"max": null
+},
+{
+"id": 8686,
+"en": "Sing",
+"ctx": "minigame_snack_talk_event|button_info",
+"max": null
+},
+{
+"id": 8687,
+"en": "player,mama",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8688,
+"en": "player,guest_a,guest_b",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8689,
+"en": "player,guest_d,guest_e",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8690,
+"en": "player,guest_a,mama",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8691,
+"en": "player,guest_a",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8692,
+"en": "player,guest_b,mama",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8693,
+"en": "player,guest_c,mama",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8694,
+"en": "player,guest_d,mama",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8695,
+"en": "player,guest_e,mama",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8696,
+"en": "player,guest_b",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8697,
+"en": "player,guest_c",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8698,
+"en": "player,guest_d",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8699,
+"en": "player,guest_e",
+"ctx": "minigame_snack_talk_event|invisible",
+"max": null
+},
+{
+"id": 8700,
+"en": "Emperor Squid",
+"ctx": "minigame_spearfishing_course_data|fish9 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 8701,
+"en": "Delicious Octopus",
+"ctx": "minigame_spearfishing_course_data|fish9 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 8702,
+"en": "Bloody Shark",
+"ctx": "minigame_spearfishing_course_data|fish9 + minigame_spearfishing_target|name",
+"max": null
+},
+{
+"id": 8703,
+"en": "Treasure Chest",
+"ctx": "minigame_spearfishing_message|text",
+"max": null
+},
+{
+"id": 8704,
+"en": "Receive Meal Plan",
+"ctx": "minigame_sports_gym_common_message|message",
+"max": null
+},
+{
+"id": 8705,
+"en": "P.S. Avoid snacking as much as possible!",
+"ctx": "minigame_sports_gym_common_message|message",
+"max": null
+},
+{
+"id": 8706,
+"en": "RIZAP Challenge Session #",
+"ctx": "minigame_sports_gym_common_message|message",
+"max": null
+},
+{
+"id": 8707,
+"en": "\nEtc.",
+"ctx": "minigame_sports_gym_common_message|message",
+"max": null
+},
+{
+"id": 8708,
+"en": "Bravo, you did it!\nMost dishes don't have such a high quality of lobster!\nLet's hold our bodies to even higher standards than\nthat lobster was held to!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8709,
+"en": "Bummer! That was the wrong dish...\nYou should have eaten the Lobster Miso Soup!\nThe key ingredient is the high-quality lobster!\nPlease give it a try when you have a chance!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8710,
+"en": "Bravo, you did it!\nThe wonderful harmony of meat, rice, and egg!\nI could eat this forever! Oh, speaking of Katsudon,\nhave you heard of this Katsudon Prince guy...?\n...Or was it Kabedon?",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8711,
+"en": "Bummer! That was the wrong dish...\nYou should have eaten Katsudon!\nThe rice, meat, and egg create a perfect harmony,\nso you should eat a Katsudon whenever you can in\norder to build strength!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8712,
+"en": "Bravo, you did it!\nBuckwheat noodles are good for a quick meal when\nyou're a bit hungry! Wasn't the Egg & Tempura Soba\ndelicious and easy to eat?",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8713,
+"en": "Bummer! That was the wrong dish...\nYou should have eaten the Egg & Tempura Soba!\nIt's crazy how both the buckwheat noodles and\nthe egg are so simple, and yet so delicious!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8714,
+"en": "Bravo, you did it!\nHow did you like the Chashu Rice Bowl?\nChashu is the best topping when it comes to rice!\nLet's focus on turning all the weight that comes\nfrom it into muscle!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8715,
+"en": "Bummer! That was the wrong dish...\nYou should have eaten the Chashu Rice Bowl!\nChashu is the best topping when it comes to rice!\nYou should try chashu in noodle dishes, too.",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8716,
+"en": "Bravo, you did it!\nYou were able to finish the Wild Hamburg Steak 300g!\nYoung or old, people will always love hamburg steak!\nIt's my favorite food, even to this day!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8717,
+"en": "Bummer! That was the wrong dish...\nYou should have eaten the Wild Hamburg Steak 300g!\nHamburg Steaks are a childhood favorite!\nI mean, it's my favorite even as an adult!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8718,
+"en": "Bravo, you did it!\nYou were able to finish the Sirloin Steak 200g!\nSirloin is the king of meats! You're one step\ncloser to a muscular body after consuming a\nhefty amount of protein!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8719,
+"en": "Bummer! That was the wrong dish...\nYou should have eaten the Sirloin Steak 200g!\nSirloin is the king of meats! Meat is great for\nincreasing muscle mass, so you should eat some\nwhenever you train!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8720,
+"en": "Bravo, you did it!\nA Beef Plate is like a beef bowl without the rice!\nIt's a great dish for when you can't eat carbs.\nThe simplicity and cheap price are fantastic!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+},
+{
+"id": 8721,
+"en": "Bummer! That was the wrong dish...\nYou should have eaten the Beef Plate!\nIt's a perfect, light meal with lots of beef.\nIt includes pickled ginger and has no carbs!",
+"ctx": "minigame_sports_gym_meal_meal_category_rank_comment|content",
+"max": null
+}
+]

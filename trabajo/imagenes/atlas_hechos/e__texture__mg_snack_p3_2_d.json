@@ -1,0 +1,59 @@
+{
+ "textura": "e/texture/mg_snack_p3_2_d",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    161,
+    78,
+    312,
+    101
+   ],
+   "en": "GOOD CHOICE!",
+   "ocr": "GQODCHOICE!",
+   "es": "¡BUENA ELECCIÓN!",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 151,
+   "dejar": true
+  },
+  {
+   "caja": [
+    222,
+    103,
+    275,
+    117
+   ],
+   "en": "choice",
+   "ocr": "OHOICE2",
+   "es": "elección",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  },
+  {
+   "caja": [
+    96,
+    232,
+    277,
+    250
+   ],
+   "en": "Precious to a chef, huh? Like a knife or, something?",
+   "ocr": "Preciusto a chethh keknfe or something？",
+   "es": "Precioso para un chef, ¿eh? ¿Como un Cuchillo o algo así?",
+   "fuente": "times.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 181,
+   "dejar": true
+  }
+ ]
+}

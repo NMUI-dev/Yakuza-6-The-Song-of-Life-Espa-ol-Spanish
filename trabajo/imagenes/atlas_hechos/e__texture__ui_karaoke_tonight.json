@@ -1,0 +1,114 @@
+{
+ "textura": "e/texture/ui_karaoke_tonight",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": "todos",
+ "items": [
+  {
+   "caja": [
+    242,
+    198,
+    853,
+    310
+   ],
+   "en": "TONIGHT.",
+   "ocr": "TONIGHT",
+   "es": "TONIGHT.",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 611,
+   "dejar": true
+  },
+  {
+   "caja": [
+    835,
+    222,
+    1807,
+    312
+   ],
+   "en": "restart from this night",
+   "ocr": "-restart from this night-",
+   "es": "reiniciar desde esta noche",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 972,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1047,
+    685,
+    1883,
+    761
+   ],
+   "en": "Lyrics : Ryosuke Horii",
+   "ocr": "Lyrics : Ryosuke Horll",
+   "es": "Letra : Ryosuke Horii",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 836,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      180,
+      20,
+      50
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    1045,
+    769,
+    1883,
+    858
+   ],
+   "en": "Composition : ZENTA",
+   "ocr": "Composition : ZENTA",
+   "es": "Música : ZENTA",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 838,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      180,
+      20,
+      50
+     ],
+     4
+    ]
+   }
+  }
+ ]
+}

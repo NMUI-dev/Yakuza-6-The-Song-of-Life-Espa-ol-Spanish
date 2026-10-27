@@ -1,0 +1,129 @@
+{
+ "textura": "e/texture/icon_talk_mg",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": "todos",
+ "items": [
+  {
+   "caja": [
+    42,
+    15,
+    97,
+    45
+   ],
+   "en": "Easy",
+   "ocr": "Easy",
+   "es": "Fácil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 51
+  },
+  {
+   "caja": [
+    37,
+    69,
+    107,
+    92
+   ],
+   "en": "Medium",
+   "ocr": "Medium",
+   "es": "Medio",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 66
+  },
+  {
+   "caja": [
+    41,
+    118,
+    103,
+    149
+   ],
+   "en": "Hard",
+   "ocr": "Hard",
+   "es": "Difícil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 58
+  },
+  {
+   "caja": [
+    47,
+    176,
+    101,
+    202
+   ],
+   "en": "Easy",
+   "ocr": "Easy",
+   "es": "Fácil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 50
+  },
+  {
+   "caja": [
+    128,
+    173,
+    182,
+    196
+   ],
+   "en": "RIZAP",
+   "ocr": "RIZAP",
+   "es": "RIZAP",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 54
+  },
+  {
+   "caja": [
+    247,
+    177,
+    311,
+    202
+   ],
+   "en": "Legend",
+   "ocr": "Legend",
+   "es": "Leyenda",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60
+  },
+  {
+   "caja": [
+    39,
+    228,
+    106,
+    252
+   ],
+   "en": "Medium",
+   "ocr": "Meclium",
+   "es": "Medio",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 63
+  },
+  {
+   "caja": [
+    46,
+    282,
+    103,
+    306
+   ],
+   "en": "Hard",
+   "ocr": "Hard",
+   "es": "Difícil",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 53
+  }
+ ],
+ "tam": 17
+}

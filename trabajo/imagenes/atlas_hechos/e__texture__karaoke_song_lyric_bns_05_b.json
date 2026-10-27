@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_05_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    899,
+    104
+   ],
+   "en": "Tekisei ya sainou aru ka na n te",
+   "ocr": "性智书熊南？ ATekisei ya sainou na te",
+   "es": "Tener aptitud o talento o lo que sea,",
+   "fuente": "segoeui.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 899,
+   "dejar": true
+  }
+ ]
+}

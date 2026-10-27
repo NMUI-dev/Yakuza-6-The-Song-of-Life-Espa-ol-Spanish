@@ -1,0 +1,166 @@
+{
+ "textura": "e/texture/mg_darts_01_p02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    438,
+    11,
+    468,
+    27
+   ],
+   "en": "ONLINE",
+   "ocr": "NLINE",
+   "es": "EN LÍNEA",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "dejar": true
+  },
+  {
+   "caja": [
+    18,
+    29,
+    94,
+    57
+   ],
+   "en": "5/10 ROUND SCORE",
+   "ocr": "5/10SCORE ROUND",
+   "es": "PUNTUACIÓN DE RONDA 5/10",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 76,
+   "dejar": true
+  },
+  {
+   "caja": [
+    152,
+    45,
+    328,
+    90
+   ],
+   "en": "WINNER",
+   "ocr": "WINNER",
+   "es": "GANADOR",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "estilo": {
+    "arriba": [
+     255,
+     250,
+     225
+    ],
+    "abajo": [
+     225,
+     165,
+     40
+    ],
+    "contorno": [
+     [
+      70,
+      35,
+      0
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    409,
+    37,
+    467,
+    54
+   ],
+   "en": "DART SCORES",
+   "ocr": "DARTSCORES",
+   "es": "PUNT. DARDOS",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 58,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    402,
+    54,
+    472,
+    77
+   ],
+   "en": "SINGLE 11",
+   "ocr": "SINGLE 11",
+   "es": "11 SIMPLE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 70,
+   "dejar": true
+  },
+  {
+   "caja": [
+    200,
+    127,
+    280,
+    148
+   ],
+   "en": "Kazuma Kiryu",
+   "ocr": "Kazuma Kiryu",
+   "es": "Kazuma Kiryu",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 76,
+   "dejar": true
+  },
+  {
+   "caja": [
+    135,
+    187,
+    349,
+    224
+   ],
+   "en": "EXCELLENT!",
+   "ocr": "EXCELLENT!",
+   "es": "¡EXCELENTE!",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 210
+  },
+  {
+   "caja": [
+    12,
+    224,
+    55,
+    238
+   ],
+   "en": "Kazuya Kiryu",
+   "ocr": "Tatvte Kirya",
+   "es": "Kazuya Kiryu",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  }
+ ]
+}

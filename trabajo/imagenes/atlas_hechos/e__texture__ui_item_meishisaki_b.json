@@ -1,0 +1,55 @@
+{
+ "textura": "e/texture/ui_item_meishisaki_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    84,
+    228,
+    200,
+    294
+   ],
+   "en": "SHINE",
+   "ocr": "SHINE SEW CCS.KIMEKOCHO",
+   "es": "SHINE",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 116
+  },
+  {
+   "caja": [
+    96,
+    302,
+    243,
+    380
+   ],
+   "en": "SAKI",
+   "ocr": "SAKI",
+   "es": "SAKI",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 147
+  },
+  {
+   "caja": [
+    79,
+    361,
+    237,
+    431
+   ],
+   "en": "CLUB SHINE",
+   "ocr": "CLUB SHxx-xxKaro-choxxxx Telx-xxx-xxxwww.clubshine.",
+   "es": "CLUB SHINE",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 158
+  }
+ ]
+}

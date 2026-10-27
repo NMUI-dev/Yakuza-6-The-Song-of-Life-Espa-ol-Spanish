@@ -1,0 +1,54 @@
+{
+ "textura": "e/texture/clan_card_bg",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    12,
+    1184,
+    109,
+    1255
+   ],
+   "en": "SR",
+   "ocr": "SR",
+   "es": "SR",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 97
+  },
+  {
+   "caja": [
+    2,
+    1565,
+    157,
+    1650
+   ],
+   "en": "SSR",
+   "ocr": "SSR",
+   "es": "SSR",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 155
+  },
+  {
+   "caja": [
+    603,
+    1571,
+    689,
+    1622
+   ],
+   "en": "SSR",
+   "ocr": "SSR",
+   "es": "SSR",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 86
+  }
+ ]
+}

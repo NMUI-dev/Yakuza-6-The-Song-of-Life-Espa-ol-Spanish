@@ -1,0 +1,76 @@
+{
+ "textura": "e/texture/mg_snack_p3_2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    31,
+    6,
+    71,
+    19
+   ],
+   "en": "liveliness",
+   "ocr": "Lvelness",
+   "es": "Vitalidad",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 36,
+   "dejar": true
+  },
+  {
+   "caja": [
+    161,
+    78,
+    312,
+    101
+   ],
+   "en": "GOOD CHOICE!",
+   "ocr": "GOODCHOICE!",
+   "es": "¡BUENA ELECCIÓN!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 151,
+   "dejar": true
+  },
+  {
+   "caja": [
+    220,
+    103,
+    255,
+    117
+   ],
+   "en": "VOICE",
+   "ocr": "OHOCE",
+   "es": "VOZ",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 35,
+   "dejar": true
+  },
+  {
+   "caja": [
+    97,
+    233,
+    277,
+    249
+   ],
+   "en": "Precious to a chef. Huh? Like a knife or something?",
+   "ocr": "Peecious to a Chelhoh?Hkeknle ofsomething?",
+   "es": "Precioso para un chef. ¿Eh? ¿Como un Cuchillo o algo así?",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 180,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "textura": "e/texture/mg_clan_menu_p04_1_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    8,
+    2,
+    73,
+    19
+   ],
+   "en": "Strike Team",
+   "ocr": "Strike Tea",
+   "es": "Equipo de ataque",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 61,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "caja": [
+    41,
+    63,
+    81,
+    76
+   ],
+   "en": "Kyu Can Org Chart",
+   "ocr": "Erpu Cas Ors (hat",
+   "es": "Organigrama del Clan Kiryu",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 47,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "_x": 1,
+   "dejar": true
+  }
+ ],
+ "contraste": true
+}

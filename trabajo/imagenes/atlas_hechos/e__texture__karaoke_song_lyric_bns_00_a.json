@@ -1,0 +1,88 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_00_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    113,
+    63,
+    158,
+    98
+   ],
+   "en": "ke",
+   "ocr": "ke",
+   "es": "ke",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "dejar": true
+  },
+  {
+   "caja": [
+    339,
+    66,
+    392,
+    99
+   ],
+   "en": "no",
+   "ocr": "no",
+   "es": "No",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49,
+   "dejar": true
+  },
+  {
+   "caja": [
+    421,
+    65,
+    464,
+    97
+   ],
+   "en": "na",
+   "ocr": "na",
+   "es": "na",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    653,
+    67,
+    704,
+    98
+   ],
+   "en": "no",
+   "ocr": "no",
+   "es": "No",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 47,
+   "dejar": true
+  },
+  {
+   "caja": [
+    887,
+    65,
+    940,
+    100
+   ],
+   "en": "WO",
+   "ocr": "Wo",
+   "es": "WO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 53,
+   "dejar": true
+  }
+ ]
+}

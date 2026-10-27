@@ -1,0 +1,326 @@
+{
+ "textura": "e/texture/clan_menu_text",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": "todos",
+ "items": [
+  {
+   "caja": [
+    9,
+    2,
+    278,
+    53
+   ],
+   "en": "Clan Creator",
+   "ocr": "Clan Creator",
+   "es": "Creador de Clanes",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 269,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    6,
+    52,
+    187,
+    101
+   ],
+   "en": "Missions",
+   "ocr": "Missions",
+   "es": "Misiones",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 181,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    7,
+    101,
+    277,
+    153
+   ],
+   "en": "Strike Team",
+   "ocr": "Team",
+   "es": "Equipo de ataque",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 270,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    5,
+    150,
+    228,
+    204
+   ],
+   "en": "Hierarchy",
+   "ocr": "Hierarchy",
+   "es": "Jerarquía",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 223,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    6,
+    200,
+    202,
+    255
+   ],
+   "en": "Training",
+   "ocr": "Training",
+   "es": "Entrenamiento",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 196,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    7,
+    254,
+    184,
+    299
+   ],
+   "en": "Network",
+   "ocr": "Network",
+   "es": "Red",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 177,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    6,
+    304,
+    169,
+    350
+   ],
+   "en": "Results",
+   "ocr": "Results",
+   "es": "Resultados",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 163,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    2,
+    349,
+    104,
+    405
+   ],
+   "en": "Help",
+   "ocr": "Help",
+   "es": "Ayuda",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 102,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    6,
+    402,
+    308,
+    451
+   ],
+   "en": "Defense Force",
+   "ocr": "Defense Force",
+   "es": "Fuerza de defensa",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 302,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    5,
+    452,
+    109,
+    500
+   ],
+   "en": "Raid",
+   "ocr": "Raid",
+   "es": "Incursión",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 104,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    5,
+    501,
+    283,
+    551
+   ],
+   "en": "Ranked Raid",
+   "ocr": "Ranked Raid",
+   "es": "Incursión clasificatoria",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 278,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    5,
+    553,
+    155,
+    601
+   ],
+   "en": "Events",
+   "ocr": "Events",
+   "es": "Eventos",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 150,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    7,
+    601,
+    271,
+    652
+   ],
+   "en": "Friend Raid",
+   "ocr": "1 Raid",
+   "es": "Incursión con amigos",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 264,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    9,
+    654,
+    291,
+    701
+   ],
+   "en": "Organization",
+   "ocr": "Organization",
+   "es": "Organización",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 282,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    7,
+    703,
+    363,
+    750
+   ],
+   "en": "Terms of Service",
+   "ocr": "Terms of Service",
+   "es": "Términos de servicio",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 356,
+   "sangria": 2
+  },
+  {
+   "caja": [
+    58,
+    751,
+    204,
+    790
+   ],
+   "en": "DEPLOYED",
+   "ocr": "DEPLOYED",
+   "es": "DESPLEGADO",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 146
+  },
+  {
+   "caja": [
+    66,
+    788,
+    188,
+    825
+   ],
+   "en": "HEALING",
+   "ocr": "HEALING",
+   "es": "CURANDO",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 122
+  },
+  {
+   "caja": [
+    37,
+    840,
+    217,
+    886
+   ],
+   "en": "REVIVED",
+   "ocr": "REVIVED",
+   "es": "REVIVIDO",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 180
+  },
+  {
+   "caja": [
+    14,
+    908,
+    240,
+    948
+   ],
+   "en": "RETREATING",
+   "ocr": "RETREATING",
+   "es": "RETIRÁNDOSE",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 226
+  },
+  {
+   "caja": [
+    26,
+    969,
+    229,
+    1012
+   ],
+   "en": "DEFEATED",
+   "ocr": "DEFEATED",
+   "es": "DERROTADO",
+   "fuente": "timesbi.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 203
+  }
+ ],
+ "tam": 36,
+ "alin": "izq",
+ "ceñido": true
+}

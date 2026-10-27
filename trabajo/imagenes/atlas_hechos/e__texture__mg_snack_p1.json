@@ -1,0 +1,56 @@
+{
+ "textura": "e/texture/mg_snack_p1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    190,
+    8,
+    227,
+    29
+   ],
+   "en": "Mama",
+   "ocr": "Mama",
+   "es": "Mama",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 33
+  },
+  {
+   "caja": [
+    92,
+    19,
+    184,
+    40
+   ],
+   "en": "Hatakeyama-san",
+   "ocr": "Hatakeyama-san",
+   "es": "Hatakeyama-san",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 88
+  },
+  {
+   "caja": [
+    406,
+    38,
+    459,
+    60
+   ],
+   "en": "Gen-san",
+   "ocr": "Gen-san",
+   "es": "Gen-san",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 49
+  }
+ ]
+}

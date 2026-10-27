@@ -1,0 +1,53 @@
+{
+ "textura": "e/texture/haruto_ayashi_01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    88,
+    4,
+    438,
+    147
+   ],
+   "en": "START",
+   "ocr": "START",
+   "es": "INICIO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 346
+  },
+  {
+   "caja": [
+    8,
+    159,
+    512,
+    288
+   ],
+   "en": "COMPLETE",
+   "ocr": "COMPLETE",
+   "es": "COMPLETADO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 504
+  },
+  {
+   "caja": [
+    78,
+    294,
+    453,
+    434
+   ],
+   "en": "FAILED",
+   "ocr": "FAILED",
+   "es": "FALLIDO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 375
+  }
+ ]
+}

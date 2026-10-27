@@ -1,0 +1,28 @@
+{
+ "textura": "e/texture/mg_karaoke_jacket",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    14,
+    67,
+    104,
+    88
+   ],
+   "en": "Song Number",
+   "ocr": "Song Number",
+   "es": "Número de canción",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 90,
+   "color": [
+    205,
+    205,
+    205
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_03_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    472,
+    104
+   ],
+   "en": "School Days!",
+   "ocr": "School",
+   "es": "School Days!",
+   "fuente": "times.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 472,
+   "dejar": true
+  },
+  {
+   "caja": [
+    494,
+    0,
+    844,
+    104
+   ],
+   "en": "Mirai eigou",
+   "ocr": "未来永劫 eigou",
+   "es": "Mirai eigou",
+   "fuente": "times.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 350,
+   "dejar": true
+  }
+ ]
+}

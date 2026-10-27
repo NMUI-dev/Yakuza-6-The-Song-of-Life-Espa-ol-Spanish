@@ -1,0 +1,72 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_02_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    425,
+    2,
+    662,
+    104
+   ],
+   "en": "stage",
+   "ocr": "stiage) stage",
+   "es": "stage",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 237,
+   "dejar": true
+  },
+  {
+   "caja": [
+    275,
+    23,
+    416,
+    89
+   ],
+   "en": "new new",
+   "ocr": "new new",
+   "es": "new new",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 141,
+   "dejar": true
+  },
+  {
+   "caja": [
+    498,
+    56,
+    607,
+    104
+   ],
+   "en": "stage",
+   "ocr": "stage",
+   "es": "etapa",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 109,
+   "dejar": true
+  },
+  {
+   "caja": [
+    313,
+    67,
+    382,
+    97
+   ],
+   "en": "new",
+   "ocr": "new",
+   "es": "nuevo",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 69,
+   "dejar": true
+  }
+ ]
+}

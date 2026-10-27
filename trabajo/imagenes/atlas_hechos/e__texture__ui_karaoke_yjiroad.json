@@ -1,0 +1,97 @@
+{
+ "textura": "e/texture/ui_karaoke_yjiroad",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    527,
+    191,
+    1641,
+    315
+   ],
+   "en": "Fork In The Road",
+   "ocr": "Fork In The Road",
+   "es": "Una encrucijada",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1110,
+   "dejar": true
+  },
+  {
+   "caja": [
+    1049,
+    684,
+    1887,
+    764
+   ],
+   "en": "Lyrics : Ryosuke Horii",
+   "ocr": "Lyrics : Ryosuke Horii",
+   "es": "Letra : Ryosuke Horii",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 838,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      40,
+      130
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    1050,
+    774,
+    1772,
+    858
+   ],
+   "en": "Composition : Kiyo",
+   "ocr": "Composition : Kiyo",
+   "es": "Música : Kiyo",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 722,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     255,
+     255,
+     255
+    ],
+    "contorno": [
+     [
+      20,
+      40,
+      130
+     ],
+     4
+    ]
+   }
+  }
+ ]
+}

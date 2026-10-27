@@ -1,0 +1,93 @@
+{
+ "textura": "e/texture/mg_darts_play_p01",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    54,
+    29,
+    95,
+    48
+   ],
+   "en": "ROUND SCORE",
+   "ocr": "ROUND",
+   "es": "PUNTUACIÓN DE RONDA",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  },
+  {
+   "caja": [
+    409,
+    39,
+    465,
+    55
+   ],
+   "en": "DART SCORES",
+   "ocr": "DARTSCORES",
+   "es": "PUNTUACIÓN DE DARDOS",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    454,
+    131,
+    473,
+    144
+   ],
+   "en": "throw",
+   "ocr": "Duire",
+   "es": "Lanzar",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 19,
+   "dejar": true
+  },
+  {
+   "caja": [
+    13,
+    224,
+    56,
+    238
+   ],
+   "en": "Kaczyna Kryw",
+   "ocr": "Kacun ory",
+   "es": "Kaczyna Kryw",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "borroso",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    380,
+    223,
+    425,
+    238
+   ],
+   "en": "Yuka Kinoshita",
+   "ocr": "Yla Knoshiu",
+   "es": "Yuka Kinoshita",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+ "textura": "e/texture/mg_clan_menu_p05_2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    377,
+    87,
+    408,
+    108
+   ],
+   "en": "EXP",
+   "ocr": "EXP",
+   "es": "EXP",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 27,
+   "dejar": true
+  },
+  {
+   "caja": [
+    48,
+    166,
+    83,
+    193
+   ],
+   "en": "Joe",
+   "ocr": "Joe",
+   "es": "Joe",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 31,
+   "dejar": true
+  },
+  {
+   "caja": [
+    372,
+    165,
+    437,
+    195
+   ],
+   "en": "Lv. 5",
+   "ocr": "Lv.5",
+   "es": "Nv. 5",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "der",
+   "ancho_max": 65,
+   "color": [
+    235,
+    225,
+    200
+   ],
+   "alto": 15,
+   "mediana": false
+  },
+  {
+   "caja": [
+    58,
+    195,
+    118,
+    217
+   ],
+   "en": "Skill",
+   "ocr": "Skill",
+   "es": "Habilidad",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 30,
+   "color": [
+    150,
+    150,
+    150
+   ],
+   "alto": 9,
+   "mediana": false
+  },
+  {
+   "caja": [
+    146,
+    195,
+    260,
+    217
+   ],
+   "en": "Ultimate Dropkick",
+   "ocr": "Ultimate Dropkick",
+   "es": "Patada voladora definitiva",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 103,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "mediana": false
+  },
+  {
+   "caja": [
+    74,
+    220,
+    119,
+    242
+   ],
+   "en": "Health",
+   "ocr": "Health",
+   "es": "Vida",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 41,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "alto": 9,
+   "mediana": false,
+   "margen": 0
+  },
+  {
+   "caja": [
+    174,
+    220,
+    217,
+    242
+   ],
+   "en": "Attack",
+   "ocr": "Attack",
+   "es": "Ataque",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 39,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "alto": 9,
+   "mediana": false,
+   "margen": 0
+  },
+  {
+   "caja": [
+    265,
+    220,
+    318,
+    242
+   ],
+   "en": "Defense",
+   "ocr": "Defense",
+   "es": "Defensa",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 49,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "alto": 9,
+   "mediana": false,
+   "margen": 0
+  },
+  {
+   "caja": [
+    360,
+    220,
+    421,
+    243
+   ],
+   "en": "Influence",
+   "ocr": "Influence",
+   "es": "Influencia",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 57,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "alto": 9,
+   "mediana": false,
+   "margen": 0
+  }
+ ]
+}

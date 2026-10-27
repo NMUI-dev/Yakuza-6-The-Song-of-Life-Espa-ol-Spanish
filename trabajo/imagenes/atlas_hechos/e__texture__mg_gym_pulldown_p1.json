@@ -1,0 +1,31 @@
+{
+ "textura": "e/texture/mg_gym_pulldown_p1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    15,
+    9,
+    112,
+    23
+   ],
+   "en": "Lat Pulldowns",
+   "ocr": "Lat Pudowns",
+   "es": "Jalón al pecho",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 53,
+   "color": [
+    235,
+    195,
+    45
+   ],
+   "alto": 8,
+   "mediana": false
+  }
+ ]
+}

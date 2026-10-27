@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_02_b",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    274,
+    2,
+    668,
+    104
+   ],
+   "en": "new stage",
+   "ocr": "s tage) stage",
+   "es": "nueva etapa",
+   "fuente": "segoeui.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 394,
+   "dejar": true
+  }
+ ]
+}

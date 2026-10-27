@@ -1,0 +1,56 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_08_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    319,
+    0,
+    648,
+    104
+   ],
+   "en": "matta senaka",
+   "ocr": "大背中 matta",
+   "es": "espalda acurrucada,",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 329,
+   "dejar": true
+  },
+  {
+   "caja": [
+    109,
+    62,
+    158,
+    100
+   ],
+   "en": "ku",
+   "ocr": "ku",
+   "es": "junto a la",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 49,
+   "dejar": true
+  },
+  {
+   "caja": [
+    174,
+    67,
+    261,
+    101
+   ],
+   "en": "maru",
+   "ocr": "maru",
+   "es": "una",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 87,
+   "dejar": true
+  }
+ ]
+}

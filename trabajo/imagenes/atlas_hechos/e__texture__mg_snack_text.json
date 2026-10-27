@@ -1,0 +1,153 @@
+{
+ "textura": "e/texture/mg_snack_text",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    0,
+    512,
+    256
+   ],
+   "en": "todo",
+   "es": " ",
+   "solo_borrar": true,
+   "efecto": "nada",
+   "margen": 0
+  },
+  {
+   "caja": [
+    19,
+    17,
+    161,
+    66
+   ],
+   "en": "BAD",
+   "ocr": "BAD",
+   "es": "¡MALA",
+   "fuente": "corbelli.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 138,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 56
+  },
+  {
+   "caja": [
+    190,
+    17,
+    450,
+    68
+   ],
+   "en": "CHOICE!",
+   "ocr": "CHOICE!",
+   "es": "ELECCIÓN!",
+   "fuente": "corbelli.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 260,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 56
+  },
+  {
+   "caja": [
+    17,
+    100,
+    211,
+    150
+   ],
+   "en": "GOOD",
+   "ocr": "GOOD",
+   "es": "BUENA",
+   "fuente": "corbelli.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 190,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 56
+  },
+  {
+   "caja": [
+    240,
+    100,
+    481,
+    150
+   ],
+   "en": "CHOICE",
+   "ocr": "CHOICE",
+   "es": "ELECCIÓN",
+   "fuente": "corbelli.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 241,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 56
+  },
+  {
+   "caja": [
+    9,
+    174,
+    396,
+    243
+   ],
+   "en": "EXCELLENT",
+   "ocr": "EXCELLENT UP",
+   "es": "EXCELENTE",
+   "fuente": "corbelli.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 385,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 56
+  },
+  {
+   "caja": [
+    400,
+    174,
+    502,
+    243
+   ],
+   "en": "UP",
+   "ocr": "EXCELLENT UP",
+   "es": "SUBE",
+   "fuente": "corbelli.ttf",
+   "efecto": "brillo",
+   "alin": "centro",
+   "ancho_max": 100,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "no_borrar": true,
+   "tam": 56
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "textura": "e/texture/mg_darts_count_p02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    9,
+    7,
+    100,
+    30
+   ],
+   "en": "COUNT UP",
+   "ocr": "COUNTUP",
+   "es": "CONTAR",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 91,
+   "dejar": true
+  },
+  {
+   "caja": [
+    440,
+    10,
+    468,
+    27
+   ],
+   "en": "ONLINE",
+   "ocr": "LINE",
+   "es": "EN LÍNEA",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 28,
+   "dejar": true
+  },
+  {
+   "caja": [
+    38,
+    25,
+    98,
+    59
+   ],
+   "en": "ROUND 3 SCORE",
+   "ocr": "3SOURND",
+   "es": "PUNTUACIÓN DE RONDA 3",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 60,
+   "dejar": true
+  },
+  {
+   "caja": [
+    152,
+    44,
+    328,
+    89
+   ],
+   "en": "WINNER",
+   "ocr": "WINNER",
+   "es": "GANADOR",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "estilo": {
+    "arriba": [
+     255,
+     250,
+     225
+    ],
+    "abajo": [
+     225,
+     165,
+     40
+    ],
+    "contorno": [
+     [
+      70,
+      35,
+      0
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    409,
+    38,
+    465,
+    53
+   ],
+   "en": "DART SCORES",
+   "ocr": "DARTSCORES",
+   "es": "PUNTUACIONES DE DARDOS",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 56,
+   "dejar": true
+  },
+  {
+   "caja": [
+    401,
+    54,
+    435,
+    75
+   ],
+   "en": "BULL",
+   "ocr": "BULL",
+   "es": "BULL",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 34,
+   "dejar": true
+  },
+  {
+   "caja": [
+    402,
+    105,
+    472,
+    127
+   ],
+   "en": "SINGLE 19",
+   "ocr": "SINGLE 19",
+   "es": "SENCILLO 19",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 70,
+   "dejar": true
+  },
+  {
+   "caja": [
+    201,
+    126,
+    280,
+    147
+   ],
+   "en": "Kazuma Kiryu",
+   "ocr": "Kazuma Kiryu",
+   "es": "Kazuma Kiryu",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 75,
+   "dejar": true
+  },
+  {
+   "caja": [
+    145,
+    183,
+    338,
+    228
+   ],
+   "en": "PERFECT!",
+   "ocr": "PERFECT!",
+   "es": "¡PERFECTO!",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 193,
+   "estilo": {
+    "arriba": [
+     255,
+     250,
+     225
+    ],
+    "abajo": [
+     225,
+     165,
+     40
+    ],
+    "contorno": [
+     [
+      70,
+      35,
+      0
+     ],
+     3
+    ]
+   }
+  }
+ ]
+}

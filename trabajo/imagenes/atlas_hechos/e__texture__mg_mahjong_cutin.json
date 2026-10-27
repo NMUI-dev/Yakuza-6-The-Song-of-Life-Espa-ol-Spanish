@@ -1,0 +1,113 @@
+{
+ "textura": "e/texture/mg_mahjong_cutin",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    137,
+    20,
+    380,
+    143
+   ],
+   "en": "RON",
+   "ocr": "RON",
+   "es": "RON",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 239
+  },
+  {
+   "caja": [
+    649,
+    19,
+    888,
+    138
+   ],
+   "en": "PON",
+   "ocr": "PON",
+   "es": "PON",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 235
+  },
+  {
+   "caja": [
+    77,
+    162,
+    439,
+    282
+   ],
+   "en": "TSUMO",
+   "ocr": "TSUMO",
+   "es": "TSUMO",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 358
+  },
+  {
+   "caja": [
+    680,
+    159,
+    865,
+    275
+   ],
+   "en": "CHI",
+   "ocr": "CHI",
+   "es": "CHI",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 181
+  },
+  {
+   "caja": [
+    131,
+    293,
+    384,
+    426
+   ],
+   "en": "KAN",
+   "ocr": "KAN",
+   "es": "KAN",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 249
+  },
+  {
+   "caja": [
+    616,
+    298,
+    927,
+    423
+   ],
+   "en": "RICHI",
+   "ocr": "RIICHI",
+   "es": "RICHI",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 311
+  },
+  {
+   "caja": [
+    100,
+    436,
+    417,
+    562
+   ],
+   "en": "DRAW",
+   "ocr": "DRAW",
+   "es": "EMPATE",
+   "fuente": "PermanentMarker-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 313
+  }
+ ]
+}

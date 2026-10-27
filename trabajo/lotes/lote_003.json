@@ -1,0 +1,458 @@
+[
+{
+"id": 777,
+"en": "Pros and Cons of Getting Drunk",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 778,
+"en": "This is Hiro from the Tips Newsletter!\n\nJust like real life, if you consume too much\nalcohol, you'll get drunk. You can sober up\nby drinking water or even just letting it wear\noff as time passes. When you're drunk, people\naround the city are more likely to pick a fight\nwith you. At the same time, your Heat Orbs\nwill fill faster, so sometimes you may want to\nget drunk.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 779,
+"en": "Valuable Information",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 780,
+"en": "This is Hiro from the Tips Newsletter!\n\nAs you advance through the story, you'll find\nitems that are considered Valuables. Valuables\nhave their own tab in the Items Menu where\nyou can read descriptions of each one.\nValuables are often items that are important\nto the story. You cannot throw away or sell\nValuables.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 781,
+"en": "Accessing DLC",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 782,
+"en": "This is Hiro from the Tips Newsletter!\n\nWhen you obtain DLC, a cardboard box will be\ndelivered to either New Serena in Kamurocho\nor the Navy Apartments in Onomichi. Check\nthe box to unlock your DLC. You can only\nunlock DLC once per save file.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 783,
+"en": "Changing Clothes",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 784,
+"en": "This is Hiro from the Tips Newsletter!\n\nIf you obtain a new outfit, you can change into\nit at New Serena in Kamurocho or the Navy\nApartments in Onomichi. Note that you can\nonly change your outfit in Premium Adventure\nmode.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 785,
+"en": "Congrats on the 100% Completion!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 786,
+"en": "This is Hiro from the Tips Newsletter!\n\nCongratulations! All award objectives have\nbeen cleared! To show our gratitude for your\ndedication, we at Tips Newsletter would like\nto present you with a congratulatory item called\nthe \"War God Talisman\"!\n\nA box containing the talisman will be delivered\nto New Serena in Kamurocho or the Navy\nApartments in Onomichi. On behalf of all of us,\nthank you.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 787,
+"en": "Battle Coaching",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 788,
+"en": "Do you want to become stronger? Sure, we all\ndo. So, read my emails to find out just how\neasy it is. First we have to get you used to\nperforming simple attacks. \n\n<Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\n<Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\n<Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:2,Combat><Sign:1,Combat><Sign:1,Combat>\n\n - Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 789,
+"en": "You got that quick.\nKeep at it just like that.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 790,
+"en": "Unleash that anger of yours in the heat of\nbattle.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 791,
+"en": "You seem to be happy.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 792,
+"en": "What are you surprised about?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 793,
+"en": "Smiles are pointless in battle.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 794,
+"en": "What are you so down about?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 795,
+"en": "You seem restless.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 796,
+"en": "Don't let it get to you.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 797,
+"en": "Read it again.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 798,
+"en": "What do you mean by that?",
+"ctx": "pause_mail|table/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_riona|#",
+"max": null
+},
+{
+"id": 799,
+"en": "Battle Basics",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 800,
+"en": "It looks like you're pretty out of shape. So, I'll\nneed to teach you the basics again. Sure,\nattacking is important in a fight, but defense\ncan be even more crucial. Practice using all\nof the following defenses: \n\nHold <Sign:4,Combat> while moving to strafe around an\nenemy.\n\nHold <Sign:6,Combat> to guard against enemy attacks.\n\nPress <Sign: 3,Combat> to Quickstep.\n\nIf you can do those, just wait for an opening\nand then unleash your attacks.\n\n - Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 801,
+"en": "Using Equipment",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 802,
+"en": "Have you gotten any new gear yet? The gear\nyou get can be equipped by selecting \"Stats\"\nin the Pause Menu, then pressing <Sign:6,UI>\nor <Sign:4,UI> to toggle to \"Equip.\"\nEquipping better gear will enhance your stats,\nand strong enough gear can even give you\nan edge over strong foes.\n\n- Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 803,
+"en": "Power Up with Ability Upgrades",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 804,
+"en": "After obtaining some experience points (EXP),\nselect Stats in the Pause Menu to spend them on\nincreasing your stats and learning new skills.\nYou should first increase your Basic Stats. Once\nyou've raised your Basic Stats a bit, the rest\nis completely up to you. Learn skills that shape\nyour own personal fighting style.\nRemember: When you get EXP, use it!\n\n - Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 805,
+"en": "Advanced Techniques",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 806,
+"en": "So you're probably getting used to battles by\nnow. That's great! But, don't you hate being\nsurrounded by enemies and assaulted from all\nsides? Don't worry! In those situations, grab an\nenemy with <Sign:0,Combat>, then press <Sign:0,Combat> again to throw\nthem. You can do this to knock down\nsurrounding enemies as well.  \n\nHave you ever had a difficult time with speedy\nenemies? For quick foes, grab them using <Sign:0,Combat>,\nthen perform a grab attack by pressing <Sign:2,Combat> or\n<Sign:1,Combat>. Stopping an enemy's movement is the most\nsurefire way to cause damage.\n\nYou can also pick up weapons lying around\ntown with <Sign:0,Combat>. Weapons like knives and firearms\ncan't be guarded against, so use them whenever\nyou can. You have to be prepared to defend\nyourself against people who don't fight fair.\n\n - Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 807,
+"en": "Use Heat Actions",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 808,
+"en": "As you land attacks during battle, you'll notice\nthat the Heat Orbs near your Health Bar will\nfill up. Once an Orb fills up, you can use it\nto perform a special attack known as a Heat\nAction. When the Heat Icon shows up, press\n<Sign:1,Combat> to unleash a furious Heat Action. However,\neach Heat Action can only be activated under\ncertain conditions. You'll have to experiment\nand learn when you can use each Heat Action.\n\n - Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 809,
+"en": "It looks like a lot of your fighting instincts\nhave returned, so now I can teach you about\na special state called Extreme Heat Mode. After\ngathering several Heat Orbs, press <Sign:5,Combat> to enter\nExtreme Heat Mode. During Extreme Heat Mode,\nyou'll have a blue aura surrounding you. Not\nonly will your attack power increase, but you\ncan activate special Heat Actions that are\nexclusive to this mode.\n\nHow long Extreme Heat Mode lasts depends on\nhow many Heat Orbs you've filled up. The more\nOrbs, the longer it lasts. When fighting a\nstrong enemy, conserve your Heat Orbs and\noverwhelm them with Extreme Heat Mode.\n\nI look forward to the day I can fight you.\n\n - Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 810,
+"en": "Aim for Further Heights",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 811,
+"en": "Long time no see. I've watched you for a while,\nand it seems your fighting skills are pretty top\nnotch now. Therefore, this will be my final\nadvice to you.\n\nAs the Dragon of Dojima, you must understand\nthat training can only take you so far. If you\nhaven't yet, master your Basic Stats to the max.\nOnly then can you push beyond your limits.\n\nI'll contact you again... when the time is right.\n\nUntil then, keep on training.\n\n - Battle Master",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 812,
+"en": "Shakedown Squad Taken Down",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 813,
+"en": "This is Torafuru.\n\nI knew you could do it, Kiryu-san! Looks like\nyou drove the shakedown army out of the\ncity. They don't want to mess with you again.\nYou've brought this town one step closer to\npeace. Thank you!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 814,
+"en": "Dad Hunters Taken Down",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 815,
+"en": "This is Torafuru.\n\nWow! What an incredible job, Kiryu-san!\nThose guys were seeking out middle-aged\nmen to assault, but you sent them packing!\nPlease continue to help however you can!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 816,
+"en": "Pick-up Artists Taken Down",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 817,
+"en": "This is Torafuru.\n\nThose pick-up artists were going around\ntricking a lot of girls. Thankfully, they\nshouldn't con anyone else now that you've\ntaught them some manners. You're really\nturning this town around for the better.\nThank you!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 818,
+"en": "This is Torafuru.\n\nIt turns out those guys had committed a lot\nof assaults as a mob in this city. \n\nYou inspired some courage in people who\nsaw you fight without any fear against guys\nlike that, Kiryu-san. Thank you!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 819,
+"en": "This is Torafuru.\n\nThose guys were notorious as monsters who\ntarget couples. What do you think warped their\nhearts? Oh well. We don't have to worry about\nthem. They won't show their faces around here\nanymore. Thank you so much!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 820,
+"en": "It Looked Good On You!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 821,
+"en": "This is Torafuru.\n\nI'm sorry, but I had to laugh. I never thought I\nwould see you deliver ramen. It might have\nbeen a pain in the ass, but I'm sure you saved\nthat restaurant... lol. You're doing great work!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 822,
+"en": "Kamurocho Arsonist Thwarted",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 823,
+"en": "This is Torafuru.\n\nThat settles the series of arsons that had been\nhappening in Kamurocho. If it weren't for you,\nthere could have been a serious disaster in this\ncity. You really saved us all. Thank you!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 824,
+"en": "Onomichi Arsonist Foiled",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 825,
+"en": "This is Torafuru.\n\nThat settles the series of arsons that had\nbeen happening in Onomichi. If it weren't\nfor Troublr, we might not have been able\nto stop it. I'm thinking of taking this system\nnationwide. Let's work together to keep the\npeace in this city. I can't thank you enough!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 826,
+"en": "Definitely a Problem LOL",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 827,
+"en": "This is Torafuru.\n\nI guess you could say you're in big trouble if\nyou run out of toilet paper... lol. I'm in awe of\nyour kindness! It's nice to solve small problems\nlike this once in a while for a change of pace.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 828,
+"en": "Serial Stabber Stopped",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 829,
+"en": "This is Torafuru.\n\nThat was a really dangerous criminal. I wish\nthe police would catch people like that and\nkeep them off the streets. You've done a\ngreat service to your fellow man, Kiryu-san.\nThank you so much!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 830,
+"en": "Purse-Snatcher Nabbed",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 831,
+"en": "This is Torafuru.\n\nThere's a correlation between the crime rate\nin a city and the amount of purse-snatchers.\nWithout any witnesses, victims generally have\nno option but to give up. You were able to\ncatch them in the act of the crime, though.\nThank you!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 832,
+"en": "Pickpocket Sent Packing",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 833,
+"en": "This is Torafuru.\n\nI think this city is still very dangerous. The\nguy who was caught was apparently an infamous\npickpocket according to the police. Looks like\nhe was outclassed this time. LOL. Thank you,\nKiryu-san!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 834,
+"en": "Bomber Disarmed",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 835,
+"en": "This is Torafuru.\n\nYou really saved us. He might have been the\nmost terrifying threat so far. You can make\nbombs so easily nowadays... So we can't rule\nout the possibility that more bombers might\nappear later. I'll keep a look out. Thank you!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 836,
+"en": "Time to Say Goodbye",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 837,
+"en": "This is Torafuru.\n\nThanks to you, this city has become much\nmore peaceful. I think as long as we keep an\neye on Troublr, we'll be able to manage. \n\nYou're an inspiration, Kiryu-san. I want to\nbecome strong like you. I want to protect\nthis city with my own strength, rather than\nalways depending on others.\n\nThat's how I feel now. I'll keep working at it.\nThank you for everything. Goodbye.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 838,
+"en": "Kamurocho Information",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 839,
+"en": "This is the Kamurocho Information Service.\n\nThis service will automatically distribute\nupdates on Kamurocho's facilities and road\nconditions.\n\n***NOTICE***\nAccess to Park Boulevard is limited due to\nmajor construction on the sewers on the north\nside of Shichifuku Street. Pedestrians and\ndrivers should exercise caution while in the\narea.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 840,
+"en": "This is an automated message. Please do not\nreply directly to this account as you will not\nreceive a response.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 841,
+"en": "This is the Kamurocho Information Service.\n\n***NOTICE***\nThe Champion District is undergoing renovation\nto address the deterioration of buildings within\nthe area. Please stay alert and yield to\nconstruction crews.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 842,
+"en": "This is the Kamurocho Information Service.\n\n***NOTICE***\nA building is currently on fire in Kamurocho,\nand reports indicate that the fire department's\nresponse has been delayed. If you are in the\narea, please evacuate immediately.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 843,
+"en": "This is the Kamurocho Information Service.\n\n***NOTICE***\nWe have just received an eyewitness report of a\nmassive UFO in the skies above Kamurocho and\nOnomichi! Apparently you can see it if you\nequip an item called the UFO Finder! If you are\nin Kamurocho, look toward the Millennium Tower\nfrom the roof of a building. If you are in\nOnomichi, find some high ground and look up at\nthe sky.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 844,
+"en": "This is the Kamurocho Information \nService.\n\n***NOTICE***\nHave you heard? A rumor has been spreading\nthat you can take pictures of ghosts in\nKamurocho. Reports say the phenomenon is\ntied to some mysterious photographs. If you\nhold one of these photographs, you might feel\nyourself shudder as you pass by a certain\nlocation. Try taking a picture there, and you\nmight see something that's not meant to be\nseen...",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 845,
+"en": "Onomichi's Back-alley Merchant",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 846,
+"en": "Kiryu-san,\n\nThat back-alley merchant that I talked to you\nabout the other day gave me a call. He said it\nwas okay for me to tell you about him, so if\nyou want to meet him, you should check out the\nvacant lot in Hana-no-kubo.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 847,
+"en": "Kamurocho's Back-alley Merchant",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 848,
+"en": "Yo Kiryu-san,\nIt's been a while. You remember the back-alley\nmerchant in Onomichi mentioning his counterpart\nin Kamurocho?\n\nWell I got word that he's already heard about\nyou, so you should go introduce yourself when\nyou get a chance. I hear he hangs out deep in\nthe sewer system.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 849,
+"en": "Change settings related to gameplay.",
+"ctx": "pause_others|explanation",
+"max": null
+},
+{
+"id": 850,
+"en": "Select the file you would like to save current game progress to.",
+"ctx": "pause_others|explanation",
+"max": null
+},
+{
+"id": 851,
+"en": "Load Game.",
+"ctx": "pause_others|explanation",
+"max": null
+},
+{
+"id": 852,
+"en": "Quit playing and return to the title screen.",
+"ctx": "pause_others|explanation",
+"max": null
+}
+]

@@ -1,0 +1,59 @@
+{
+ "textura": "e/texture/mg_snack_p5",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    271,
+    21,
+    347,
+    37
+   ],
+   "en": "Customer Rank",
+   "ocr": "Customer Rank",
+   "es": "Rango del cliente",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 76,
+   "dejar": true
+  },
+  {
+   "caja": [
+    351,
+    161,
+    383,
+    176
+   ],
+   "en": "Unknown",
+   "ocr": "UekNoNs",
+   "es": "Desconocido",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 28,
+   "dejar": true
+  },
+  {
+   "caja": [
+    227,
+    204,
+    331,
+    221
+   ],
+   "en": "Nobody really knows you right now. Start off by making a friend or two",
+   "ocr": "Nobody really kners voo ight nuL p  ",
+   "es": "Nadie te conoce realmente, Derecha ahora. Al Inicio, hazte un amigo o dos",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 104,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/bc_sb_m_amonjyo",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    162,
+    23,
+    870,
+    236
+   ],
+   "en": "JO AMON",
+   "ocr": "AMON",
+   "es": "JO AMON",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 708
+  }
+ ]
+}

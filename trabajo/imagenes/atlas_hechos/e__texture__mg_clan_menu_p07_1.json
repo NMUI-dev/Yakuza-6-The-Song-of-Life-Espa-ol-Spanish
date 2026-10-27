@@ -1,0 +1,116 @@
+{
+ "textura": "e/texture/mg_clan_menu_p07_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    32,
+    94,
+    168,
+    122
+   ],
+   "en": "NEXT RANK",
+   "ocr": "NEXT RANK",
+   "es": "SIGUIENTE RANGO",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 136,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     225,
+     225,
+     225
+    ],
+    "contorno": [
+     [
+      30,
+      10,
+      10
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    294,
+    110,
+    396,
+    131
+   ],
+   "en": "PLAYER",
+   "ocr": "PLAYER",
+   "es": "RANGO DEL",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 98,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     225,
+     225,
+     225
+    ],
+    "contorno": [
+     [
+      30,
+      10,
+      10
+     ],
+     2
+    ]
+   }
+  },
+  {
+   "caja": [
+    299,
+    133,
+    390,
+    159
+   ],
+   "en": "RANK",
+   "ocr": "RANK",
+   "es": "JUGADOR",
+   "fuente": "timesbd.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 87,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     255
+    ],
+    "abajo": [
+     225,
+     225,
+     225
+    ],
+    "contorno": [
+     [
+      30,
+      10,
+      10
+     ],
+     2
+    ]
+   }
+  }
+ ]
+}

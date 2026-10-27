@@ -1,0 +1,146 @@
+{
+ "textura": "e/texture/mg_darts_cricket_p02",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    10,
+    8,
+    83,
+    30
+   ],
+   "en": "CRICKET",
+   "ocr": "CRICKET",
+   "es": "CRICKET",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 73,
+   "dejar": true
+  },
+  {
+   "caja": [
+    18,
+    28,
+    95,
+    58
+   ],
+   "en": "5/ 5 ROUND SCORE",
+   "ocr": "5/5SCORE ROUND",
+   "es": "PUNTUACIÓN DE LA RONDA 3/5",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 77,
+   "dejar": true
+  },
+  {
+   "caja": [
+    444,
+    12,
+    465,
+    26
+   ],
+   "en": "PRIME",
+   "ocr": "LINE",
+   "es": "PRIMO",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 21,
+   "dejar": true
+  },
+  {
+   "caja": [
+    152,
+    44,
+    328,
+    90
+   ],
+   "en": "WINNER",
+   "ocr": "WINNER",
+   "es": "GANADOR",
+   "fuente": "impact.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 176,
+   "estilo": {
+    "arriba": [
+     255,
+     250,
+     225
+    ],
+    "abajo": [
+     225,
+     165,
+     40
+    ],
+    "contorno": [
+     [
+      70,
+      35,
+      0
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    402,
+    54,
+    445,
+    76
+   ],
+   "en": "TRIPLE",
+   "ocr": "TRIPLE",
+   "es": "TRIPLE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    401,
+    79,
+    444,
+    99
+   ],
+   "en": "TRIPLE",
+   "ocr": "TRIDLE",
+   "es": "TRIPLE",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 43,
+   "dejar": true
+  },
+  {
+   "caja": [
+    200,
+    126,
+    280,
+    148
+   ],
+   "en": "Kazuma Kiryu",
+   "ocr": "Kazuma Kiryu",
+   "es": "Kazuma Kiryu",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 76,
+   "dejar": true
+  }
+ ]
+}

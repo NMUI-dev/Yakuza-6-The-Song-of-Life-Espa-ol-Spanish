@@ -1,0 +1,144 @@
+{
+ "textura": "e/texture/mg_sumoguri_p2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    82,
+    45,
+    176,
+    70
+   ],
+   "en": "Results",
+   "ocr": "Results",
+   "es": "Resultados",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 90,
+   "dejar": true
+  },
+  {
+   "caja": [
+    108,
+    67,
+    150,
+    84
+   ],
+   "en": "Today's Mail",
+   "ocr": "Todns Hal",
+   "es": "Correo de hoy",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    17,
+    106,
+    79,
+    124
+   ],
+   "en": "Stats",
+   "ocr": "Stats-",
+   "es": "Atributos",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 58,
+   "dejar": true
+  },
+  {
+   "caja": [
+    53,
+    131,
+    95,
+    146
+   ],
+   "en": "To Next Level",
+   "ocr": "Xen teet",
+   "es": "Al Siguiente Nivel",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 42,
+   "dejar": true
+  },
+  {
+   "caja": [
+    16,
+    166,
+    67,
+    184
+   ],
+   "en": "Area",
+   "ocr": "-Area-",
+   "es": "Área",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    51,
+    186,
+    96,
+    201
+   ],
+   "en": "Beginner",
+   "ocr": "Beginner",
+   "es": "Principiante",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 41,
+   "dejar": true
+  },
+  {
+   "caja": [
+    105,
+    187,
+    160,
+    201
+   ],
+   "en": "intermediate",
+   "ocr": "ntermedato",
+   "es": "Intermedio",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 51,
+   "dejar": true
+  },
+  {
+   "caja": [
+    165,
+    185,
+    217,
+    202
+   ],
+   "en": "Advanced",
+   "ocr": "Advancod",
+   "es": "Avanzado",
+   "fuente": "segoeuib.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 48,
+   "dejar": true
+  }
+ ]
+}

@@ -1,0 +1,1748 @@
+[
+{
+"id": 15713,
+"en": "Where'd he get off to...!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15714,
+"en": "Here, this's my number. Please, please,\nplease lemme know if y'find him!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15715,
+"en": "What!? Yer terrible!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15716,
+"en": "If y'wanna keep all yer teeth aligned,\ny'should probly think about payin' up.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15717,
+"en": "Yer askin' fer it. Here comes the pain!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15718,
+"en": "Glad y'know what's what.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15719,
+"en": "Hey, this guy tried t'drag me off with 'im!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15720,
+"en": "I'm too hungry to even think about moving.\nDo you have any food you could give me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15721,
+"en": "I'm so hungry I could eat a horse.\nY'got any food y'might be able t'give me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15722,
+"en": "I'm gonna give it a shot...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15723,
+"en": "I don't have a choice...!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15724,
+"en": "I just gotta do it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15725,
+"en": "H-Here I go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + sound_auth_subtitles_speech_list_sub_a24|#",
+"max": null
+},
+{
+"id": 15726,
+"en": "Bring it on!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + sound_auth_subtitles_speech_list_sub_b15|#",
+"max": null
+},
+{
+"id": 15727,
+"en": "My bad.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15728,
+"en": "Sorry fer that...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15729,
+"en": "Who the hell are you!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15730,
+"en": "What're y'lookin' at!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15731,
+"en": "Fuckin' shit!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15732,
+"en": "What is it, bastard!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15733,
+"en": "I'm awfully sorry...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15734,
+"en": "'At one was on me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15735,
+"en": "I'm real sorry.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15736,
+"en": "Please, just let me go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15737,
+"en": "Gimme a break!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15738,
+"en": "Stop fuckin' around!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15739,
+"en": "What'd y'say!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15740,
+"en": "Quit messing with me!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15741,
+"en": "Y'better not underestimate me!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15742,
+"en": "Later!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + sound_auth_subtitles_speech_list_snack_etc|# …",
+"max": 15
+},
+{
+"id": 15743,
+"en": "I'm outta here!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15744,
+"en": "Peace!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15745,
+"en": "Bye!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15746,
+"en": "Buh-bye!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15747,
+"en": "Fer real!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15748,
+"en": "T'hell with it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15749,
+"en": "I'm gonna do this, dammit!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15750,
+"en": "I'm doin' it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15751,
+"en": "Thank ya very much!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15752,
+"en": "You're really pissing me off!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15753,
+"en": "Eff it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15754,
+"en": "Shit. I don't have a choice...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15755,
+"en": "Yer gonna regret this!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15756,
+"en": "This's my only option here...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15757,
+"en": "Shit, here we go...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15758,
+"en": "My bad, man...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15759,
+"en": "I'm awful sorry...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15760,
+"en": "Just give me a break...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15761,
+"en": "P-Please lemme go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15762,
+"en": "Just forgive me!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15763,
+"en": "Please forgive me!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + sound_auth_subtitles_speech_list_sub_a01|#",
+"max": null
+},
+{
+"id": 15764,
+"en": "Accept my apology.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15765,
+"en": "Sorry fer all this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15766,
+"en": "I really am sorry.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15767,
+"en": "I effed up...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15768,
+"en": "I'm sorry for this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15769,
+"en": "Sorry 'bout everythin'.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15770,
+"en": "Do it for me, please.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15771,
+"en": "I'm counting on ya!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15772,
+"en": "It's up t'you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15773,
+"en": "Pretty please!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15774,
+"en": "Thanks a ton, fer real!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15775,
+"en": "Ya did great!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15776,
+"en": "Thank ya.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15777,
+"en": "Wh-What was 'at?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15778,
+"en": "Yer gonna die here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15779,
+"en": "Hey, you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 15780,
+"en": "Huh? You wanna pick a fight with me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15781,
+"en": "Please lemme off the hook.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15782,
+"en": "I'm sorry... Forgive me...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15783,
+"en": "Lemme go... Please...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15784,
+"en": "Huh? Y'wanna tussle?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15785,
+"en": "You, shit fer brains!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15786,
+"en": "Lemme take a swing at ya!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15787,
+"en": "Y'got a problem, huh!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15788,
+"en": "Yer gonna regret this once yer dead!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15789,
+"en": "What should I do...!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + talk",
+"max": 31
+},
+{
+"id": 15790,
+"en": "How do I handle this...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15791,
+"en": "What to do...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15792,
+"en": "Hey, what are you doing?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + sound_auth_subtitles_speech_list_main06|#",
+"max": null
+},
+{
+"id": 15793,
+"en": "Here, does this work?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15794,
+"en": "Yeah, I'll see what I can do.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15795,
+"en": "Just give me a minute.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15796,
+"en": "All right, that should do it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15797,
+"en": "I failed...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15798,
+"en": "I made it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15799,
+"en": "I didn't make it...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15800,
+"en": "I can't touch it with my bare hands.\nMaybe I can destroy the source somehow...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15801,
+"en": "Ow, that's hot!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15802,
+"en": "I think it's this way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15803,
+"en": "I think it's that way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15804,
+"en": "I should help out...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15805,
+"en": "I should do something...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15806,
+"en": "I should bring it for them...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15807,
+"en": "Do I have what I need...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15808,
+"en": "All right, I'll handle it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15809,
+"en": "What's with that guy? He's acting strange...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15810,
+"en": "Hey, you! What are you doing!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15811,
+"en": "Right, then. Don't ever do it again.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15812,
+"en": "Hey! You're not getting away!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15813,
+"en": "You can't keep doing things like this.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15814,
+"en": "What are you doing?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15815,
+"en": "Shoot, I messed up...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15816,
+"en": "So I got it right...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15817,
+"en": "Be careful.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15818,
+"en": "What should I do...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15819,
+"en": "Is there any medicine near here...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15820,
+"en": "I need to put that fire out...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15821,
+"en": "Phew, it's finally out.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15822,
+"en": "They're hurt... It must have been the slasher!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15823,
+"en": "I have to put that fire out...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15824,
+"en": "I have to figure out how to put that fire out...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15825,
+"en": "(I'm hungry. Maybe I should go\ngrab something at a restaurant.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15826,
+"en": "(Mm, that was nice. Satisfying, too.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + talk",
+"max": 47
+},
+{
+"id": 15827,
+"en": "(I don't feel great... I should have\nsome medicine, though.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15828,
+"en": "(Ahhh, that worked wonders.\nI feel much better now.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15829,
+"en": "(I'm starving. Maybe I should eat something...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + talk",
+"max": 47
+},
+{
+"id": 15830,
+"en": "(As good as I expected.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + talk",
+"max": 31
+},
+{
+"id": 15831,
+"en": "(Maybe I should go here...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + talk",
+"max": 31
+},
+{
+"id": 15832,
+"en": "All right, this is the place.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15833,
+"en": "Exactly as planned...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15834,
+"en": "This is a good piece of info...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15835,
+"en": "Huh!? A pickpocket?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15836,
+"en": "Wait, my wallet's gone!\nI must've been pickpocketed!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15837,
+"en": "Hey, you're the one who took my wallet!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + talk",
+"max": 47
+},
+{
+"id": 15838,
+"en": "Huh!? A shoplifter?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15839,
+"en": "Hey, you're that shoplifter!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15840,
+"en": "Huh!? A burglar!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15841,
+"en": "Hey, you shouldn't resort to burglary.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15842,
+"en": "Huh!? A dine-and-dasher!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15843,
+"en": "You think you can leave without paying!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15844,
+"en": "This is... a calling card!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15845,
+"en": "Did you send that calling card!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15846,
+"en": "I delivered all the packages you asked me to.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15847,
+"en": "(That guy... Is he drawing graffiti over there?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15848,
+"en": "(It looks like this is pretty rare...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15849,
+"en": "(This doesn't seem like too much...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15850,
+"en": "(I think there's something here...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15851,
+"en": "(What is this...?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15852,
+"en": "(All right, that's a pretty good shot.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15853,
+"en": "(I think I messed up...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15854,
+"en": "(Hm, that's not bad...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15855,
+"en": "(That's obstruction of traffic...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15856,
+"en": "Can't you see you're blocking people from\ngetting through? You don't own the road, you know.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15857,
+"en": "(What is that guy doing there...?)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15858,
+"en": "That kid... He looks a bit lost.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15859,
+"en": "What's wrong, little guy? Are you lost?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15860,
+"en": "All right, I should call his parents.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15861,
+"en": "That's dangerous... I should go help.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15862,
+"en": "I don't have any money for you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15863,
+"en": "All right, how about this?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15864,
+"en": "This is obviously a scam. I'm not going to pay.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15865,
+"en": "Fine, I'll pay.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15866,
+"en": "That guy... Is he trying to start a fire!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15867,
+"en": "Hm!? A fire!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15868,
+"en": "You! You're that pickpocket!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15869,
+"en": "Give me back everything you took.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + talk",
+"max": 47
+},
+{
+"id": 15870,
+"en": "This is what was taken from you, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15871,
+"en": "You! You're that burglar!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15872,
+"en": "I've got a package for you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15873,
+"en": "Do I have any food...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15874,
+"en": "Hey, I don't know what you're trying to do,\nbut don't be a nuisance.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15875,
+"en": "I should greet him...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15876,
+"en": "Someone's inside... It's probably the person\nwho was posting on Troublr.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15877,
+"en": "Thank you for all your work.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15878,
+"en": "How should I greet him...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15879,
+"en": "So it turns out he wasn't\nreally trying to graffiti the wall...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15880,
+"en": "Shoot, I guess he was just doing his job painting...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15881,
+"en": "These punks were trying to graffiti that wall...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15882,
+"en": "Are you the smuggler?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15883,
+"en": "Shoot! I've gotta do something, fast!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15884,
+"en": "That looks terrible...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15885,
+"en": "Hey, stop it!\nLet go of her!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15886,
+"en": "Dammit... I need to help!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15887,
+"en": "(She's being attacked... \nI need to step in.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15888,
+"en": "Are you the sender?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15889,
+"en": "There, there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15890,
+"en": "Now, now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15891,
+"en": "You're a great kid.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15892,
+"en": "This is going well.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15893,
+"en": "You're a wonderful little guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15894,
+"en": "He fell asleep...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15895,
+"en": "All that crying tired him out...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15896,
+"en": "Damn, he's crying up a storm.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15897,
+"en": "Hey, what's wrong?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# + sound_auth_subtitles_speech_list_sub_b08|# …",
+"max": null
+},
+{
+"id": 15898,
+"en": "Calm down, little man.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15899,
+"en": "You'll get through it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15900,
+"en": "No UFO's today...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15901,
+"en": "I'll definitely find one someday though!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15902,
+"en": "Oh, I guess you overheard me.\nI'm actually a UFO researcher.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15903,
+"en": "Well, it's more accurate to say I'm a UFO hobbyist.\nThere are an alarming number of them here in Onomichi.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15904,
+"en": "I'd love to get a picture of one, but I've been trying for\nthe last ten days straight and still haven't managed...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15905,
+"en": "This might be shameful of me, but I have a favor to ask.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15906,
+"en": "If you manage to get a photo of a UFO,\nplease let me buy it off you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15907,
+"en": "Just let m know when you manage to get one.\nI'll pay 1,000 yen for a just a single photo.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15908,
+"en": "Just let m know when you manage to get one.\nI'll pay 10,000 yen for a just a single photo.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15909,
+"en": "Just let m know when you manage to get one.\nI'll pay 100,000 yen for a just a single photo.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15910,
+"en": "I'm counting on you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15911,
+"en": "Wow, this photo is truly superb!\nPlease let me buy it off you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15912,
+"en": "This isn't quite what I want...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15913,
+"en": "Well, here's the fee we agreed upon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15914,
+"en": "Thanks to you, I got tons of photos!\nI can go home in peace now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15915,
+"en": "You have my deepest thanks!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15916,
+"en": "Man, that's some nice wood you have there.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15917,
+"en": "Oh, pardon me. I make a hobby of gathering driftwood\nand other things that have washed ashore.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15918,
+"en": "It excites me to think about the path these objects must\nhave traveled over the years. They're potential globetrotters!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15919,
+"en": "I could only dream of living such a free, romantic life.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15920,
+"en": "If you ever find any items that have\nwashed ashore, please let me know.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15921,
+"en": "I'll give you a good price for them.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15922,
+"en": "Well, I can't wait to see what you bring me!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15923,
+"en": "Oh, you brought some stuff for me!\nPlease let me take a closer look!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15924,
+"en": "By the way...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15925,
+"en": "I'm particularly keen on something like this\nat the moment. Please let me know if you find it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15926,
+"en": "This is perfect! Thanks for finding it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15927,
+"en": "This should be enough wood to last me for a lifetime.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15928,
+"en": "Please let me thank you! Well then, I should be going now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15929,
+"en": "I can't find anything good...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15930,
+"en": "Oh, Kiryu-san. I have a bit of a favor to ask you...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15931,
+"en": "I got a request to stock up on some more fish, and\nI was wondering if you could get them for me. Please!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15932,
+"en": "It would be amazing if you could do this for me.\nI'll be counting on you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15933,
+"en": "Here you go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15934,
+"en": "Um... Do you have a minute, sir?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15935,
+"en": "You seem to be quite a strong individual,\nand... you clearly hold justice in your heart.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15936,
+"en": "Your eyes are a dead giveaway.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15937,
+"en": "You may even be the one\nwho can save this city.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15938,
+"en": "I'm getting ahead of myself, though.\nI'm Torafuru.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15939,
+"en": "This city has gone to the dogs.\nViolence and crime are spreading like a plague.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15940,
+"en": "Even the police are struggling...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15941,
+"en": "At this rate, we'll hit a point of no return\nbefore the police can even act...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15942,
+"en": "Not even civilians are safe now...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15943,
+"en": "So, I set up a social network specifically\nto help get things under wraps<symbol=em_dash_with_outline>Troublr.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15944,
+"en": "Whenever an incident occurs in town,\npeople can post about it and seek help.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15945,
+"en": "The more we help, the safer we make our home.\nThat's why I was hoping you'd lend us a hand.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15946,
+"en": "Kiryu-san, then? Thank you very much.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15947,
+"en": "I'll register you on Troublr now...\nThere we go!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15948,
+"en": "From now on, you'll get notifications about incidents\naround town. Please help out if you have the time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15949,
+"en": "Well, I have high hopes for you.\nLet's make Kamurocho a safe place to live again!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15950,
+"en": "Huh? Oh, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15951,
+"en": "It's me, Torafuru.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15952,
+"en": "Funny meeting you in such an isolated place!\nThis is actually where my parents live.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15953,
+"en": "You know, Onomichi has gotten pretty dangerous\nas well, lately... though not quite as bad as Kamurocho.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15954,
+"en": "To make sure this sleepy town stays asleep,\nI've set up a Troublr network here as well.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15955,
+"en": "You'll be getting notifications about incidents in Onomichi\nnow, too, so please help out if you have the time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15956,
+"en": "Well, I'll be counting on you. Let's work hard \nto make sure Onomichi stays pristine!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15957,
+"en": "I-I'm so sorry. I just got so sick of seeing\nthe sorry state Kamurocho finds itself in.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15958,
+"en": "I thought there was only one course of action for a rotten\ncity like this... It needed to be burned to the ground.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15959,
+"en": "But seeing you rush to extinguish my fires every time\nmade me think maybe I wasn't doing the right thing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15960,
+"en": "Thanks to you, I can see the true beauty of this city.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15961,
+"en": "Even though not everyone shows it, the people of Kamurocho care\ndeeply about their surroundings and want them to improve.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15962,
+"en": "I hope you can find it in your heart to forgive me.\nFor now though, I'm going to turn myself in to the police.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15963,
+"en": "I don't know when I'll be able to come back to this city,\nbut I'm going to work hard to improve it once I can.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15964,
+"en": "P-Please forgive me...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15965,
+"en": "The thing is, nothing has been going right for me at work.\nMy supervisors don't like me, everyone makes fun of me...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15966,
+"en": "The stress was so great that\neven my hair started falling out.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15967,
+"en": "At first I just wanted to start a little fire...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15968,
+"en": "But as I gazed upon its glowing embers,\nfor once in my life I actually felt alive.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15969,
+"en": "It was the perfect way to relieve stress.\nI couldn't stop myself from starting more and more fires.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15970,
+"en": "But thanks to you, I see the truth now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15971,
+"en": "I really appreciate the efforts you went through to stop me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15972,
+"en": "I... I'm going to turn myself in.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15973,
+"en": "I know that won't erase the damage I've caused, but I hope\nI can at least somewhat atone for my sins. Goodbye, then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15974,
+"en": "L-Listen. I have this important ramen order to deliver,\nbut I strained my back right as I was setting out...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15975,
+"en": "It's for a really terrifying customer, though.\nThere'll be blood if the noodles are soggy at all.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15976,
+"en": "We probably have about two minutes until that happens...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15977,
+"en": "We probably have about three minutes until that happens...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15978,
+"en": "We probably have about four minutes until that happens...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15979,
+"en": "We probably have about five minutes until that happens...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15980,
+"en": "I'm sorry to ask this, but do you think\nyou could deliver it for me instead?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15981,
+"en": "I'll send the location to your Troublr.\nI'm counting on you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15982,
+"en": "I'll send the location to your email.\nI'm counting on you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15983,
+"en": "Thank you so much! You were a huge help!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15984,
+"en": "I see... Okay, then. I'm Kiryu.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 15985,
+"en": "Kiryu's arrest was just a performance\nto win back some public approval.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15986,
+"en": "A performance?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15987,
+"en": "There's no doubt the Omi Alliance\nwas responsible for the war...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15988,
+"en": "...but to the public, the Tojo Clan and\nthe Omi Alliance are equally problematic.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15989,
+"en": "If the cops didn't take in someone\nfrom both sides, people would riot.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15990,
+"en": "Well, I guess they're just trying to\nprove they can still do their jobs.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15991,
+"en": "Kiryu <font_kind=yakuza_italic>was</font_kind> kinda the fourth\nchairman of the Tojo Clan.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15992,
+"en": "That said, he's also the one who stuck his\nneck out\n furthest to end the fighting.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15993,
+"en": "Can't you do something, Date-san?\nIsn't Kiryu-san your responsibility?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15994,
+"en": "He's nobody's \"responsibility.\"\nHe's not a child.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15995,
+"en": "Besides, why is Kiryu-san the only\nguy getting arrested here anyway?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15996,
+"en": "I heard the Tojo Clan officers aren't\neven getting slapped on the wrist.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15997,
+"en": "The cops could round up all the Tojo officers,\nbut who'd\n be left to keep the clan in check?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15998,
+"en": "If the police ended up reigniting this\nyakuza war after it finally ended...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 15999,
+"en": "...It'd be their necks on the line.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 16000,
+"en": "And that's why they're still treating\nKiryu-san as part of the Tojo Clan?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 16001,
+"en": "He's far more than just\nthe ex-fourth chairman.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 16002,
+"en": "Kazuma Kiryu is the Dragon of Dojima.\nA yakuza legend.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+},
+{
+"id": 16003,
+"en": "No matter how far removed he is\nfrom\n that, he's no regular civilian.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_main01|#",
+"max": null
+}
+]

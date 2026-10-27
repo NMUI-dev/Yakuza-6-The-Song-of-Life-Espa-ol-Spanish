@@ -1,0 +1,30 @@
+{
+ "textura": "e/texture/mg_clan_menu_p04_1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    8,
+    2,
+    72,
+    19
+   ],
+   "en": "Strike Team",
+   "ocr": "Sfrike Tean",
+   "es": "Equipo de ataque",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 60,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "contraste": true
+}

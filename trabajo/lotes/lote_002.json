@@ -1,0 +1,740 @@
+[
+{
+"id": 654,
+"en": "Hi there, Kiryu-san! Now, we'll focus heavily\non protein! Let's see... You should eat an\nentire, delicious chicken thigh! They're great\nto eat after training, but keep it mild! Well\nthen, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 655,
+"en": "Hi there, Kiryu-san! You should eat some junk\nfood once in a while to bulk up! Let's see...\nHow about a fast food place where you can eat\na good, old-fashioned, sunny-side up egg? Well\nthen, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 656,
+"en": "Hi there, Kiryu-san! This time, let's go with a\nbulk-up menu that'll have you consume plenty\nof carbs! It's the national dish that everyone\nloves! Please get the one with beef! Well then,\nbest of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 657,
+"en": "Hi there, Kiryu-san! This time, you should\nconsume carbs and vegetables! Make sure\nit's heavy on the vegetables! This meal is\nfamous as a Nagasaki specialty! Well then,\nbest of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 658,
+"en": "Hi there, Kiryu-san! This time, we'll focus on\nveggies! Did you know ginger also has tons\nof digestive health benefits? I want you to\ncombine a ton of veggies with ginger!\n\nThere's a popular chain that's been in town\nfor years that serves up some great veggie\ndishes.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 659,
+"en": "Hi there, Kiryu-san! This time, protein will be\nour main focus! I suggest a meal that offers a\nlot of vegetable protein! It might be good for\nthe appetite if it's on the spicier side. Well\nthen, best of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 660,
+"en": "Hi there, Kiryu-san! Now, let's go with a dish\nthat contains both pork and veggies! Make\nsure it's something that'll fill you up! Cabbage\nwould be good for the vegetable! Well then,\nbest of luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 661,
+"en": "Hi there, Kiryu-san! This time, let's maintain a\ngood balance of vitamins and protein! I suggest\ngoing for vegetables and chicken! Steamed\nchicken breasts would be ideal! Well then, best\nof luck!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 662,
+"en": "I had fun today! <symbol=note_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 663,
+"en": "I'd love to talk with you more. <symbol=note_with_outline> Want to meet\nup outside the club? Anywhere's fine, as long as\nwe can relax or get some exercise! <symbol=heart_with_outline>\n\nSend me the invitation sticker if you're up for\nit! <symbol=note_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 664,
+"en": "I'm so happy you invited me out! <symbol=heart_with_outline>\nI'm really really really looking forward to it!\nI'll be waiting at Theater Square. <symbol=note_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 665,
+"en": "Oh, uh, not this sticker. I need that invitation\nsticker! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 666,
+"en": "Huh? I'm confused. Are you mad?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 667,
+"en": "In a good mood? <symbol=note_with_outline> If you want to meet up,\nsend me the invitation sticker! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 668,
+"en": "Did I catch you off guard? Well, if you send me\nthe invitation sticker, we can meet up! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 669,
+"en": "That one's cute! But it's not the invitation\nsticker I'm looking for...",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 670,
+"en": "Are you sad? Maybe it would feel better to have\nsome fun? Just send me the invitation sticker if\nyou want to...",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 671,
+"en": "Don't worry, you! <symbol=note_with_outline> Send me the invitation\nsticker and you'll be fine! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 672,
+"en": "No need to thank me! If you send the invitation\nsticker, we can meet up! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 673,
+"en": "Huh? Are you okay?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 674,
+"en": "Wanna Hang Out?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 675,
+"en": "Wouldn't it be fun to hang out outside the club?\n<symbol=note_with_outline> I'd love it if you took me somewhere I don't\nusually go... Send me an invitation sticker if\nyou're up for it! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 676,
+"en": "Thanks for the invitation! <symbol=note_with_outline>\nI'll be waiting at Theater Square.<symbol=heart_with_outline>\nExcited to see where we'll go! <symbol=heart_with_outline><symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 677,
+"en": "Okay? <symbol=heart_with_outline> Be more clear! If you send me an\ninvitation sticker, I'll tell you where to\nmeet me...<symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 678,
+"en": "...Did I make you mad?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 679,
+"en": "Is that a hint? Send me the invitation sticker if\nyou want to hang out! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 680,
+"en": "Is this all too sudden, maybe?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 681,
+"en": "That sticker's so cute! But if you want to hang \nout, send me the invitation sticker, okay? <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 682,
+"en": "Are you confused? <symbol=heart_with_outline> If you send me the\ninvitation sticker, I promise we'll get together\nsoon! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 683,
+"en": "You don't have to thank me... <symbol=heart_with_outline>\nJust invite me with an invitation sticker! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 684,
+"en": "Thanks for before <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 685,
+"en": "Would you like to hang out sometime? No rush,\nwhenever you're free. I just want to talk to you\nmore. Send me the invitation sticker whenever\nyou're feeling up to it! ^^",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 686,
+"en": "I'm so happy you invited me out! <symbol=heart_with_outline>\nWonder where you'll take me?\nI'll meet you at Theater Square. <symbol=note_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 687,
+"en": "I'm so happy! If you send me the invitation\nsticker, I'll tell you where to meet me... ;)",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 688,
+"en": "...What does that mean?\nYou don't want to meet up?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 689,
+"en": "Oh, just send me the invitation sticker already,\nwould you? <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 690,
+"en": "lol, did I surprise you?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 691,
+"en": "That's so cute! ^_^  Send me the invitation\nsticker and we can meet up. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 692,
+"en": "...Are you sad?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 693,
+"en": "Don't worry!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 694,
+"en": "You're so polite, Kiryu-san. <symbol=note_with_outline> Send me the\ninvitation sticker whenever you're ready. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 695,
+"en": "Um... Are you okay?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 696,
+"en": "If you're free <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 697,
+"en": "I don't go out with too many guys, but I\nwouldn't mind hanging out with you, Kiryu-san.\nIf you're up to it, send me the invitation\nsticker, okay? I'll wait by the phone. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 698,
+"en": "Thanks a ton! I'm pretty excited... <symbol=heart_with_outline>\nI'll meet you at Theater Square! <symbol=note_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 699,
+"en": "Nice. <symbol=heart_with_outline> Send me the invitation sticker if you\nwant to meet up, though. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 700,
+"en": "Huh? Are you busy?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 701,
+"en": "Omg, invitation sticker already, plz. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 702,
+"en": "LOL, did I surprise you?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 703,
+"en": "Aww, you're cheering for me? <symbol=heart_with_outline> If you send\nme the invitation sticker, we can meet up! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 704,
+"en": "...Are you sad? What happened?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 705,
+"en": "What's there to worry about? <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 706,
+"en": "lol, so old-fashioned, Kiryu-san! <symbol=note_with_outline>\nJust send the invitation sticker. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 707,
+"en": "You okay!?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 708,
+"en": "Together with you... <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 709,
+"en": "I'm feeling like karaoke or something!\nI've got dibs on the anime songs, tho. <symbol=note_with_outline>\nOr we can do something else? Whatever you\nwant! If you're up to it, just send me the\ninvitation sticker, okay? <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 710,
+"en": "Yay, this is gonna be so fun! <symbol=note_with_outline>\nLet's meet at Theater Square. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 711,
+"en": "Okay! <symbol=note_with_outline> If you send me the invitation sticker,\nwe can totally meet up. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 712,
+"en": "I don't get why you're upset...",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 713,
+"en": "Yay! Don't tease me, though! Send me that\ninvitation sticker! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 714,
+"en": "Why so surprised? If you send me the invitation\nsticker, we can meet up, honest! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 715,
+"en": "SO CUUUUUTEEEEE!!!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 716,
+"en": "Oh, what's wrong?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 717,
+"en": "Nothing to be scared of! <symbol=note_with_outline> If you send me the\ninvitation sticker, I'll be waiting for you. You'll\nfind me, I promise. <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 718,
+"en": "lol, why are you thanking me?\nSend me the invitation sticker! <symbol=heart_with_outline>",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 719,
+"en": "The Strongest Emerges!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 720,
+"en": "Kiryu-san!\nIt's Sodachi. I've finally gotten strong enough\nto earn the title of the strongest. I'll be waiting\nat the Children's Park. You haven't even seen\nmy final form!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 721,
+"en": "This Truly is the Final Attack",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 722,
+"en": "I've finally figured out the ultimate self-defense\ntechnique. However, it's not complete yet. I\nneed to defeat you with it to truly complete it,\nKiryu-san. Please accept this challenge. I'll be\nwaiting at the Ropeway Station.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 723,
+"en": "This is the best",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 724,
+"en": "Smartphones are so useful! I'm at New Gaudi\nright now. You should come on over, too,\nKiryu-san!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 725,
+"en": "Are you free?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 726,
+"en": "Hey, are you free?\nI could use a hand with something.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 727,
+"en": "RE: Are you free?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 728,
+"en": "Can you head over to a convenience store\nand buy me some prepaid cards?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 729,
+"en": "Don't worry what they are.\nJust get them for me.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 730,
+"en": "Good. Buy five \\10,000 cards.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 731,
+"en": "Tell me when you have them.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 732,
+"en": "Good. Now send me photos of the numbers on\neach one.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 733,
+"en": "Family issues.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 734,
+"en": "Just send them already.\nI'm in a hurry here.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 735,
+"en": "Fine. Let's meet up.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 736,
+"en": "The roof of the Senryo Building.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 737,
+"en": "What the hell's going on, Kiryu!?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 738,
+"en": "Kiryu, you've been had!\nMy account got hacked the other day!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 739,
+"en": "That wasn't me you were talking to!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 740,
+"en": "Your 50 grand could be anywhere by now!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 741,
+"en": "No, dammit!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 742,
+"en": "I'll see what I can do.\nThat scammer's not getting away with this.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 743,
+"en": "Sorry, 50 grand's a lot to lose.\nI'll buy you a drink sometime to make up for it.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 744,
+"en": "Kiryu, I just found out my account got hacked!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 745,
+"en": "You \"handled\" it? How?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 746,
+"en": "You ran into some criminals? Where?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 747,
+"en": "I'll send some guys to clean this up.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 748,
+"en": "Spare me the details, but it sounds like I owe \nyou a drink.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 749,
+"en": "The Challenge is Made",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 750,
+"en": "Kazuma Kiryu, my eternal rival.\nThe time has come yet again.\n\nI await you on my floating island.\n-Jo Amon",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 751,
+"en": "Nice to Meet You!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 752,
+"en": "Nice to meet you! My name's Hiro. I distribute\nthe Tips Newsletter!\n\nThis newsletter will tell you everything you\nneed to know to get the most out of your\ngame. \n\nIf there's something you don't understand, I\nhope you'll look to us for help!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 753,
+"en": "Thank you!",
+"ctx": "pause_mail|table/#//# + sound_auth|table/#//# + sound_auth_subtitles_speech_list_imssn|# …",
+"max": null
+},
+{
+"id": 754,
+"en": "Huh? Are you angry?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 755,
+"en": "Haha, thank you.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 756,
+"en": "I'm sorry to surprise you.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 757,
+"en": "I'm glad you're happy.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 758,
+"en": "What!? Are you okay?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 759,
+"en": "What's the matter?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 760,
+"en": "I'm excited to talk to you, too.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 761,
+"en": "Do you still not understand?",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 762,
+"en": "Hahaha! That's impossible. Although, I'd\nlove to grab a drink with you if I could.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 763,
+"en": "Saving the Game",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 764,
+"en": "This is Hiro from the Tips Newsletter!\n\nToday we'll talk about saving. This game has \nan auto-save function, so you don't need to\nfind phone booths. It's 2016, right? Keep in\nmind, when the save mark is being displayed,\ndon't turn off the system as it could corrupt\nyour data.\n\nIf you'd rather manually save the game, select\n\"Settings\" from your phone and you'll find the\noption there. You can't manually save during\nevents or battles. \n\nYour save data acts as a bookmark so you can\npick up the game from wherever you left off.\nContinue a saved game by selecting \"Continue\"\nfrom the Title Screen.\n",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 765,
+"en": "Staying on the Map",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 766,
+"en": "This is Hiro from the Tips Newsletter!\n\nThis newsletter is all about the map. The mini\nmap is displayed in the lower-left corner,\nshowing your surroundings, points of interest,\nand enemies. Just press <Action=View_Map,Adventure> \nto display the entire map, which you can create\nwaypoint markers on! Use both maps to figure\nout where you're headed and how to get there!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 767,
+"en": "Sprinting",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 768,
+"en": "This is Hiro from the Tips Newsletter!\n\nWhile wandering out in the world, you can\nsprint by holding down <Sign:9,Adventure>.\nCompared to your normal speed, you'll run \na lot faster. However, if you run for too long,\nyou'll become winded.\nLet go of <Sign:9,Adventure> and catch your breath\nwhen needed. Pacing yourself is important! If\nyou want to sprint for longer stretches, there\nare upgrades for that in the Stats Menu.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 769,
+"en": "Another Perspective",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 770,
+"en": "This is Hiro from the Tips Newsletter!\n\nWhen you press <Sign:8,Adventure> while you have control of\nKiryu, you'll shift to a first-person perspective.\nIt can feel very immersive to see the world\nthrough Kiryu's eyes. You may even find secrets\nwhile in the first-person point of view that\nyou wouldn't have seen otherwise. However, if\nyou get in a fight or start a conversation, you'll\nswitch back to third-person view.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 771,
+"en": "Awards App",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 772,
+"en": "This is Hiro from the Tips Newsletter!\n\nI want to tell you about an app called \"Awards\"\non your smartphone. You'll earn some valuable\nEXP for objectives you complete here. Clearing\nsome easy objectives is a good way to get EXP\nearly on. New objectives become available as\nyou clear previous ones, so keep at them as\nmuch as you can.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 773,
+"en": "The Importance of Regular Meals",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 774,
+"en": "This is Hiro from the Tips Newsletter!\n\nThere are some great local restaurants to check\nout when you just want to relax, recover lost\nhealth, and gain a bit of EXP. Certain meal\ncombinations may even give you bonus EXP. \n\nBut don't go too crazy! Eating after you're\nalready full will recover health, but not grant\nEXP. How do you get hungry again? By burning\ncalories, silly! Whether it's running around the\ncity or beating up street trash, you're sure to\nwork up an appetite doing what you do best!",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 775,
+"en": "Changing the Time of Day",
+"ctx": "pause_mail|table/#//#",
+"max": null
+},
+{
+"id": 776,
+"en": "This is Hiro from the Tips Newsletter!\n\nDid you know you can change the time of day\nby accessing either the waiting room door of\nNew Serena in Kamurocho, or the futon at the\nNavy Apartments when you're in Onomichi?\nKeep in mind, you won't be able to change the\ntime of day at certain points in the story. You\ncan choose either Day or Night in Kamurocho,\nand Day, Dusk, or Night in Onomichi. Certain\nevents only happen during specific times, so be\nsure to explore at all different times.",
+"ctx": "pause_mail|table/#//#",
+"max": null
+}
+]

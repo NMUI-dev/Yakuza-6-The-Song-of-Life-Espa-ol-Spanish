@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/bc_eb_l_6kojima",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1,
+    121,
+    1024,
+    273
+   ],
+   "en": "SATOSHI KOJIMA",
+   "ocr": "SATOSHI KOJIMA",
+   "es": "SATOSHI KOJIMA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 1019
+  },
+  {
+   "caja": [
+    109,
+    267,
+    922,
+    365
+   ],
+   "en": "THE SIX LUNATICS",
+   "ocr": "THE SIX LUNATICS",
+   "es": "THE SIX LUNATICS",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 813
+  }
+ ]
+}

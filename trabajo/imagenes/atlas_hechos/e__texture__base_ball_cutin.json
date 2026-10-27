@@ -1,0 +1,325 @@
+{
+ "textura": "e/texture/base_ball_cutin",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    1743,
+    8,
+    1941,
+    75
+   ],
+   "en": "Error!",
+   "ocr": "Error!",
+   "es": "¡Error!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 198
+  },
+  {
+   "caja": [
+    1794,
+    93,
+    1968,
+    140
+   ],
+   "en": "Final Score",
+   "ocr": "Final Score",
+   "es": "Puntuación final",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 174
+  },
+  {
+   "caja": [
+    1730,
+    232,
+    2048,
+    289
+   ],
+   "en": "LEVEL UP",
+   "ocr": "LEVEL UP",
+   "es": "SUBES DE NIVEL",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 314
+  },
+  {
+   "caja": [
+    478,
+    273,
+    812,
+    395
+   ],
+   "en": "Game!",
+   "ocr": "Game!",
+   "es": "¡Final!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 334
+  },
+  {
+   "caja": [
+    479,
+    469,
+    809,
+    612
+   ],
+   "en": "Game!",
+   "ocr": "Game!",
+   "es": "¡Final!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 330
+  },
+  {
+   "caja": [
+    347,
+    677,
+    619,
+    765
+   ],
+   "en": "Steal!",
+   "ocr": "Steal!",
+   "es": "¡Robo!",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 272,
+   "estilo": {
+    "arriba": [
+     210,
+     255,
+     170
+    ],
+    "abajo": [
+     40,
+     190,
+     40
+    ],
+    "contorno": [
+     [
+      10,
+      45,
+      10
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    207,
+    798,
+    757,
+    886
+   ],
+   "en": "Great Catch!",
+   "ocr": "Great Catch!",
+   "es": "¡Gran atrapada!",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 550,
+   "estilo": {
+    "arriba": [
+     255,
+     250,
+     160
+    ],
+    "abajo": [
+     235,
+     170,
+     20
+    ],
+    "contorno": [
+     [
+      70,
+      30,
+      0
+     ],
+     3
+    ]
+   }
+  },
+  {
+   "caja": [
+    759,
+    905,
+    1497,
+    1025
+   ],
+   "en": "HOME RUN",
+   "ocr": "HOMERUN",
+   "es": "JONRÓN",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 710,
+   "estilo": {
+    "arriba": [
+     255,
+     255,
+     190
+    ],
+    "abajo": [
+     225,
+     200,
+     0
+    ],
+    "contorno": [
+     [
+      0,
+      0,
+      0
+     ],
+     4
+    ]
+   }
+  },
+  {
+   "caja": [
+    1895,
+    912,
+    2031,
+    1023
+   ],
+   "en": "VS",
+   "ocr": "VS",
+   "es": "VS",
+   "fuente": "timesbd.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 132
+  },
+  {
+   "caja": [
+    82,
+    952,
+    463,
+    1065
+   ],
+   "en": "Batter",
+   "ocr": "Batter",
+   "es": "¡Al",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "der",
+   "ancho_max": 381
+  },
+  {
+   "caja": [
+    479,
+    929,
+    707,
+    1089
+   ],
+   "en": "Up!",
+   "ocr": "Up!",
+   "es": "bate!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 228
+  },
+  {
+   "caja": [
+    1101,
+    1072,
+    1381,
+    1206
+   ],
+   "en": "Play",
+   "ocr": "Play",
+   "es": "¡A",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 276
+  },
+  {
+   "caja": [
+    1392,
+    1073,
+    1718,
+    1198
+   ],
+   "en": "Ball!",
+   "ocr": "Ball!",
+   "es": "jugar!",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 326
+  },
+  {
+   "caja": [
+    78,
+    1138,
+    465,
+    1261
+   ],
+   "en": "Batter",
+   "ocr": "Batter",
+   "es": "¡Al",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "der",
+   "ancho_max": 387
+  },
+  {
+   "caja": [
+    480,
+    1126,
+    698,
+    1273
+   ],
+   "en": "Up!",
+   "ocr": "Up!",
+   "es": "bate!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "izq",
+   "ancho_max": 218
+  },
+  {
+   "caja": [
+    1098,
+    1284,
+    1724,
+    1428
+   ],
+   "en": "Play Ball!",
+   "ocr": "Ball!",
+   "es": "¡A jugar!",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 626
+  },
+  {
+   "caja": [
+    224,
+    1321,
+    561,
+    1423
+   ],
+   "en": "Great!",
+   "ocr": "Great!",
+   "es": "¡Genial!",
+   "fuente": "timesbi.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 333
+  }
+ ]
+}

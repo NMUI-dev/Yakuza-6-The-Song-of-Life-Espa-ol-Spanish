@@ -1,0 +1,30 @@
+{
+ "textura": "e/texture/mg_gym_jump_p1",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    13,
+    9,
+    68,
+    26
+   ],
+   "en": "Squat Jumps",
+   "ocr": "Sat Inos",
+   "es": "Sentadillas con salto",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "izq",
+   "ancho_max": 55,
+   "color": [
+    235,
+    195,
+    45
+   ],
+   "dejar": true
+  }
+ ]
+}

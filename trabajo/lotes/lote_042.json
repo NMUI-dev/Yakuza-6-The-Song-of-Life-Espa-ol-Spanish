@@ -1,0 +1,1514 @@
+[
+{
+"id": 11260,
+"en": "Wh-What am I supposed to do now?\nPlease see yourself out this instant.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_ippan|# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11261,
+"en": "Get on out!\nN' don't ever come back!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_ippan|#",
+"max": null
+},
+{
+"id": 11262,
+"en": "Wh-What'm I supposed t'do now?\nPlease, see yerself out right now.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_ippan|#",
+"max": null
+},
+{
+"id": 11263,
+"en": "Come again.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11264,
+"en": "All right...\nI'll let it slide just this once.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11265,
+"en": "Get out of here! \nAnd don't come back!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11266,
+"en": "All right... \nYou get a pass for today.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11267,
+"en": "The base fare is 730 yen.\nWhere would you like to go?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11268,
+"en": "Very well.\nI hope to see you again soon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11269,
+"en": "Would you like to head back to town?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11270,
+"en": "Let's be on our way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11271,
+"en": "Onomichi...!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11272,
+"en": "That's a bit further than I was expecting...\nBut 20,000 yen should cover it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11273,
+"en": "As thanks for your continued patronage,\nI'd like to offer you this ride for free!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11274,
+"en": "Very well. Please come back soon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11275,
+"en": "Now then, let's get going.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11276,
+"en": "The base fare is 640 yen.\nWhere would you like to go?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11277,
+"en": "Kamurocho...!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11278,
+"en": "That's a might further than I was expecting...\nBut 20,000 yen should cover it!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11279,
+"en": "The base fare's 640 yen.\nWhere d'ya wanna go?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11280,
+"en": "Gotcha. Please come back soon.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11281,
+"en": "Y'wanna head back t'town?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11282,
+"en": "Mkay, let's get goin'.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11283,
+"en": "That there's kinda far...\nHow 'bout 20,000 yen t'cover it!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11284,
+"en": "T'thank ya fer always usin' my taxi,\nI wanna give ya this ride fer free!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11285,
+"en": "Hello there, Kiryu-san!\nWelcome to the Nyan Nyan Café!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11286,
+"en": "Thank you very much!\nPlease come visit our furry friends again soon!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11287,
+"en": "I'm sure they'll be happy to see you!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11288,
+"en": "Our feline friends were overjoyed!\nNice choice, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11289,
+"en": "Our feline friends really loved that food.\nThey're on cloud nine!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11290,
+"en": "Our feline friends are full of energy!\nHere, take this as thanks.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11291,
+"en": "Thank you so much for everything today!\nPlease come visit our furry friends again soon!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11292,
+"en": "What are you looking for today?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11293,
+"en": "I'm sorry, but we're currently closed for today.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11294,
+"en": "This area's currently closed off\nfor construction. My apologies.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11295,
+"en": "We're restoring this building here back to\nits original state after years of deterioration.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11296,
+"en": "Sorry for the inconvenience.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11297,
+"en": "We're doing some large-scale reconstruction\non the sewer system beyond here.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11298,
+"en": "Sorry for the inconvenience,\nbut you'll need to take a detour.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11299,
+"en": "(I shouldn't leave yet...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11300,
+"en": "(I don't have time to be messing around...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11301,
+"en": "(I shouldn't bring Haruto to Little Asia with me...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11302,
+"en": "(I should go somewhere with fewer people...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11303,
+"en": "Oh, Kiryu-san.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|# + sound_auth_subtitles_speech_list_caba_riona|# …",
+"max": null
+},
+{
+"id": 11304,
+"en": "See you later!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|# + sound_auth_subtitles_speech_list_caba_hikaru|#",
+"max": null
+},
+{
+"id": 11305,
+"en": "Take it easy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_adv_shop_sp|#",
+"max": null
+},
+{
+"id": 11306,
+"en": "We'll help you out, Kiryu-aniki!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11307,
+"en": "Let's head down there!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11308,
+"en": "Y'better not've forgotten 'bout us!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11309,
+"en": "Get ready for a righteous\nwhoopin'!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11310,
+"en": "C'mon, let's do this!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11311,
+"en": "Y'little shit!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11312,
+"en": "I'm gonna kill ya!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11313,
+"en": "Gah, fuck this...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11314,
+"en": "Yo, old man!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11315,
+"en": "Hurry up and hand over your wallet!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11316,
+"en": "I could use a bit of spendin' money!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11317,
+"en": "All right... Let's do this!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11318,
+"en": "Sounds like you need to learn some manners.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11319,
+"en": "I need to keep moving.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11320,
+"en": "This isn't the right way...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11321,
+"en": "Let's do this!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|# + sound_auth_subtitles_speech_list_cln|#",
+"max": null
+},
+{
+"id": 11322,
+"en": "Don't let your guard down.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 11323,
+"en": "Nagumo!?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|# + sound_auth_subtitles_speech_list_main07|#",
+"max": null
+},
+{
+"id": 11324,
+"en": "Get outta my way!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11325,
+"en": "Good luck.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11326,
+"en": "I'll be counting on you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11327,
+"en": "Always with the helicopters...\nWhat a pain in the ass.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11328,
+"en": "The elevator doesn't go past here...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11329,
+"en": "Looks like we have to fight...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11330,
+"en": "Look what we got here. Let's take 'em down!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11331,
+"en": "There they are!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11332,
+"en": "[Hey, there they are!]",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11333,
+"en": "Is that it?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11334,
+"en": "I'll tear you apart!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11335,
+"en": "You're finished!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11336,
+"en": "Come here!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11337,
+"en": "Looks like I'll finally get the workout\nI've been itching for this whole time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11338,
+"en": "Is something wrong, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11339,
+"en": "Just my luck!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11340,
+"en": "When I say your name, come over to me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11341,
+"en": "Kiryu-san. I'll go on ahead and scout it out.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_btl_hact|#",
+"max": null
+},
+{
+"id": 11342,
+"en": "Welcome to Club Shine.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11343,
+"en": "We offer a 6,000 yen package with an additional\n2,000 yen service fee.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11344,
+"en": "There is also a separate 2,000 yen request fee.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11345,
+"en": "Are you interested?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11346,
+"en": "Who would you like to request?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11347,
+"en": "Very well.\nWe look forward to your next visit.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11348,
+"en": "Riona? Just a moment, please.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11349,
+"en": "Saki? Just a moment, please.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11350,
+"en": "Erina? Just a moment, please.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11351,
+"en": "Sora? Just a moment, please.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11352,
+"en": "Hikaru? Just a moment, please.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11353,
+"en": "If you'll excuse me.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11354,
+"en": "Just a moment, sir.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11355,
+"en": "Your drink, sir.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11356,
+"en": "Your order, sir.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11357,
+"en": "I'm afraid your time is almost up.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11358,
+"en": "What would you like to do?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11359,
+"en": "Take your time, sir.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11360,
+"en": "Your bill, sir.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11361,
+"en": "(I'm starting to feel the alcohol.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11362,
+"en": "(Seems I'm short on cash...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11363,
+"en": "Maybe next time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11364,
+"en": "(The hostess I requested isn't here today...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11365,
+"en": "(I'm short on cash. I should check the prices\nbefore I walk into these things.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11366,
+"en": "(I'm really feeling the alcohol...\nI might have to leave soon.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11367,
+"en": "(I'm practically drunk... I should sober\nup a bit before I head out to meet her.)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_cabacrew|#",
+"max": null
+},
+{
+"id": 11368,
+"en": "Sorry to keep you waiting! <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11369,
+"en": "Sorry... Did you have to wait long?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11370,
+"en": "Kiryu-san! Thanks for coming. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11371,
+"en": "Where do you want to go?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11372,
+"en": "Oh, I love karaoke! <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11373,
+"en": "Darts, huh?\nI enjoy a game every now and then.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11374,
+"en": "Well, shall we get going? <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11375,
+"en": "What kind of songs do you like?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11376,
+"en": "What should I sing? <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11377,
+"en": "I'm like a darts machine!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11378,
+"en": "Huh? What were the rules again?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11379,
+"en": "It's so nice to be out with  with you, Kiryu-san! <symbol=note_with_outline>\nWhat should I pick?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11380,
+"en": "That was fun! <symbol=note_with_outline>\nLet's hang out again sometime.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11381,
+"en": "That was so fun! <symbol=heart_with_outline>\nI really enjoyed myself!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11382,
+"en": "How'd it get so late?\nYou wanna head back to the club?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11383,
+"en": "I love this song!\nI hope you like it too. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11384,
+"en": "This song's my jam. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11385,
+"en": "Hmm... It's kind of hard to sing like that...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11386,
+"en": "Kiryu-san! It's hard to sing like this...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11387,
+"en": "That was fun!\nYou're really good at getting me pumped!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11388,
+"en": "That felt great!\nYou're good at setting a mood. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11389,
+"en": "I wanna hear you sing something! <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11390,
+"en": "Whaaat? I wanted to see you sing...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11391,
+"en": "Th-That was an interesting song...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11392,
+"en": "You're such a good singer!\nI was a captive audience the whole time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11393,
+"en": "You sounded like a pro!\nThat was amazing. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11394,
+"en": "Huh!? Wow, that's awesome!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11395,
+"en": "Huh...?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_hikaru|# …",
+"max": null
+},
+{
+"id": 11396,
+"en": "I love those too!\nI can never stop snacking on them.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11397,
+"en": "Hi there!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11398,
+"en": "It's nice to meet you.\nI'm Erina.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11399,
+"en": "Can I ask your name?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11400,
+"en": "Kiryu-san, then? I'm looking forward\nto spending some time with you today!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11401,
+"en": "Today was really fun, Kiryu-san. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11402,
+"en": "You'll come and hang out with me again, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11403,
+"en": "Yeah, I'll be back.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_hikaru|# …",
+"max": null
+},
+{
+"id": 11404,
+"en": "I'll be here for you any time. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11405,
+"en": "Oh, Kiryu-san!\nYou came to see me!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11406,
+"en": "I've been waiting for you, Kiryu-san. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11407,
+"en": "I've waited for you for so long... <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11408,
+"en": "You're all mine today. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11409,
+"en": "Right this way.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_hikaru|# …",
+"max": null
+},
+{
+"id": 11410,
+"en": "Thanks for coming today.\nHope to see you again!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11411,
+"en": "Thank you so much!\nI can't wait to see you again!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11412,
+"en": "Time flies when you're having fun.\nYou'd better come back again, okay? <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11413,
+"en": "Well, Kiryu-san, thanks for coming in today! <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11414,
+"en": "Cheers!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_riona|# …",
+"max": 15
+},
+{
+"id": 11415,
+"en": "Oh, Kiryu-san.\nDo you have a second?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11416,
+"en": "Here's my phone number.\nYou should invite me out sometime, okay? <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11417,
+"en": "Time's almost up.\nWhat do you want to do?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11418,
+"en": "It's already so late...\nI want to keep talking with you. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11419,
+"en": "Yay! Happy to hear it. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11420,
+"en": "Thank you.\nLet's do this again sometime, okay? <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11421,
+"en": "It really is true.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11422,
+"en": "You're right!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_imssn|#",
+"max": null
+},
+{
+"id": 11423,
+"en": "I see. I didn't know that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11424,
+"en": "Right!? I think so, too.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11425,
+"en": "Hm... I wonder?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11426,
+"en": "Sorry. I don't really understand...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11427,
+"en": "Huh? Really?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_hikaru|# …",
+"max": null
+},
+{
+"id": 11428,
+"en": "I don't think that's right...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_riona|#",
+"max": null
+},
+{
+"id": 11429,
+"en": "Geez, what are you saying, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_saki|#",
+"max": null
+},
+{
+"id": 11430,
+"en": "Yeah, that's right. <symbol=note_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_saki|#",
+"max": null
+},
+{
+"id": 11431,
+"en": "Wow, really?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_hikaru|# …",
+"max": null
+},
+{
+"id": 11432,
+"en": "Um... Do you have a lot of male friends,\nKiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11433,
+"en": "Friends, huh?\nYeah, I guess most of my close friends are guys.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11434,
+"en": "Wow, that's nice...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11435,
+"en": "Why, are you looking to meet more guys?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11436,
+"en": "No, quite the opposite. I have a tough\ntime making female friends, actually.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11437,
+"en": "The other day, a girl I was getting along with\naccused me of trying to seduce her boyfriend...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11438,
+"en": "Were you... giving him the look or anything?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11439,
+"en": "No! I would never do that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11440,
+"en": "But she called me \"conniving\" and \"fake...\"",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11441,
+"en": "That's terrible...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11442,
+"en": "Kiryu-san... Do I seem like that to you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11443,
+"en": "I wouldn't say that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + talk",
+"max": 63
+},
+{
+"id": 11444,
+"en": "Right!? I wasn't even thinking about that.\nWhy would she say that to me?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11445,
+"en": "Maybe you're doing something subconsciously\nthat gives people the wrong idea.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11446,
+"en": "Subconsciously?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11447,
+"en": "Yeah. With me, I seem to subconsciously draw\npunks into trying to fight me on the streets.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11448,
+"en": "...Setting aside how unique that problem is...\nIt's got to be something I don't know I'm doing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11449,
+"en": "Maybe I should give it some thought.\nThanks for hearing me out, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11450,
+"en": "Well, that's just the kind of allure you have.\nMaybe you're just a natural temptress.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11451,
+"en": "Oh, stop... I'm not like that at all. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11452,
+"en": "Hmph. I guess I need to be more careful about\nhow I'm being interpreted.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11453,
+"en": "Well, if the shoe fits...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11454,
+"en": "Whaaaaat? You too, Kiryu-san?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11455,
+"en": "It's not necessarily a bad thing, though.\nIn a job like this, that's one of your weapons.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11456,
+"en": "I don't want it to stop me from making friends though...\nEspecially if I'm not even trying to be like that...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11457,
+"en": "Well, maybe you're doing something subconsciously\nthat gives men the wrong impression.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11458,
+"en": "With me, I seem to subconsciously make punks\nwant to fight me on the street. Sorta like that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11459,
+"en": "I don't know if it's quite like that... but\nmaybe you're right about the subconscious thing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11460,
+"en": "Oh, please don't tease me...\nI'm not like that at all. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11461,
+"en": "I think it's got to be something like that...\nBesides, I like those kind of women anyway.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11462,
+"en": "But aren't you actually faking it?\nMaybe you're faking it with me too?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11463,
+"en": "W-Wait, what are you saying!?\nI'm not trying to be like that at all!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11464,
+"en": "Really? I was positive everything you've said\nwas well-calculated...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11465,
+"en": "That's not true!\nI'm talking to you as I would anybody else!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11466,
+"en": "Hm... But nobody masks their true intentions\nbetter than a woman... Can I trust you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11467,
+"en": "Of course! <symbol=heart_with_outline>\nI want you to see the true me...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11468,
+"en": "(A temptress indeed... Even if this is all\none big deception, I just have to roll with it!)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11469,
+"en": "Hey, Kiryu-san. Do you remember when we\ntalked about how I get misunderstood a lot?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11470,
+"en": "Yeah. You mentioned having trouble making friends\nand getting accused of being too fake.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11471,
+"en": "I thought about it some more,\nand I think men misunderstand me, too...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11472,
+"en": "Wait, you mean men are calling you fake now, too?\nIt must be pretty obvious then, huh?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11473,
+"en": "Obvious...?\nI told you, I'm not fake! Geez!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11474,
+"en": "A guy I thought of as just a friend actually\nconfessed his feelings for me...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11475,
+"en": "When I turned him down, he got all mad, and he\nasked, \"Then why were you leading me on!?\"",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11476,
+"en": "Sorry to hear that happened.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11477,
+"en": "I went to an all-girls school, so maybe I don't\nknow how much distance to put between a guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11478,
+"en": "Erina, do you approach your male and female\nfriends the same way?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11479,
+"en": "Let's see... I've never given it much thought,\nand I'll go see movies with them and stuff.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11480,
+"en": "Kiryu-san... How do men see women like that?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11481,
+"en": "They might misinterpret that. If you go out\nalone with them, it could get their hopes up.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11482,
+"en": "So, that is how it works...\nI just wanted to hang out, though.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11483,
+"en": "Men fall into that mindset too easily. A date\nlike that almost always leads to the wrong idea.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11484,
+"en": "Next time, try inviting someone else to tag\nalong. That should clear up any confusion.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11485,
+"en": "I see.\nI'll try to be more careful next time.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11486,
+"en": "Yeah, that'd be best for the both of you.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11487,
+"en": "I'm glad I asked you, Kiryu-san!\nYou're so reliable. That's awesome. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11488,
+"en": "(I get it now... I can see how guys could get\nthe wrong idea from this...)",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11489,
+"en": "I think treating everyone as equals is one of\nyour strengths, Erina. You don't need to change.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11490,
+"en": "Y-You think so?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + sound_auth_subtitles_speech_list_caba_sora|#",
+"max": null
+},
+{
+"id": 11491,
+"en": "Yeah. Men only grow by overcoming misunderstandings\nand failures. It's not your job to worry about it.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11492,
+"en": "That's pretty deep, Kiryu-san.\nDoes that hit close to home for you?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11493,
+"en": "Sure. Misunderstandings, being too late...\nA lot of different experiences.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11494,
+"en": "But I don't look back on any of it with regret.\nThey're what made me who I am today.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11495,
+"en": "Kiryu-san, you're a pretty cool guy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11496,
+"en": "If a guy like you says so, then...\nI guess I'll stay how I am. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11497,
+"en": "They're the best.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|# + talk",
+"max": 63
+},
+{
+"id": 11498,
+"en": "Huh? The... best?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11499,
+"en": "Yeah.\nMind games like that are the very heart of love.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11500,
+"en": "Besides, a woman with a seductive edge is more\nattractive than the cold shoulder for sure.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11501,
+"en": "Mind games, huh? I hadn't thought about\nit like that. Is that how men see it?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11502,
+"en": "Yeah. It's the guy's fault for misunderstanding,\nbut you've got to be confident about that.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11503,
+"en": "You're right! I wanted to hear a man's opinion,\nso that's really refreshing.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11504,
+"en": "I'm glad I asked you, Kiryu-san!\nYou're such a reliable guy. <symbol=heart_with_outline>",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11505,
+"en": "Kiryu-san, Kiryu-san!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11506,
+"en": "Hm? What's up? You seem happy.",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11507,
+"en": "Guess what? I finally made a friend!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11508,
+"en": "Erina... You...",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11509,
+"en": "Oh, please don't look at me with those sad eyes!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11510,
+"en": "I worked hard, and I finally achieved my goal\nof making a girl friend!",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+},
+{
+"id": 11511,
+"en": "You were working to make sure nobody called you\nfake, conniving, and cold-blooded, right?",
+"ctx": "sound_auth|table/#//# + sound_auth_subtitles_speech_list_caba_erina|#",
+"max": null
+}
+]

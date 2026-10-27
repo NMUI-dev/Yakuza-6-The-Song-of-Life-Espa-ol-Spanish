@@ -1,0 +1,38 @@
+{
+ "textura": "e/texture/ibukuro",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    341,
+    8,
+    397,
+    36
+   ],
+   "en": "FULL",
+   "ocr": "FULL",
+   "es": "LLENO",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 52
+  },
+  {
+   "caja": [
+    415,
+    8,
+    503,
+    36
+   ],
+   "en": "BONUS",
+   "ocr": "BONUS",
+   "es": "EXTRA",
+   "fuente": "timesbd.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 84
+  }
+ ]
+}

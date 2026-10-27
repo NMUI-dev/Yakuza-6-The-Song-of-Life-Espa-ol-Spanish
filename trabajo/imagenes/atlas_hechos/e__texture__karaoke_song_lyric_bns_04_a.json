@@ -1,0 +1,56 @@
+{
+ "textura": "e/texture/karaoke_song_lyric_bns_04_a",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    338,
+    0,
+    1024,
+    104
+   ],
+   "en": "shi te ta ta ni hi bi mo o wa ri",
+   "ocr": "右日点 te mo wa",
+   "es": "los días que vivimos también tienen su",
+   "fuente": "segoeuib.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 686,
+   "dejar": true
+  },
+  {
+   "caja": [
+    40,
+    57,
+    171,
+    99
+   ],
+   "en": "Tsuzuku",
+   "ocr": "Tsuzuku",
+   "es": "Al continuar,",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 131,
+   "dejar": true
+  },
+  {
+   "caja": [
+    268,
+    66,
+    314,
+    101
+   ],
+   "en": "ga",
+   "ocr": "ga",
+   "es": "fin.",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 46,
+   "dejar": true
+  }
+ ]
+}

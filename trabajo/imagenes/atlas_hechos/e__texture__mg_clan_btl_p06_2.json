@@ -1,0 +1,56 @@
+{
+ "textura": "e/texture/mg_clan_btl_p06_2",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    0,
+    17,
+    127,
+    41
+   ],
+   "en": "Ultimate Dropkick",
+   "ocr": "Ultimate Dropkick",
+   "es": "Patada voladora definitiva",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 123
+  },
+  {
+   "caja": [
+    187,
+    18,
+    313,
+    40
+   ],
+   "en": "Ultimate Dropkick",
+   "ocr": "Ultimate Dropkick",
+   "es": "Patada voladora definitiva",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 122
+  },
+  {
+   "caja": [
+    28,
+    88,
+    103,
+    114
+   ],
+   "en": "HEALING",
+   "ocr": "HEALING",
+   "es": "CURACIÓN",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 75
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "textura": "e/texture/btl_tutorial_11_weapon_n",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    497,
+    40,
+    584,
+    79
+   ],
+   "en": "Grab",
+   "ocr": "Grab",
+   "es": "Agarrar",
+   "fuente": "segoeui.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "der",
+   "ancho_max": 72
+  }
+ ]
+}

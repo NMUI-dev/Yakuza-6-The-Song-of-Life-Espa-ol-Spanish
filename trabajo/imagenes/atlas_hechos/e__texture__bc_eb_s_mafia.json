@@ -1,0 +1,23 @@
+{
+ "textura": "e/texture/bc_eb_s_mafia",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    36,
+    37,
+    475,
+    219
+   ],
+   "en": "MAFIA",
+   "ocr": "MAFIA",
+   "es": "MAFIA",
+   "fuente": "Knewave-Regular.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 435
+  }
+ ]
+}

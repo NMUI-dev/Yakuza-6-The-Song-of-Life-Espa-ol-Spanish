@@ -1,0 +1,208 @@
+{
+ "textura": "e/texture/mg_clan_menu_p02_2_d",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    11,
+    4,
+    81,
+    24
+   ],
+   "en": "Hierarchy",
+   "ocr": "llierarchy",
+   "es": "Jerarquía",
+   "fuente": "timesbi.ttf",
+   "fondo": "lama",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 66
+  },
+  {
+   "caja": [
+    54,
+    34,
+    109,
+    48
+   ],
+   "en": "Kiru Clan Org Chart",
+   "ocr": "Kinw Clan Oeg Oart",
+   "es": "Organigrama del Clan Kiryu",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 62,
+   "color": [
+    235,
+    235,
+    235
+   ],
+   "_x": 1
+  },
+  {
+   "caja": [
+    285,
+    26,
+    332,
+    42
+   ],
+   "en": "Leader Stars",
+   "ocr": "BLesder Suts",
+   "es": "Datos del líder",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 47,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    138,
+    83,
+    165,
+    97
+   ],
+   "en": "C.A.P.I.A",
+   "ocr": "CaHa'a",
+   "es": "C.A.P.I.A",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 27,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    299,
+    88,
+    369,
+    108
+   ],
+   "en": "EMPTY",
+   "ocr": "EMPTY",
+   "es": "VACÍO",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 70,
+   "color": [
+    125,
+    115,
+    115
+   ]
+  },
+  {
+   "caja": [
+    396,
+    116,
+    418,
+    129
+   ],
+   "en": "BREAK",
+   "ocr": "Arack",
+   "es": "Ataque",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 22,
+   "color": [
+    240,
+    240,
+    240
+   ],
+   "dejar": true
+  },
+  {
+   "caja": [
+    386,
+    142,
+    425,
+    156
+   ],
+   "en": "Muscle Party",
+   "ocr": "Kade Parts",
+   "es": "Fiesta de músculos",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 39,
+   "dejar": true
+  },
+  {
+   "caja": [
+    284,
+    155,
+    329,
+    171
+   ],
+   "en": "Reader List",
+   "ocr": "Rleader List",
+   "es": "Lista de líderes",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 45,
+   "color": [
+    235,
+    235,
+    235
+   ]
+  },
+  {
+   "caja": [
+    10,
+    204,
+    52,
+    218
+   ],
+   "en": "Strike Team",
+   "ocr": " Stike Teas",
+   "es": "Equipo de ataque",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 38,
+   "color": [
+    140,
+    140,
+    140
+   ]
+  },
+  {
+   "caja": [
+    392,
+    253,
+    475,
+    269
+   ],
+   "en": "Skill Info",
+   "ocr": "B) 9ai w () 5ret (2)tck",
+   "es": "Info de habilidad",
+   "fuente": "tahomabd.ttf",
+   "fondo": "lama",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 83,
+   "dejar": true
+  }
+ ],
+ "contraste": true
+}

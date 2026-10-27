@@ -1,0 +1,289 @@
+{
+ "textura": "e/texture/mg_darts_result",
+ "fuente": "segoeui.ttf",
+ "margen": 0,
+ "mediana": false,
+ "items": [
+  {
+   "caja": [
+    47,
+    5,
+    203,
+    41
+   ],
+   "en": "HIGH TON",
+   "ocr": "HIGH TON",
+   "es": "ALTA TON",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 156,
+   "dejar": true
+  },
+  {
+   "caja": [
+    47,
+    51,
+    183,
+    87
+   ],
+   "en": "TON 80",
+   "ocr": "TON 80",
+   "es": "TON 80",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 136,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    95,
+    192,
+    132
+   ],
+   "en": "LOW TON",
+   "ocr": "LOW TON",
+   "es": "BAJA TON",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    142,
+    206,
+    176
+   ],
+   "en": "WHITE HORSE",
+   "ocr": "WHITEHORSE",
+   "es": "CABALLO BLANCO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 160,
+   "dejar": true
+  },
+  {
+   "caja": [
+    48,
+    188,
+    201,
+    219
+   ],
+   "en": "3 IN A BED",
+   "ocr": "3INABED",
+   "es": "3 EN LA CAMA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 153,
+   "dejar": true
+  },
+  {
+   "caja": [
+    47,
+    231,
+    208,
+    263
+   ],
+   "en": "3 IN THE BLACK",
+   "ocr": "3INTHEBLACK",
+   "es": "3 EN EL NEGRO",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 161,
+   "dejar": true
+  },
+  {
+   "caja": [
+    751,
+    262,
+    833,
+    301
+   ],
+   "en": "MPR",
+   "ocr": "MPR",
+   "es": "MPR",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 82,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    275,
+    206,
+    312
+   ],
+   "en": "HIGH OUT",
+   "ocr": "HIGH OUT",
+   "es": "ALTA SALIDA",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 160,
+   "dejar": true
+  },
+  {
+   "caja": [
+    548,
+    303,
+    758,
+    350
+   ],
+   "en": "CRICKET",
+   "ocr": "CRICKET",
+   "es": "CRICKET",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 206,
+   "dejar": true
+  },
+  {
+   "caja": [
+    46,
+    321,
+    192,
+    356
+   ],
+   "en": "HAT TRICK",
+   "ocr": "HAT TRICK",
+   "es": "TRIPLETE",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 146,
+   "dejar": true
+  },
+  {
+   "caja": [
+    3,
+    359,
+    500,
+    397
+   ],
+   "en": "56789 Counts x1234567890",
+   "ocr": "56789Counts×1234567890",
+   "es": "56789 CONTAR x1234567890",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 497,
+   "dejar": true
+  },
+  {
+   "caja": [
+    546,
+    352,
+    827,
+    402
+   ],
+   "en": "COUNT-UP",
+   "ocr": "COUNT-UP",
+   "es": "COUNT-UP",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 277,
+   "dejar": true
+  },
+  {
+   "caja": [
+    11,
+    398,
+    539,
+    434
+   ],
+   "en": "AWARDS & FEATS SCORE STATS",
+   "ocr": "AWARDS&FEATSSCORESTATS",
+   "es": "PREMIOS Y LOGROS PUNTUACIÓN ATRIBUTOS",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 528,
+   "dejar": true
+  },
+  {
+   "caja": [
+    547,
+    404,
+    760,
+    450
+   ],
+   "en": "RESULTS",
+   "ocr": "RESULTS",
+   "es": "RESULTADOS",
+   "fuente": "segoeuil.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 209
+  },
+  {
+   "caja": [
+    898,
+    408,
+    971,
+    450
+   ],
+   "en": "PPR",
+   "ocr": "PPR",
+   "es": "PPR",
+   "fuente": "segoeuib.ttf",
+   "efecto": "nada",
+   "alin": "centro",
+   "ancho_max": 73,
+   "dejar": true
+  },
+  {
+   "caja": [
+    6,
+    444,
+    143,
+    505
+   ],
+   "en": "WIN",
+   "es": "GANÓ",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 133
+  },
+  {
+   "caja": [
+    149,
+    444,
+    328,
+    505
+   ],
+   "en": "LOSE",
+   "es": "PERDIÓ",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 175
+  },
+  {
+   "caja": [
+    330,
+    444,
+    539,
+    505
+   ],
+   "en": "DRAW",
+   "es": "EMPATE",
+   "fuente": "impact.ttf",
+   "efecto": "estilo",
+   "alin": "centro",
+   "ancho_max": 205
+  }
+ ]
+}
