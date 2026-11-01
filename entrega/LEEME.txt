@@ -1,6 +1,13 @@
-YAKUZA 6: THE SONG OF LIFE - TRADUCCIÓN AL ESPAÑOL v1.0.2 (25-10-2026)
+﻿YAKUZA 6: THE SONG OF LIFE - TRADUCCIÓN AL ESPAÑOL v1.0.3 (01-11-2026)
 
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
+
+CAMBIOS EN LA v1.0.3
+- Traducido lo que se había quedado en inglés: los resúmenes de las entregas anteriores (menú «Recuerdos»), avisos de
+  Troublr y del extintor, escenas de amor del cabaré, frases de escenas de combate (Heat), ayudas del béisbol, del
+  gimnasio, del gato y de las tiendas, comentarios del Chat en vivo (también lo que se teclea) y textos sueltos de menús.
+- La «í» minúscula se veía con un hueco («Subt í tulos»): arreglado en todo el juego.
+- El instalador ahora también pone los archivos de escenas (carpetas hact y auth) y guarda sus originales.
 
 CAMBIOS EN LA v1.0.2
 - Solo imágenes: las 302 texturas traducidas se han vuelto a comprimir con un compresor mejor; las letras se ven
@@ -11,10 +18,10 @@ CAMBIOS EN LA v1.0.1
   Let Go...; frases a medias como la del cabaré; rótulos de enemigos borrosos; títulos del gimnasio tapados; números
   borrados en la ficha del Clan; letras mezcladas; «SUBES DE NIVEL» igual en todas partes).
 
-ACTUALIZAR DESDE LA v1.0 o LA v1.0.1
+ACTUALIZAR DESDE LA v1.0, v1.0.1 o v1.0.2
 - Pon la carpeta «respaldo_original» de la v1.0 junto a este instalador y vuelve a instalar (opción 1).
 
-QUÉ TRADUCE (v1.0.2)
+QUÉ TRADUCE (v1.0.3)
 - Todos los textos del juego: menús, opciones, objetos, misiones, habilidades, correos, manual, subtítulos de las
   escenas, diálogos de subhistorias y minijuegos (57.072 textos de las tablas + diálogos de talk.par).
 - Letra del juego con tildes, ñ y ¿ ¡.
@@ -36,7 +43,7 @@ QUITAR
 - Doble clic en «INSTALAR o QUITAR.bat» y escribe 2 (devuelve los originales del respaldo).
 - Si borraste el respaldo: Steam > clic derecho en el juego > Propiedades > Archivos instalados > Verificar integridad.
 
-GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 6 - Herramientas para traduccion v1.0.2.rar»; no hacen falta para jugar)
+GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 6 - Herramientas para traduccion v1.0.3.rar»; no hacen falta para jugar)
 - «Herramientas para traduccion\PASO_A_PASO.txt»: qué se hizo, con qué programas y cómo funciona el juego por dentro.
 - «Herramientas para traduccion\COMO_USAR.txt»: programa para sacar todos los textos a una hoja (inglés y español al
   lado), corregirlos y volver a meterlos en el juego.

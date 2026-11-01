@@ -2,7 +2,7 @@
 
 ## Para jugar / To play
 
-**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)** (`Yakuza.6.-.Traduccion.al.espanol.v1.0.2.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
+**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)** (`Yakuza.6.-.Traduccion.al.espanol.v1.0.3.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
@@ -11,7 +11,7 @@
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
-*Yakuza 6: The Song of Life* (Steam, PC). Release v1.0.2.
+*Yakuza 6: The Song of Life* (Steam, PC). Release v1.0.3.
 
 **This repository contains no game files.** Everything here is our own scripts, the translated text and the
 specifications used to redraw in-image text. To build the mod you need your own copy of the game from Steam.
@@ -25,7 +25,8 @@ The release zip only replaces files inside the game's `data` folder:
 | `data/db/e/*.bin` (187 tables) | Menus, items, missions, subtitles, manual (ARMP tables) | `herramientas/aplicar_db.py` + `trabajo/lotes/*_es.json` |
 | `data/talk.par` | Substory / minigame dialogue | `herramientas/aplicar_talk.py` + `trabajo/lotes/*_es.json` |
 | `data/font.par` | Font with Spanish letters added | `herramientas/letras_es.py`, `herramientas/letras_ascii.py` |
-| `data/ui.par` | UI textures with English text redrawn in Spanish | `herramientas/kit_atlas/*`, `herramientas/rotulos*.py`, `herramientas/v101_*.py` + `trabajo/imagenes*/` specs |
+| `data/ui.par` | UI textures with English text redrawn in Spanish | `herramientas/kit_atlas/*`, `herramientas/rotulos*.py`, `herramientas/v101_*.py` + `trabajo/imagenes*/` specs; v1.0.3 chapter cards, map and signs: `trabajo/faltan_c1/*.py` |
+| `data/hact/`, `data/auth/` (v1.0.3) | Cutscene subtitles (cmn.bin) | `entrega/Herramientas para traduccion/herramienta_traduccion.py` + `datos/cmn_indice_v103.csv` |
 
 The installer (`entrega/instalar.ps1`, started by `entrega/INSTALAR o QUITAR.bat`) is a plain PowerShell script: it
 finds the game through Steam's `libraryfolders.vdf`, backs up the original files and copies the translated ones;
@@ -33,6 +34,18 @@ option 2 restores the backup. It downloads nothing and runs nothing else.
 
 `entrega/Herramientas para traduccion/` is the optional "translation tools" package shipped for people who want to edit
 the texts (`herramienta_traduccion.py extraer|aplicar`). It does **not** include ParTool: the user downloads it (see below).
+
+## v1.0.3
+
+- Texts still left in English are translated (`trabajo/faltan_c2/`: `cmn_scan.py` finds them in cmn.bin, `traducir.py`,
+  `aplicar.py`, `chat_vivo.py`, `frases_cortas.py` for one-word lines, `terminos_saga.py` for the series' official
+  Latin American terms, `correcciones_csv.py` / `revision_agente.py` for the review, `barrido_final.py` for the final
+  sweep of the BUILT game).
+- The narrow "i" (`herramientas/letra_i_estrecha.py`): the accented i drawn in another glyph's cell inherited its width.
+- Images (`trabajo/faltan_c1/`): OCR of ALL 2,858 English UI textures (`ocr_todas_e.py`, `clasificar_ingles.py`), the
+  13 chapter title cards (`capitulos_y6.py`), stylised signs and map street names (`rotulos_mano_y6.py`), and the list
+  of what stays in English and why (`queda_ingles_imagenes.py`).
+- Lessons for other translators: [LECCIONES_PARA_TRADUCTORES.md](LECCIONES_PARA_TRADUCTORES.md).
 
 ## Repository layout
 

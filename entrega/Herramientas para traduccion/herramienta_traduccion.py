@@ -19,27 +19,35 @@ ARCHIVOS = os.path.join(PAQUETE, 'archivos')            # traducción actual (lo
 TRABAJO = os.path.join(AQUI, 'trabajo')
 SALIDA = os.path.join(AQUI, 'salida')
 PARTOOL = os.path.join(AQUI, 'programas', 'ParTool', 'ParTool.exe')
-if not os.path.isfile(PARTOOL):
-    print('Falta ParTool.exe. Lee «1 - LEEME PRIMERO - Instalar ParTool.txt». Descarga directa:'); print('https://github.com/Kaplas80/ParManager/releases/download/v1.3.4/v1.3.4-windows-x64.zip')
-    print('Descomprímelo y copia ParTool.exe en: ' + os.path.dirname(PARTOOL))
-    input('Pulsa Intro para salir...'); sys.exit(1)
 REARMP = os.path.join(AQUI, 'programas', 'reARMP', 'reARMP.py')
 CLASES = json.load(open(os.path.join(AQUI, 'datos', 'clases_grupos.json'), encoding='utf-8'))
 CSV_TEXTOS = os.path.join(TRABAJO, 'textos.csv')
 
 # Letras que el juego no sabe medir y se escriben con otro código (la fuente se cambió para dibujarlas ahí).
-# v0.9 escribe las tildes reales: vacío. (Desde v0.10: {'Í': '|', 'í': '~'}.)
-CAMBIOS_LETRA = {'Í': '|', 'í': '~'}
+# v0.9 escribe las tildes reales: vacío. (v0.10-v1.0.2: {'Í': '|', 'í': '~'}; desde v1.0.3 la í va en «`», que es
+# estrecha: en «~» se veía con hueco, «Subt í tulos».)
+CAMBIOS_LETRA = {'Í': '|', 'í': '`'}
 A_JUEGO = str.maketrans(CAMBIOS_LETRA)
-DE_JUEGO = str.maketrans({v: k for k, v in CAMBIOS_LETRA.items()})
+DE_JUEGO = str.maketrans({**{v: k for k, v in CAMBIOS_LETRA.items()}, '~': 'í'})
 
 
 # ---------------------------------------------------------------- utilidades
+def _rm_solo_lectura(f, p, e):
+    os.chmod(p, 0o666); f(p)
+_rmtree = shutil.rmtree
+def _rmtree_seguro(d, ignore_errors=False, **k):
+    """(v1.0.3) ParTool deja archivos de solo lectura: se les quita el atributo antes de borrar"""
+    if not os.path.isdir(d): return
+    try: _rmtree(d, onexc=_rm_solo_lectura)
+    except OSError:
+        if not ignore_errors: raise
+shutil.rmtree = _rmtree_seguro
 def partool(*a):
     for intento in range(4):
         if a[0] == 'extract' and os.path.isdir(a[-1]): shutil.rmtree(a[-1], ignore_errors=True)
         r = subprocess.run([PARTOOL, *a], stdin=subprocess.DEVNULL, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        if r.returncode == 0 and b'ERROR' not in r.stdout.upper(): return
+        # (v1.0.3) «ERROR:» y no «ERROR»: hay archivos que se llaman así (m10155_fly_ball_error_r.par)
+        if r.returncode == 0 and b'ERROR:' not in r.stdout.upper() and b'EXCEPTION' not in r.stdout.upper(): return
     raise RuntimeError(f'ParTool {a[0]} falló: {r.stdout[-300:]!r} {r.stderr[-300:]!r}')
 
 def norm(s):
@@ -121,10 +129,27 @@ def origen_ingles():
 def tablas():
     return sorted(os.path.basename(p)[:-4] for p in glob.glob(os.path.join(ARCHIVOS, 'db_e', '*.bin')))
 
+# (v1.0.3) celdas que el filtro de arriba no coge: frases de UNA palabra («Thanks.»), comandos del tutorial y lo que se
+# teclea en el Chat en vivo
+EXTRA = collections.defaultdict(set)
+for _t, _r in json.load(open(os.path.join(AQUI, 'datos', 'celdas_extra_v103.json'), encoding='utf-8')): EXTRA[_t].add(_r)
+
 def filas_tabla(tabla, d_en):
     """Celdas de texto de una tabla: (ruta, inglés)."""
     out = []; recorrer(d_en, [], out)
-    return [(r, s) for r, s in out if es_texto(s) and s.strip() and CLASES.get(f'{tabla}|{colk(r)}') == 'TEXTO']
+    return [(r, s) for r, s in out if s.strip() and ((es_texto(s) and CLASES.get(f'{tabla}|{colk(r)}') == 'TEXTO')
+                                                       or r in EXTRA.get(tabla, ()))]
+
+def indice_cmn():
+    """(v1.0.3) textos de escenas con salto de línea, resúmenes, frases cortas y escenas hact/auth:
+    contenedor (talk = dentro de talk.par; data = .par suelto de data), ruta, offset, bytes_max, ingles"""
+    return list(csv.DictReader(open(os.path.join(AQUI, 'datos', 'cmn_indice_v103.csv'), encoding='utf-8-sig'), delimiter=';'))
+
+def suelto_en(d_en, ruta):
+    """.par suelto (hact/auth) original: respaldo_original/extra/<ruta> o data/<ruta>"""
+    for c in (os.path.join(d_en, 'extra', ruta), os.path.join(d_en, ruta)):
+        if os.path.exists(c): return c
+    return None
 
 def indice_talk():
     return list(csv.DictReader(open(os.path.join(AQUI, 'datos', 'talk_indice.csv'), encoding='utf-8-sig'), delimiter=';'))
@@ -155,11 +180,21 @@ def extraer():
     for lado, par in (('en', os.path.join(d_en, 'talk.par')), ('es', os.path.join(ARCHIVOS, 'talk.par'))):
         dest = os.path.join(TRABAJO, lado, 'talk_todo')
         if not os.path.isdir(dest): partool('extract', '-r', par, dest)
-    for f in indice_talk():
+    for f in indice_talk() + [dict(g, escena=g['ruta']) for g in indice_cmn() if g['contenedor'] == 'talk']:
         rel = os.path.join(f['escena'], 'cmn.par', 'cmn.bin'); off = int(f['offset'])
         en = leer_cmn(os.path.join(TRABAJO, 'en', 'talk_todo', rel), off)
         es = leer_cmn(os.path.join(TRABAJO, 'es', 'talk_todo', rel), off)
         anotar(en, es if es != en else '', 'talk | ' + f['escena'].replace('\\', '/'), int(f['bytes_max']))
+    print('Escenas sueltas (hact, auth)...')
+    for g in [g for g in indice_cmn() if g['contenedor'] == 'data']:
+        par_en, par_es = suelto_en(d_en, g['ruta']), os.path.join(ARCHIVOS, 'extra', g['ruta'])
+        if not par_en: continue
+        textos = []
+        for lado, par in (('en', par_en), ('es', par_es if os.path.exists(par_es) else par_en)):
+            dest = os.path.join(TRABAJO, lado, 'sueltos', g['ruta'])
+            if not os.path.isdir(dest): partool('extract', '-r', par, dest)
+            textos.append(leer_cmn(os.path.join(dest, 'cmn.par', 'cmn.bin'), int(g['offset'])))
+        anotar(textos[0], textos[1] if textos[1] != textos[0] else '', 'escena | ' + g['ruta'], int(g['bytes_max']))
     with open(CSV_TEXTOS, 'w', encoding='utf-8-sig', newline='') as fh:
         w = csv.writer(fh, delimiter=';', quoting=csv.QUOTE_ALL)
         w.writerow(['id', 'donde', 'veces', 'bytes_max', 'ingles', 'espanol'])
@@ -198,6 +233,12 @@ def aplicar():
             if es is None: continue
             if '\r\n' in s: es = es.replace('\n', '\r\n')                   # mismo salto de línea que el original
             poner_ruta(d, r, es.translate(A_JUEGO)); n += 1
+            if r.endswith('/input_character'):     # Chat en vivo: un botón por letra; se estira el dibujo del inglés
+                base = r[:-len('input_character')]; b0 = leer_ruta(d, base + 'button')
+                if isinstance(b0, str) and b0 and len(es) != len(b0):
+                    poner_ruta(d, base + 'button', ''.join(b0[int(j * len(b0) / len(es))] for j in range(len(es))))
+                    if len(es) > len(b0):
+                        poner_ruta(d, base + 'limit_time', round(leer_ruta(d, base + 'limit_time') * len(es) / len(b0) * 4) / 4)
         if not n: shutil.copy(os.path.join(db_en, t + '.bin'), os.path.join(SALIDA, 'db_e', t + '.bin')); continue
         js = os.path.join(obra, t + '.bin.json')
         json.dump(d, open(js, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
@@ -209,6 +250,8 @@ def aplicar():
     if not os.path.isdir(capas): partool('extract', os.path.join(d_en, 'talk.par'), capas)
     por_escena = collections.defaultdict(list)
     for f in indice_talk(): por_escena[f['escena']].append(f)
+    for g in indice_cmn():
+        if g['contenedor'] == 'talk': por_escena[g['ruta']].append(g)
     add = os.path.join(obra, '_talk'); n_txt = 0
     for i, (esc, fs) in enumerate(sorted(por_escena.items())):
         par = os.path.join(capas, esc); w = os.path.join(obra, 'talk', os.path.splitext(esc)[0])
@@ -233,6 +276,31 @@ def aplicar():
         if i % 50 == 0: print(f'  escena {i + 1}/{len(por_escena)}')
     partool('add', os.path.join(d_en, 'talk.par'), add, os.path.join(SALIDA, 'talk.par'))
     print(f'  {n_txt} textos en {len(por_escena)} escenas')
+    print('Escenas sueltas (hact, auth)...'); n_su = 0
+    por_par = collections.defaultdict(list)
+    for g in indice_cmn():
+        if g['contenedor'] == 'data': por_par[g['ruta']].append(g)
+    for ruta, gs in sorted(por_par.items()):
+        par = suelto_en(d_en, ruta)
+        if not par: continue
+        w = os.path.join(obra, 'suelto'); shutil.rmtree(w, ignore_errors=True)
+        a, b, c, dd = (os.path.join(w, x) for x in 'abcd')
+        partool('extract', par, a); partool('extract', os.path.join(a, 'cmn.par'), b)
+        ruta_bin = os.path.join(b, 'cmn.bin'); data = bytearray(open(ruta_bin, 'rb').read()); cambio = False
+        for g in gs:
+            off, mx = int(g['offset']), int(g['bytes_max'])
+            es = tr.get(norm(leer_cmn(ruta_bin, off)))
+            if es is None: continue
+            nb = es.translate(A_JUEGO).encode('utf-8')
+            if len(nb) > mx: problemas.append(f'DEMASIADO LARGO ({len(nb)} bytes, caben {mx}), se deja en inglés: {es!r}'); continue
+            data[off:off + mx + 1] = nb + bytes(mx + 1 - len(nb)); cambio = True; n_su += 1
+        if cambio:
+            open(ruta_bin, 'wb').write(data); os.makedirs(c); shutil.copy(ruta_bin, os.path.join(c, 'cmn.bin'))
+            os.makedirs(dd); partool('add', os.path.join(a, 'cmn.par'), c, os.path.join(dd, 'cmn.par'))
+            destino = os.path.join(SALIDA, 'extra', ruta); os.makedirs(os.path.dirname(destino), exist_ok=True)
+            partool('add', par, dd, destino)
+        shutil.rmtree(w, ignore_errors=True)
+    print(f'  {n_su} textos en {len(por_par)} escenas sueltas')
     shutil.copy(os.path.join(ARCHIVOS, 'font.par'), os.path.join(SALIDA, 'font.par'))   # letra con tildes, ñ, ¿ ¡
     shutil.rmtree(obra, ignore_errors=True)
     if problemas:

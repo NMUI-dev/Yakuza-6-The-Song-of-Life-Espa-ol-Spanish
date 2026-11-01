@@ -1,0 +1,184 @@
+[
+{
+"id": 584,
+"donde": "db/character_npc_soldier_name_group",
+"en": "Goro Majima",
+"oficial": "El Perro Loco",
+"n": 1
+},
+{
+"id": 625,
+"donde": "db/character_npc_soldier_name_group",
+"en": "Samurai",
+"oficial": "Samurái",
+"n": 4
+},
+{
+"id": 667,
+"donde": "db/clan_creator_skill",
+"en": "Rainmaker",
+"oficial": "Clamatormentas",
+"n": 1
+},
+{
+"id": 728,
+"donde": "db/item",
+"en": "Smile Burger",
+"oficial": "Burger Smile",
+"n": 3
+},
+{
+"id": 740,
+"donde": "db/item",
+"en": "Napolitan",
+"oficial": "Napolitano",
+"n": 1
+},
+{
+"id": 742,
+"donde": "db/item",
+"en": "Espresso",
+"oficial": "Expreso",
+"n": 3
+},
+{
+"id": 744,
+"donde": "db/item",
+"en": "Teriyaki Smile Burger",
+"oficial": "Hamburguesa Smile teriyaki",
+"n": 1
+},
+{
+"id": 772,
+"donde": "db/item",
+"en": "Sukusuku Au Lait",
+"oficial": "Sukusuku con leche",
+"n": 1
+},
+{
+"id": 775,
+"donde": "db/item",
+"en": "Hoji-cha (500 ml)",
+"oficial": "Hoji-cha (500 ml)",
+"n": 1
+},
+{
+"id": 776,
+"donde": "db/item",
+"en": "Hoji-cha (280 ml)",
+"oficial": "Hoji-cha (280 ml)",
+"n": 1
+},
+{
+"id": 777,
+"donde": "db/item",
+"en": "Genmai-cha (500 ml)",
+"oficial": "Genmai-cha (500 ml)",
+"n": 1
+},
+{
+"id": 778,
+"donde": "db/item",
+"en": "Genmai-cha (280 ml)",
+"oficial": "Genmai-cha (280 ml)",
+"n": 1
+},
+{
+"id": 800,
+"donde": "db/map_place",
+"en": "Fuji Soba",
+"oficial": "Soba Fuji",
+"n": 1
+},
+{
+"id": 801,
+"donde": "db/map_place",
+"en": "Gindaco Highball Tavern",
+"oficial": "Taberna Gindaco Highball",
+"n": 6
+},
+{
+"id": 820,
+"donde": "db/map_place",
+"en": "Little Asia",
+"oficial": "Pequeña Asia",
+"n": 1
+},
+{
+"id": 827,
+"donde": "db/map_place",
+"en": "Morning Glory",
+"oficial": "Campanilla violeta",
+"n": 2
+},
+{
+"id": 828,
+"donde": "db/minigame_batting_center_message",
+"en": "Hit",
+"oficial": "Pedir",
+"n": 5
+},
+{
+"id": 832,
+"donde": "db/minigame_batting_center_type_of_pitch",
+"en": "Screwball",
+"oficial": "Bola tirabuzón",
+"n": 2
+},
+{
+"id": 834,
+"donde": "db/minigame_batting_center_type_of_pitch",
+"en": "Forkball",
+"oficial": "Bola de tenedor",
+"n": 2
+},
+{
+"id": 836,
+"donde": "db/minigame_batting_center_type_of_pitch",
+"en": "Shootball",
+"oficial": "Shuuto",
+"n": 2
+},
+{
+"id": 837,
+"donde": "db/minigame_batting_center_type_of_pitch",
+"en": "Gyroball",
+"oficial": "Bola giratoria",
+"n": 2
+},
+{
+"id": 848,
+"donde": "db/minigame_darts_rival",
+"en": "Mama",
+"oficial": "Mamá",
+"n": 2
+},
+{
+"id": 865,
+"donde": "db/minigame_mahjong_string_agari",
+"en": "Triple Ron",
+"oficial": "Ron triple",
+"n": 4
+},
+{
+"id": 888,
+"donde": "db/minigame_sandlot_baseball_message",
+"en": "Auto",
+"oficial": "Automática",
+"n": 3
+},
+{
+"id": 1053,
+"donde": "db/option",
+"en": "Surround",
+"oficial": "Envolvente",
+"n": 2
+},
+{
+"id": 1097,
+"donde": "db/sound_auth",
+"en": "Kiryu-san",
+"oficial": "Señor Kiryu",
+"n": 1
+}
+]

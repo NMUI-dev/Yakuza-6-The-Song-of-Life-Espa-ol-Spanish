@@ -1,9 +1,9 @@
-﻿# Yakuza 6: The Song of Life - Traducción al español v1.0.2 (25-10-2026)
+﻿# Yakuza 6: The Song of Life - Traducción al español v1.0.3 (01-11-2026)
 # Instala o quita la traducción. Antes de instalar guarda los archivos originales del juego en «respaldo_original»
 # (junto a este instalador); «Quitar» los devuelve. No toca partidas, logros ni horas de Steam.
 param([string]$Accion = "")
 $ErrorActionPreference = "Stop"
-$VERSION = "1.0.2"
+$VERSION = "1.0.3"
 $aqui = Split-Path -Parent $MyInvocation.MyCommand.Path
 $arch = Join-Path $aqui "archivos"
 $resp = Join-Path $aqui "respaldo_original"
@@ -39,6 +39,9 @@ if (-not $Accion) { $Accion = Read-Host "Escribe 1 para INSTALAR o 2 para QUITAR
 
 $PARES = @("talk.par", "font.par", "ui.par")
 $tablas = Get-ChildItem (Join-Path $arch "db_e") -Filter *.bin
+# (v1.0.3) archivos sueltos de escenas (hact, auth): «archivos\extra\<ruta>» va a «data\<ruta>»
+$extraDir = Join-Path $arch "extra"
+$extras = @(); if (Test-Path $extraDir) { $extras = Get-ChildItem $extraDir -Recurse -File | ForEach-Object { $_.FullName.Substring($extraDir.Length + 1) } }
 if ($Accion -eq "1") {
     if ((Test-Path (Join-Path $data "traduccion_es_version.txt")) -and -not (Test-Path (Join-Path $resp "talk.par"))) {
         Write-Host "Ya hay una traducción instalada y no encuentro su «respaldo_original» junto a este instalador." -ForegroundColor Red
@@ -51,15 +54,22 @@ if ($Accion -eq "1") {
     Write-Host "Guardando los archivos originales que falten en $resp ..."
     foreach ($f in $PARES) { if (-not (Test-Path (Join-Path $resp $f))) { Copy-Item (Join-Path $data $f) $resp } }
     foreach ($t in $tablas) { if (-not (Test-Path (Join-Path $resp "db_e\$($t.Name)"))) { Copy-Item (Join-Path $data "db\e\$($t.Name)") (Join-Path $resp "db_e") } }
+    foreach ($r in $extras) {
+        $o = Join-Path $resp "extra\$r"
+        if (-not (Test-Path $o)) { New-Item -ItemType Directory -Force (Split-Path $o) | Out-Null; Copy-Item (Join-Path $data $r) $o }
+    }
     Write-Host "Instalando..."
     foreach ($f in $PARES) { Copy-Item (Join-Path $arch $f) $data -Force }
     foreach ($t in $tablas) { Copy-Item $t.FullName (Join-Path $data "db\e") -Force }
+    foreach ($r in $extras) { Copy-Item (Join-Path $extraDir $r) (Join-Path $data $r) -Force }
     Set-Content (Join-Path $data "traduccion_es_version.txt") "Traducción al español v$VERSION" -Encoding UTF8
     Write-Host "¡Listo! Abre el juego con el idioma en inglés." -ForegroundColor Green
 } elseif ($Accion -eq "2") {
     if (-not (Test-Path $resp)) { Write-Host "No hay respaldo: usa «Verificar integridad» en Steam para volver al original." -ForegroundColor Red; Read-Host "Enter para salir"; exit 1 }
     foreach ($f in $PARES) { if (Test-Path (Join-Path $resp $f)) { Copy-Item (Join-Path $resp $f) $data -Force } }
     foreach ($t in Get-ChildItem (Join-Path $resp "db_e") -Filter *.bin) { Copy-Item $t.FullName (Join-Path $data "db\e") -Force }
+    $re = Join-Path $resp "extra"
+    if (Test-Path $re) { foreach ($t in Get-ChildItem $re -Recurse -File) { Copy-Item $t.FullName (Join-Path $data $t.FullName.Substring($re.Length + 1)) -Force } }
     Remove-Item (Join-Path $data "traduccion_es_version.txt") -ErrorAction SilentlyContinue
     Write-Host "Traducción quitada: el juego vuelve a estar en inglés." -ForegroundColor Green
 }

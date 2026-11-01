@@ -1,4 +1,4 @@
-YAKUZA 6: THE SONG OF LIFE - TRADUCCIÓN AL ESPAÑOL: QUÉ SE HIZO, PASO A PASO
+﻿YAKUZA 6: THE SONG OF LIFE - TRADUCCIÓN AL ESPAÑOL: QUÉ SE HIZO, PASO A PASO
 ==========================================================================
 
 Traducción hecha con inteligencia artificial (Claude Code dirigiendo y revisando, más ayudantes gratuitos) y supervisada
@@ -30,6 +30,7 @@ Textos distintos para traducir en total: 28.754 (1,42 millones de letras).
 - reARMP (de Ret-HZ, licencia GPL-2): pasa cada tabla ARMP .bin a .json y de vuelta. Es antiguo pero con Yakuza 6
   funciona (2 tablas no se dejan exportar: sound_label.bin y ui_layer_text.bin, que no hacían falta).
 - Python 3: los programas propios (este paquete trae los necesarios en herramienta_traduccion.py).
+- Steamless: para el laboratorio de pruebas (ver paso 6). No va en el paquete.
 - Para traducir: Claude (Anthropic) y ayudantes gratuitos: API gratis de Google Gemini y modelos gratis de OpenRouter
   (MiniMax), con un programa que reparte los lotes, valida y corrige solo.
 
@@ -71,7 +72,8 @@ Textos distintos para traducir en total: 28.754 (1,42 millones de letras).
 - talk.par: en cada cmn.bin se escribe el español en la posición del inglés y se rellena con ceros hasta el final de su
   hueco (nunca se pisa el chino). Después se rearma por capas con ParTool «add»:
   cmn.bin -> cmn.par -> escena.par -> talk.par.
-- Laboratorio para no tocar el juego de Steam: copia aparte del juego. Datos enlazados al juego real;
+- Laboratorio para no tocar el juego de Steam ni sumar logros ni horas: copia aparte del juego con el ejecutable sin
+  protección de Steam (Steamless) y steam_appid.txt = 480 (Steam lo ve como «Spacewar»). Datos enlazados al juego real;
   los archivos cambiados se ponen borrando el enlace y copiando (si se copia ENCIMA de un enlace se escribe en el juego
   de Steam). Ojo: el juego se pausa al perder el foco de la ventana.
 - Primero se probó con «ES:» delante de cada texto para ver que TODOS llegan al juego. Visto en el laboratorio: menú del
@@ -97,3 +99,18 @@ Textos distintos para traducir en total: 28.754 (1,42 millones de letras).
 - datos\clases_grupos.json: qué columnas de cada tabla son texto (TEXTO) y cuáles internas (ID, no tocar).
 - datos\talk_indice.csv: dónde está cada frase dentro de talk.par y cuántos bytes caben.
 - programas\ParTool y programas\reARMP (con su licencia).
+
+
+v1.0.3 (01-11-2026) - LO QUE APRENDIMOS AL BUSCAR EL INGLÉS QUE QUEDABA
+- Textos con SALTO DE LÍNEA dentro de cmn.bin (resúmenes de «Recuerdos», avisos de Troublr, ayudas de minijuegos):
+  el primer extractor solo cogía frases de una línea. Ahora están en datos/cmn_indice_v103.csv.
+- Escenas sueltas (data/hact/*.par y data/auth/*.par) también tienen texto (escenas de amor del cabaré, frases de
+  combate): el instalador las pone desde archivos/extra y guarda sus originales en respaldo_original/extra.
+- Cada texto de cmn.bin tiene un hueco fijo (el tamaño va en la cabecera, múltiplo de 16) y detrás va el chino: no se
+  puede alargar; hay que traducir dentro de bytes_max.
+- Frases de UNA palabra («Thanks.», «Right.», «Yes», «Y-Yeah...»): el filtro «¿texto o código?» las descartaba porque
+  no tienen espacio. Están en datos/celdas_extra_v103.json y en cmn_indice_v103.csv.
+- La letra del juego guarda un ANCHO por cada código: la í dibujada en la casilla de «~» salía con hueco
+  («Subt í tulos»). Va en la casilla de «`» (estrecha y sin uso en el juego).
+- Chat en vivo: «input_character» es lo que se teclea y «button» tiene un botón por letra: si cambias el largo,
+  hay que estirar los botones (el programa lo hace) y dar algo más de tiempo.

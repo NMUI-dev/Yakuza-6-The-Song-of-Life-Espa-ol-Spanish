@@ -1,0 +1,2550 @@
+﻿"donde";"bytes_max";"ingles";"espanol"
+"db/item";"";"Napolitan";"Napolitano"
+"db/item";"";"Espresso";"Expreso"
+"db/minigame_batting_center_type_of_pitch";"";"Screwball";"Bola tirabuzón"
+"db/minigame_batting_center_type_of_pitch";"";"Forkball";"Bola de tenedor"
+"db/minigame_batting_center_type_of_pitch";"";"Gyroball";"Bola giratoria"
+"db/minigame_darts_rival";"";"Mama";"Mamá"
+"db/minigame_mahjong_string_agari";"";"Triple Ron";"Ron triple"
+"db/option";"";"Surround";"Envolvente"
+"db/pause_tutorial";"";"<Sign:1,Combat> when Heat Icon is displayed.";"<Sign:1,Combat> cuando se muestre el icono de Heat."
+"db/pause_tutorial";"";"<symbol=button_maru,Combat> near a weapon you can pick up.";"<symbol=button_maru,Combat> cerca de un arma que puedas recoger."
+"db/pause_tutorial";"";"<symbol=button_l1,Combat> while holding a weapon.";"<symbol=button_l1,Combat> mientras sostienes un arma."
+"db/sound_auth";"";"[Beautiful eyes...]";"[Ojos hermosos...]"
+"db/sound_auth";"";"Oh no...";"Oh, no..."
+"hact/e/a61130_runaway_someya.par_par/cmn.par";"31";"Entertain the fourth chairman.";"Entretén al Cuarto Presidente."
+"hact/e/a61140_tougen_prison.par_par/cmn.par";"15";"Let go!";"¡Suéltame!"
+"hact/e/a61150_tougen_down1f.par_par/cmn.par";"15";"Give it a rest.";"¡Ya déjalo!"
+"hact/e/a61200_gei_yuta_btl.par_par/cmn.par";"47";"Leave this t'us and find Someya!";"¡Déjanos esto a nosotros y busca a Someya!"
+"hact/e/a61200_gei_yuta_btl.par_par/cmn.par";"31";"You've got this.";"Tú puedes con esto."
+"hact/e/a61440_haruto_btlst_a.par_par/cmn.par";"15";"Watch him.";"Vigílalo."
+"hact/e/a61441_haruto_btlst_b.par_par/cmn.par";"15";"Hold this baby.";"Ten al bebé."
+"hact/e/c07141_040.par_par/cmn.par";"15";"Hey, whoa!";"¡Oye, espera!"
+"hact/e/c07141_040.par_par/cmn.par";"31";"What's going on!?";"¡¿Qué está pasando!?"
+"hact/e/h24120_denshirenji.par_par/cmn.par";"31";"Can you heat this junk up?";"¿Puedes calentar esta basura?"
+"hact/e/h24760_yuta3_hactst.par_par/cmn.par";"15";"Stay back!";"¡Aléjate!"
+"hact/e/h24760_yuta3_hactst.par_par/cmn.par";"31";"Quit it already!";"¡Ya déjalo!"
+"hact/e/h24940_masu_revive.par_par/cmn.par";"31";"The hell're ya doin'!?";"¡¿Qué demonios haces!?"
+"hact/e/h24940_masu_revive.par_par/cmn.par";"31";"Get yer asses up!";"¡Muevan el trasero!"
+"hact/e/m30101_cab_love_hikaru_m.par_par/cmn.par";"79";"I was surprised that you came for me,
+but it also made me really happy...";"Me sorprendió que vinieras por mí,
+pero me hizo muy feliz..."
+"hact/e/m30101_cab_love_hikaru_m.par_par/cmn.par";"79";"I realized that you're the Prince Charming
+who's going to protect me.";"Me di cuenta de que eres el príncipe azul
+que va a protegerme."
+"hact/e/m30101_cab_love_hikaru_m.par_par/cmn.par";"79";"This might be the first time...
+that I've felt this way about someone.";"Puede que sea la primera vez...
+que me siento así por alguien."
+"hact/e/m30101_cab_love_hikaru_m.par_par/cmn.par";"95";"Idols aren't allowed to be in romantic relationships...
+So I figured I'd say this now.";"Las idols no pueden tener relaciones amorosas...
+Así que quería decirte esto ahora."
+"hact/e/m30101_cab_love_hikaru_m.par_par/cmn.par";"63";"Kiryu-san... this is the present I mentioned earlier.";"Kiryu-san... este es el regalo que mencioné."
+"hact/e/m30101_cab_love_hikaru_m.par_par/cmn.par";"31";"...I love you, Kiryu-san.";"...Te amo, Kiryu-san."
+"hact/e/m30101_cab_love_hikaru_m.par_par/cmn.par";"63";"Please don't ever stop being my Prince Charming.";"Por favor, nunca dejes de ser mi príncipe azul."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"47";"Kiryu-san... Thank you so much for today.";"Kiryu-san... Muchas gracias por lo de hoy."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"63";"It made me really happy when you said
+we were together.";"Me hizo muy feliz que dijeras
+que estábamos juntos."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"79";"That was the first time someone I've loved
+has ever said that about me...";"Es la primera vez que alguien a quien amo
+dice algo así de mí..."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"31";"My heart is still racing.";"Mi corazón sigue acelerado."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"79";"The only one who was able to see the
+real me... was you all along.";"El único que pudo ver quién soy
+en realidad... fuiste tú siempre."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"63";"Kiryu-san... I'm going to be brave today,
+and...";"Kiryu-san... Hoy voy a ser valiente,
+y..."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"31";"This is so embarrassing...";"Qué vergüenza..."
+"hact/e/m30102_cab_love_erina_m.par_par/cmn.par";"63";"I would like it if you'd...
+keep on protecting me.";"Me gustaría que...
+siguieras protegiéndome."
+"hact/e/m30103_cab_love_sora_m.par_par/cmn.par";"31";"I'm so glad we met.";"Me alegra haberte conocido."
+"hact/e/m30103_cab_love_sora_m.par_par/cmn.par";"79";"You're so manly and handsome...
+And you've got this playful side...";"Eres tan varonil y guapo...
+Y tienes ese lado travieso..."
+"hact/e/m30103_cab_love_sora_m.par_par/cmn.par";"31";"I love you for that, Kiryu-san.";"Por eso te quiero, Kiryu-san."
+"hact/e/m30103_cab_love_sora_m.par_par/cmn.par";"95";"...Kiryu-san, you finish what you have to do.
+I'll wait for you until it's done.";"...Kiryu-san, termina lo que tengas que hacer.
+Te esperaré hasta que acabes."
+"hact/e/m30103_cab_love_sora_m.par_par/cmn.par";"79";"Once everything has calmed down...
+I hope you'll come with me to Taiwan.";"Cuando todo se haya calmado...
+espero que vengas conmigo a Taiwán."
+"hact/e/m30103_cab_love_sora_m.par_par/cmn.par";"47";"I really dug up some courage today, didn't I?";"Hoy me armé de valor de verdad, ¿no?"
+"hact/e/m30103_cab_love_sora_m.par_par/cmn.par";"31";"I'll wait for you... forever.";"Te esperaré... para siempre."
+"hact/e/m30104_cab_love_riona_m.par_par/cmn.par";"63";"I love this place.
+I come here a lot when I want to be alone.";"Me encanta este lugar.
+Vengo mucho cuando quiero estar sola."
+"hact/e/m30104_cab_love_riona_m.par_par/cmn.par";"95";"But I always figured that when I found someone
+to love... that I'd bring him here.";"Pero siempre pensé que cuando encontrara a alguien
+a quien amar... lo traería aquí."
+"hact/e/m30104_cab_love_riona_m.par_par/cmn.par";"47";"...Kiryu-san, thank you for today.";"...Kiryu-san, gracias por lo de hoy."
+"hact/e/m30104_cab_love_riona_m.par_par/cmn.par";"47";"Um... Can I ask you to close your eyes?";"Este... ¿Te puedo pedir que cierres los ojos?"
+"hact/e/m30104_cab_love_riona_m.par_par/cmn.par";"31";"Don't ever leave my side, okay?";"No te vayas de mi lado, ¿sí?"
+"hact/e/m30105_cab_love_saki_m.par_par/cmn.par";"47";"Kiryu-san... Thank you so much for earlier.";"Kiryu-san... Muchas gracias por lo de antes."
+"hact/e/m30105_cab_love_saki_m.par_par/cmn.par";"79";"You were so dashing when you stepped in...
+Who could resist that?";"Te veías tan guapo cuando interveniste...
+¿Quién podría resistirse?"
+"hact/e/m30105_cab_love_saki_m.par_par/cmn.par";"63";"I know I need to work on being
+more of a girly-girl...";"Sé que tengo que esforzarme por
+ser más femenina..."
+"hact/e/m30105_cab_love_saki_m.par_par/cmn.par";"47";"But today, I'm going to do something brave.";"Pero hoy, voy a hacer algo valiente."
+"hact/e/m30105_cab_love_saki_m.par_par/cmn.par";"47";"I've always fantasized about this...";"Siempre he fantaseado con esto..."
+"hact/e/m30105_cab_love_saki_m.par_par/cmn.par";"31";"Kiryu-san... I love you.";"Kiryu-san... Te quiero."
+"hact/e/m30105_cab_love_saki_m.par_par/cmn.par";"47";"I hope you'll watch over me forever.";"Espero que me cuides para siempre."
+"hact/m10035_hit1_r.par_par/cmn.par";"15";"Right";"Bien"
+"talk.par_par/caba/card_talk_sora_036.par/cmn.par";"31";"Beautiful Eyes……";"Ojos hermosos……"
+"talk.par_par/caba/card_talk_sora_036.par/cmn.par";"31";"Perfect Nose……";"Nariz perfecta……"
+"talk.par_par/caba/card_talk_sora_036.par/cmn.par";"31";"Marvelous Mouth……";"Boca maravillosa……"
+"talk.par_par/caba/e/card_talk_hikaru_015.par/cmn.par";"15";"You.";"Tú."
+"talk.par_par/caba/e/card_talk_saki_046.par/cmn.par";"15";"Yes.";"Sí."
+"talk.par_par/caba/sp_talk_sora_sp3.par/cmn.par";"15";"I love you";"Te amo"
+"talk.par_par/clan/e/advcln30_010.par/cmn.par";"431";"Scouting New Recruits
+
+Onomichi is brimming with bloodthirsty punks, thugs,
+and hooligans who will challenge you to a fight if
+you approach them.
+
+If you can successfully put these brutes in their place,
+they will come to respect Kiryu's power and may just
+offer to join his clan.
+
+Be proactive in asserting your dominance over the
+city, challenging the strong, and making the Kiryu
+Clan a name to be recognized in the streets!";"Reclutar nuevos miembros
+
+Onomichi está repleta de pandilleros, matones y
+vándalos sedientos de sangre que te desafiarán a pelear
+si te les acercas.
+
+Si logras poner a estos brutos en su lugar,
+respetarán la fuerza de Kiryu y puede que te ofrezcan
+unirse a su clan.
+
+¡Sé proactivo y demuestra tu dominio en la ciudad,
+desafía a los fuertes y haz que el Clan Kiryu
+sea un nombre reconocido en las calles!"
+"talk.par_par/clan/e/clan_lvup.par/cmn.par";"127";"Clan Creator
+
+The Kiryu Clan leveled up.
+The number of people you can set in the organization chart has increased.";"Creador de Clanes
+
+El Clan Kiryu subió de nivel.
+Aumentó la cantidad de miembros que puedes asignar en el organigrama."
+"talk.par_par/clan/e/clan_pass_kamuro01.par/cmn.par";"159";"About Clan Codes
+
+If you have a Clan Code, you can speak with Masao
+to enter it and obtain a special leader not obtained
+through normal progression.";"Sobre los códigos de clan
+
+Si tienes un código de clan, habla con Masao para
+ingresarlo y obtener un líder especial no disponible de
+forma normal."
+"talk.par_par/clan/e/clan_pass_kamuro01.par/cmn.par";"159";"About Clan Codes
+
+If you have a Clan Code, you can speak with Masao to
+enter it and obtain a special leader not obtained
+through normal progression.";"Sobre los códigos de clan
+
+Si tienes un código de clan, habla con Masao para
+ingresarlo y obtener un líder especial no disponible de
+forma normal."
+"talk.par_par/ins/e/21_start.par/cmn.par";"63";"My wallet got stolen...
+I don't know what to do...";"Me robaron la billetera...
+No sé qué hacer..."
+"talk.par_par/ins/e/adv_inst_a016_001.par/cmn.par";"63";"(I'm hungry. Maybe I should go
+grab something at a restaurant.)";"(Tengo hambre. Tal vez deba
+ir a comer a un restaurante.)"
+"talk.par_par/ins/e/adv_inst_a017_001.par/cmn.par";"63";"(I don't feel great... I should have
+some medicine, though.)";"(No me siento bien... Debería
+tomar alguna medicina.)"
+"talk.par_par/ins/e/adv_inst_a017_002.par/cmn.par";"63";"(Ahhh, that worked wonders.
+I feel much better now.)";"(Ahhh, eso hizo maravillas.
+Ya me siento mucho mejor.)"
+"talk.par_par/ins/e/adv_inst_a022_001.par/cmn.par";"63";"(Wait, my wallet's gone!
+I must've been pickpocketed!)";"(¡Espera, mi billetera no está!
+¡Me la deben haber robado!)"
+"talk.par_par/ins/e/adv_inst_a029_002.par/cmn.par";"79";"(I think there's someone in there...
+They must be the person from Troublr.)";"(Creo que hay alguien ahí dentro...
+Debe ser la persona de Troublr.)"
+"talk.par_par/ins/e/adv_inst_a036_002_0.par/cmn.par";"63";"(They're suspicious... I'll catch
+every last one of them!)";"(Son sospechosos... ¡Atraparé
+a hasta el último de ellos!)"
+"talk.par_par/ins/e/adv_inst_a042_walkback.par/cmn.par";"79";"(I should get below the person to
+get a better read on the situation.)";"(Debería ponerme debajo para entender
+mejor la situación.)"
+"talk.par_par/ins/e/adv_inst_a046_003_4.par/cmn.par";"95";"(I can't touch it with my bare hands.
+Maybe I can destroy the source somehow...)";"(No puedo tocarlo con las manos.
+Quizás pueda destruir la fuente...)"
+"talk.par_par/ins/e/kamuro_info.par/cmn.par";"111";"Incidents around Kamurocho will now be posted to Troublr.
+Select a post from the list to begin a mission.";"Los incidentes en Kamurocho se publicarán en Troublr.
+Elige una publicación de la lista para empezar."
+"talk.par_par/ins/e/mission_in_progress.par/cmn.par";"111";"(It looks like there's some trouble here, but
+I should focus on the mission I already accepted.)";"(Parece que hay problemas aquí, pero debería
+concentrarme en la misión que ya acepté.)"
+"talk.par_par/ins/e/mission_not_ordered.par/cmn.par";"79";"(It looks like there's some trouble here.
+I should take a look at Troublr.)";"(Parece que hay problemas aquí.
+Debería echar un vistazo a Troublr.)"
+"talk.par_par/ins/e/onomichi_info.par/cmn.par";"111";"Incidents around Onomichi will now be posted to Troublr.
+Select a post from the list to begin a mission.";"Los incidentes en Onomichi se publicarán en Troublr.
+Elige una publicación de la lista para empezar."
+"talk.par_par/ins/e/shokaki_look_reuse.par/cmn.par";"95";"(There's a fire extinguisher here. Apparently
+the manager checks this one pretty often.)";"(Aquí hay un extintor. Al parecer, el
+encargado lo revisa con frecuencia.)"
+"talk.par_par/ins/e/tm_19k_001_look.par/cmn.par";"79";"(I have to put it out, but I'll need
+to find a fire extinguisher first.)";"(Tengo que apagarlo, pero primero
+necesito encontrar un extintor.)"
+"talk.par_par/ins/e/tm_19k_002_search.par/cmn.par";"79";"(This fire's out of control!
+I need to find an extinguisher soon.)";"(¡El fuego está fuera de control!
+Tengo que buscar un extintor pronto.)"
+"talk.par_par/ins/e/tm_19k_005_hint.par/cmn.par";"111";"(I don't think I can bring the extinguisher up.
+Maybe if I jump down from the next building over?)";"(No creo poder subir el extintor.
+¿Y si salto desde el edificio de al lado?)"
+"talk.par_par/ins/e/tm_20k_005_hint.par/cmn.par";"95";"(I don't think I can bring the extinguisher up.
+Maybe I should use the stairs instead.)";"(No creo poder subir el extintor.
+Tal vez debería usar las escaleras.)"
+"talk.par_par/ins/e/tm_22k_003_onemore.par/cmn.par";"95";"(That wasn't enough to put it out...
+I'll need to find another fire extinguisher.)";"(Eso no bastó para apagarlo...
+Tendré que buscar otro extintor.)"
+"talk.par_par/ins/e/tm_22k_004_find.par/cmn.par";"95";"(That guy... That's the arsonist from before!
+There's no doubt he's responsible for this!)";"(Ese tipo... ¡Es el pirómano de antes!
+¡Sin duda él es el responsable de esto!)"
+"talk.par_par/ins/e/tm_22k_bring_shokaki.par/cmn.par";"63";"(This doesn't look good.
+I should go get a fire extinguisher.)";"(Esto no pinta bien.
+Iré a buscar un extintor.)"
+"talk.par_par/ins/e/tm_26o_bring_shokaki.par/cmn.par";"95";"(This doesn't look good. I should go get
+a fire extinguisher. I think there's one nearby...)";"(Esto no pinta bien. Debería buscar un
+extintor. Creo que hay uno cerca...)"
+"talk.par_par/ins/e/tm_26o_ladder.par/cmn.par";"95";"(I can't climb the ladder with this extinguisher.
+I should go look for one up at the top.)";"(No puedo subir la escalera con el extintor.
+Debería buscar uno arriba del todo.)"
+"talk.par_par/ins/e/tm_30o_002_chase.par/cmn.par";"79";"(He ran to the east. He's going to
+get away if I don't get after him...)";"(Huyó hacia el este. Se escapará
+si no voy tras él...)"
+"talk.par_par/ins/e/tm_35k_start.par/cmn.par";"95";"(Wait, is this some kind of bomb threat?
+In any case, I need to track down the bomb.)";"(Un momento, ¿amenaza de bomba?
+De todos modos, debo encontrarla.)"
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"383";"The Events of Yakuza
+
+October, 1995. Kamurocho, one of Asia's largest entertainment districts.
+In this town swirling with desire and violence lived a yakuza by the
+name of Kazuma Kiryu, a Lieutenant Advisor of the prestigious Dojima Family.
+
+But he was better known as ""The Dragon of Dojima.""
+
+He was a rising star, and soon he would take control over a family
+of his own...
+
+";"Los eventos de Yakuza
+
+Octubre de 1995. Kamurocho, un gran distrito de ocio de Asia.
+En esta ciudad de deseo y violencia vivía un yakuza llamado
+Kazuma Kiryu, teniente consejero de la reputada Familia Dojima.
+
+Pero era más conocido como ""el Dragón de Dojima"".
+
+Era una estrella en ascenso y pronto tendría su propia familia...
+
+"
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"511";"The Events of Yakuza
+
+At Kiryu's side was his best friend, Akira Nishikiyama.
+The two grew up together in Sunflower Orphanage and swore
+their oaths to the Tojo Clan's Dojima Family on the same day.
+
+The pair was often joined by Yumi Sawamura, another of
+Sunflower's orphans, whom they treated like a younger sister.
+
+The happy days where the three of them would get together and drink
+at the upscale bar, Serena, are some of Kiryu's fondest memories...
+
+But one stormy night, their lives changed forever.";"Los eventos de Yakuza
+
+Al lado de Kiryu estaba su mejor amigo, Akira Nishikiyama.
+Ambos crecieron juntos en el Orfanato Sunflower y juraron
+lealtad a la Familia Dojima del Clan Tojo el mismo día.
+
+A ellos se les unía Yumi Sawamura, otra huérfana de Sunflower
+a la que trataban como a una hermana menor.
+
+Los días felices en los que los tres bebían juntos en el lujoso
+bar Serena son de los mejores recuerdos de Kiryu...
+
+Pero una noche de tormenta, sus vidas cambiaron para siempre."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"655";"The Events of Yakuza
+
+The Patriarch of the Dojima Family, Sohei Dojima, kidnapped Yumi,
+prompting Nishikiyama to shoot him in a blind frenzy.
+
+Kiryu arrived at the scene to find Nishikiyama still holding the
+smoking gun, and Kiryu made a fateful decision: In order to ensure
+Nishikiyama could still be around for his ill sister, Kiryu took
+the gun in hand and sent both Nishikiyama and Yumi out of the building. 
+ 
+That day, Kiryu became a patriarch killer, a crime above all crimes
+in the criminal world of the yakuza.
+
+Kiryu was jailed and expelled from the organization, and Yumi,
+suffering from traumatic memory loss, disappeared from the hospital.";"Los eventos de Yakuza
+
+El patriarca de la Familia Dojima, Sohei Dojima, secuestró a Yumi,
+lo que llevó a Nishikiyama a dispararle en un arrebato de locura.
+
+Kiryu llegó a la escena y encontró a Nishikiyama con el arma humeante,
+y tomó una decisión fatal: para que Nishikiyama pudiera cuidar de su
+hermana enferma, Kiryu tomó el arma y los hizo salir del edificio.
+
+Ese día, Kiryu se convirtió en un matapatriarcas, el peor de los
+delitos en el mundo del crimen yakuza.
+
+Fue encarcelado y expulsado de la organización, y Yumi, con una
+pérdida traumática de memoria, desapareció del hospital."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"463";"The Events of Yakuza
+
+Ten years passed...
+December, 2005. Kiryu emerges from prison to a changed world.
+
+Nishikiyama had lost his sister and suffered greatly in the
+ten years, and as a result, had twisted into a monster,
+obsessed with power and climbing the ranks of the Tojo Clan.
+
+Not even Shintaro Kazama, Patriarch of the Kazama Family and
+founder of Sunflower Orphanage, a father figure to them both,
+could stay Nishikiyama's dark transformation.";"Los eventos de Yakuza
+
+Pasaron diez años...
+Diciembre de 2005. Kiryu sale de prisión a un mundo distinto.
+
+Nishikiyama había perdido a su hermana y sufrido mucho en esos
+diez años, convirtiéndose en un monstruo obsesionado con
+el poder y con ascender en el Clan Tojo.
+
+Ni siquiera Shintaro Kazama, patriarca de la Familia Kazama y
+fundador del Orfanato Sunflower, una figura paterna para ambos,
+pudo detener la oscura transformación de Nishikiyama."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"575";"The Events of Yakuza
+
+In a meeting of the Tojo Clan's direct patriarchs, Nishikiyama,
+now patriarch of his own family, exposed the fact that ten billion
+yen had been stolen from the clan's coffers.
+
+In the ensuing chaos, the Tojo Clan's third chairman, Masaru Sera,
+was murdered, and an assassination attempt was made on Kazama right
+before Kiryu's eyes.
+
+And as the Tojo Clan crumbled, Goro Majima, the Mad Dog of Shimano,
+began to play in the ashes.
+
+The conflict nearly escalated into a civil war, and the shadow of
+the Nishikiyama Family loomed large over the incident...";"Los eventos de Yakuza
+
+En una reunión de patriarcas directos del Clan Tojo, Nishikiyama,
+ahora patriarca de su propia familia, reveló que diez mil millones
+de yenes habían sido robados de las arcas del clan.
+
+En el caos resultante, el tercer presidente del Clan Tojo, Masaru Sera,
+fue asesinado y hubo un intento de asesinato contra Kazama ante
+los propios ojos de Kiryu.
+
+Y mientras el Clan Tojo se desmoronaba, Goro Majima, el Perro
+Rabioso de Shimano, empezó a jugar entre las cenizas.
+
+El conflicto estuvo a punto de convertirse en una guerra civil..."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"559";"The Events of Yakuza
+
+As Kiryu became embroiled in the Tojo Clan's internal conflict, he
+continued his search for Yumi, who was still missing after all these years.
+
+Seeking clues at Serena, he learned that Yumi had a younger sister
+by the name of Mizuki. Believing Mizuki to be his only lead, Kiryu plunged
+into the darkness of the city to find her.
+
+But Mizuki's trail was no warmer than Yumi's, and as all hope began to
+fade, Kiryu finally caught his break<symbol=em_dash_with_outline>he encountered a young girl who
+claimed to be the daughter of Mizuki.";"Los eventos de Yakuza
+
+Mientras Kiryu se veía envuelto en el conflicto interno del Clan Tojo,
+continuó buscando a Yumi, aún desaparecida tras todos estos años.
+
+Buscando pistas en Serena, supo que Yumi tenía una hermana menor
+llamada Mizuki. Creyendo que era su única pista, Kiryu se sumergió
+en la oscuridad de la ciudad para encontrarla.
+
+Pero el rastro de Mizuki estaba tan frío como el de Yumi y, cuando la
+esperanza se apagaba, Kiryu tuvo suerte<symbol=em_dash_with_outline>se topó con una niña
+que decía ser la hija de Mizuki."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"511";"The Events of Yakuza
+
+The girl's name was Haruka Sawamura.
+
+Despite being only nine years old, she came to Kamurocho herself in
+hopes of finding her mother, Mizuki. Like Kiryu, Haruka too had grown
+up in Sunflower Orphanage, and her Aunt Yumi had entrusted her
+with a pendant said to be ""worth ten billion yen.""
+
+The criminal underworld was drawn to the girl and the pendant like moths
+to a flame. Kamurocho became engulfed in conspiracy and betrayal,
+with Nishikiyama at the heart of the conflict.
+";"Los sucesos de Yakuza
+
+La niña se llamaba Haruka Sawamura.
+
+Con solo nueve años, fue sola a Kamurocho con la esperanza
+de hallar a su madre, Mizuki. Como Kiryu, Haruka también se crió en
+el Orfanato Sunflower, y su tía Yumi le había confiado un colgante
+que decían que ""valía diez mil millones de yenes"".
+
+El submundo criminal se vio atraído hacia la niña y el colgante como
+polillas a la luz. Kamurocho se vio envuelta en conspiración y traición,
+con Nishikiyama en el centro del conflicto.
+"
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"607";"The Events of Yakuza
+
+Kiryu and Haruka finally caught up to Kazama, who was able to explain
+the whole truth of the incident.
+
+Haruka was in fact, Yumi's daughter. Mizuki was simply Yumi's alias,
+created to protect her from a politician by the name of Kyohei Jingu.
+
+Not only did the Tojo Clan's missing funds actually belong to Jingu,
+but he was also Haruka's father. Jingu had manipulated the Tojo Clan from
+the shadows in an effort to dispose of his scandalously illegitimate daughter.
+
+In an effort to chip away at his power, Kazama, Yumi, and Sera had teamed up
+to steal his ten billion yen.";"Los eventos de Yakuza
+
+Kiryu y Haruka al fin alcanzaron a Kazama, quien logró explicarles
+toda la verdad sobre el incidente.
+
+Haruka era, en efecto, la hija de Yumi. Mizuki solo era el alias de Yumi,
+creado para protegerla de un político llamado Kyohei Jingu.
+
+Los fondos desaparecidos del Clan Tojo no solo pertenecían a Jingu,
+sino que él también era el padre de Haruka. Jingu manipuló al Clan Tojo desde
+las sombras para deshacerse de su hija ilegítima y evitar un escándalo.
+
+Para debilitar su poder, Kazama, Yumi y Sera se aliaron
+para robar sus diez mil millones de yenes."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"415";"The Events of Yakuza
+
+An explosion rocked the Millennium Tower where the money had been held.
+As money fluttered into the streets, the people who Kiryu cared about more
+than anyone in the world breathed their last.
+
+Yumi, who shielded Kiryu from a bullet fired by Jingu.
+
+Nishikiyama, who in his final moments smiled at Kiryu as he ignited
+the bomb to take accountability for his actions and end the bloodshed...";"Los eventos de Yakuza
+
+Una explosión sacudió la Torre Millennium donde estaba el dinero.
+Mientras los billetes caían a la calle, los seres más queridos de Kiryu
+dieron su último aliento en este mundo.
+
+Yumi, quien protegió a Kiryu de una bala de Jingu.
+
+Nishikiyama, quien sonrió a Kiryu al detonar la bomba para
+asumir su responsabilidad y poner fin a la matanza..."
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"479";"The Events of Yakuza 2
+
+The Omi Alliance made the first move, assassinating Yukio Terada
+and turning all-out war between the two factions into a fearsome reality.
+
+Without a chairman to lead them, Kiryu took Terada's place at the
+negotiation table, dragging an unlikely candidate back into the fold
+should things turn for the worse<symbol=em_dash_with_outline>Daigo Dojima.
+
+Daigo was the son of Sohei Dojima, and the mark of patricide still
+hung over Kiryu for his murder.";"Los eventos de Yakuza 2
+
+La Alianza Omi dio el primer paso asesinando a Yukio Terada,
+haciendo realidad la temible guerra total entre ambas facciones.
+
+Sin un presidente al mando, Kiryu ocupó el lugar de Terada en la
+mesa de negociación, trayendo de vuelta a un candidato improbable
+por si las cosas empeoraban<symbol=em_dash_with_outline>Daigo Dojima.
+
+Daigo era el hijo de Sohei Dojima, y sobre Kiryu aún pesaba la marca
+del parricidio por la muerte de este último."
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"495";"The Events of Yakuza 2
+
+The night before the meeting with the Omi Alliance was to take
+place in Sotenbori, Osaka, Kiryu met a new foe<symbol=em_dash_with_outline>the Dragon of Kansai,
+Ryuji Goda. Goda was Patriarch of the Go-Ryu Clan, and none other than
+the son of Jin Goda, the fifth chairman of the Omi Alliance.
+
+""There's only room for one dragon in this world.""
+
+Boasting of ""grand fireworks"" about to be set off, as if on cue,
+the Kazama Family office in Kamurocho went up in flames.";"Los eventos de Yakuza 2
+
+La noche antes de la reunión con la Alianza Omi en Sotenbori, Osaka,
+Kiryu conoció a un nuevo rival<symbol=em_dash_with_outline>el Dragón de Kansai, Ryuji Goda.
+Goda era el patriarca de la Familia Go-Ryu e hijo de Jin Goda,
+el quinto presidente de la Alianza Omi.
+
+""En este mundo solo hay espacio para un dragón"".
+
+Presumiendo de ""grandes fuegos artificiales"", la oficina de la Familia Kazama
+en Kamurocho ardió en llamas casi al instante."
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"511";"The Events of Yakuza 2
+
+Ryuji ignited his coup with his own father as the kindling.
+As negotiations between Kiryu and Goda began, Ryuji's Go-Ryu Clan
+infiltrated the proceedings, laying bare his desire to conquer
+the world of the yakuza.
+
+Forced into cooperation with the police, Kiryu began working alongside
+Kaoru Sayama from the Osaka PD's 4th Division to stop Ryuji Goda. Through
+this alliance, it became apparent that a tragedy that occurred over 20 years
+ago in Kamurocho was connected to them both.";"Los eventos de Yakuza 2
+
+Ryuji desató su golpe de Estado usando a su propio padre como leña.
+Cuando iniciaron las negociaciones entre Kiryu y Goda, la Familia Go-Ryu
+infiltró el lugar, dejando ver su deseo de conquistar el mundo yakuza.
+
+Obligado a cooperar con la policía, Kiryu empezó a trabajar con Kaoru Sayama,
+de la 4.ª División de Osaka, para detener a Ryuji Goda. Tras esta alianza,
+quedó claro que una tragedia ocurrida hace más de 20 años en Kamurocho
+los conectaba a ambos."
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"511";"The Events of Yakuza 2
+
+The Jingweon Mafia, a Korean mainland crime syndicate, was all but
+wiped out in a raid organized by Sohei Dojima in the early 1980s.
+
+Under Dojima's orders, it was none other than Shintaro Kazama, the
+man who raised Kiryu, who led the raid.
+
+But there were survivors, including a very young Ryuji Goda...
+
+The survivors of the massacre desired nothing but revenge, and over
+20 years later, the opportunity arose in the chance to envelop the
+Tojo Clan in an all-out east-versus-west war.
+";"Los eventos de Yakuza 2
+
+La mafia Jingweon, un sindicato criminal coreano, fue casi exterminada
+en una redada organizada por Sohei Dojima a principios de los 80.
+
+Bajo sus órdenes, fue nada menos que Shintaro Kazama, el hombre que
+crió a Kiryu, quien lideró la redada.
+
+Pero hubo supervivientes, entre ellos un muy joven Ryuji Goda...
+
+Los supervivientes solo buscaban venganza, y más de 20 años después,
+surgió la oportunidad de envolver al Clan Tojo en una guerra total
+entre el este y el oeste.
+"
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"479";"The Events of Yakuza 2
+
+One of the massacre's survivors was in fact Yukio Terada, who had
+staged his death in order to set the plot in motion. But to Terada,
+revenge was both his destiny and his burden...
+
+As the events of the massacre came to light, Kaoru Sayama discovered
+that she was actually the half-sister of Ryuji Goda. But as the bonds
+of blood thickened, so too, did it spill. Kiryu stood in the center
+of the pool, seeking to end the cycle of hatred and revenge.";"Los eventos de Yakuza 2
+
+Uno de los supervivientes era Yukio Terada, quien fingió su muerte
+para poner en marcha el plan. Pero para Terada, la venganza era tanto
+su destino como su carga...
+
+Al salir a la luz los hechos de la masacre, Kaoru Sayama descubrió que
+era medio hermana de Ryuji Goda. Pero al estrecharse los lazos de sangre,
+también se derramó. Kiryu se plantó en medio del conflicto, buscando
+poner fin al ciclo de odio y venganza."
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"367";"The Events of Yakuza 2
+
+It was only Ryuji Goda who fought not for blood, but for pride.
+He wanted nothing more than to surpass the legendary yakuza and
+become the sole surviving dragon.
+
+""There's only room for one dragon in this world.""
+ 
+With the schemers and conspirators of the Jingweon plot bleeding out
+of the picture, Kiryu and Ryuji prepared for a showdown.
+";"Los eventos de Yakuza 2
+
+Solo Ryuji Goda luchó no por sangre, sino por orgullo. Deseaba por encima
+de todo superar al yakuza legendario y ser el único dragón con vida.
+
+""En este mundo solo hay espacio para un dragón"".
+ 
+Con los conspiradores del plan Jingweon fuera de juego, Kiryu y Ryuji
+se prepararon para el enfrentamiento final.
+"
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"543";"The Events of Yakuza 3
+
+2009, Ryukyugai, Okinawa<symbol=em_dash_with_outline>a southern tropical island practically a
+world removed from the daily grind of Kamurocho.
+ 
+Kiryu and Haruka returned to their roots, becoming the proprietors of
+Morning Glory orphanage, living amongst a small group of children with no
+relatives.
+
+But not even this remote beach was safe from the yakuza. Only a year
+ago, the Ryudo Family had served them an eviction notice in an effort
+to clear the land for the building of a luxury resort along the coast.";"Los eventos de Yakuza 3
+
+2009, Ryukyugai, Okinawa<symbol=em_dash_with_outline>una isla tropical del sur prácticamente a
+un mundo de distancia del ajetreo diario de Kamurocho.
+ 
+Kiryu y Haruka volvieron a sus raíces al hacerse cargo del orfanato
+Morning Glory, viviendo con un grupo de niños sin familiares.
+
+Pero ni esta playa remota estaba a salvo de los yakuza. Solo un año atrás,
+la Familia Ryudo les entregó un aviso de desahucio para despejar el terreno
+y construir un complejo turístico de lujo en la costa."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"415";"The Events of Yakuza 3
+
+Shigeru Nakahara, Patriarch of the Ryudo Family, believed the resort
+was the key to a future of prosperity for Okinawa, despite his love
+for the quiet serenity that such a resort would destroy.
+
+Kiryu's resolve to protect the home of these children showed Nakahara
+what would be lost in the process, and a friendship was forged.
+
+But not more than a year later... Nakahara was shot.";"Los eventos de Yakuza 3
+
+Shigeru Nakahara, patriarca de la Familia Ryudo, creía que el complejo
+era la clave de un futuro próspero para Okinawa, a pesar de su amor por la
+serenidad que este destruiría.
+
+La determinación de Kiryu por proteger el hogar de los niños le mostró
+a Nakahara lo que se perdería, y así nació una amistad.
+
+Pero poco más de un año después... le dispararon a Nakahara."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"511";"The Events of Yakuza
+
+To reclaim his money, Jingu singled out Nishikiyama's ambition to become
+the successor to the late Sera and used that as a means to an end. The
+two both stood to gain, as Nishikiyama would become the fouth chairman.
+
+However, the Tojo Clan's true successor was written in the secret will
+of Sera, with Kazama as its witness: None other than Kazuma Kiryu. 
+
+Declaring this to Jingu, Kiryu crushed him and his entire special
+forces unit, and then settled the score with Nishikiyama.";"Los eventos de Yakuza
+
+Para recuperar su dinero, Jingu aprovechó la ambición de Nishikiyama
+por suceder al difunto Sera y la usó como medio. Ambos ganaban,
+ya que Nishikiyama sería el Cuarto Presidente.
+
+Sin embargo, el verdadero sucesor del Clan Tojo figuraba en el testamento
+secreto de Sera, con Kazama como testigo: nada menos que Kazuma Kiryu. 
+
+Tras declarárselo a Jingu, Kiryu lo aplastó a él y a sus fuerzas
+especiales, y luego ajustó cuentas con Nishikiyama."
+"talk.par_par/kaisou/e/ryu01.par/cmn.par";"303";"The Events of Yakuza
+
+In that moment of despair, Kiryu lost his will to go on. But there in
+front of him was Haruka, now the only living legacy of Yumi, the woman
+he'd come to love.
+
+Kiryu took Haruka's hand. The Dragon of Dojima and the ""Girl Worth
+Ten Billion Yen"" took their first steps together... 
+";"Los eventos de Yakuza
+
+En esa desesperanza, Kiryu perdió la voluntad de seguir. Pero ante él
+estaba Haruka, el único legado de Yumi, la mujer a la que amaba.
+
+Kiryu tomó la mano de Haruka. El Dragón de Dojima y la ""niña de diez mil
+millones de yenes"" dieron sus primeros pasos juntos... 
+"
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"511";"The Events of Yakuza 2
+
+December, 2006. Kazuma Kiryu became the legendary yakuza who had
+ascended to the Tojo Clan's fourth chairman and retired the same day.
+
+But in the wake of the ten billion yen incident, the Tojo Clan weakened,
+having lost its most prominent leaders in the turmoil.
+
+The eye of the Omi Alliance, western Japan's largest yakuza organization,
+turned east. To avoid an all-out war, the Tojo Clan's fifth chairman,
+Yukio Terada, told Kiryu of a plan to broker peace with the Omi.
+
+However... 
+";"Los eventos de Yakuza 2
+
+Diciembre de 2006. Kazuma Kiryu fue el yakuza legendario que ascendió
+a Cuarto Presidente del Clan Tojo y se retiró el mismo día.
+
+Tras el incidente de los diez mil millones, el Clan Tojo se debilitó
+al perder a sus líderes destacados en el caos.
+
+La Alianza Omi, la gran organización yakuza del oeste, miró al este.
+Para evitar una guerra total, el quinto presidente del Clan Tojo,
+Yukio Terada, propuso a Kiryu un plan de paz con la Omi.
+
+Sin embargo... 
+"
+"talk.par_par/kaisou/e/ryu02.par/cmn.par";"239";"The Events of Yakuza 2
+
+The two dragons roared as they threw themselves into an all-out battle
+for supremacy.
+
+It was Ryuji who finally fell.
+
+The war of east versus west fell silent as the conflict between two
+dragons decided its fate...
+";"Los eventos de Yakuza 2
+
+Ambos dragones rugieron al enfrascarse en una batalla total
+por la supremacía.
+
+Al final, Ryuji cayó.
+
+La guerra entre el este y el oeste enmudeció cuando la contienda
+entre dos dragones decidió su destino...
+"
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"447";"The Events of Yakuza 3
+
+Kiryu could not contain his rage. Nakahara's adoptive daughter, who saw
+the culprit, drew his face... and Kiryu could not believe his eyes.
+It was the spitting image of Kazama, his father figure who had died
+in his arms.
+
+Not longer after, news of another shooting reached Kiryu. Daigo Dojima,
+whom Kiryu had entrusted the future of the Tojo Clan to, was also shot
+by the mysterious assassin resembling Kazama.";"Los acontecimientos de Yakuza 3
+
+Kiryu no pudo contener su rabia. La hija adoptiva de Nakahara vio
+al culpable y dibujó su rostro... Kiryu no podía creer lo que veía.
+Era la viva imagen de Kazama, su figura paterna, que murió en sus
+brazos.
+
+Poco después, le llegaron noticias de otro tiroteo: Daigo Dojima,
+a quien Kiryu confió el futuro del Clan Tojo, también fue disparado
+por el misterioso asesino idéntico a Kazama."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"559";"The Events of Yakuza 3
+
+An attack on the sixth chairman was enough to stir the Tojo Clan's newly
+risen officers to action.
+
+Yoshitaka Mine, Patriarch of the Hakuho Clan.
+Tsuyoshi Kanda, Third Patriarch of the Nishikiyama Family.
+Goh Hamazaki, Patriarch of the Hamazaki Family. 
+
+With Daigo out of the picture, all of them began to play their hands,
+and the ensuing clash pulled Kiryu and his new friends into the fold.
+
+Kiryu was forced to return to Kamurocho to discover the truth: a foreign
+arms dealing organization had lit the spark of the conflict.";"Los acontecimientos de Yakuza 3
+
+El ataque al sexto presidente bastó para movilizar a los nuevos
+oficiales del Clan Tojo.
+
+Yoshitaka Mine, patriarca del Clan Hakuho.
+Tsuyoshi Kanda, tercer patriarca de la Familia Nishikiyama.
+Goh Hamazaki, patriarca de la Familia Hamazaki. 
+
+Con Daigo fuera de combate, todos empezaron a mover sus fichas,
+y el enfrentamiento arrastró a Kiryu y a sus nuevos amigos.
+
+Kiryu tuvo que volver a Kamurocho para descubrir la verdad:
+una organización extranjera de tráfico de armas causó el conflicto."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"447";"The Events of Yakuza 3
+
+""Black Monday"" was its name, and at its head, a man named
+Andre Richardson... 
+
+Ryuzo Tamiya, the Japanese Minister of Defense, had allied with the
+American CIA to lure out Black Monday. He'd leaked information about
+the production of a ballistic missile system to lure Richardson to Japan...
+
+And he took the bait. But the CIA also sent an agent to assist in his
+capture... Joji Kazama, younger brother of Shintaro Kazama.";"Los acontecimientos de Yakuza 3
+
+Se llamaba ""Black Monday"", y al frente estaba un hombre llamado
+Andre Richardson... 
+
+Ryuzo Tamiya, ministro de Defensa japonés, se alió con la CIA de EE. UU.
+para atraer a Black Monday. Filtró datos sobre la producción de misiles
+balísticos para atraer a Richardson a Japón...
+
+Y mordió el anzuelo. Pero la CIA también envió a un agente para ayudar:
+Joji Kazama, hermano menor de Shintaro Kazama."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"351";"The Events of Yakuza 3
+
+Tamiya revealed that the missile system and the resort development were
+both, in truth, tactics deployed to bring Black Monday to the surface.
+
+But the CIA had its own agenda, and Tamiya had no means of controlling
+the streak of blood left in Joji Kazama's wake. To stop him, he turned to
+Kiryu.
+
+Meanwhile, back in Okinawa...";"Los acontecimientos de Yakuza 3
+
+Tamiya reveló que el proyecto del resort y los misiles eran tácticas
+para sacar a la luz a Black Monday.
+
+Pero la CIA tenía sus planes y Tamiya no podía controlar el rastro
+de sangre que dejaba Joji Kazama. Para detenerlo, acudió a Kiryu.
+
+Mientras tanto, en Okinawa..."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"527";"The Events of Yakuza 3
+
+The Tojo Clan's struggle for dominance ended with Mine on top. He allied
+with the Tamashiro Family of Ryukyugai, and Morning Glory orphanage could
+not withstand their combined might. A surprise attack leveled the structure.
+
+But Morning Glory was not the only casualty. Rikiya, the young captain
+of the Ryudo Family was shot by Tamashiro and died in Kiryu's arms.
+
+The attack on innocent lives was too much for Kiryu to take, and he
+clenched his fists, preparing to take on Mine in earnest...";"Los acontecimientos de Yakuza 3
+
+La lucha del Clan Tojo acabó con Mine en la cima. Se alió con la
+Familia Tamashiro de Ryukyugai y el orfanato Morning Glory no pudo
+resistir su fuerza combinada. Un ataque sorpresa arrasó la estructura.
+
+Pero el orfanato no fue la única víctima. Rikiya, el joven capitán
+de la Familia Ryudo, fue alcanzado por Tamashiro y murió en brazos de Kiryu.
+
+Atacar vidas inocentes era demasiado para Kiryu, que apretó los
+puños listo para enfrentarse a Mine con todas sus fuerzas..."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"479";"The Events of Yakuza 3
+
+Mine had triumphed through his secret connection to Black Monday. He'd
+joined the yakuza out of admiration for their life bonds that no amount
+of money could sever.
+
+But it was Daigo Dojima, who saw the true value in the humanity of his
+subordinates, who became Mine's obsession. He rose through the ranks
+of the Tojo Clan with Daigo as his impetus.
+
+But with Daigo in critical condition after the gunshot wound, Mine entered
+a downward spiral of despair.";"Los acontecimientos de Yakuza 3
+
+Mine triunfó gracias a sus lazos secretos con Black Monday. Se hizo
+yakuza por admiración a sus lazos inquebrantables, imperturbables
+ante el dinero.
+
+Pero fue Daigo Dojima, que veía el verdadero valor humano de sus
+subordinados, quien se volvió la obsesión de Mine. Ascendió en el
+Clan Tojo impulsado por Daigo.
+
+Pero con Daigo en estado crítico tras el disparo, Mine cayó en una
+espiral de desesperación."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"415";"The Events of Yakuza 3
+
+Mine came to the conclusion that Daigo was in no condition to live as
+he once had, and resolved to end his life to carry on the Tojo Clan's legacy.
+
+Although Kiryu and Mine had both grown up as orphans, there could not
+be a bigger gulf in their ideologies, and the two men clashed.
+
+The battle came to an end with Black Monday's leader, Andre Richardson,
+pointing his gun at Mine.";"Los acontecimientos de Yakuza 3
+
+Mine concluyó que Daigo no podría volver a vivir como antes y decidió
+acabar con su vida para perpetuar el legado del Clan Tojo.
+
+Aunque Kiryu y Mine crecieron como huérfanos, sus ideologías no
+podían ser más opuestas, y ambos hombres se enfrentaron.
+
+La batalla terminó con el líder de Black Monday, Andre Richardson,
+apuntando con su arma a Mine."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"319";"The Events of Yakuza 3
+
+""Faced with death, you're capable of almost anything.""
+
+Those were the words Kiryu spoke to Hamazaki in the final moments,
+and they were true of both Rikiya and Mine as well.
+
+As he healed, Kiryu helped to piece Morning Glory back together,
+brick by beam, looking out upon a peaceful horizon...";"Los acontecimientos de Yakuza 3
+
+""Ante la muerte, eres capaz de casi cualquier cosa"".
+
+Esas fueron las palabras de Kiryu a Hamazaki al final,
+y también servían para Rikiya y Mine.
+
+Mientras se curaba, Kiryu ayudó a reconstruir Morning Glory,
+viga a viga, mirando hacia un horizonte en paz..."
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"447";"The Events of Yakuza 4
+
+March 2010. A serial killer was loose in Kamurocho, and the tension
+was both thick and volatile.
+
+A loan shark by the name of Shun Akiyama rose to prominence as
+the ""Lifeline of Kamurocho"" for loaning money to the type of people
+a normal loan company would turn away at the door.
+
+""Every jungle needs its lion.""
+
+Akiyama believed that with Kazuma Kiryu out of the picture, Kamurocho
+had gone to the beasts.
+
+";"Los acontecimientos de Yakuza 4
+
+Marzo de 2010. Un asesino en serie andaba suelto por Kamurocho y la
+tensión era palpable e insostenible.
+
+Un prestamista llamado Shun Akiyama se hizo famoso como el
+""Salvavidas de Kamurocho"" por prestar dinero al tipo de gente que
+cualquier otra financiera rechazaría.
+
+""Toda jungla necesita su león"".
+
+Akiyama creía que, sin Kazuma Kiryu en escena, Kamurocho se había
+descontrolado a manos de las bestias.
+
+"
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"335";"The Events of Yakuza 4
+
+25 years ago, an incident occurred that neither the Tojo Clan nor the
+Ueno Seiwa Clan could ever forget.
+
+18 Ueno Seiwa yakuza were gunned down by Taiga Saejima, a young member
+of the Tojo Clan's Sasai Family. Saejima was sentenced to death and
+was still awaiting his execution from a prison cell in 2010.";"Los acontecimientos de Yakuza 4
+
+Hace 25 años ocurrió un incidente que ni el Clan Tojo ni el Clan
+Ueno Seiwa podrían olvidar jamás.
+
+18 yakuza de la Ueno Seiwa fueron acribillados por Taiga Saejima, un
+joven de la Familia Sasai del Clan Tojo. Saejima fue condenado a muerte
+y en 2010 seguía esperando su ejecución en su celda."
+"talk.par_par/kaisou/e/ryu03.par/cmn.par";"607";"The Events of Yakuza 3
+
+It was Daigo, arising from his comatose state, who saved Mine. But Mine,
+seeing the error of his ways, chose to take accountability in his own way -
+falling to his death with Richardson before Kiryu and Daigo's eyes.
+
+As things settled down, Kiryu made ready to leave Kamurocho once more,
+when a familiar face appeared in the crowd<symbol=em_dash_with_outline>Goh Hamazaki, the disgraced
+former Tojo Clan patriarch.
+
+Blaming Kiryu and the Tojo for having lost everything, Kiryu offered a
+hand of reconciliation... and Hamazaki responded by thrusting a knife into
+Kiryu's ribs.";"Los acontecimientos de Yakuza 3
+
+Daigo, tras salir del coma, salvó a Mine. Pero Mine, al ver
+su error, asumió la culpa lanzándose al vacío con Richardson
+ante los ojos de Kiryu y Daigo.
+
+Al calmarse todo, Kiryu se disponía a dejar Kamurocho de nuevo,
+cuando una cara conocida apareció<symbol=em_dash_with_outline>Goh Hamazaki, el caído
+expatriarca del Clan Tojo.
+
+Aunque Hamazaki culpaba a Kiryu y al Tojo de perderlo todo,
+Kiryu le ofreció la mano... pero Hamazaki respondió
+clavándole un cuchillo en las costillas."
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"575";"The Events of Yakuza 4
+
+One yakuza to earn Akiyama's respect was Hiroaki Arai, a captain of a
+third-string Tojo Clan affiliate called Kanemura Enterprises.
+
+But when a minor turf dispute erupted into a gun battle, Arai put a decisive
+end to it and the rival Ueno Seiwa agitator before disappearing into the
+night...
+
+All it took was a bullet to shatter the fragile peace of the city. The
+reconciliation efforts between the Tojo Clan's sixth chairman, Daigo Dojima,
+and the Ueno Seiwa's captain, Isao Katsuragi deteriorated, with the honor
+of both organizations on the line.
+";"Los acontecimientos de Yakuza 4
+
+Un yakuza que se ganó el respeto de Akiyama fue Hiroaki Arai,
+capitán de Empresas Kanemura, filial de tercer orden del Clan Tojo.
+
+Pero tras un altercado menor que acabó en tiroteo, Arai acabó
+con el agitador del clan rival Ueno Seiwa antes de desaparecer
+en la noche...
+
+Bastó una bala para romper la frágil paz urbana. La reconciliación
+entre el sexto presidente del Clan Tojo, Daigo Dojima, y el capitán
+de la Ueno Seiwa, Isao Katsuragi, empeoró con el honor en juego.
+"
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"543";"The Events of Yakuza 4
+
+As the events in Kamurocho began to unfold, Saejima was suddenly
+transferred to a private correctional facility off the coast of
+Okinawa called ""Okinawa Penitentiary 2.""
+
+There, Saejima had a fateful encounter with none other than
+Goh Hamazaki, former patriarch of the Tojo Clan's Hamazaki Family.
+
+Hamazaki convinced Saejima of two things: One, that 25 years ago,
+Saejima was betrayed by his sworn brother, Goro Majima... And two,
+that in order to discover the truth, the two men would have to
+break out of prison.
+";"Los acontecimientos de Yakuza 4
+
+Mientras los sucesos en Kamurocho se desarrollaban, Saejima fue
+trasladado a un centro penitenciario privado frente a Okinawa
+llamado ""Prisión de Okinawa 2"".
+
+Allí tuvo un fatídico encuentro con Goh Hamazaki, expatriarca
+de la Familia Hamazaki del Clan Tojo.
+
+Hamazaki le convenció de dos cosas: una, que hace 25 años fue
+traicionado por su hermano de sangre, Goro Majima... Y dos,
+que para saber la verdad, debían fugarse juntos de prisión.
+"
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"591";"The Events of Yakuza 4
+
+Masayoshi Tanimura was a police officer in the Community and Safety
+Division of the Tokyo Metropolitan Police Department's Kamurocho Branch.
+He came from a line of police officers, his own father having been
+murdered in the line of duty 25 years ago.
+
+The only lead to his father's killer was a name, scribbled in his father's
+notebook<symbol=em_dash_with_outline>Yasuko Saejima.
+
+Yasuko, the younger sister of Taiga ""18 Counts"" Saejima was in Kamurocho
+herself, and under the fake name of ""Lily,"" had sought a loan of 100 million
+yen from Akiyama's Sky Finance. 
+";"Los acontecimientos de Yakuza 4
+
+Masayoshi Tanimura era agente de Seguridad Ciudadana en la
+comisaría de Kamurocho de la Policía Metropolitana de Tokio.
+Provenía de policías y su padre fue asesinado en servicio hacía 25 años.
+
+La única pista sobre el asesino era un nombre anotado en su
+cuaderno<symbol=em_dash_with_outline>Yasuko Saejima.
+
+Yasuko, la hermana menor de Taiga ""18 Asesinatos"" Saejima, estaba
+en Kamurocho y, tras el seudónimo ""Lily"", solicitó un préstamo
+de 100 millones de yenes a Sky Finance, la empresa de Akiyama.
+"
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"479";"The Events of Yakuza 4
+
+With acquittal for her brother dangled as bait, Yasuko was turned into a
+serial killer<symbol=em_dash_with_outline>she was the one behind the murders in Kamurocho.
+
+Three men became linked to the fate of this woman<symbol=em_dash_with_outline>Taiga Saejima,
+Shun Akiyama, and Masayoshi Tanimura.
+
+In his escape from prison, Saejima ends up adrift at sea, washing up
+on the beach of an orphanage... run by the Dragon of Dojima, Kazuma Kiryu.";"Los eventos de Yakuza 4
+
+Con la absolución de su hermano como señuelo, Yasuko se convirtió en una
+asesina en serie<symbol=em_dash_with_outline>era la culpable tras los asesinatos en Kamurocho.
+
+Tres hombres se vincularon al destino de esta mujer<symbol=em_dash_with_outline>Taiga Saejima,
+Shun Akiyama y Masayoshi Tanimura.
+
+Tras fugarse del penal, Saejima termina a la deriva en el mar y llega
+a la playa de un orfanato... dirigido por el Dragón de Dojima, Kazuma Kiryu."
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"655";"The Events of Yakuza 4
+
+Though their means are different, the four men eventually arrive at
+the truth of the incident 25 years ago<symbol=em_dash_with_outline>
+
+The Ueno Seiwa hit was an elaborate conspiracy, penned by Isao Katsuragi
+himself in an effort to rise through the ranks of his clan.
+
+Tanimura's father, who had discovered the truth, was murdered by one
+of these conspirators<symbol=em_dash_with_outline>Katsuragi's sworn brother.
+
+But the conspiracy hadn't gone unnoticed in the police, and Seishiro
+Munakata, deputy commissioner of the Tokyo Metropolitan police, had stepped
+in to control the pieces on the board toward his own ends. 
+";"Los eventos de Yakuza 4
+
+Aunque sus medios difieren, los cuatro hombres al final descubren
+la verdad del incidente ocurrido hace 25 años<symbol=em_dash_with_outline>
+
+El golpe contra Ueno Seiwa fue una conspiración urdida por el propio
+Isao Katsuragi para ascender en los rangos de su clan.
+
+El padre de Tanimura, que halló la verdad, fue asesinado por uno de
+esos conspiradores<symbol=em_dash_with_outline>el hermano de sangre de Katsuragi.
+
+Pero la trama no pasó inadvertida en la policía, y Seishiro Munakata,
+subcomisionado de la Policía Metropolitana de Tokio, intervino para
+mover las piezas del tablero en beneficio propio.
+"
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"447";"The Events of Yakuza 4
+
+Munakata's corruption didn't end at the cover-up of the hit. The funding
+for Okinawa Penitentiary 2 had also been Munakata's doing, and was
+originally going to be secured from Kyohei Jingu in 2005. But that money
+had gone up in smoke.
+
+With his hands on both the police and the criminal underworld, Munakata
+amassed so much power that neither the state nor Daigo Dojima, sixth chairman
+of the Tojo Clan, could touch him.";"Los eventos de Yakuza 4
+
+La corrupción de Munakata no acabó en el encubrimiento del golpe. La
+financiación de la Penitenciaría 2 de Okinawa fue su obra y se iba a
+obtener de Kyohei Jingu en 2005. Pero ese dinero se esfumó.
+
+Con las manos en la policía y los bajos fondos, Munakata amasó tanto
+poder que ni el estado ni Daigo Dojima, sexto presidente del Clan Tojo,
+podían tocarlo."
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"303";"The Events of Yakuza 4
+
+At Munakata's behest, Daigo had Goro Majima arrested, who alongside the
+four men tied to Yasuko, had become an obstacle.
+
+The only ones left to carry on the fight were the outsiders of their
+organizations<symbol=em_dash_with_outline>Kiryu, Tanimura, Saejima, and Akiyama.
+";"Los eventos de Yakuza 4
+
+A petición de Munakata, Daigo hizo arrestar a Goro Majima, quien con los
+cuatro vinculados a Yasuko se volvió un obstáculo.
+
+Los únicos que quedaban para seguir luchando eran los ajenos a sus
+organizaciones<symbol=em_dash_with_outline>Kiryu, Tanimura, Saejima y Akiyama.
+"
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"511";"The Events of Yakuza 4
+
+Using Akiyama's vast wealth as bait, Munakata and his lackeys were drawn
+out to the top of the Millennium Tower.
+
+Saejima fought to avenge his sister, who had been shot by Katsuragi as
+the conflict escalated.
+
+Tanimura fought for justice, seeking to put an end to Munakata and the
+cover-ups that obscured his father's killer.
+
+Kiryu fought for honor. It was him that had put Daigo in the position of
+sixth chairman, and it would be him who would set him back on the right path.";"Los eventos de Yakuza 4
+
+Usando la enorme fortuna de Akiyama como cebo, Munakata y sus secuaces
+fueron atraídos a la azotea de la Millennium Tower.
+
+Saejima luchó para vengar a su hermana, a quien Katsuragi le disparó
+al escalarse el conflicto.
+
+Tanimura luchó por la justicia, buscando acabar con Munakata y los
+encubrimientos del asesino de su padre.
+
+Kiryu luchó por el honor. Él había puesto a Daigo como sexto presidente
+y sería él quien lo reconduciría al buen camino."
+"talk.par_par/kaisou/e/ryu04.par/cmn.par";"207";"The Events of Yakuza 4
+
+With his corruption coming to light and the utter failure of his plan,
+Munakata took his own life.
+
+With the conflict at an end, four men took new steps to forge a better
+tomorrow...
+";"Los eventos de Yakuza 4
+
+Con su corrupción al descubierto y el fracaso de su plan, Munakata
+se quitó la vida.
+
+Con la lucha acabada, cuatro hombres dieron pasos para forjar un
+mañana mejor...
+"
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"575";"The Events of Yakuza 5
+
+December 2012. Daigo Dojima, sixth chairman of the Tojo Clan visited
+Nagasugai, Fukuoka to arrange an alliance with the Yamagasa Family,
+the most prominent family in the Kyushu region.
+
+With rumors circulating that the seventh chairman of the Omi Alliance was on
+his deathbed, it was imperative for Daigo to extend the hand of peace
+to the yakuza organizations across Japan to mitigate the forthcoming
+power struggle of the Omi Alliance.
+
+But his visit served another purpose... To find Kazuma Kiryu, the legendary
+yakuza who had disappeared...
+";"Los eventos de Yakuza 5
+
+Diciembre de 2012. Daigo Dojima, sexto presidente del Clan Tojo, visitó
+Nagasugai, Fukuoka, para pactar una alianza con la Familia Yamagasa,
+la más importante de la región de Kyushu.
+
+Corriendo el rumor de que el séptimo presidente de la Alianza Omi estaba
+en su lecho de muerte, era imperativo que Daigo tendiera la mano de paz
+a las facciones yakuza de Japón para mitigar la inminente lucha
+de poder en la Alianza Omi.
+
+Pero su visita tenía otro fin... Encontrar al legendario Kazuma Kiryu,
+quien había desaparecido...
+"
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"527";"The Events of Yakuza 5
+
+Kiryu had returned to Morning Glory, but had been forced to distance
+himself as Haruka Sawamura was scouted by an Osaka-based talent agency.
+
+Kiryu, as connected to Haruka as he was, could not let his criminal past
+come to light, or it would mean the death of Haruka's chances.
+
+Kiryu took up life in Nagasugai as ""Suzuki,"" a humble taxi driver. But
+after a brief ride in his cab, Daigo Dojima disappeared, and the ""Dragon of
+Dojima"" was once again thrust into the politics of the yakuza...
+";"Los eventos de Yakuza 5
+
+Kiryu volvió al Morning Glory, pero se vio forzado a alejarse cuando una
+agencia de talentos de Osaka fichó a Haruka Sawamura.
+
+Al estar tan unido a Haruka, Kiryu no podía dejar que su pasado criminal
+saliera a la luz, o destruiría las oportunidades de ella.
+
+Kiryu rehízo su vida en Nagasugai como ""Suzuki"", un humilde taxista.
+Pero tras llevar a Daigo Dojima en su taxi, este desapareció y el
+""Dragón de Dojima"" se vio envuelto de nuevo en la yakuza...
+"
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"463";"The Events of Yakuza 5
+
+Meanwhile, Taiga Saejima, needing to clear his name of his previous crimes,
+turned himself in, and was incarcerated in a prison called Abashiri.
+
+While there, he was the target of constant attempts on his life, but it was
+the news that Goro Majima, his sworn brother, had been killed that left
+him no choice but to break out once again.
+
+On the advice of Serizawa, an Osaka detective, Saejima headed for 
+Kamurocho to learn the truth.";"Los eventos de Yakuza 5
+
+Mientras tanto, Taiga Saejima, al tener que limpiar su nombre por sus
+delitos anteriores, se entregó y fue encarcelado en Abashiri.
+
+Allí sufrió constantes atentados contra su vida, pero al enterarse
+de que su hermano de sangre, Goro Majima, había sido asesinado,
+no le quedó más opción que fugarse de nuevo.
+
+Siguiendo el consejo de Serizawa, un detective de Osaka, Saejima fue a
+Kamurocho a buscar la verdad."
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"495";"The Events of Yakuza 5
+
+As the Tojo Clan began to stir, the Omi Alliance did as well, with two
+captains in a dead heat for the succession to the Omi throne: Masaru Watase
+and Naoki Katsuya.
+
+The two men were ideological opposites. Watase was brash and ready for
+war, while Katsuya was quiet and calculating, with immense control of the
+entertainment industry in Osaka. But the apparent suicide of Mirei Park,
+the woman who had scouted Haruka Sawamura, cast a shadow over his influence.";"Los eventos de Yakuza 5
+
+Cuando el Clan Tojo se agitó, la Alianza Omi también lo hizo, con dos
+capitanes en lucha encarnizada por la sucesión de Omi: Masaru Watase
+y Naoki Katsuya.
+
+Eran polos opuestos. Watase era impulsivo y listo para la guerra;
+Katsuya, tranquilo y calculador, controlaba el espectáculo en Osaka.
+Pero el aparente suicidio de Mirei Park, la mujer que había fichado a
+Haruka Sawamura, ensombreció su influencia."
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"335";"The Events of Yakuza 5
+
+Haruka, who had been training for idol stardom under Park's watchful eyes,
+was devastated by her death. That's when Shun Akiyama arrived in Osaka,
+as he'd been the one to finance Park's talent agency. As the two worked to
+discover the truth, they became entangled in the conflict of the yakuza...
+";"Los eventos de Yakuza 5
+
+Haruka, que se preparaba para ser una ídol bajo el cuidado de Park, quedó
+devastada. Entonces Shun Akiyama llegó a Osaka, pues él financiaba
+la agencia de Park. Mientras investigaban la verdad, ambos terminaron
+enredados en el conflicto de la yakuza...
+"
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"447";"The Events of Yakuza 5
+
+In Nagoya, Daigo Dojima suddenly resurfaced. 
+
+Daigo's high school classmate, a former professional baseball player
+named Tatsuo Shinada, had been banned from the league after a gambling
+scandal 15 years ago. Sensing a tie to the criminal underworld,
+Daigo asks Shinada to dig up the truth of his own past.
+
+Daigo had become aware that one yakuza mastermind was pulling the strings
+behind the conflict in five cities...
+";"Los eventos de Yakuza 5
+
+En Nagoya, Daigo Dojima reapareció de repente.
+
+Un compañero de instituto de Daigo, un beisbolista retirado llamado
+Tatsuo Shinada, fue expulsado tras un escándalo de apuestas hace 15 años.
+Sintiendo un nexo con los bajos fondos, Daigo le pide desentrañar la
+verdad de su pasado.
+
+Daigo descubrió que una mente maestra yakuza movía los hilos tras el
+conflicto en cinco ciudades...
+"
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"591";"The Events of Yakuza 5
+
+As if by fate, the trail led to Kamurocho, and Kiryu, Saejima, Shinada,
+Akiyama, and Haruka found themselves in the eye of the storm.
+
+The mastermind of the plot Daigo had suspected finally revealed himself<symbol=em_dash_with_outline>
+Tsubasa Kurosawa, seventh chairman of the Omi Alliance, who had been working
+in the shadows as Serizawa, the Osaka police officer.
+
+Kurosawa, who was dying of cancer, plotted to rid the world of ""legendary""
+yakuza like Kiryu so that the reins of power and everything he'd built could
+be transferred successfully to his own son.
+";"Los eventos de Yakuza 5
+
+Como por destino, el rastro llevó a Kamurocho, y Kiryu, Saejima, Shinada,
+Akiyama y Haruka se hallaron en el ojo del huracán.
+
+La mente maestra que sospechaba Daigo al fin se reveló<symbol=em_dash_with_outline>
+Tsubasa Kurosawa, séptimo presidente de la Alianza Omi, quien actuaba en las
+sombras como Serizawa, el policía de Osaka.
+
+Kurosawa, muriendo de cáncer, planeó librar al mundo de yakuza
+""legendarios"" como Kiryu para heredar el poder y lo construido a su hijo.
+"
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"463";"The Events of Yakuza 5
+
+Kurosawa had planted his agents in every organization across the country,
+and his schemes terrified even the most renowned yakuza.
+
+As the conflict came to a head, Haruka began her first real concert at
+the Japan Dome, and unbeknownst to her, became part of a plot to target
+Kiryu with her assassination.
+
+As his friends fell around him, Kiryu headed to the Tojo Clan headquarters,
+where he found Masato Aizawa, Kurosawa's son.
+";"Los eventos de Yakuza 5
+
+Kurosawa infiltró agentes por todo el país y sus planes aterraban a los
+yakuza más reputados.
+
+Al estallar el conflicto, Haruka dio su primer concierto real en el Japan
+Dome y, sin saberlo, se volvió parte del plan para abatir a Kiryu con
+el asesinato de ella.
+
+Mientras caían sus amigos, Kiryu fue a la sede del Clan Tojo, donde halló
+a Masato Aizawa, el hijo de Kurosawa.
+"
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"447";"The Events of Yakuza 5
+
+Despite the lengths Kurosawa had gone to give Aizawa the world, Aizawa
+saw no value in any of it, struggling to understand his own father's
+motives for leaving him such a legacy.
+
+But that doesn't stop him from accepting it. This father and son were
+responsible for untold tragedies to countless people, and Kiryu accepted
+the challenge of ending their power grab by becoming an insurmountable wall
+for Aizawa.";"Los acontecimientos de Yakuza 5
+
+A pesar de todo lo que hizo Kurosawa por darle el mundo a Aizawa, este
+no vio valor en ello, luchando por entender los motivos de su padre
+para dejarle semejante legado.
+
+Pero eso no le impide aceptarlo. Este padre e hijo fueron responsables de
+incalculables tragedias, y Kiryu aceptó el desafío de poner fin a su
+toma de poder convirtiéndose en un muro insuperable para Aizawa."
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"399";"The Events of Yakuza 5
+
+
+""Kazuma Kiryu is family to me.""
+
+The crowd fell silent, stunned by Haruka's words. With all eyes on her,
+Haruka ran from the stage she could now never return to.
+
+Not far away, a soft snow fell gently into the pools of blood trailing
+behind Kazuma Kiryu's bruised and beaten body. As his consciousness
+faded, a dream came to him...
+
+A dream of returning to his family...
+";"Los acontecimientos de Yakuza 5
+
+
+""Kazuma Kiryu es mi familia"".
+
+La multitud enmudeció, atónita por sus palabras. Con todas las miradas
+en ella, Haruka huyó del escenario al que ya no podría regresar.
+
+Cerca de allí, caía una suave nieve sobre los charcos de sangre tras el
+cuerpo magullado de Kazuma Kiryu. Al perder el conocimiento, tuvo un sueño...
+
+El sueño de regresar con su familia...
+"
+"talk.par_par/karaoke/e/karaoke_addtime2denmok.par/cmn.par";"63";"Would you like to extend
+your session for 500 yen?";"¿Quieres extender la
+sesión por 500 yenes?"
+"talk.par_par/karaoke/e/karaoke_denmok.par/cmn.par";"63";"Thank you for coming.
+We hope to see you again soon.";"Gracias por venir.
+Esperamos volver a verte pronto."
+"talk.par_par/karaoke/e/karaoke_denmok_saki_good1.par/cmn.par";"31";"You grew even closer to Saki.";"Te acercaste aún más a Saki."
+"talk.par_par/main/c01/e/adv01_010.par/cmn.par";"95";"Former Tojo Clan chairman, Kazuma Kiryu,
+has been arrested on incitement charges.";"El expresidente del Clan Tojo, Kazuma Kiryu,
+ha sido arrestado por cargos de incitación."
+"talk.par_par/main/c03/e/adv03_160.par/cmn.par";"95";"(All right, I got the milk. I should head
+back to the apartment and feed Haruto...)";"(Bien, ya tengo la leche. Debería volver
+al apartamento a alimentar a Haruto...)"
+"talk.par_par/main/c07/e/adv07_050_tuukoudome.par/cmn.par";"63";"(The exit's sealed off...?
+I should find another way out.)";"(¿Está sellada la salida...?
+Buscaré otra forma de salir.)"
+"talk.par_par/main/c13/e/adv13_180_dyanight.par/cmn.par";"63";"(Nagumo's waiting... 
+I should head up to the roof.)";"(Nagumo me espera...
+Debería subir a la azotea.)"
+"talk.par_par/playspot/e/k_playspot_batting.par/cmn.par";"79";"Which course would you like to play?
+One round will cost 300 yen.";"¿Qué circuito te gustaría jugar?
+Una partida cuesta 300 yenes."
+"talk.par_par/playspot/e/k_playspot_darts_akaishizawa.par/cmn.par";"47";"Play darts?
+One round will cost 200 yen.";"¿Jugar a dardos?
+Cuesta 200 yenes por ronda."
+"talk.par_par/playspot/e/k_playspot_darts_asada_win.par/cmn.par";"95";"Congratulations on defeating a high-rank player!
+You obtained a Technique Tome as a reward.";"¡Felicidades por vencer a un rival de alto rango!
+Obtuviste un Tomo de técnica de recompensa."
+"talk.par_par/playspot/e/k_playspot_darts_solo.par/cmn.par";"47";"Play darts alone?
+One round will cost 200 yen.";"¿Jugar solo a dardos?
+200 yenes por ronda."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"79";"All right, that's it for today's session!
+Now let's see how you did...";"¡Muy bien, se acabó la sesión de hoy!
+Veamos qué tal te ha ido..."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"95";"Things really didn't go so well, huh?
+Relax, recharge, and try harder next time!";"Las cosas no salieron muy bien, ¿eh?
+¡Descansa, recupérate y esfuérzate más la próxima!"
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"79";"Kiryu-san, you should eat whatever
+you think is the healthiest option.";"Kiryu-san, deberías comer lo que creas
+que sea la opción más saludable."
+"talk.par_par/kaisou/e/ryu05.par/cmn.par";"463";"The Events of Yakuza 5
+
+Meanwhile... Haruka's concert sped toward its climax, as the throngs of
+cheering people filled every inch of the dome. 
+
+Haruka believed firmly that the dreams of an idol were not hers alone, but
+those of everyone who had believed in her. A bright and shining future as
+a popstar awaited her at the end of the forthcoming song...
+
+At the cost of severing her ties to Kazuma Kiryu.
+
+A path Haruka could not will herself to take.";"Los hechos de Yakuza 5
+
+Mientras tanto... El concierto de Haruka avanzaba a su clímax, mientras
+multitudes eufóricas llenaban cada rincón del domo.
+
+Haruka creía firmemente que los sueños de una idol no eran solo suyos, sino
+de quienes creyeron en ella. Un brillante futuro como estrella
+del pop la esperaba tras la siguiente canción...
+
+A costa de cortar sus lazos con Kazuma Kiryu.
+
+Un camino que Haruka no se vio capaz de tomar."
+"talk.par_par/playspot/e/k_playspot_darts_kinoshita_win.par/cmn.par";"95";"Congratulations on defeating a mid-rank player!
+You obtained Expert Darts as a reward.";"¡Felicidades por vencer a un rival de rango medio!
+Ganaste Dardos de experto como recompensa."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"95";"Oh, but be sure to take photos of your food!
+I need to see everything to assess your diet!";"¡Ah, pero asegúrate de tomar fotos de tu comida!
+¡Debo ver todo para evaluar tu dieta!"
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"95";"I thought you'd be telling me what to eat.
+This doesn't sound like training at all.";"Pensé que me dirías qué comer.
+Esto no me suena para nada a entrenamiento."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"79";"However, I'd much rather you make
+a habit of doing that yourself.";"Sin embargo, prefiero que te hagas
+el hábito de hacerlo por ti mismo."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"95";"Well, constantly thinking about your diet
+will affect how you choose to approach it.";"Bueno, pensar constantemente en tu dieta
+afectará a cómo decides abordarla."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"95";"If your diet takes top priority in your mind,
+you'll stay fit even without RIZAP's help.";"Si tu dieta es tu prioridad principal,
+te mantendrás en forma sin ayuda de RIZAP."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"79";"So I'm training my mind for the future.
+That's actually a pretty good plan.";"Así que entreno mi mente para el futuro.
+De hecho, es un plan bastante bueno."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"63";"Didn't I tell you?
+I'm the best trainer in town!";"¿No te lo dije?
+¡Soy el mejor entrenador de la ciudad!"
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"95";"I'm sure this won't be easy at first.
+But helping you through is a trainer's job!";"Sé que no será fácil al principio.
+¡Pero el trabajo del entrenador es ayudarte!"
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"95";"I'll be giving you little hints here and there
+on what you should eat. Try your best!";"Te daré algunas pistas aquí y allá sobre
+lo que deberías comer. ¡Da lo mejor de ti!"
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"79";"Now then, let's talk about your diet!
+Your recommendation for today is...";"¡Y bien, hablemos de tu dieta!
+Tu recomendación para hoy es..."
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"63";"Here, this is my email address.
+Don't lose it, okay?";"Toma, este es mi correo electrónico.
+No lo pierdas, ¿vale?"
+"talk.par_par/playspot/e/k_playspot_eat_training_bad_01.par/cmn.par";"47";"Farewell, Kiryu-san!
+You can do it!";"¡Hasta luego, Kiryu-san!
+¡Tú puedes!"
+"talk.par_par/playspot/e/k_playspot_eat_training_best_01.par/cmn.par";"63";"That was perfect, Kiryu-san!
+You must be in excellent shape!";"¡Estuvo perfecto, Kiryu-san!
+¡Debes estar en gran forma!"
+"talk.par_par/playspot/e/k_playspot_eat_training_normal_01.par/cmn.par";"111";"Mm, you did a great job!
+No slacking though<symbol=em_dash_with_outline>try even harder next time!";"Mmm, ¡hiciste un gran trabajo!
+Sin aflojar<symbol=em_dash_with_outline>¡esfuérzate más la próxima vez!"
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 1 point and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 1 punto y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 2 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 2 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 3 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 3 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 4 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 4 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 5 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 5 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 6 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 6 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 7 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 7 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 8 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 8 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 9 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 9 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 10 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 10 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 11 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 11 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 12 points and have won at least one game.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 12 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"255";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You have not yet completed any games.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Aún no has completado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 1 point and have not won any games.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 1 punto y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 2 points and have not won any games.";"<symbol=bullet_point>Reúne 12 pts. completando partidas.
+(Fácil = 1 pt.; Medio = 2 pts.)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 50 000 yenes.
+
+Tienes 2 puntos y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"   [Ranking]      [Easy/Low Rate]       [Medium/Mid Rate]    
+1st Place         10,000 Pts             20,000 Pts     
+2nd Place         5,000 Pts             10,000 Pts     
+3rd Place         -5,000 Pts            -10,000 Pts   
+4th Place        -10,000 Pts            -20,000 Pts   ";"   [Ranking]      [Fácil/Tasa baja]     [Medio/Tasa media]
+1.er lugar         10.000 Pts             20.000 Pts
+2.º lugar          5.000 Pts              10.000 Pts
+3.er lugar        -5.000 Pts             -10.000 Pts
+4.º lugar        -10.000 Pts             -20.000 Pts"
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 3 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 3 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 4 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 4 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 5 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 5 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 6 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 6 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 7 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 7 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 8 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 8 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 9 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 9 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 10 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 10 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 11 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 11 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Easy = 1 point; Medium = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 50,000 yen.
+
+You currently have 12 points and have not won any games.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Fácil=1 pt; Media=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 50.000 yenes.
+
+Tienes 12 pts y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 1 point and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 1 pt y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 2 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 2 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 3 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 3 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 4 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 4 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 5 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 5 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 6 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 6 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 7 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 7 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 8 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 8 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 9 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 9 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 10 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 10 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 11 points and have won at least one game.";"<symbol=bullet_point>Suma 12 pts jugando partidas.
+(Media=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Cuota de participación: 100.000 yenes.
+
+Tienes 11 pts y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"[Ranking]     [Medium/Mid Rate]   [Hard/High Rate]     
+1st Place       20,000 Pts             30,000 Pts       
+2nd Place       10,000 Pts             10,000 Pts       
+3rd Place       -10,000 Pts           -10,000 Pts       
+4th Place      -20,000 Pts           -30,000 Pts       ";"[Ranking]     [Media/Tasa M.]   [Dificil/Tasa A.]     
+1er Puesto       20.000 Pts             30.000 Pts     
+2do Puesto       10.000 Pts             10.000 Pts     
+3er Puesto      -10.000 Pts           -10.000 Pts     
+4to Puesto      -20.000 Pts           -30.000 Pts     "
+"talk.par_par/playspot/e/o_playspot_snack.par/cmn.par";"63";"Head into New Gaudi?
+The cover charge is 3,000 yen.";"¿Entrar en New Gaudi?
+La entrada cuesta 3000 yenes."
+"talk.par_par/playspot/e/o_playspot_snack.par/cmn.par";"79";"(I'm feeling pretty damn drunk.
+I should sober up before going in.)";"(Me siento bastante borracho.
+Debería despejarme antes de entrar.)"
+"talk.par_par/rizap/e/k_playspot_cool_down.par/cmn.par";"95";"You'll be able to try another RIZAP Challenge 
+after your next random battle in town.";"Podrás intentar otro Reto RIZAP
+después de tu próximo combate aleatorio en la ciudad."
+"talk.par_par/rizap/e/k_playspot_test.par/cmn.par";"95";"After each training session, Makuta will give
+you hints on recommended foods for your diet.";"Tras cada sesión, Makuta te dará
+pistas sobre comidas recomendadas para tu dieta."
+"talk.par_par/rizap/e/k_playspot_test.par/cmn.par";"95";"If you successfully follow these hints,
+your RIZAP training will be much more effective.";"Si sigues estas pistas con éxito,
+ tu entrenamiento RIZAP será mucho más efectivo."
+"talk.par_par/rizap/e/k_playspot_test.par/cmn.par";"95";"Furthermore, you can go back to eating whatever
+you want after you've followed Makuta's hint.";"Además, podrás volver a comer lo que quieras
+después de seguir el consejo de Makuta."
+"talk.par_par/shop/e/k_ebisuya_buy.par/cmn.par";"79";"(I don't have anything I can sell.
+Maybe I should come back later...)";"(No tengo nada que pueda vender.
+Quizás debería volver más tarde...)"
+"talk.par_par/snack/e/snack_gb_n_first_talk.par/cmn.par";"271";"You can now drink with Akiyoshi-san!
+
+As you become closer to the customers, your rank within
+the bar will increase. As your rank increases, you'll
+be able to drink with more people.
+
+Be assertive about approaching people, or form a bond
+through karaoke or darts.";"¡Ahora puedes beber con Akiyoshi-san!
+
+A medida que te acercas a los clientes, tu rango en
+el bar aumentará. Con un rango mayor, podrás
+beber con más gente.
+
+Sé directo al acercarte a la gente, o crea lazos
+en el karaoke o los dardos."
+"talk.par_par/snack/e/snack_gc_n_karaoke_clear.par/cmn.par";"271";"You can now drink with Gen-san!
+
+
+As you become closer to the customers, your rank within
+the bar will increase. As your rank increases, you'll
+be able to drink with more people.
+
+Be assertive about approaching people, or form a bond
+through karaoke or darts.";"¡Ahora puedes beber con Gen-san!
+
+
+A medida que te acercas a los clientes, tu rango en
+el bar aumentará. Con un rango mayor, podrás
+beber con más gente.
+
+Sé directo al acercarte a la gente, o crea lazos
+en el karaoke o los dardos."
+"talk.par_par/snack/e/snack_gd_n_first_talk.par/cmn.par";"351";"You can now drink with Ando-san and Kaneko-san!
+
+As you become closer to the customers, your rank within
+the bar will increase. As your rank increases, you'll
+be able to drink with more people.
+
+Be assertive about approaching people, or form a bond
+through karaoke or darts.
+
+It'd be great if everyone got along.
+I'm sure Mama would be happy...";"¡Ahora puedes beber con Ando-san y Kaneko-san!
+
+A medida que te acercas a los clientes, tu rango en
+el bar aumentará. Con un rango mayor, podrás
+beber con más gente.
+
+Sé directo al acercarte a la gente, o crea lazos
+en el karaoke o los dardos.
+
+Sería genial que todos se llevaran bien.
+Seguro que Mama estaría contenta..."
+"talk.par_par/sandlot_baseball_scout/e/scout_genie.par/cmn.par";"79";"(So he wants sushi, huh...
+I guess I should buy some when I have time.)";"(Así que quiere sushi, ¿eh?...
+Supongo que compraré cuando pueda.)"
+"talk.par_par/sandlot_baseball_scout/e/scout_genie.par/cmn.par";"95";"(I'll need to keep finding players for the Warriors
+if I want to help the team really succeed.)";"(Tengo que seguir buscando jugadores para Warriors
+si quiero que el equipo triunfe de verdad.)"
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 12 points and have won at least one game.";"<symbol=bullet_point>Consigue 12 pts completando partidas.
+(Medio=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos 1 partida de cualquier tipo.
+<symbol=bullet_point>Paga 100.000 yenes de cuota de participación.
+
+Tienes 12 puntos y has ganado al menos una partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"255";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You have not yet completed any games.";"<symbol=bullet_point>Consigue 12 pts completando partidas.
+(Medio=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos 1 partida de cualquier tipo.
+<symbol=bullet_point>Paga 100.000 yenes de cuota de participación.
+
+No has completado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"271";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 1 point and have not won any games.";"<symbol=bullet_point>Consigue 12 pts completando partidas.
+(Medio=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos 1 partida de cualquier tipo.
+<symbol=bullet_point>Paga 100.000 yenes de cuota de participación.
+
+Tienes 1 punto y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 2 points and have not won any games.";"<symbol=bullet_point>Consigue 12 pts completando partidas.
+(Medio=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos 1 partida de cualquier tipo.
+<symbol=bullet_point>Paga 100.000 yenes de cuota de participación.
+
+Tienes 2 puntos y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 3 points and have not won any games.";"<symbol=bullet_point>Consigue 12 pts completando partidas.
+(Medio=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos 1 partida de cualquier tipo.
+<symbol=bullet_point>Paga 100.000 yenes de cuota de participación.
+
+Tienes 3 puntos y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 4 points and have not won any games.";"<symbol=bullet_point>Consigue 12 pts completando partidas.
+(Medio=1 pt; Difícil=2 pts)
+<symbol=bullet_point>Gana al menos 1 partida de cualquier tipo.
+<symbol=bullet_point>Paga 100.000 yenes de cuota de participación.
+
+Tienes 4 puntos y no has ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 5 points and have not won any games.";"<symbol=bullet_point>Consiga 12 puntos completando partidas.
+(Media = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gane al menos una partida de cualquier tipo.
+<symbol=bullet_point>Pague la cuota de participación de 100 000 yenes.
+
+Tiene 5 puntos y no ha ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 6 points and have not won any games.";"<symbol=bullet_point>Consiga 12 puntos completando partidas.
+(Media = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gane al menos una partida de cualquier tipo.
+<symbol=bullet_point>Pague la cuota de participación de 100 000 yenes.
+
+Tiene 6 puntos y no ha ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 7 points and have not won any games.";"<symbol=bullet_point>Consiga 12 puntos completando partidas.
+(Media = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gane al menos una partida de cualquier tipo.
+<symbol=bullet_point>Pague la cuota de participación de 100 000 yenes.
+
+Tiene 7 puntos y no ha ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 8 points and have not won any games.";"<symbol=bullet_point>Consiga 12 puntos completando partidas.
+(Media = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gane al menos una partida de cualquier tipo.
+<symbol=bullet_point>Pague la cuota de participación de 100 000 yenes.
+
+Tiene 8 puntos y no ha ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 9 points and have not won any games.";"<symbol=bullet_point>Consiga 12 puntos completando partidas.
+(Media = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gane al menos una partida de cualquier tipo.
+<symbol=bullet_point>Pague la cuota de participación de 100 000 yenes.
+
+Tiene 9 puntos y no ha ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 10 points and have not won any games.";"<symbol=bullet_point>Consiga 12 puntos completando partidas.
+(Media = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gane al menos una partida de cualquier tipo.
+<symbol=bullet_point>Pague la cuota de participación de 100 000 yenes.
+
+Tiene 10 puntos y no ha ganado ninguna partida."
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"47";"Welcome!
+What can we do for you today?";"¡Bienvenido!
+¿En qué podemos ayudarle hoy?"
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 11 points and have not won any games.";"<symbol=bullet_point>Consigue 12 puntos completando partidas.
+(Medio = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 100 000 yenes.
+
+Tienes 11 puntos y ninguna victoria."
+"talk.par_par/playspot/e/k_playspot_mahjong4.par/cmn.par";"287";"<symbol=bullet_point>Collect 12 points by completing games.
+(Medium = 1 point; Hard = 2 points)
+<symbol=bullet_point>Win at least one game of either type.
+<symbol=bullet_point>Pay a participation fee of 100,000 yen.
+
+You currently have 12 points but have not won any games.";"<symbol=bullet_point>Consigue 12 puntos completando partidas.
+(Medio = 1 punto; Difícil = 2 puntos)
+<symbol=bullet_point>Gana al menos una partida.
+<symbol=bullet_point>Paga la cuota de 100 000 yenes.
+
+Tienes 12 puntos pero ninguna victoria."
+"talk.par_par/playspot/e/k_playspot_mahjong4_after_win.par/cmn.par";"79";"You've won the Modern Battle Royale!
+You obtained 1,000,000 yen as a reward.";"¡Has ganado el Battle Royale Modern!
+Obtuviste 1 000 000 yenes."
+"talk.par_par/playspot/e/k_playspot_mahjong_after_win.par/cmn.par";"79";"You've won the Lullaby Battle Royale!
+You obtained 500,000 yen as a reward.";"¡Has ganado el Battle Royale Lullaby!
+Obtuviste 500 000 yenes."
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"63";"You must be a new customer.
+Allow me to explain our services.";"Debe ser un cliente nuevo.
+Le explico nuestros servicios."
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"95";"If you'd like to take advantage of our
+sports gym, you'll have to become a member.";"Si quiere aprovechar nuestro
+gimnasio deportivo, tendrá que hacerse socio."
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"111";"Well, after listening to us explain the program,
+you'll have to undergo a trial training session.";"Bueno, tras escucharnos explicar el programa,
+tendrá que hacer una sesión de prueba de entrenamiento."
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"79";"Of course, you'll be able to approve 
+the contents before we finalize the plan.";"Por supuesto, podrá aprobar el contenido
+antes de finalizar el plan."
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"79";"That could be interesting. All right,
+can you tell me about your gym?";"Eso suena interesante. De acuerdo,
+¿puede contarme sobre su gimnasio?"
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"79";"Just a moment. I'll bring the manager over.
+Please take a seat in the meantime.";"Un momento. Voy a buscar al gerente.
+Por favor, tome asiento mientras tanto."
+"talk.par_par/playspot/e/k_playspot_training_talk.par/cmn.par";"79";"We'll design a personalized training regiment
+just for you based on that trial.";"Crearemos su plan de entrenamiento
+personalizado según esa prueba."
+"talk.par_par/playspot/e/o_playspot_shrine_osonae.par/cmn.par";"79";"(There's a row of Jizo statues here.
+Maybe I should make an offering.)";"(Hay una fila de estatuas de Jizo aquí.
+Quizá debería hacer una ofrenda.)"
+"talk.par_par/playspot/e/o_playspot_shrine_osonae.par/cmn.par";"127";"Jizo smiles upon you!
+You will now earn more Strength EXP than usual.
+This effect lasts for your next ${buff_count} battle(s).";"¡Jizo te sonríe!
+Ahora ganas más EXP de Fuerza de lo normal.
+Este efecto durará tus próximos ${buff_count} combate(s)."
+"talk.par_par/playspot/e/o_playspot_shrine_osonae.par/cmn.par";"127";"Jizo smiles upon you!
+You will now earn more Agility EXP than usual.
+This effect lasts for your next ${buff_count} battle(s).";"¡Jizo te sonríe!
+Ahora ganas más EXP de Agilidad de lo normal.
+Este efecto durará tus próximos ${buff_count} combate(s)."
+"talk.par_par/playspot/e/o_playspot_shrine_osonae.par/cmn.par";"127";"Jizo smiles upon you!
+You will now earn more Spirit EXP than usual.
+This effect lasts for your next ${buff_count} battle(s).";"¡Jizo te sonríe!
+Ahora ganas más EXP de Espíritu de lo normal.
+Este efecto durará tus próximos ${buff_count} combate(s)."
+"talk.par_par/playspot/e/o_playspot_shrine_osonae.par/cmn.par";"127";"Jizo smiles upon you!
+You will now earn more Technique EXP than usual.
+This effect lasts for your next ${buff_count} battle(s).";"¡Jizo te sonríe!
+Ahora ganas más EXP de Técnica de lo normal.
+Este efecto durará tus próximos ${buff_count} combate(s)."
+"talk.par_par/playspot/e/o_playspot_shrine_osonae.par/cmn.par";"127";"Jizo smiles upon you!
+You will now earn more Charm EXP than usual.
+This effect lasts for your next ${buff_count} battle(s).";"¡Jizo te sonríe!
+Ahora ganas más EXP de Carisma de lo normal.
+Este efecto durará tus próximos ${buff_count} combate(s)."
+"talk.par_par/snack/e/snack_ma_e_talk_gd.par/cmn.par";"15";"Soda pop.";"Refresco."
+"talk.par_par/snack/e/snack_ma_e_talk_ge.par/cmn.par";"15";"Why?";"¿Por qué?"
+"talk.par_par/snack/e/snack_ma_e_talk_ma.par/cmn.par";"15";"Who?";"¿Quién?"
+"talk.par_par/snack/e/snack_mg_darts.par/cmn.par";"63";"(Playing darts by myself would be poor
+bar manners...)";"(Jugar a los dardos solo sería de malos
+modales en el bar...)"
+"talk.par_par/snack/e/snack_mg_karaoke.par/cmn.par";"63";"(Singing karaoke by myself would be poor
+bar manners...)";"(Cantar karaoke solo sería mala educación
+en el bar...)"
+"talk.par_par/snack/e/snack_sub_ge_before.par/cmn.par";"79";"(Kaneko-san's so desperate...
+I guess he didn't want to be seen.)";"(Kaneko-san está tan desesperado...
+Supongo que no quería que lo vieran.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"79";"(I wonder who this guy is...
+Wait, I think I recognize his voice.)";"(Me pregunto quién es este tipo...
+Espera, creo que reconozco su voz.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"79";"(No, Haruto's too young to stand up
+on his own, let alone talk on the phone.)";"(No, Haruto es muy chico para pararse
+solo, y menos hablar por teléfono.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"79";"(I feel like I've heard about scams
+that sound a little like this.)";"(Creo que he oído hablar de estafas
+que se parecen un poco a esto.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"63";"(This is no time to be distrustful.
+Taichi needs my help here.)";"(No es momento de desconfiar.
+Taichi necesita mi ayuda.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"63";"(What is that even supposed to mean?
+I wonder...)";"(¿Qué se supone que significa eso?
+Me pregunto...)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"79";"(What is he even talking about?
+I wonder why he's acting so strange...)";"(¿De qué está hablando?
+Me pregunto por qué se comporta tan raro...)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"95";"(With everything that's happened,
+he's probably just looking for a distraction.)";"(Con todo lo que ha pasado,
+probablemente solo busca distraerse.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"79";"(I can't believe they'd really steal from
+a random stranger over the phone.)";"(No puedo creer que de verdad roben
+a un desconocido por teléfono.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_010.par/cmn.par";"79";"(I should play along and show him
+what happens to people like that.)";"(Debería seguirle la corriente y mostrarle
+lo que les pasa a gente así.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_020.par/cmn.par";"63";"(Something seems wrong about this...
+It has to be a scam.)";"(Algo no cuadra aquí...
+Tiene que ser una estafa.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_020.par/cmn.par";"95";"(Is this the father of the kid Taichi hurt?
+I'm pretty sure his name is Ishigaki.)";"(¿Es el padre del chico que hirió Taichi?
+Estoy seguro de que es Ishigaki.)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_020.par/cmn.par";"63";"(More importantly, I can't let
+Taichi end up in debt!)";"(Lo importante: no dejar
+que Taichi acabe en deuda!)"
+"talk.par_par/sub/sub_a_02/e/advsubsa02_020.par/cmn.par";"79";"(I need to make sure they have enough
+to cover their son's hospital bills.)";"(Debo asegurar que tengan lo justo
+para cubrir gastos de hospital de su hijo.)"
+"talk.par_par/sub/sub_a_03/e/advsubsa03_090.par/cmn.par";"15";"So Much More!";"¡Mucho más!"
+"talk.par_par/sub/sub_a_04/e/advsubsa04_042.par/cmn.par";"79";"(There's Soji! I might have lost it once,
+but I won't lose it again.)";"(¡Ahí está Soji! Ya lo perdí una vez,
+no lo volveré a perder.)"
+"talk.par_par/sub/sub_a_04/e/advsubsa04_043.par/cmn.par";"79";"(There's Soji! I need to catch it and
+get that ring back for Fujita.)";"(¡Ahí está Soji! Tengo que atraparlo y
+recuperar ese anillo para Fujita.)"
+"talk.par_par/sub/sub_a_05/e/advsubsa05_050.par/cmn.par";"79";"(This is the Children's Park.
+Maybe I should give Hiji a try...)";"(Este es el Parque Infantil.
+Quizás debería probar con Hiji...)"
+"talk.par_par/sub/sub_a_05/e/advsubsa05_050.par/cmn.par";"79";"(This thing is pretty impressive.
+It's hard to believe it's just a phone app.)";"(Esto es muy impresionante.
+Cuesta creer que sea solo una app de celular.)"
+"talk.par_par/sub/sub_a_05/e/advsubsa05_050.par/cmn.par";"95";"(Hiji's totally in control of the conversation.
+She's really a special piece of technology.)";"(Hiji tiene totalmente el control de la conversación.
+Es una tecnología muy especial.)"
+"talk.par_par/sub/sub_a_07/e/advsubsa07_057.par/cmn.par";"79";"(That's the drone...! I lost track of it
+at one point, but here it is again.)";"(¡Es el dron...! Lo perdí de vista en un punto,
+pero ya está aquí.)"
+"talk.par_par/sub/sub_a_09/e/advsubsa09_010.par/cmn.par";"79";"(Where I last saw him...?
+That would be the Yoshida Batting Center.)";"(¿Dónde lo vi la última vez...?
+Sería el Centro de bateo Yoshida.)"
+"talk.par_par/sub/sub_a_12/e/advsubsa12_010.par/cmn.par";"79";"""Can you head over to a convenience store
+and buy me some prepaid cards?""";"¿Puedes ir a una tienda de conveniencia
+y comprarme unas tarjetas prepagadas?"
+"talk.par_par/sub/sub_a_12/e/advsubsa12_010.par/cmn.par";"47";"""Does it matter?
+I just need some.""";"¿Importa?
+Solo necesito algunos."
+"talk.par_par/sub/sub_a_12/e/advsubsa12_050.par/cmn.par";"63";"""Good. Now send me photos
+of the numbers on each one.""";"Bien. Ahora mándame fotos
+de los números de cada una."
+"talk.par_par/sub/sub_a_12/e/advsubsa12_050.par/cmn.par";"63";"""Kiryu, you've been had!
+My account got hacked the other day!""";"¡Kiryu, te engañaron!
+¡Hackearon mi cuenta el otro día!"
+"talk.par_par/sub/sub_a_12/e/advsubsa12_050.par/cmn.par";"79";"""I'll see what I can do.
+That scammer's not getting away with this.""";"Veré qué puedo hacer.
+Ese estafador no se va a salir con la suya."
+"talk.par_par/sub/sub_a_12/e/advsubsa12_050.par/cmn.par";"47";"""Just send them already.
+I'm in a hurry here.""";"""Envíalos ya.\nTengo prisa."""
+"talk.par_par/sub/sub_a_12/e/advsubsa12_050.par/cmn.par";"95";"""Sorry, 50 grand really is a lot.
+I'll buy you a drink sometime to make up for it.""";"Perdona, 50,000 yenes es un dineral.
+Te invito a un trago para compensar."
+"talk.par_par/sub/sub_a_12/e/advsubsa12_070.par/cmn.par";"63";"""Spare me the details, but it sounds
+like I owe you a drink.""";"Ahórrame los detalles, pero suena
+a que te debo un trago."
+"talk.par_par/sub/sub_a_20/e/advsubsa20_20.par/cmn.par";"127";"(Yoshida <font_kind=yakuza_italic>did</font_kind> say he'd do anything
+I ask if I managed to clear his trial...)";"(Yoshida <font_kind=yakuza_italic>sí</font_kind> dijo que haría lo que yo pidiera
+si lograba superar su prueba...)"
+"talk.par_par/sub/sub_a_20/e/advsubsa20_40.par/cmn.par";"79";"Yoshida, of Yoshida Batting Center fame,
+has joined the Setouchi Warriors!";"Yoshida, del Centro de bateo Yoshida,
+se une a los Setouchi Warriors!"
+"talk.par_par/sub/sub_a_21/e/advsubsa21_050.par/cmn.par";"79";"Gori-san, the maniacal slugging sensation,
+has joined the Setouchi Warriors!";"Gori-san, la sensación maníaca de jonrones,
+se une a los Setouchi Warriors!"
+"talk.par_par/sub/sub_a_23/e/advsubsa23_060.par/cmn.par";"207";"The cafe manager will let you feed the cats
+in the store! Wow! You'll even get a gift if
+the cats seem pleased with your offering.
+ 
+Try out different food to see what gets
+their motors purring!";"El dueño del café te deja alimentar gatos
+en el local. ¡Guau! Recibirás un regalo si
+los gatos quedan contentos con tu ofrenda.
+ 
+Prueba comidas a ver qué les gusta
+¡y verás ronronear sus motores!"
+"talk.par_par/sub/sub_a_24/e/advsubsa24_020.par/cmn.par";"79";"(Those two are arguing about something...
+Some kind of lover's quarrel?)";"(Esos dos están discutiendo...
+¿Será una pelea de enamorados?)"
+"talk.par_par/sub/sub_a_25/e/advsubsa25_040.par/cmn.par";"111";"The EXP you earn from training will be
+granted once you complete a full round
+of the RIZAP Challenge.";"La EXP que ganes entrenando se te
+dará al completar una ronda entera
+del Reto RIZAP."
+"talk.par_par/sub/sub_a_26/e/ADVsubsA26_099_getmail.par/cmn.par";"63";"(It's a message from Sodachi.
+He's trying to lure me out...)";"(Es un mensaje de Sodachi.
+Quiere hacerme salir...)"
+"talk.par_par/sub/sub_a_26/e/ADVsubsA26_099_getmail.par/cmn.par";"79";"(Whatever. I'll try to go wherever
+he's waiting when I find the time...)";"(Da igual. Cuando tenga tiempo,
+iré a donde me esté esperando...)"
+"talk.par_par/sub/sub_b_12/e/advsubsb12_010.par/cmn.par";"79";"(Right... In a strange turn of events,
+I was appointed as this team's captain.)";"(Bueno... Por un giro inesperado,
+me nombraron capitán de este equipo.)"
+"talk.par_par/sub/sub_b_12/e/advsubsb12_050.par/cmn.par";"255";"There are many experienced baseball players
+in Onomichi who can be recruited to your team.
+Don't hesitate to ask them to join up! 
+
+Stay active in other areas around town, and you
+may even find more players that way, too.
+
+If you build it, they will come!";"En Onomichi hay muchos jugadores de béisbol
+con experiencia que pueden unirse a tu equipo.
+¡No dudes en pedírselo!
+
+Si te mueves por otras partes de la ciudad,
+también podrás encontrar más jugadores.
+
+¡Si lo construyes, vendrán!"
+"talk.par_par/sub/sub_b_13/e/advsubsb13_040.par/cmn.par";"303";"Your players' stats will grow as you utilize them in games.
+
+If you think an individual player shows some promise,
+use the Training Tickets you win after games to give
+them a significant stat boost.
+
+Get your team ready to face the next challenge by
+playing some ball and training your team!";"Las estadísticas de tus jugadores suben cuando
+juegan partidos.
+
+Si un jugador te parece prometedor, usa los
+Boletos de entrenamiento que ganas tras los
+partidos para mejorar mucho sus estadísticas.
+
+¡Juega y entrena a tu equipo para el siguiente reto!"
+"talk.par_par/sub/sub_b_18/e/advsubsb18_075.par/cmn.par";"79";"(I couldn't find Akiyoshi-san. Guess
+I'll look for him during my travel...)";"(No encontré a Akiyoshi-san. Lo
+buscaré mientras ando por ahí...)"
+"talk.par_par/sub/sub_b_20/e/advsubsb20_080.par/cmn.par";"63";"(I'm worried about Ando-san.
+I'll stop by Snack another time.)";"(Me preocupa Ando-san.
+Pasaré por el Snack otro día.)"
+"talk.par_par/sub/sub_b_22/e/advsubsb22_210.par/cmn.par";"95";"(Bars... You walk in to share a drink and a laugh,
+but sometimes you walk out with a story...)";"(Los bares... Entras a compartir un trago y unas risas,
+pero a veces sales con una historia...)"
+"talk.par_par/townwalk/e/o_twonwalk_kuhi06.par/cmn.par";"111";"(I get the sense that those islands fading in and out
+of view held great sentimental value for him.)";"(Siento que esas islas que aparecen y desaparecen
+tenían mucho valor sentimental para él.)"
+"talk.par_par/townwalk/e/o_twonwalk_kuhi08.par/cmn.par";"111";"(Countless tile-roofed temples dot the mountainside.
+Onomichi must have been bustling in its prime.)";"(Muchos templos de tejas salpican la montaña.
+Onomichi debió de ser muy animada en su mejor época.)"
+"talk.par_par/townwalk/e/special_favor.par/cmn.par";"143";"There are new bonus gifts waiting for you.
+You have acquired ""Morning Glory Photo.""
+You have acquired ""Morning Glory Waistband.""";"Te esperan nuevos regalos extra.
+Has obtenido «Foto de Morning Glory».
+Has obtenido «Faja de Morning Glory»."
+"talk.par_par/sub/sub_a_25/e/advsubsa25_040.par/cmn.par";"63";"Talk to Makuta when you want to
+begin a training session.";"Habla con Makuta cuando quieras
+empezar a entrenar."
+"talk.par_par/sub/sub_b_01/e/advsubsb01_080.par/cmn.par";"63";"Misa's beloved Kase-senpai
+has joined the Setouchi Warriors!";"¡Kase-senpai, el amado de Misa,
+ya juega con los Setouchi!"
+"talk.par_par/sub/sub_b_11/e/advsubsb11_010.par/cmn.par";"79";"(I have to take a taxi to the baseball
+field. I should go before it's dark.)";"(Debo tomar un taxi al campo de
+béisbol antes de que oscurezca.)"
+"talk.par_par/sub/sub_b_12/e/advsubsb12_010.par/cmn.par";"63";"(Damn it. I guess I'll look for
+somewhere I can get a drink...)";"(Maldita sea. Buscaré algún
+sitio para tomar algo...)"
+"talk.par_par/sub/sub_b_22/e/advsubsb22_210.par/cmn.par";"95";"(Stories that turn strangers into family.
+I like this little family. I'll never forget them.)";"(Historias que unen a extraños como familia.
+Me gusta esta familia. Nunca la olvidaré.)"
+"talk.par_par/sub/sub_b_24/e/advsubsb24_050.par/cmn.par";"63";"(I suppose I'll check out the
+baseball field once in a while.)";"(Supongo que a veces me
+pasaré por el campo de béisbol.)"
+"palabra suelta (subtitulos/opciones)";"";"......Fine.";"......Bien."
+"palabra suelta (subtitulos/opciones)";"";"...Alone.";"...Solo."
+"palabra suelta (subtitulos/opciones)";"";"...Fine.";"...Bien."
+"palabra suelta (subtitulos/opciones)";"";"...Preposterous.";"...Absurdo."
+"palabra suelta (subtitulos/opciones)";"";"...Right.";"...Cierto."
+"palabra suelta (subtitulos/opciones)";"";"...Thanks.";"...Gracias."
+"palabra suelta (subtitulos/opciones)";"";"...Uh-huh.";"...Ajá."
+"palabra suelta (subtitulos/opciones)";"";"...Yeah.";"...Sí."
+"palabra suelta (subtitulos/opciones)";"";"Absolutely.";"Totalmente."
+"palabra suelta (subtitulos/opciones)";"";"Adios.";"Adiós."
+"palabra suelta (subtitulos/opciones)";"";"Aghh....";"Agh...."
+"palabra suelta (subtitulos/opciones)";"";"Agreed.";"De acuerdo."
+"palabra suelta (subtitulos/opciones)";"";"Aha.";"Ajá."
+"palabra suelta (subtitulos/opciones)";"";"Aha...";"Ajá..."
+"palabra suelta (subtitulos/opciones)";"";"And...";"Y..."
+"palabra suelta (subtitulos/opciones)";"";"Anyway...";"En fin..."
+"palabra suelta (subtitulos/opciones)";"";"Apologies.";"Disculpe."
+"palabra suelta (subtitulos/opciones)";"";"Aroused.";"Excitado."
+"palabra suelta (subtitulos/opciones)";"";"Awesome.";"Genial."
+"palabra suelta (subtitulos/opciones)";"";"Basically.";"Básicamente."
+"palabra suelta (subtitulos/opciones)";"";"Because...";"Porque..."
+"palabra suelta (subtitulos/opciones)";"";"Booo.";"Buuu."
+"palabra suelta (subtitulos/opciones)";"";"Boss.";"Jefe."
+"palabra suelta (subtitulos/opciones)";"";"Boss...";"Jefe..."
+"palabra suelta (subtitulos/opciones)";"";"Busted.";"Te pillé."
+"palabra suelta (subtitulos/opciones)";"";"But...";"Pero..."
+"palabra suelta (subtitulos/opciones)";"";"Bye...";"Adiós..."
+"palabra suelta (subtitulos/opciones)";"";"Crap...";"Mierda..."
+"palabra suelta (subtitulos/opciones)";"";"Daddy...";"Papi..."
+"palabra suelta (subtitulos/opciones)";"";"Dammit.";"Maldita sea."
+"palabra suelta (subtitulos/opciones)";"";"Dammit...";"Maldita sea..."
+"palabra suelta (subtitulos/opciones)";"";"Damn...";"Maldición..."
+"palabra suelta (subtitulos/opciones)";"";"Definitely.";"Sin duda."
+"palabra suelta (subtitulos/opciones)";"";"Drool...";"Babas..."
+"palabra suelta (subtitulos/opciones)";"";"Dumbass.";"Idiota."
+"palabra suelta (subtitulos/opciones)";"";"Duuuuuuude.";"Viejoooo."
+"palabra suelta (subtitulos/opciones)";"";"Ecstasy.";"Éxtasis."
+"palabra suelta (subtitulos/opciones)";"";"Exactly.";"Exacto."
+"palabra suelta (subtitulos/opciones)";"";"Father.";"Padre."
+"palabra suelta (subtitulos/opciones)";"";"Father...";"Padre..."
+"palabra suelta (subtitulos/opciones)";"";"Feh.";"Bah."
+"palabra suelta (subtitulos/opciones)";"";"Finally.";"Por fin."
+"palabra suelta (subtitulos/opciones)";"";"Fine.";"Bien."
+"palabra suelta (subtitulos/opciones)";"";"Fine...";"Bien..."
+"palabra suelta (subtitulos/opciones)";"";"Furthermore...";"Además..."
+"palabra suelta (subtitulos/opciones)";"";"Gladly.";"Con gusto."
+"palabra suelta (subtitulos/opciones)";"";"Good.";"Bien."
+"palabra suelta (subtitulos/opciones)";"";"Goodbye.";"Adiós."
+"palabra suelta (subtitulos/opciones)";"";"Gotcha.";"Entendido."
+"palabra suelta (subtitulos/opciones)";"";"Great.";"Genial."
+"palabra suelta (subtitulos/opciones)";"";"Greetings...";"Saludos..."
+"palabra suelta (subtitulos/opciones)";"";"Gulp...";"Glup..."
+"palabra suelta (subtitulos/opciones)";"";"Harder...";"Más fuerte..."
+"palabra suelta (subtitulos/opciones)";"";"Heeey...";"Oyeee..."
+"palabra suelta (subtitulos/opciones)";"";"Hello.";"Hola."
+"palabra suelta (subtitulos/opciones)";"";"Hence...";"Por eso..."
+"palabra suelta (subtitulos/opciones)";"";"Here.";"Toma."
+"palabra suelta (subtitulos/opciones)";"";"Hey.";"Oye."
+"palabra suelta (subtitulos/opciones)";"";"Hey...";"Oye..."
+"palabra suelta (subtitulos/opciones)";"";"However...";"Sin embargo..."
+"palabra suelta (subtitulos/opciones)";"";"Huh.";"¿Eh?"
+"palabra suelta (subtitulos/opciones)";"";"Huh...";"¿Eh...?"
+"palabra suelta (subtitulos/opciones)";"";"I'm...";"Yo..."
+"palabra suelta (subtitulos/opciones)";"";"I'm...!";"¡Yo...!"
+"palabra suelta (subtitulos/opciones)";"";"Indeed.";"En efecto."
+"palabra suelta (subtitulos/opciones)";"";"Interesting.";"Interesante."
+"palabra suelta (subtitulos/opciones)";"";"Interjections.";"Interjecciones."
+"palabra suelta (subtitulos/opciones)";"";"Jackpot.";"¡Premio!"
+"palabra suelta (subtitulos/opciones)";"";"Later.";"Nos vemos."
+"palabra suelta (subtitulos/opciones)";"";"Legs.";"Piernas."
+"palabra suelta (subtitulos/opciones)";"";"Liar.";"Mentiroso."
+"palabra suelta (subtitulos/opciones)";"";"Likewise.";"Igualmente."
+"palabra suelta (subtitulos/opciones)";"";"Look.";"Mira."
+"palabra suelta (subtitulos/opciones)";"";"Lv.";"Nv."
+"palabra suelta (subtitulos/opciones)";"";"Mama.";"Mamá."
+"palabra suelta (subtitulos/opciones)";"";"Man...";"Vaya..."
+"palabra suelta (subtitulos/opciones)";"";"Marvelous...";"Maravilloso..."
+"palabra suelta (subtitulos/opciones)";"";"Meh.";"Bah."
+"palabra suelta (subtitulos/opciones)";"";"Mhm.";"Ajá."
+"palabra suelta (subtitulos/opciones)";"";"Move.";"Muévete."
+"palabra suelta (subtitulos/opciones)";"";"Nice...";"Qué bien..."
+"palabra suelta (subtitulos/opciones)";"";"Niiice.";"Geniaaal."
+"palabra suelta (subtitulos/opciones)";"";"Nonsense.";"Tonterías."
+"palabra suelta (subtitulos/opciones)";"";"Nope.";"Nop."
+"palabra suelta (subtitulos/opciones)";"";"Nothing.";"Nada."
+"palabra suelta (subtitulos/opciones)";"";"Now...";"Bueno..."
+"palabra suelta (subtitulos/opciones)";"";"Okay.";"De acuerdo."
+"palabra suelta (subtitulos/opciones)";"";"Okay...";"De acuerdo..."
+"palabra suelta (subtitulos/opciones)";"";"One.";"Uno."
+"palabra suelta (subtitulos/opciones)";"";"Ouch...";"Ay..."
+"palabra suelta (subtitulos/opciones)";"";"Owowow...";"Ay, ay, ay..."
+"palabra suelta (subtitulos/opciones)";"";"Owww...";"Aaay..."
+"palabra suelta (subtitulos/opciones)";"";"Owwwie...";"Auuuch..."
+"palabra suelta (subtitulos/opciones)";"";"Pah...";"Bah..."
+"palabra suelta (subtitulos/opciones)";"";"Patriarch...";"Patriarca..."
+"palabra suelta (subtitulos/opciones)";"";"Perfect.";"Perfecto."
+"palabra suelta (subtitulos/opciones)";"";"Perfection...";"Perfección..."
+"palabra suelta (subtitulos/opciones)";"";"Please.";"Por favor."
+"palabra suelta (subtitulos/opciones)";"";"Please...";"Por favor..."
+"palabra suelta (subtitulos/opciones)";"";"Pleasure.";"Placer."
+"palabra suelta (subtitulos/opciones)";"";"Re-education.";"Reeducación."
+"palabra suelta (subtitulos/opciones)";"";"Realllllly...";"¿En serioooo...?"
+"palabra suelta (subtitulos/opciones)";"";"Really...";"¿En serio...?"
+"palabra suelta (subtitulos/opciones)";"";"Relax.";"Relájate."
+"palabra suelta (subtitulos/opciones)";"";"Right.";"Cierto."
+"palabra suelta (subtitulos/opciones)";"";"Right...";"Cierto..."
+"palabra suelta (subtitulos/opciones)";"";"Sex.";"Sexo."
+"palabra suelta (subtitulos/opciones)";"";"Shit...";"Mierda..."
+"palabra suelta (subtitulos/opciones)";"";"So...";"Entonces..."
+"palabra suelta (subtitulos/opciones)";"";"Sooo...";"Entoncesss..."
+"palabra suelta (subtitulos/opciones)";"";"Sorry.";"Lo siento."
+"palabra suelta (subtitulos/opciones)";"";"Sorry...";"Lo siento..."
+"palabra suelta (subtitulos/opciones)";"";"Sorta...";"Más o menos..."
+"palabra suelta (subtitulos/opciones)";"";"Spectacular...";"Espectacular..."
+"palabra suelta (subtitulos/opciones)";"";"Stop.";"Alto."
+"palabra suelta (subtitulos/opciones)";"";"Strange.";"Qué raro."
+"palabra suelta (subtitulos/opciones)";"";"Strip.";"Desnúdate."
+"palabra suelta (subtitulos/opciones)";"";"Strip...";"Desnúdate..."
+"palabra suelta (subtitulos/opciones)";"";"Sure.";"Claro."
+"palabra suelta (subtitulos/opciones)";"";"Thanks.";"Gracias."
+"palabra suelta (subtitulos/opciones)";"";"Thanks...";"Gracias..."
+"palabra suelta (subtitulos/opciones)";"";"Then...";"Entonces..."
+"palabra suelta (subtitulos/opciones)";"";"They...";"Ellos..."
+"palabra suelta (subtitulos/opciones)";"";"True.";"Es verdad."
+"palabra suelta (subtitulos/opciones)";"";"Two.";"Dos."
+"palabra suelta (subtitulos/opciones)";"";"Uh-huh.";"Ajá."
+"palabra suelta (subtitulos/opciones)";"";"Uh-huh...";"Ajá..."
+"palabra suelta (subtitulos/opciones)";"";"Unbelievable...";"Increíble..."
+"palabra suelta (subtitulos/opciones)";"";"Understandable.";"Comprensible."
+"palabra suelta (subtitulos/opciones)";"";"Understood.";"Entendido."
+"palabra suelta (subtitulos/opciones)";"";"Wait.";"Espera."
+"palabra suelta (subtitulos/opciones)";"";"Wait...";"Espera..."
+"palabra suelta (subtitulos/opciones)";"";"Welcome.";"Bienvenido."
+"palabra suelta (subtitulos/opciones)";"";"Well...";"Bueno..."
+"palabra suelta (subtitulos/opciones)";"";"What.";"¿Qué?"
+"palabra suelta (subtitulos/opciones)";"";"Whoa.";"¡Guau!"
+"palabra suelta (subtitulos/opciones)";"";"Whoa...";"Guau..."
+"palabra suelta (subtitulos/opciones)";"";"Why...";"¿Por qué...?"
+"palabra suelta (subtitulos/opciones)";"";"Wonderful...";"Maravilloso..."
+"palabra suelta (subtitulos/opciones)";"";"Wow.";"¡Guau!"
+"palabra suelta (subtitulos/opciones)";"";"Yeah.";"Sí."
+"palabra suelta (subtitulos/opciones)";"";"Yeah...";"Sí..."
+"palabra suelta (subtitulos/opciones)";"";"Yep.";"Sip."
+"palabra suelta (subtitulos/opciones)";"";"Yes.";"Sí."
+"palabra suelta (subtitulos/opciones)";"";"Yes...";"Sí..."
+"palabra suelta (subtitulos/opciones)";"";"Yo.";"Hola."
+"palabra suelta (subtitulos/opciones)";"";"You.";"Tú."
+"palabra suelta (subtitulos/opciones)";"";"You...";"Tú..."
+"palabra suelta (subtitulos/opciones)";"";"Yup.";"Ajá."
+"palabra suelta (subtitulos/opciones)";"";"R-Right...";"C-Cierto..."
+"palabra suelta (subtitulos/opciones)";"";"R-Right.";"C-Cierto."
+"palabra suelta (subtitulos/opciones)";"";"Y-Yeah...";"S-Sí..."
+"palabra suelta (subtitulos/opciones)";"";"Y-Yeah.";"S-Sí."
+"palabra suelta (subtitulos/opciones)";"";"W-Wait...";"E-Espera..."
+"palabra suelta (subtitulos/opciones)";"";"W-Well...";"B-Bueno..."
+"palabra suelta (subtitulos/opciones)";"";"Yes";"Sí"
+"palabra suelta (subtitulos/opciones)";"";"Go";"Ir"
+"palabra suelta (subtitulos/opciones)";"";"Huh?";"¿Eh?"
+"palabra suelta (subtitulos/opciones)";"";"What!?";"¡¿Qué?!"
+"palabra suelta (subtitulos/opciones)";"";"Cheers!";"¡Salud!"
+"palabra suelta (subtitulos/opciones)";"";"Crap!";"¡Mierda!"
+"palabra suelta (subtitulos/opciones)";"";"(Hm...)";"(Mmm...)"
+"palabra suelta (subtitulos/opciones)";"";"Hm...";"Mmm..."
+"palabra suelta (subtitulos/opciones)";"";"Hmm...";"Mmm..."
+"palabra suelta (subtitulos/opciones)";"";"Hmmm...";"Mmm..."
+"palabra suelta (subtitulos/opciones)";"";"Hmmm.";"Mmm."
+"palabra suelta (subtitulos/opciones)";"";"Hm.";"Mmm."
+"palabra suelta (subtitulos/opciones)";"";"Uh...";"Eh..."
+"palabra suelta (subtitulos/opciones)";"";"Um...";"Em..."
+"palabra suelta (subtitulos/opciones)";"";"Umm...";"Emm..."
+"palabra suelta (subtitulos/opciones)";"";"Ummm...";"Emm..."
+"palabra suelta (subtitulos/opciones)";"";"Ummmm...";"Emm..."
+"palabra suelta (subtitulos/opciones)";"";"Uhhh...";"Eh..."
+"palabra suelta (subtitulos/opciones)";"";"I...";"Yo..."
+"palabra suelta (subtitulos/opciones)";"";"I-I...";"Y-Yo..."
+"palabra suelta (subtitulos/opciones)";"";"S-Sure...";"C-Claro..."
+"palabra suelta (subtitulos/opciones)";"";"S-Sure.";"C-Claro."
+"palabra suelta (subtitulos/opciones)";"";"O-Okay...";"D-De acuerdo..."
+"palabra suelta (subtitulos/opciones)";"";"O-Okay.";"D-De acuerdo."
+"palabra suelta (subtitulos/opciones)";"";"S-Sorry...";"L-Lo siento..."
+"palabra suelta (subtitulos/opciones)";"";"U-Um...";"E-Em..."
+"palabra suelta (subtitulos/opciones)";"";"R-Really...";"¿E-En serio...?"
+"palabra suelta (subtitulos/opciones)";"";"B-But...";"P-Pero..."
+"palabra suelta (subtitulos/opciones)";"";"D-Dammit...";"M-Maldita sea..."
+"palabra suelta (subtitulos/opciones)";"";"M-Maybe.";"Q-Quizás."
+"palabra suelta (subtitulos/opciones)";"";"Correct.";"Correcto."
+"palabra suelta (subtitulos/opciones)";"";"Wow";"Guau"
