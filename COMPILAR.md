@@ -99,3 +99,18 @@ Copia junto a los archivos de `entrega/`, dentro de una carpeta `archivos/`:
 | `trabajo/ui_v3/ui.par` | `archivos/ui.par` |
 
 Esa carpeta es el mod: `INSTALAR o QUITAR.bat` lo instala en el juego (guarda antes los originales) y lo quita.
+
+## 8. v1.0.4 (correcciones de la revisión de Steam)
+
+La v1.0.4 es la v1.0.3 con 12 correcciones (género, sentido y dos erratas), hechas con las
+[herramientas de traducción](https://github.com/NMUI-dev/Yakuza-6-Herramientas-de-traduccion) sobre el paquete v1.0.3:
+
+```bash
+python trabajo/revision_steam_0511/poner_correcciones.py "<herramientas>/trabajo/textos.csv"   # mete correcciones.json
+python "<herramientas>/herramienta_traduccion.py" aplicar --a-archivos                         # rearma y copia a archivos/
+```
+
+Usa la herramienta v1.0.4 o posterior: la anterior podía sacar `textos.csv` de una copia vieja. `poner_correcciones.py`
+se niega si alguna frase actual no coincide con la de partida, y `comparar_tablas.py <db_e v1.0.3> <db_e nuevo> <tmp>`
+comprueba que solo cambian esas correcciones. Cómo se encontraron los errores y
+el género de cada personaje: `trabajo/revision_steam_0511/`.

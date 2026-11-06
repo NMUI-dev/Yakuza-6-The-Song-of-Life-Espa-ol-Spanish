@@ -1,9 +1,9 @@
-﻿# Yakuza 6: The Song of Life - Traducción al español v1.0.3 (01-11-2026)
+﻿# Yakuza 6: The Song of Life - Traducción al español v1.0.4 (05-11-2026)
 # Instala o quita la traducción. Antes de instalar guarda los archivos originales del juego en «respaldo_original»
 # (junto a este instalador); «Quitar» los devuelve. No toca partidas, logros ni horas de Steam.
 param([string]$Accion = "")
 $ErrorActionPreference = "Stop"
-$VERSION = "1.0.3"
+$VERSION = "1.0.4"
 $aqui = Split-Path -Parent $MyInvocation.MyCommand.Path
 $arch = Join-Path $aqui "archivos"
 $resp = Join-Path $aqui "respaldo_original"

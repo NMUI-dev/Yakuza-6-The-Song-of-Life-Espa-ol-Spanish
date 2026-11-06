@@ -1,0 +1,110 @@
+{
+ "7560": {
+  "en": "Nice to Meet You",
+  "antes": "Encantada de conocerte",
+  "es": "Mucho gusto",
+  "tipo": "género",
+  "motivo": "título de sesión del chat en vivo; no se sabe quién lo dice: forma neutra",
+  "veces": 1,
+  "donde": "minigame_live_chat_command_set_info | chapterText"
+ },
+ "13656": {
+  "en": "Y-You're pretty good at this...",
+  "antes": "E-Eres bastante bueno en esto...",
+  "es": "E-Eres bastante buena en esto...",
+  "tipo": "género",
+  "motivo": "caba_sora: Kiryu (P2117) se lo dice a Sora (P1609, mujer)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "19479": {
+  "en": "I'm actually not mad.",
+  "antes": "La verdad, no estoy enojado.",
+  "es": "La verdad, no estoy enojada.",
+  "tipo": "género",
+  "motivo": "main11: lo dice Kiyomi (P1869, mujer) de sí misma",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "19480": {
+  "en": "If anything, I'm relieved.",
+  "antes": "Más bien, estoy aliviado.",
+  "es": "Más bien, estoy aliviada.",
+  "tipo": "género",
+  "motivo": "main11: lo dice Kiyomi (P1869, mujer) de sí misma",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "20372": {
+  "en": "Are y'sure?",
+  "antes": "¿Estás seguro?",
+  "es": "¿Estás segura?",
+  "tipo": "género",
+  "motivo": "main13: Yuta (P1491) se lo pregunta a Haruka (P1267, mujer)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "26868": {
+  "en": "You sure? Won't you run out of product to sell?",
+  "antes": "¿Estás seguro? ¿No se te acabará el producto para vender?",
+  "es": "¿Estás segura? ¿No se te acabará el producto para vender?",
+  "tipo": "género",
+  "motivo": "sub_b23: Kiryu (P2900) se lo pregunta a Amano (P3171, mujer: «a real passionate girl»)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "14302": {
+  "en": "You sure?",
+  "antes": "¿Estás seguro?",
+  "es": "¿De verdad?",
+  "tipo": "género",
+  "motivo": "«You sure?» sale 12 veces: a hombres y en sub_a17 a una mujer (P1574): forma neutra",
+  "veces": 12,
+  "donde": "sound_auth | table/#//#"
+ },
+ "18161": {
+  "en": "Yeah, I am.",
+  "antes": "Sí, estoy solo.",
+  "es": "Sí, lo estoy.",
+  "tipo": "sentido",
+  "motivo": "«Yeah, I am.» contesta a «¿estás solo?» (main07) y a «¿estás completamente seguro?» (main10): vale para las dos",
+  "veces": 4,
+  "donde": "sound_auth | table/#//#"
+ },
+ "7022": {
+  "en": "Hey there, cutey.",
+  "antes": "Hola, guapo.",
+  "es": "Hola, guapa.",
+  "tipo": "género",
+  "motivo": "chat en vivo: un espectador saluda a Anri-chan (mujer)",
+  "veces": 1,
+  "donde": "minigame_live_chat_chat_messages | message"
+ },
+ "12092": {
+  "en": "Then I'll volunteer to be the first...\nKidding, of course.",
+  "antes": "Entonces me ofrezco a ser la primera...\nEs broma, claro.",
+  "es": "Entonces me ofrezco a ser el primero...\nEs broma, claro.",
+  "tipo": "género",
+  "motivo": "caba_hikaru: lo dice Kiryu (P2288) de sí mismo",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "23084": {
+  "en": "This is exactly why I always tell you not to\nput so much pressure on your customers.",
+  "antes": "Por eso mismo siempre te digo que no\nejercas tanta presión sobre tus clientes.",
+  "es": "Por eso mismo siempre te digo que no\nejerzas tanta presión sobre tus clientes.",
+  "tipo": "ortografía",
+  "motivo": "«ejercas» no existe: subjuntivo de ejercer = ejerzas",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "29266": {
+  "en": "(Something seems wrong about this...\nIt has to be a scam.)",
+  "antes": "(Algo no cuadra aquí...\nTienes que ser una estafa.)",
+  "es": "(Algo no cuadra aquí...\nTiene que ser una estafa.)",
+  "tipo": "ortografía",
+  "motivo": "«It has to be a scam»: lo que tiene que ser una estafa es «esto», no «tú»",
+  "veces": 1,
+  "donde": "talk | sub/sub_a_02/e/advsubsa02_020.par"
+ }
+}

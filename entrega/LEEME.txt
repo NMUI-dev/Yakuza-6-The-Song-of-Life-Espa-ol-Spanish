@@ -1,7 +1,16 @@
-﻿YAKUZA 6: THE SONG OF LIFE - TRADUCCIÓN AL ESPAÑOL v1.0.3 (01-11-2026)
+﻿YAKUZA 6: THE SONG OF LIFE - TRADUCCIÓN AL ESPAÑOL v1.0.4 (05-11-2026)
 
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
 
+CAMBIOS EN LA v1.0.4 (tras un comentario en Steam: «a veces el género está mal»)
+- Revisadas una a una, con la escena delante, las 3.158 frases que dicen cómo es una persona (seguro/segura, listo/lista,
+  bueno/buena...). Corregidas las que tenían el género mal: Kiyomi decía «no estoy enojado», Kiryu decía «me ofrezco a
+  ser la primera», a Haruka y a Amano les preguntaban «¿Estás seguro?», a Sora le decían «eres bastante bueno».
+- Frases que el juego usa en escenas distintas con una sola traducción: ahora valen para todas («Sí, lo estoy.»,
+  «¿De verdad?»).
+- Dos erratas («ejercas» -> «ejerzas»; «Tienes que ser una estafa» -> «Tiene que ser una estafa»).
+- Si al instalar una versión anterior viste escenas en inglés, era porque faltaban los archivos de escenas: desde la
+  v1.0.3 el instalador también los pone. Usa siempre esta versión.
 CAMBIOS EN LA v1.0.3
 - Traducido lo que se había quedado en inglés: los resúmenes de las entregas anteriores (menú «Recuerdos»), avisos de
   Troublr y del extintor, escenas de amor del cabaré, frases de escenas de combate (Heat), ayudas del béisbol, del
@@ -18,10 +27,10 @@ CAMBIOS EN LA v1.0.1
   Let Go...; frases a medias como la del cabaré; rótulos de enemigos borrosos; títulos del gimnasio tapados; números
   borrados en la ficha del Clan; letras mezcladas; «SUBES DE NIVEL» igual en todas partes).
 
-ACTUALIZAR DESDE LA v1.0, v1.0.1 o v1.0.2
+ACTUALIZAR DESDE LA v1.0, v1.0.1, v1.0.2 o v1.0.3
 - Pon la carpeta «respaldo_original» de la v1.0 junto a este instalador y vuelve a instalar (opción 1).
 
-QUÉ TRADUCE (v1.0.3)
+QUÉ TRADUCE (v1.0.4)
 - Todos los textos del juego: menús, opciones, objetos, misiones, habilidades, correos, manual, subtítulos de las
   escenas, diálogos de subhistorias y minijuegos (57.072 textos de las tablas + diálogos de talk.par).
 - Letra del juego con tildes, ñ y ¿ ¡.
@@ -43,9 +52,9 @@ QUITAR
 - Doble clic en «INSTALAR o QUITAR.bat» y escribe 2 (devuelve los originales del respaldo).
 - Si borraste el respaldo: Steam > clic derecho en el juego > Propiedades > Archivos instalados > Verificar integridad.
 
-GUÍA Y HERRAMIENTAS (descarga aparte: «Yakuza 6 - Herramientas para traduccion v1.0.3.rar»; no hacen falta para jugar)
-- «Herramientas para traduccion\PASO_A_PASO.txt»: qué se hizo, con qué programas y cómo funciona el juego por dentro.
-- «Herramientas para traduccion\COMO_USAR.txt»: programa para sacar todos los textos a una hoja (inglés y español al
-  lado), corregirlos y volver a meterlos en el juego.
+GUÍA Y HERRAMIENTAS (aparte; no hacen falta para jugar): https://github.com/NMUI-dev/Yakuza-6-Herramientas-de-traduccion
+- PASO_A_PASO.txt: qué se hizo, con qué programas y cómo funciona el juego por dentro.
+- COMO_USAR.txt: programa para sacar todos los textos a una hoja (inglés y español al lado), corregirlos y volver a
+  meterlos en el juego. Trae ParTool y reARMP.
 
 Probado con la versión de Steam (appid 1388590). Si algo falla, avisa dónde lo descargaste diciendo qué estabas haciendo.

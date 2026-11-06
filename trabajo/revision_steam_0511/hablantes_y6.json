@@ -1,0 +1,1782 @@
+{
+ "P1098": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1099 y P1100 preguntan si es Kazuma Kiryu; se presenta como Kiryu"
+ },
+ "P1103": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1658 le dice Kiryu-san"
+ },
+ "P1112": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1662 le dice Kazuma Kiryu; P1112 dice que actua antes de pensar"
+ },
+ "P1113": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1284 le dice Kiryu; P1113 le dice Date-san a Date"
+ },
+ "P1114": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "va a Hiroshima con Haruto; le habla a Date-san"
+ },
+ "P1115": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1116 es Kiryu y P1115 con Haruto; cuida de Haruto"
+ },
+ "P1116": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta como Me llamo Kiryu"
+ },
+ "P1130": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1292 le dice «Kiryu-san» justo antes de su línea en el apartamento (id 16661)"
+ },
+ "P1134": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1668 le dice «Kiryu-san» (id 16758); busca al padre de Haruto"
+ },
+ "P1158": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1336 le dice «Aniki» (id 17361); habla de no involucrar a la Familia Hirose"
+ },
+ "P1162": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1831 (Kiyomi) le dice «Thank you, Kiryu-san»; P1348 le dice «Kiryu-aniki» (id 17515-17524)"
+ },
+ "P1168": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: «My name's Kiryu» (id 17657); busca a Kazuki y Yuya"
+ },
+ "P1169": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "habla de su historia con Kazuki y Yuya en Kamurocho (id 17692); P1363 le dice «Kiryu-aniki»"
+ },
+ "P1176": {
+  "nombre": "Joon-gi Han",
+  "genero": "H",
+  "pista": "se presenta: «The owner of Stardust, yours truly, Joon-gi Han!» (id 17877)"
+ },
+ "P1179": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "habla de sí como «A man accepts defeat with grace» (id 17892-17895)"
+ },
+ "P1185": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1765 (Date) le dice «You didn't know either of them, right Kiryu?» (id 17998)"
+ },
+ "P1191": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta por teléfono: «This is Kiryu» (id 18139)"
+ },
+ "P1194": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1383 le dice «Kiryu-aniki» (id 18259)"
+ },
+ "P1200": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se dirige a Date-san con «Date-san, it was a good call»; va a ver a Lo (id 18482-18557)"
+ },
+ "P1207": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1408 le dice «Aniki» (id 18799-18803)"
+ },
+ "P1212": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "En main09 Haruka/Kiyomi le dice «Kiryu-san» (P1852: «What made you fight, Kiryu-san?»)."
+ },
+ "P1215": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "En main09 le dicen «Kiryu-aniki» (P1423) y responde «No, I'll be fine alone»."
+ },
+ "P1226": {
+  "nombre": "Joon-gi Han",
+  "genero": "H",
+  "pista": "P1227 le dice «Tú... ¡Joon-gi Han!» (lote_045)."
+ },
+ "P1227": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "En lote_045 le dicen «Aniki» (P1441) y «Kiryu-san» (P1228); va solo a enfrentarse a Han."
+ },
+ "P1235": {
+  "nombre": "Haruka Sawamura",
+  "genero": "M",
+  "pista": "Llama «Mama» a P1869 (Kiyomi) y dice «Come on, Yuta» (lote_046)."
+ },
+ "P1267": {
+  "nombre": "Haruka Sawamura",
+  "genero": "M",
+  "pista": "Llama «Uncle Kaz» a Kiryu (P1268) y P1268 le dice «while you were asleep» (lote_051). Habla de sí en femenino («Why wouldn't I be into the idea?»)."
+ },
+ "P1277": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1500 le dice Hey, Kiryu-san en la misma escena y P1277 contesta"
+ },
+ "P1279": {
+  "nombre": "Date",
+  "genero": "H",
+  "pista": "P1648 le dice Date-san; se conocen desde hace tiempo con Kiryu"
+ },
+ "P1281": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "los clientes la llaman Mama; Kiryu le dice Mama"
+ },
+ "P1283": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "P1660 le dice Mama; ella dice No estoy segura"
+ },
+ "P1284": {
+  "nombre": "Date",
+  "genero": "H",
+  "pista": "P1113 le dice Date-san; P1284 le dice Kiryu a P1113"
+ },
+ "P1286": {
+  "nombre": "Date",
+  "genero": "H",
+  "pista": "P1114 le pide que cuide a Haruka a Date-san"
+ },
+ "P1288": {
+  "nombre": "Nagumo",
+  "genero": "H",
+  "pista": "P1760 lo llama Nagumo-kun; habla de Kiyo-chan como mi"
+ },
+ "P1292": {
+  "nombre": "dueña de bar",
+  "genero": "M",
+  "pista": "dueña de un bar; visita a Kiryu en el apartamento (id 16661); no nombrada en la escena"
+ },
+ "P1300": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "P1135 le dice «Hey, Mama...»; P1301 le dice «Tenemos que hablar, Mama»"
+ },
+ "P1301": {
+  "nombre": "Patriarca Masuzoe",
+  "genero": "H",
+  "pista": "se presenta: «Yo soy el Patriarca Masuzoe» (id 16793)"
+ },
+ "P1334": {
+  "nombre": "Kiyomi",
+  "genero": "M",
+  "pista": "dueña del bar que acogió a Haruka; habla de su bar «sola» (id 17311); la traducción la trata en femenino, no confirmado en inglés"
+ },
+ "P1346": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P1831 (Kiyomi) le habla de «nuestra niña» (id 17510); no confirmado"
+ },
+ "P1361": {
+  "nombre": "Yuya",
+  "genero": "H",
+  "pista": "dice «soy solo un empresario común y corriente» (id 17671)"
+ },
+ "P1362": {
+  "nombre": "subordinado de Kiryu",
+  "genero": "H",
+  "pista": "le dicen «Aniki» y «Cap»; se dirige a Yuta (P1360) con «seguro» en masculino (id 17677)"
+ },
+ "P1363": {
+  "nombre": "subordinado de Kiryu",
+  "genero": "H",
+  "pista": "le dice «Kiryu-aniki» (id 17692)"
+ },
+ "P1364": {
+  "nombre": "Yuya",
+  "genero": "H",
+  "pista": "dice «Kazuki-san and I tried month after month» (id 17699); es el ex gerente de Stardust"
+ },
+ "P1366": {
+  "nombre": "Yuya",
+  "genero": "H",
+  "pista": "Kiryu le dice «Take care, Yuya» (id 17751)"
+ },
+ "P1372": {
+  "nombre": "Yuta Usami",
+  "genero": "H",
+  "pista": "se presenta: «I'm from the Yomei Alliance's Hirose Family, Yuta Usami» (id 17877); «Yuta-kun» (id 17887)"
+ },
+ "P1381": {
+  "nombre": "Nagumo",
+  "genero": "H",
+  "pista": "P1383 le dice «Cap» y P1194 le pregunta «Are you sober enough, Nagumo?» (id 18271)"
+ },
+ "P1383": {
+  "nombre": "Yuta Usami",
+  "genero": "H",
+  "pista": "P1381 le dice «Yuta, y'shit» (id 18267); le dicen «Kiryu-aniki» (id 18259)"
+ },
+ "P1385": {
+  "nombre": "Nagumo",
+  "genero": "H",
+  "pista": "se presenta: «I'm Nagumo» (id 18298)"
+ },
+ "P1386": {
+  "nombre": "Yuta Usami",
+  "genero": "H",
+  "pista": "se presenta: «And I'm Yuta Usami» (id 18299)"
+ },
+ "P1406": {
+  "nombre": "Lo",
+  "genero": "H",
+  "pista": "habla de vengar a su hijo; le dicen «Lo-san» (id 18762)"
+ },
+ "P1491": {
+  "nombre": "Yuta Usami",
+  "genero": "H",
+  "pista": "P1267 (Haruka) le dice «Yuta-kun» justo antes de su réplica (lote_051)."
+ },
+ "P1497": {
+  "nombre": "Nagumo",
+  "genero": "H",
+  "pista": "P1273 (Kiryu) le dice «You had something to say to me, Nagumo?» (lote_051)."
+ },
+ "P1499": {
+  "nombre": "Kurosawa",
+  "genero": "H",
+  "pista": "la mama le dice Kurosawa-san (snack01)"
+ },
+ "P1501": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "P1499 le dice Mama, eres bella; es la mama del local"
+ },
+ "P1550": {
+  "nombre": "Tagashira",
+  "genero": "H",
+  "pista": "P1881 le dice «Take a look, Tagashira» (lote_049)."
+ },
+ "P1569": {
+  "nombre": "Saki",
+  "genero": "M",
+  "pista": "luchadora profesional; se dice a sí misma luchadora (id 22879, 22868: P1993 le dice Saki)"
+ },
+ "P1570": {
+  "nombre": "Saki",
+  "genero": "M",
+  "pista": "P2031 le dice luchadora profesional y la Saki alegre (id 22882)"
+ },
+ "P1573": {
+  "nombre": "Hikaru",
+  "genero": "M",
+  "pista": "se dice honesta/femenina (id 22925); P2035 le dice Hikaru (id 22932)"
+ },
+ "P1574": {
+  "nombre": "Sora",
+  "genero": "M",
+  "pista": "P2060 le dice Sora; se dice ladylike y femenina (ids 22950, 22956)"
+ },
+ "P1577": {
+  "nombre": "Erina",
+  "genero": "M",
+  "pista": "P1995 le dice Erina-chan (ids 23030, 23036)"
+ },
+ "P1579": {
+  "nombre": "Erina",
+  "genero": "M",
+  "pista": "P1998 le dice Erina; se dice sorprendida, falsa, honesta conmigo misma (ids 23052-23070)"
+ },
+ "P1581": {
+  "nombre": "Riona",
+  "genero": "M",
+  "pista": "P2739 le dice Riona-san (id 23100); anfitriona"
+ },
+ "P1582": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "mujer joven de Kanagawa, habla de sí en femenino ('De niña hacía videos', 'enganchada al ramen', 'quiero ser actriz', 'Quería ser directora de cine'); Kiryu la llama 'Kanagawa'; no es Erina"
+ },
+ "P1583": {
+  "nombre": "Erina",
+  "genero": "M",
+  "pista": "se presenta como 'Erina' (caba_erina); Kiryu la llama Erina"
+ },
+ "P1584": {
+  "nombre": "Erina",
+  "genero": "M",
+  "pista": "Kiryu-san la llama; habla de sí en femenino ('una chica', 'me llamó falsa'); 'Soy Erina'"
+ },
+ "P1585": {
+  "nombre": "Erina",
+  "genero": "M",
+  "pista": "Kiryu la llama Erina; habla de sí en femenino ('fui a una escuela solo de mujeres', 'no soy falsa')"
+ },
+ "P1586": {
+  "nombre": "Erina",
+  "genero": "M",
+  "pista": "Erina; 'Te esforzabas... nadie te llamara falsa' dicho por Kiryu a la misma; se describe en femenino ('no soy falsa', 'amiga')"
+ },
+ "P1587": {
+  "nombre": "Erina",
+  "genero": "M",
+  "pista": "Erina; habla de sí en femenino ('no soy una farsante'); Kiryu le dice 'Erina'"
+ },
+ "P1589": {
+  "nombre": "Hikaru",
+  "genero": "M",
+  "pista": "caba_hikaru: P2288 le dice 'Hikaru... Eres tú' (12061); habla de sí en femenino ('No creo ser muy distinta', 'Me ponía nerviosísima' no aplica; 'de niña, creía...', 'linda')"
+ },
+ "P1590": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_hikaru (cabaret); Kiryu-san le da la bienvenida"
+ },
+ "P1591": {
+  "nombre": "Hikaru",
+  "genero": "M",
+  "pista": "anfitriona de caba_hikaru; P2290 la llama 'Hikaru'; habla de sí en femenino ('callada', 'relajada')"
+ },
+ "P1592": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "estudiante y anfitriona; habla de sí en femenino ('ingenua', 'decidida', 'misma'); Kiryu-san la escucha"
+ },
+ "P1593": {
+  "nombre": "Hikaru Shiota",
+  "genero": "M",
+  "pista": "se presenta como 'Hikaru Shiota' en caba_hikaru; habla de sí en femenino ('seria', 'alegre y enérgica'); Kiryu-san la llama 'Producer Kiryu'"
+ },
+ "P1594": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "caba_hikaru: habla de sí en femenino ('No estoy lista', 'me emocioné'); Kiryu-san le contesta"
+ },
+ "P1595": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "caba_hikaru: aspirante a idol; habla de sí en femenino ('Estoy nerviosa'); P2294 le dice 'Pareces más segura'"
+ },
+ "P1596": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_riona (hostess); P2115 (Kiryu) le dice 'una mujer muy linda' (12556) y 'Was she your girlfriend?' (12540); el glosario la marca como mujer"
+ },
+ "P1597": {
+  "nombre": "Riona",
+  "genero": "M",
+  "pista": "se presenta 'I'm Riona' (12291); anfitriona de caba_riona; Kiryu-san le habla como a ella (glosario: Riona = M)"
+ },
+ "P1598": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_riona; P2296 (Kiryu) le dice '¿No estás siendo demasiado considerada?'"
+ },
+ "P1599": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_riona (hostess); P2297 (Kiryu) la trata de 'tú'"
+ },
+ "P1600": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_riona (hostess); P2298 (Kiryu) le pregunta por su 'límite'"
+ },
+ "P1601": {
+  "nombre": "Riona",
+  "genero": "M",
+  "pista": "anfitriona de caba_riona; P2299 (Kiryu) la llama 'Riona' (12386)"
+ },
+ "P1603": {
+  "nombre": "Saki",
+  "genero": "M",
+  "pista": "luchadora profesional y anfitriona, se presenta como Saki en caba_saki; 'Soy luchadora profesional' en la traducción"
+ },
+ "P1604": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_saki; la traducción la hace femenina en 'Debería intentar ser más femenina'; le dicen Kiryu-san"
+ },
+ "P1605": {
+  "nombre": "Saki",
+  "genero": "M",
+  "pista": "luchadora profesional de caba_saki (Saki, misma escena que P1603)"
+ },
+ "P1606": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "luchadora y anfitriona; dice 'I'm a tomboy... I wanted to become more feminine' (de sí misma)"
+ },
+ "P1609": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona taiwanesa de caba_sora ('I'm from Taipei'); 'Speaking of cute girls, you'd count me among them'; 'Kiryu-san, qué malo eres'. Kiryu la llama 'Sora' en el juego del rey, pero P1610 también se presenta como Sora: nombre dudoso"
+ },
+ "P1610": {
+  "nombre": "Sora",
+  "genero": "M",
+  "pista": "anfitriona de caba_sora; se presenta 'I'm Sora, from Taiwan'; habla a Kiryu como 'Bienvenido de nuevo, Kiryu-san'"
+ },
+ "P1613": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona taiwanesa de caba_sora; dice 'No soy de esa clase de mujeres' y 'I'm not that kind of woman'"
+ },
+ "P1614": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona taiwanesa de caba_sora; P2311 le dice 'una chica como tú' y 'a girl like you'; en la traducción habla de sí en femenino (segura, sincera)"
+ },
+ "P1618": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "adoptó a Haruka como hija; habla de Saejima como hermano de sangre"
+ },
+ "P1657": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1281 le dice Kiryu-san; busca a Haruka"
+ },
+ "P1660": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1283 le dice Kiryu-san"
+ },
+ "P1662": {
+  "nombre": "Akiyama",
+  "genero": "H",
+  "pista": "P1112 le dice Akiyama; P1662 le dice a Kiryu the one and only Kazuma Kiryu"
+ },
+ "P1671": {
+  "nombre": "Akiyama",
+  "genero": "H",
+  "pista": "se presenta: «It's Akiyama» (id 18139)"
+ },
+ "P1680": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: It's Kiryu (sub_a01)"
+ },
+ "P1681": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1951 le dice Kiryu-san (sub_a01)"
+ },
+ "P1684": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "protagonista de la llamada de estafa (sub_a02); el falso Taichi le pide dinero"
+ },
+ "P1685": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: It's Kiryu / The name's Kiryu (sub_a02)"
+ },
+ "P1686": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2416 le dice Uncle Kaz (tio Kaz) (sub_a02)"
+ },
+ "P1687": {
+  "nombre": "Akiyama",
+  "genero": "H",
+  "pista": "P1840 le dice «Akiyama!?» (id 18179); «Murota-kun and I» (id 18184)"
+ },
+ "P1759": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "los niños le dicen tío Kaz; va a buscar a Haruka"
+ },
+ "P1760": {
+  "nombre": "Kiyo-chan",
+  "genero": "M",
+  "pista": "P1288 la llama Kiyo-chan; Kiryu le dice Mama"
+ },
+ "P1761": {
+  "nombre": "Kiyo-chan",
+  "genero": "M",
+  "pista": "madre de Haruto-kun (mujer); probable misma persona que P1760, no seguro"
+ },
+ "P1765": {
+  "nombre": "Date",
+  "genero": "H",
+  "pista": "P2193 le dice «Date-san» (id 18014); él dice «Easy, Honjo» (id 18001)"
+ },
+ "P1769": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona/luchadora de caba_saki; 'soy toda una mujer'; 'Estás muy segura de ti misma' le dice Kiryu; se presenta en femenino en la traducción"
+ },
+ "P1777": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2514 le dice Kiryu-san (id 23809 y 23848)"
+ },
+ "P1780": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2015 le dice Kiryu-san (id 23928); P1957 le dice Kiryu-san (id 23933)"
+ },
+ "P1831": {
+  "nombre": "Kiyomi",
+  "genero": "M",
+  "pista": "P1346 le dice «Kiyomi. Can we speak in private?» (id 17505); Kiryu la llama «Mama» (P1162, id 17543)"
+ },
+ "P1840": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "dice «Akiyama!?» al ver a Akiyama (id 18179); luego vuelve a Serena con Nagumo y Yuta (id 18259)"
+ },
+ "P1841": {
+  "nombre": "Murota",
+  "genero": "H",
+  "pista": "se presenta: «I'm Murota from the Jinsei Family» (id 18184)"
+ },
+ "P1851": {
+  "nombre": "Kiyomi",
+  "genero": "M",
+  "pista": "P1413 le dice «Kiyo-chan» (id 18835); dueña del bar donde se fue el jefe"
+ },
+ "P1852": {
+  "nombre": "Kiyomi",
+  "genero": "M",
+  "pista": "P1416 le dice «Kiyo-chan»; habla de sí en femenino («Estaba hartísima», «una anfitriona»). Es la madre de la chica (P1235 la llama «Mama»)."
+ },
+ "P1853": {
+  "nombre": "Kiyomi",
+  "genero": "M",
+  "pista": "Misma mujer que P1852 (mismo contenido: Someya, la hija, «Nagumo-kun»). Habla de sí en femenino («necia», «estafada»)."
+ },
+ "P1869": {
+  "nombre": "Kiyomi",
+  "genero": "M",
+  "pista": "P1235 (Haruka) le dice «Mama» y P1449 le dice «Kiyomi-san» (lote_046)."
+ },
+ "P1887": {
+  "nombre": "Kiyomi",
+  "genero": "M",
+  "pista": "P1484 (Nagumo) le responde «It ain't gonna happen, Kiyo-chan» (lote_050)."
+ },
+ "P1893": {
+  "nombre": "Haruka Sawamura",
+  "genero": "M",
+  "pista": "Llama «Uncle Kaz» a Kiryu (lote_051). Dato bastante seguro, no comprobado por otra vía."
+ },
+ "P1927": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_hikaru (karaoke); escena sin autoafirmación en inglés, género deducido del cabaret"
+ },
+ "P1928": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_hikaru (karaoke); dice a Kiryu-san 'Eres muy bueno'"
+ },
+ "P1933": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "anfitriona de caba_riona (karaoke); rol de anfitriona"
+ },
+ "P1947": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P2033 y P2032 hablan de ese tipo que trata a la chica (id 22908)"
+ },
+ "P1950": {
+  "nombre": "Junta Takayama",
+  "genero": "H",
+  "pista": "se presenta: I'm Junta Takayama (sub_a01)"
+ },
+ "P1951": {
+  "nombre": "actor, Principe del Kabedon",
+  "genero": "H",
+  "pista": "se presenta como actor (The truth is, I'm an actor); P1950 y sus fans lo llaman Kabedon Prince"
+ },
+ "P1957": {
+  "nombre": "Endo-san",
+  "genero": "M",
+  "pista": "P2518 le dice Endo-san (id 23895); P1780 la llama la manager de Misa (id 23895)"
+ },
+ "P1974": {
+  "nombre": "Murota",
+  "genero": "H",
+  "pista": "se presenta como Murota de la Familia Jinsei"
+ },
+ "P1994": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1577 le dice Kiryu-san en la cena (id 23008); P1995 lo llama yakuza grandote"
+ },
+ "P1995": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P1994 lo llama our guy (id 23030)"
+ },
+ "P2005": {
+  "nombre": "Kamaishi",
+  "genero": "M",
+  "pista": "P1951 le presenta Kamaishi-san, she is one of my drinking buddies; dice Estoy lista"
+ },
+ "P2010": {
+  "nombre": "Akira Ishigaki",
+  "genero": "H",
+  "pista": "se presenta: I'm Akira Ishigaki; padre de Taichi-kun (sub_a02)"
+ },
+ "P2015": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P1781 le dice un gran tipo (id 23946); se dice un tipo como yo (id 23916)"
+ },
+ "P2016": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P2520 le dice chico (id 23976)"
+ },
+ "P2017": {
+  "nombre": "padre de Sakito",
+  "genero": "H",
+  "pista": "P2078 le dice «Daddy!» (id 24381); P2558 le dice «tofu shop like your daddy»"
+ },
+ "P2019": {
+  "nombre": "padre de Sakito",
+  "genero": "H",
+  "pista": "mismo personaje que P2017 en otra escena; P2560 le llama «Fighter»; P2080 le dice «Daddy»"
+ },
+ "P2021": {
+  "nombre": "padre de Sakito",
+  "genero": "H",
+  "pista": "se dice «Soy tan patético» y «I am... Pocket Circuit Fighter!» (id 24537 y 24529); P2562 le llama «Fighter»"
+ },
+ "P2022": {
+  "nombre": "padre de Sakito",
+  "genero": "H",
+  "pista": "Sakito le dice «Dad» y «Daddy» (id 24618); su mujer P2566 dice «that was the man I fell in love with» (id 24607)"
+ },
+ "P2023": {
+  "nombre": "padre de Sakito",
+  "genero": "H",
+  "pista": "dice «as a father, I want to be stronger» (id 24632); es el mismo padre que P2017 (id 24626)"
+ },
+ "P2030": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P1993 le dice este niño; P1568 le dice ese muchacho (ids 22859-22868)"
+ },
+ "P2031": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1570 (Saki) le dice Kiryu-san (id 22882)"
+ },
+ "P2035": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1573 (Hikaru) le dice Kiryu-san (id 22925 y 22932)"
+ },
+ "P2036": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1575 le dice Oh, Kiryu-san! (id 22994)"
+ },
+ "P2060": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1574 (Sora) le dice Kiryu-san; habla de su hija adoptiva (ids 22950, 22974)"
+ },
+ "P2061": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1580 le dice Kiryu-san (id 23093)"
+ },
+ "P2062": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1581 (Riona) le dice Kiryu-san (id 23108)"
+ },
+ "P2068": {
+  "nombre": "Toru Yano",
+  "genero": "H",
+  "pista": "escena cln: P2633 le dice 'You've lost, Yano'; uno de los Seis Lunáticos; 'soy un tipo orgulloso' dicho por él"
+ },
+ "P2072": {
+  "nombre": "Kazuchika Okada",
+  "genero": "H",
+  "pista": "P2360 le habla como Okada; se presenta como Rainmaker"
+ },
+ "P2074": {
+  "nombre": "Kazuchika Okada",
+  "genero": "H",
+  "pista": "P2645 le dice Kazuchika; Joe lo llama Kazuchika"
+ },
+ "P2079": {
+  "nombre": "Sakito",
+  "genero": "H",
+  "pista": "P2566 dice «would you say something to your son» (id 24588); usa «harto» de sí mismo (id 24419); le dicen «Sakito» y «Mr. Kazuma-san» como niño"
+ },
+ "P2115": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_riona: P1596 le dice 'Kiryu-san, you're a flatterer' (12423)"
+ },
+ "P2116": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_saki: P1769 le dice Kiryu-san; P2116 le dice a P1769 'Estás muy segura de ti misma' (ella es mujer)"
+ },
+ "P2117": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_sora: P1609 le dice 'Kiryu-san, qué malo eres'; 'Suenas como un viejo' dicho por P1609 a él; 'hombre japonés tradicional' de él"
+ },
+ "P2193": {
+  "nombre": "Honjo",
+  "genero": "H",
+  "pista": "P1765 le dice «Easy, Honjo» (id 18001)"
+ },
+ "P2204": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P2205 le dice sir/señor (ids 23128, 23151)"
+ },
+ "P2205": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "se dice el de los datos (id 23134)"
+ },
+ "P2210": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta como Kiryu, capitán de los Warriors (id 23209)"
+ },
+ "P2222": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2223 lo llama la leyenda Kiryu (id 23773); se dice Solo te pegué (id 23776)"
+ },
+ "P2223": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "dice a guy/un tipo y man a P2222 (ids 23773, 23783)"
+ },
+ "P2228": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2226 le dice «Kiryu-san! Can y'get changed real quick?» (id 25588)"
+ },
+ "P2235": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2234 le dice «Captain Kiryu!» (id 25612); es Kiryu en el equipo de béisbol"
+ },
+ "P2281": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1582 le dice Kiryu-san ('¿eres actor?'); es Kiryu en caba_erina"
+ },
+ "P2282": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: 'Kazuma Kiryu.'; Erina le dice Kiryu-san"
+ },
+ "P2283": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "Kiryu en caba_erina; Erina le dice Kiryu-san ('¿A ti te parezco así?'); habla en masculino ('Estaba seguro')"
+ },
+ "P2284": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "Kiryu en caba_erina; Erina le dice Kiryu-san ('Kiryu-san, ¿cómo ven los hombres...'); 'Lamento que haya pasado eso'"
+ },
+ "P2285": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "Kiryu en caba_erina; le dice 'Erina... Tú...' y 'Te ves contenta' a Erina"
+ },
+ "P2286": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "Kiryu en caba_erina; le dice a Erina 'Te ves un poco decaída'; 'Solo tuve suerte'"
+ },
+ "P2288": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_hikaru: P1589 le dice 'Kiryu-san' y 'Kiryu-san, you're silly'; habla de sí en masculino ('me ofrezco a ser el primero' tras corregir)"
+ },
+ "P2289": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P1590 le dice 'Gracias por volver a visitarme, Kiryu-san' en caba_hikaru"
+ },
+ "P2290": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_hikaru: P1591 le dice 'Kiryu-san...' y P2290 dice 'Hikaru, ...' a la anfitriona"
+ },
+ "P2291": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_hikaru: P1592 le dice 'Kiryu-san... Gracias' tras sus consejos; P2291 habla a P1592 con 'estás lista' (ella es mujer)"
+ },
+ "P2292": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_hikaru: P1593 (Hikaru Shiota) le dice 'Kiryu-san' y 'Producer Kiryu'"
+ },
+ "P2293": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_hikaru: P1594 le dice 'Kiryu-san'; ella le dice 'eres tan atrevido' (él); P2293 responde a 'Kiryu-san' tras la broma de los camotes"
+ },
+ "P2294": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_hikaru: P1595 le dice 'Kiryu-san, I actually have something I want to report!' y 'see you later, Kiryu-san'; P2294 habla a P1595 como 'segura'"
+ },
+ "P2295": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_riona: se presenta 'Soy Kiryu' (12291) ante P1597 que le dice 'Kiryu-san'"
+ },
+ "P2296": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_riona: P1598 le dice 'Yeah. And the same goes for you, Kiryu-san' (12331)"
+ },
+ "P2297": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_riona: P1599 le dice 'Kiryu-san... Thank you' (12353)"
+ },
+ "P2298": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_riona: P1600 le pregunta 'What would you do, Kiryu-san?' (12362)"
+ },
+ "P2299": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_riona: P1601 le dice 'Kiryu-san... Thanks for worryin' about me' (12398)"
+ },
+ "P2300": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_riona: P1602 le pregunta 'Kiryu-san, do you have plans?' (12410)"
+ },
+ "P2301": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_saki: se presenta como Kazuma Kiryu; P1603 le dice Kiryu-san"
+ },
+ "P2302": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_saki: P1604 le dice 'Come on, Kiryu-san'"
+ },
+ "P2307": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_sora: P1610 le dice 'Kiryu-san, thanks for coming in today'"
+ },
+ "P2308": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_sora: P1611 le dice 'Kiryu-san'; 'Kiryu-san, you're a great guy'"
+ },
+ "P2309": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_sora: P1612 le dice 'a tough guy like you'; 'Kiryu-san'"
+ },
+ "P2310": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_sora: P1613 le dice 'You're a unique one, Kiryu-san... this tough guy'"
+ },
+ "P2311": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_sora: P1614 le dice 'you're pretty dense, Kiryu-san'; P2311 'una chica como tú' dicho a P1614 (mujer)"
+ },
+ "P2312": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "caba_sora: P1615 le dice 'Kiryu-san, umm... Do you have some time'"
+ },
+ "P2316": {
+  "nombre": "Joe",
+  "genero": "H",
+  "pista": "escena cln: amigo de Okada, fundador de JUSTIS; Masao habla de 'Joe-san' y 'Jojima-san'"
+ },
+ "P2319": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "escena cln: P2316 le dice 'Kiryu-san' y 'Kiryu Clan' lo nombra; P2319 habla de sí como líder del equipo"
+ },
+ "P2322": {
+  "nombre": "Masao",
+  "genero": "H",
+  "pista": "escena cln: se presenta 'mi nombre es Masao' a Kiryu; amigo de la infancia de Joe"
+ },
+ "P2354": {
+  "nombre": "Joe",
+  "genero": "H",
+  "pista": "Tanahashi (P2359) le dice Joe; Joe habla de Tana como amigo"
+ },
+ "P2355": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2354 le dice Kiryu-san; en cabaret tiene este id"
+ },
+ "P2359": {
+  "nombre": "Tanahashi",
+  "genero": "H",
+  "pista": "Joe le dice Tana; Joe le dice Tana y Tana habla de su amigo Joe"
+ },
+ "P2376": {
+  "nombre": "novio extorsionador",
+  "genero": "H",
+  "pista": "dice 'mi mujer' y se habla en masculino (estoy harto)"
+ },
+ "P2393": {
+  "nombre": "Takao Kawamura",
+  "genero": "H",
+  "pista": "se presenta como Takao Kawamura (nombre masculino), escena RIZAP"
+ },
+ "P2416": {
+  "nombre": "Taichi",
+  "genero": "H",
+  "pista": "P2010 le dice Taichi-kun; hijo de Ishigaki; llama a Kiryu Uncle Kaz"
+ },
+ "P2417": {
+  "nombre": "niña fan de Haruka",
+  "genero": "M",
+  "pista": "P2419 dice That girl's a Haruka fan refiriéndose a P2417; P2418 dice That girl is a bad apple"
+ },
+ "P2418": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "P2417 le dice Mama, have you ever met Haruka-chan's dad?"
+ },
+ "P2421": {
+  "nombre": "hombre",
+  "genero": "H",
+  "pista": "P2420 le dice Mister"
+ },
+ "P2433": {
+  "nombre": "fan de Haruka",
+  "genero": "H",
+  "pista": "P2432 le llama brother y le dice que es su hermano"
+ },
+ "P2440": {
+  "nombre": "abuelo",
+  "genero": "H",
+  "pista": "P2441 le dice gramps / abuelito"
+ },
+ "P2448": {
+  "nombre": "niña",
+  "genero": "M",
+  "pista": "P2449 dice she seems thrilled (quedo encantada)"
+ },
+ "P2450": {
+  "nombre": "niña, posiblemente Ayaka",
+  "genero": "M",
+  "pista": "P2445 habla de Ayaka en el Parque Infantil; P2450 busca a Mister Kazuma"
+ },
+ "P2451": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2450 le dice Mister Kazuma y Haruka-chan's dad (sub_a03)"
+ },
+ "P2454": {
+  "nombre": "Fujita",
+  "genero": "H",
+  "pista": "se presenta: my name's Fujita; dice estoy acabado y me puse tan nervioso (masc.) (sub_a04)"
+ },
+ "P2455": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: I'm Kiryu (sub_a04)"
+ },
+ "P2465": {
+  "nombre": "Fujita",
+  "genero": "H",
+  "pista": "P2466 le dice Fujita; dice Soy patetico/decidido en masculino (sub_a04)"
+ },
+ "P2466": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2465 presenta a P2466 como Kiryu-san; P2467 le llama old man (sub_a04)"
+ },
+ "P2467": {
+  "nombre": "Kotomi",
+  "genero": "M",
+  "pista": "se presenta: I'm Kotomi; P2465 dice She's my girlfriend (sub_a04)"
+ },
+ "P2470": {
+  "nombre": "vendedor de Hiji",
+  "genero": "H",
+  "pista": "se describe como salesman (I'm just a simple salesman); habla a Kiryu como sir (sub_a05)"
+ },
+ "P2471": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2470 le llama sir; Maybe I can be alone (masc.) (sub_a05)"
+ },
+ "P2475": {
+  "nombre": "Hiji",
+  "genero": "M",
+  "pista": "IA llamada Hiji, siempre en femenino: I'm outfitted / Estoy equipada; Kiryu le dice Estas muy callada, Hiji (sub_a05)"
+ },
+ "P2476": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2475 (Hiji) le dice Kiryu-san; I'm too busy -> Estoy demasiado ocupado (masc.) (sub_a05)"
+ },
+ "P2478": {
+  "nombre": "mujer acosada",
+  "genero": "M",
+  "pista": "P2479 le dice Missy; habla de si; Please, help me (sub_a05)"
+ },
+ "P2479": {
+  "nombre": "matón",
+  "genero": "H",
+  "pista": "dice a P2478 You don't gotta be like that, Missy (sub_a05)"
+ },
+ "P2481": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "habla con Hiji, pelea con el matón; P2480 le llama Dragon of Dojima (sub_a05)"
+ },
+ "P2493": {
+  "nombre": "Akaishizawa",
+  "genero": "H",
+  "pista": "se presenta como Akaishizawa, le dicen man/amigo (id 22724)"
+ },
+ "P2494": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "dice I'm Kiryu y le dicen Kiryu-chi (ids 22725, 22728)"
+ },
+ "P2503": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2502 le dice Kiryu-chi en el duelo de dardos (id 22803)"
+ },
+ "P2512": {
+  "nombre": "Misa",
+  "genero": "M",
+  "pista": "P1775 le dice muchacha (id 23803)"
+ },
+ "P2514": {
+  "nombre": "Misa",
+  "genero": "M",
+  "pista": "se presenta: Me llamo Misa (id 23809); P1776 le dice sola (id 23805)"
+ },
+ "P2515": {
+  "nombre": "Misa",
+  "genero": "M",
+  "pista": "se dice nerviosa en femenino (id 23853)"
+ },
+ "P2519": {
+  "nombre": "Misa",
+  "genero": "M",
+  "pista": "P1781 le dice Misa (id 23964) y confundida (id 23939)"
+ },
+ "P2521": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta como Kiryu (id 24011); se dice ocupado (id 24013)"
+ },
+ "P2522": {
+  "nombre": "Mie-san",
+  "genero": "M",
+  "pista": "P2523 le dice Mie-san (id 23992); el nombre es femenino"
+ },
+ "P2523": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P2521 le dice viejo (id 24014); se dice a mi edad (id 24042)"
+ },
+ "P2532": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2530 le dice Hermano Suzuki-san; se dice digno (id 24105)"
+ },
+ "P2537": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2540 le dice «Hey, Kiryu-san!» (id 24201); P2535 le llama «Brother Suzuki-san»; P2540 le dice «old man» en la respuesta"
+ },
+ "P2540": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "se llama a sí mismo «anciano» («I'm but a poor, frail old man», id 24183) y dice «estoy desesperado» (id 24137); Kiryu le habla de «old man»"
+ },
+ "P2548": {
+  "nombre": "Mie-san",
+  "genero": "M",
+  "pista": "P2549 le dice «Mie-san!» y «Listen to me, Mie-san»; P2538 la llama «Amiga»; le recuerdan a su difunto marido"
+ },
+ "P2549": {
+  "nombre": "Munan Suzuki",
+  "genero": "H",
+  "pista": "P2544 (el gurú Akamatsu) le dice «Munan Suzuki» (id 24313); se le llama «Suzuki-san» (P2548)"
+ },
+ "P2556": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P2555 dice «I'm sure he'd be lenient on a guy» (id 24347); es el exgurú que salió de la cárcel"
+ },
+ "P2557": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2017 le dice «Kazuma-kun!?» (id 24355) y «This guy was one of my racing buddies» (id 24381)"
+ },
+ "P2558": {
+  "nombre": "madre de Sakito",
+  "genero": "M",
+  "pista": "se refiere a sí misma como «mamá» («No se lo pongas difícil a mamá!», id 24390)"
+ },
+ "P2559": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2079 le dice «Mr. Kazuma-san» (id 24419); se dice «a grown man» (id 24424)"
+ },
+ "P2560": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2080 le dice «Kazuma-san» (id 24463 y 24467)"
+ },
+ "P2562": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2021 le dice «K-Kazuma-kun!» (id 24555)"
+ },
+ "P2566": {
+  "nombre": "madre de Sakito",
+  "genero": "M",
+  "pista": "es la mujer de P2022 («that was the man I fell in love with», id 24607); Sakito le dice «Mommy» (id 24571)"
+ },
+ "P2567": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2023 le dice «Hey, Kazuma-kun!» (id 24621)"
+ },
+ "P2586": {
+  "nombre": "Norikazu Nakahata",
+  "genero": "H",
+  "pista": "se presenta con nombre masculino; le dicen Gori-san (id 23215)"
+ },
+ "P2595": {
+  "nombre": "Yasuo Sodachi",
+  "genero": "H",
+  "pista": "se presenta como Yasuo Sodachi; le dicen man/bro (id 23668)"
+ },
+ "P2596": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2597 le dice Kiryu-san (id 23714)"
+ },
+ "P2611": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: «My name's Kiryu» (id 25669); P2235 le llama «Captain Kiryu» (id 25612) y P2234 «Captain Kiryu»"
+ },
+ "P2612": {
+  "nombre": "Moritsuka",
+  "genero": "H",
+  "pista": "P2611 le dice «Are you Moritsuka?» (id 25669); se dice «Ya estoy bastante enojado» (id 25684)"
+ },
+ "P2616": {
+  "nombre": "Moritsuka",
+  "genero": "H",
+  "pista": "P2615 le dice «Eras bastante bueno» (id 25693) y «Moritsuka» (id 25737); se dice «Estaba decidido» (id 25696)"
+ },
+ "P2618": {
+  "nombre": "Hamana",
+  "genero": "H",
+  "pista": "P2617 le dice «Why're you here, Hamana?» (id 25778); P2620 le dice «always the jackass, Hamana» (id 25780)"
+ },
+ "P2636": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "escena cln: Naito (P2638) lo presenta como 'Kazuma Kiryu'; P2068 le dice 'Kiryu-chan'; habla de sí en masculino 'Ahora solo soy un civil'"
+ },
+ "P2638": {
+  "nombre": "Naito",
+  "genero": "H",
+  "pista": "escena cln: se presenta 'I'm Naito'; P2068 le dice 'Naito'; P2643 le dice 'Let's get it over with, Naito'"
+ },
+ "P2643": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "escena cln (cabecera de Onomichi/Kamurocho): P2644 (Naito) le dice 'Kiryu-san... It's time to fight'; 'Tranquilo, Kiryu' de P2644"
+ },
+ "P2644": {
+  "nombre": "Naito",
+  "genero": "H",
+  "pista": "escena cln: P2643 le dice 'Let's get it over with, Naito'; habla de sí y de Kiryu en masculino"
+ },
+ "P2645": {
+  "nombre": "Joe",
+  "genero": "H",
+  "pista": "P2074 le dice Joe; el propio P2645 dice ser uno de los fundadores de JUSTIS"
+ },
+ "P2646": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P2651 le dice Dragon of Dojima, Kazuma Kiryu"
+ },
+ "P2651": {
+  "nombre": "Satsuki",
+  "genero": "H",
+  "pista": "P2645 habla de Satsuki en masculino (he)"
+ },
+ "P2739": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "se dice equivocada y anfitriona en femenino (id 23100)"
+ },
+ "P2775": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P3198 le dice señor (id 23274)"
+ },
+ "P2779": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3202 le dice Kiryu-san (id 23374)"
+ },
+ "P2780": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P3308 le dice sir/señor (id 23511)"
+ },
+ "P2783": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta como Kazuma Kiryu (id 23529); impresionado (id 23553)"
+ },
+ "P2786": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3312 le dice Kiryu-san (id 23583)"
+ },
+ "P2787": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3313 le dice Kiryu-san (id 23593)"
+ },
+ "P2788": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3314 le dice Kiryu-san (id 23601)"
+ },
+ "P2792": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3321 le dice Kiryu-san (id 23652)"
+ },
+ "P2813": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta como Kazuma Kiryu (id 22490)"
+ },
+ "P2821": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "en la trampa de Reiko se llama Kazuma Kiryu; los matones le dicen old man; la chica le dice big boy (id 22598)"
+ },
+ "P2832": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "se dice seguro en masculino (id 23473); dice a P3158 linda (id 23456)"
+ },
+ "P2836": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta como «It's Kiryu. Kazuma Kiryu.» (id 24664); P3287 le dice «kid» y el propio P2836 llama «Viejo» al custodio"
+ },
+ "P2842": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3246 le dice «Well, Kiryu-san?» (id 25418); se dice «No estoy seguro» (id 25424)"
+ },
+ "P2854": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3809 le dice Kiryu-san en la misma escena; habla con Ando-san"
+ },
+ "P2865": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3813 le dice Kiryu-san; P2865 llama Ando-san a P3813"
+ },
+ "P2875": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "escribe las cartas de la escena (P2886 es Kiryu, mismo texto); se llama a sí mismo no muy buen escritor en masculino"
+ },
+ "P2886": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3060 (Gen) le dice Kiryu-san tras irse; P2886 dice que está agradecido (masculino)"
+ },
+ "P2893": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3064 (Minato) le dice Kiryu-san; P2893 cita a Mama Minato"
+ },
+ "P2898": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: I'm Kiryu; P3259 le dice Kiryu-san"
+ },
+ "P2899": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3261 le dice Oh, Kiryu-san. Y'ready to fish?; P2899 es el que pesca por Isao"
+ },
+ "P2900": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3262 le dice we're countin' on ya, Kiryu-san"
+ },
+ "P2903": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3268 le dice Kiryu-san en la misma escena; habla de Amano como alguien a quien quiere ayudar"
+ },
+ "P2904": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3176 (Amano) le dice Kiryu-san; P2904 habla de Amano como 'Amano' y dice 'Puedo con todo'"
+ },
+ "P2908": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: I'm Kiryu; P3179 le dice Kiryu-kun"
+ },
+ "P2919": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3076 le dice que es su primera vez y que debe estar nervioso; habla de Haruto y del bar de Kiyomi"
+ },
+ "P2920": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: Oh, I'm Kazuma Kiryu; P3079 y P3081 le dicen Kiryu-san"
+ },
+ "P2921": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3082 le dice Kiryu-san; P3082 le pregunta si está preocupado (masculino)"
+ },
+ "P2925": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P3241 le dice «you're so calm» (id 25308); él dice «probably older than your father» (id 25325); P3241 le dice «older guys» (id 25325)"
+ },
+ "P2926": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3244 le dice «Oh, it's you, Kiryu-san» (id 25347) y «Do y'wanna listen, Kiryu-san?»; P2926 dice «No estoy tan seguro» a Miku (id 25377)"
+ },
+ "P2930": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3043 le dice «Kiryu-san...? Why're y'here?» (id 26124)"
+ },
+ "P2931": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3044 le dice «Thanks fer doin' that, Kiryu-san» (id 26156)"
+ },
+ "P2961": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: «Hey, I'm not Michio yet. The name's Kiryu.» (id 24765)"
+ },
+ "P2962": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3292 le dice «Kiryu-san» (id 24819) y «Cheer up, guy» (id 24776)"
+ },
+ "P2966": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3226 le dice «Kiryu-san. Do you like to sing?» (id 24986); P3226 le dice «You're sharper than you look» (id 24974)"
+ },
+ "P2971": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: «My name's Kiryu» (id 25109); «This is Kiryu» al teléfono (id 25130)"
+ },
+ "P2974": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "le dice a Shizuko «Being my wife won't be an easy task» (id 25229), habla de sí como esposo"
+ },
+ "P2976": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "se presenta: I'm Kiryu (snack_kikkake)"
+ },
+ "P2978": {
+  "nombre": "Hatakeyama",
+  "genero": "H",
+  "pista": "P3001 le dice Hatakeyama-san; es el padre de la hija (snack_b17)"
+ },
+ "P2980": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "los demas la llaman Mama; P2978 dice this ain't about Mama; cuenta sus amores de juventud (Tanaka-kun)"
+ },
+ "P2981": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3205 le dice Kiryu-san en snack_b18 justo tras su frase Go see them"
+ },
+ "P2987": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P3157 es su novia Yuka-chan; le dicen man (id 23396)"
+ },
+ "P2989": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "le dice Dude/amigo a P2832 (id 23472); se dice listo (id 23439)"
+ },
+ "P3029": {
+  "nombre": "novio extorsionador",
+  "genero": "H",
+  "pista": "dice 'mi mujer'"
+ },
+ "P3036": {
+  "nombre": "Hiroshi Tsutsui",
+  "genero": "H",
+  "pista": "se presenta: My name's Hiroshi Tsutsui; le dicen man y amigo (sub_a06)"
+ },
+ "P3038": {
+  "nombre": "Tsutsui-kun",
+  "genero": "H",
+  "pista": "su canal es el Tsutsui-kun Channel; P3037 le dice Estas loco (sub_a06)"
+ },
+ "P3043": {
+  "nombre": "Hatakeyama",
+  "genero": "H",
+  "pista": "P2930 le habla como «Hatakeyama-san» (id 26111); P3044 es el mismo padre («my daughter»)"
+ },
+ "P3044": {
+  "nombre": "Hatakeyama",
+  "genero": "H",
+  "pista": "se dice «Pero estaba equivocado» y «me puse muy nervioso» (id 26156); P2931 le habla de «your daughter» (id 26165)"
+ },
+ "P3058": {
+  "nombre": "Kaneko",
+  "genero": "H",
+  "pista": "P2872 le dice Kaneko-san; dejó el boxeo"
+ },
+ "P3059": {
+  "nombre": "Kaneko",
+  "genero": "H",
+  "pista": "P2873 le dice Kaneko-san; habla de su depresión por retirarse del boxeo"
+ },
+ "P3060": {
+  "nombre": "Gen",
+  "genero": "H",
+  "pista": "P2886 le dice G-Gen-san; P3060 le habla a Kiryu-san con buddy/man"
+ },
+ "P3061": {
+  "nombre": "Kaneko",
+  "genero": "H",
+  "pista": "P2888 le dice K-Kaneko-san; P3061 se llama boxeador y dice estaba emocionado (masculino)"
+ },
+ "P3064": {
+  "nombre": "Minato",
+  "genero": "M",
+  "pista": "P2893 la llama Mama Minato; habla de sí en femenino (Me quedé sorprendida; Para ser honesta)"
+ },
+ "P3079": {
+  "nombre": "Hatakeyama",
+  "genero": "H",
+  "pista": "se presenta: I'm Hatakeyama; P3081 le dice Hatakeyama-san"
+ },
+ "P3080": {
+  "nombre": "Kaneko",
+  "genero": "H",
+  "pista": "P3081 le dice Hey Kaneko-san, que no sea así"
+ },
+ "P3082": {
+  "nombre": "Hatakeyama",
+  "genero": "H",
+  "pista": "P3084 le dice Hatakeyama-san, I can hear every word"
+ },
+ "P3089": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "P3087 le dice «I got a bone t'pick with ya, Mama...» (id 26262)"
+ },
+ "P3091": {
+  "nombre": "Gen-san",
+  "genero": "H",
+  "pista": "P2851 le dice «Hey Gen-san» (id 26290); P3092 habla de él como «He's been playing... He's like a little kid» (id 26292)"
+ },
+ "P3100": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "P3099 le dice Now, now, Mama"
+ },
+ "P3112": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3113 le dice Kiryu-san; dice ya no ser el joven de antes"
+ },
+ "P3113": {
+  "nombre": "Sachiko",
+  "genero": "M",
+  "pista": "P3147 le dice Sachiko; habla de su hermano y de Kiryu-san"
+ },
+ "P3135": {
+  "nombre": "anfitriona",
+  "genero": "M",
+  "pista": "habla de si en femenino: I used to dream... when I was a little girl; soy timida"
+ },
+ "P3140": {
+  "nombre": "Mama",
+  "genero": "M",
+  "pista": "P3139 le dice Mama, P3151 Wow, Mama made a point"
+ },
+ "P3141": {
+  "nombre": "anfitriona",
+  "genero": "M",
+  "pista": "pide sus propias medidas de busto, cintura y cadera (habla de si en femenino)"
+ },
+ "P3147": {
+  "nombre": "barman de Onomichi",
+  "genero": "H",
+  "pista": "P3113 habla del barman en masculino (He); no confirmado al 100 por ciento"
+ },
+ "P3149": {
+  "nombre": "Akiyoshi",
+  "genero": "H",
+  "pista": "se presenta: I'm Akiyoshi (snack_kikkake); mismo nombre que P3205"
+ },
+ "P3150": {
+  "nombre": "Kaneko",
+  "genero": "H",
+  "pista": "se presenta: I'm Kaneko; dice so rude en masculino (grosero)"
+ },
+ "P3153": {
+  "nombre": "Kaneko",
+  "genero": "H",
+  "pista": "P3142 y P3152 le llaman Kaneko-san; ex boxeador retirado (snack_b21)"
+ },
+ "P3155": {
+  "nombre": "Kaneko",
+  "genero": "H",
+  "pista": "P3145 le dice Kaneko-san tras su frase I need to be more accepting; P3144 le dice que fue frio con Kiryu (snack_b22)"
+ },
+ "P3158": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "se dice linda y se alegra en femenino (id 23459)"
+ },
+ "P3161": {
+  "nombre": "madre de Shizuko",
+  "genero": "M",
+  "pista": "P2971 le dice «I heard what you were talking about with your mom back there» (id 25109); P3161 dice «your own good, Shizuko»"
+ },
+ "P3169": {
+  "nombre": "Amano",
+  "genero": "M",
+  "pista": "se presenta: I'm Amano, from Amano Fish; P3260 dice Amano here's a real passionate girl"
+ },
+ "P3170": {
+  "nombre": "Amano",
+  "genero": "M",
+  "pista": "P3260 le dice Y'can't do that, kid! y la llama muchacha; habla de sí en femenino (nueva en esto)"
+ },
+ "P3174": {
+  "nombre": "Amano",
+  "genero": "M",
+  "pista": "P3174 paga la captura a Kiryu; P3266 habla de Amano-san como enamorada; P3260 la llama girl"
+ },
+ "P3175": {
+  "nombre": "Amano",
+  "genero": "M",
+  "pista": "P3268 le dice que es una chica con su padre; quiere vengar la muerte de su padre"
+ },
+ "P3176": {
+  "nombre": "Amano",
+  "genero": "M",
+  "pista": "habla de sí en femenino: Estaba tan preocupada; P3270 le dice Listen t'this, Amano!"
+ },
+ "P3179": {
+  "nombre": "Saigo",
+  "genero": "H",
+  "pista": "se presenta: I'm Saigo, Crisis Management Professional; habla a Kiryu-kun"
+ },
+ "P3197": {
+  "nombre": "",
+  "genero": "M",
+  "pista": "P3196 le dice Ma'am/señora (id 23264)"
+ },
+ "P3205": {
+  "nombre": "Akiyoshi",
+  "genero": "H",
+  "pista": "P3135 le dice Akiyoshi-kun; Kiryu le dice Akiyoshi-san (snack_b18)"
+ },
+ "P3237": {
+  "nombre": "Shizuko",
+  "genero": "M",
+  "pista": "se presenta: «My name's Shizuko» (id 25127 y 25125); P2971 le dice «niña» (id 25127); P3236 (misma chica) usa «sola» en femenino (id 25106)"
+ },
+ "P3238": {
+  "nombre": "Shizuko",
+  "genero": "M",
+  "pista": "P2973 le dice «Shizuko» (id 25164)"
+ },
+ "P3241": {
+  "nombre": "Miku",
+  "genero": "M",
+  "pista": "P2925 le dice «the kind of girl» (id 25320) y «you're actually pretty cute» (id 25325, «bonita»)"
+ },
+ "P3244": {
+  "nombre": "Miku",
+  "genero": "M",
+  "pista": "P2926 le dice «Look, Miku» (id 25377); se presenta como «Remember me? Miku!» (id 25347); usa «la que salta» en femenino"
+ },
+ "P3248": {
+  "nombre": "Muranaka",
+  "genero": "H",
+  "pista": "P3247 le dice «Stay calm, Muranaka» (id 25445)"
+ },
+ "P3251": {
+  "nombre": "Kazuo",
+  "genero": "H",
+  "pista": "P3360 le dice «Kazuo... kun» (id 25540); se dice «I'm very grateful» en masculino (id 25545)"
+ },
+ "P3252": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P2846 le dice «Clever guy» (id 25552)"
+ },
+ "P3254": {
+  "nombre": "hija de Hatakeyama",
+  "genero": "M",
+  "pista": "P3255 le dice «Hatakeyama, you're a smart cookie» (id 26139); P3043 habla de «She's been waitin'» de su hija"
+ },
+ "P3255": {
+  "nombre": "Satoshi",
+  "genero": "H",
+  "pista": "P2931 le dice «he seems to be a good kid» de Satoshi (id 26165); P3044 le llama «that Satoshi kid»"
+ },
+ "P3257": {
+  "nombre": "Tsunashima",
+  "genero": "H",
+  "pista": "se presenta: jefe del gimnasio de boxeo de Kaneko; se llama a sí mismo old man"
+ },
+ "P3259": {
+  "nombre": "Isao",
+  "genero": "H",
+  "pista": "se presenta: the name's Isao; P3169 lo llama Isao-san"
+ },
+ "P3260": {
+  "nombre": "Isao",
+  "genero": "H",
+  "pista": "P3170 dice que Isao-san está herido; es el pescador lesionado"
+ },
+ "P3266": {
+  "nombre": "Isao",
+  "genero": "H",
+  "pista": "P3174 le dice You're the worst, Isao-san!"
+ },
+ "P3268": {
+  "nombre": "pescador sin nombre",
+  "genero": "H",
+  "pista": "bromea: 'Si yo fuera mujer, caería rendida'"
+ },
+ "P3284": {
+  "nombre": "Kazuma Kiryu",
+  "genero": "H",
+  "pista": "P3148 le dice Kiryu-san"
+ },
+ "P3287": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "P2836 le dice «Old man» (id 24664)"
+ },
+ "P3290": {
+  "nombre": "Hironaka",
+  "genero": "H",
+  "pista": "dice de sí mismo «A wimpy guy like me» (id 24750) y «I'm the producer for this event, Hironaka» (id 24765)"
+ },
+ "P3296": {
+  "nombre": "Koharu",
+  "genero": "M",
+  "pista": "se presenta: Ando's ex-wife, Koharu"
+ },
+ "P3298": {
+  "nombre": "Koharu",
+  "genero": "M",
+  "pista": "P3811 la llama Koharu; es la exesposa de Ando"
+ },
+ "P3307": {
+  "nombre": "",
+  "genero": "H",
+  "pista": "se dice equivocado en masculino (id 23504)"
+ },
+ "P3326": {
+  "nombre": "chico del dron",
+  "genero": "H",
+  "pista": "P2806 lo llama innocent kid; P3210 lo llama punk; P2807 le dice Tu familia debe estar preocupada (sub_a07)"
+ },
+ "P3340": {
+  "nombre": "Reiko",
+  "genero": "M",
+  "pista": "los matones la llaman Reiko-san y Reiko-chan; P2817 y P2819 hablan de ella en femenino (ids 22611, 22569)"
+ },
+ "P3805": {
+  "nombre": "Ando",
+  "genero": "H",
+  "pista": "se presenta: I'm Ando, duenyo de Otafuku Pawn (snack_kikkake)"
+ },
+ "P3806": {
+  "nombre": "Ando",
+  "genero": "H",
+  "pista": "P3139 le dice Ando-san; P3140 le dice you're really upset; exmarido de la mujer del anillo"
+ },
+ "P3809": {
+  "nombre": "Ando",
+  "genero": "H",
+  "pista": "P2854 le dice Ando-san; es el dueño de la casa de empeño Otafuku"
+ },
+ "P3811": {
+  "nombre": "Ando",
+  "genero": "H",
+  "pista": "Koharu le dice Honey; es el marido de Koharu"
+ },
+ "P3813": {
+  "nombre": "Ando",
+  "genero": "H",
+  "pista": "P2865 le dice Ando-san"
+ },
+ "P3814": {
+  "nombre": "Ando",
+  "genero": "H",
+  "pista": "P2887 le dice A-Ando-san"
+ }
+}

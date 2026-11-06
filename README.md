@@ -2,16 +2,18 @@
 
 ## Para jugar / To play
 
-**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)** (`Yakuza.6.-.Traduccion.al.espanol.v1.0.3.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
+**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)** (`Yakuza.6.-.Traduccion.al.espanol.v1.0.4.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
+
+**¿Quieres corregir esta traducción, pasarla a otro idioma o traducir otro Yakuza?** Usa las **[herramientas y la guía paso a paso](https://github.com/NMUI-dev/Yakuza-6-Herramientas-de-traduccion)**, con ParTool y reARMP incluidos.
 
 **Para compilarla tú mismo:** guía paso a paso en español en **[COMPILAR.md](COMPILAR.md)**. **`PREPARAR TODO.bat`** descarga de una vez todo lo necesario (Python, ParTool, reARMP, texconv y las fuentes), comprobando cada archivo.
 
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
-*Yakuza 6: The Song of Life* (Steam, PC). Release v1.0.3.
+*Yakuza 6: The Song of Life* (Steam, PC). Release v1.0.4.
 
 **This repository contains no game files.** Everything here is our own scripts, the translated text and the
 specifications used to redraw in-image text. To build the mod you need your own copy of the game from Steam.
@@ -26,14 +28,27 @@ The release zip only replaces files inside the game's `data` folder:
 | `data/talk.par` | Substory / minigame dialogue | `herramientas/aplicar_talk.py` + `trabajo/lotes/*_es.json` |
 | `data/font.par` | Font with Spanish letters added | `herramientas/letras_es.py`, `herramientas/letras_ascii.py` |
 | `data/ui.par` | UI textures with English text redrawn in Spanish | `herramientas/kit_atlas/*`, `herramientas/rotulos*.py`, `herramientas/v101_*.py` + `trabajo/imagenes*/` specs; v1.0.3 chapter cards, map and signs: `trabajo/faltan_c1/*.py` |
-| `data/hact/`, `data/auth/` (v1.0.3) | Cutscene subtitles (cmn.bin) | `entrega/Herramientas para traduccion/herramienta_traduccion.py` + `datos/cmn_indice_v103.csv` |
+| `data/hact/`, `data/auth/` (v1.0.3) | Cutscene subtitles (cmn.bin) | `herramienta_traduccion.py` + `datos/cmn_indice_v103.csv` of the [translation tools](https://github.com/NMUI-dev/Yakuza-6-Herramientas-de-traduccion) |
 
 The installer (`entrega/instalar.ps1`, started by `entrega/INSTALAR o QUITAR.bat`) is a plain PowerShell script: it
 finds the game through Steam's `libraryfolders.vdf`, backs up the original files and copies the translated ones;
 option 2 restores the backup. It downloads nothing and runs nothing else.
 
-`entrega/Herramientas para traduccion/` is the optional "translation tools" package shipped for people who want to edit
-the texts (`herramienta_traduccion.py extraer|aplicar`). It does **not** include ParTool: the user downloads it (see below).
+The translation tools (`herramienta_traduccion.py extraer|aplicar`) and the step-by-step guide are in a
+[separate repository](https://github.com/NMUI-dev/Yakuza-6-Herramientas-de-traduccion), which includes ParTool and reARMP.
+
+## v1.0.4
+
+- Review after a Steam comment ("sometimes the gender is wrong"): `trabajo/revision_steam_0511/`. The 3,158 lines that
+  describe a person were checked with the scene in front, speaker by speaker (`hablantes_y6.json`: 356 speaker ids with
+  name and gender; the same character has a different id in each scene). `cruce_genero.py` cross-checks every scene.
+- 12 fixes in `correcciones.json` (9 gender, 1 meaning, 2 typos). `chat_vivo.py` now strips `<...>` tags from what is typed
+  in Live Chat (a `<font_kind>` tag had been typed as "FONT KIND" before the v1.0.3 manual fixes).
+- Translation tool fix: `extraer` reused its working copies even when the translation had changed, so `textos.csv` could
+  come from an older build. Each copy now stores the MD5 of its source. `comparar_tablas.py` checks, cell by cell, that
+  only the intended fixes change against the published build.
+- Built from v1.0.3 with the public tool: `poner_correcciones.py <tools>/trabajo/textos.csv`, then
+  `herramienta_traduccion.py aplicar`.
 
 ## v1.0.3
 
@@ -56,7 +71,9 @@ trabajo/lotes/         the translation: lote_NNN.json (English source) + lote_NN
 trabajo/clases_grupos.json   which table columns are player-visible text (TEXTO) vs internal ids (ID, never touched)
 trabajo/imagenes/atlas_hechos/*.json   per-texture specs: box, English text, Spanish text, font, size, colours
 trabajo/imagenes_ui/*.json   specs for title/pause/mission banners (atlas_es.json, rotulos_es.json)
-entrega/               installer + optional translation tools, exactly as shipped (without third-party .exe)
+entrega/               installer, exactly as shipped
+terceros/reARMP/       reARMP (Ret-HZ, GPL-2.0), copied to herramientas/reARMP by PREPARAR TODO.bat
+trabajo/revision_steam_0511/   v1.0.4 review: fixes, speakers and their gender, review scripts
 ```
 
 ## Requirements
@@ -70,7 +87,7 @@ entrega/               installer + optional translation tools, exactly as shippe
     <https://github.com/Kaplas80/ParManager/releases/download/v1.3.4/v1.3.4-windows-x64.zip>
     (SHA-256 of ParTool.exe: `b798027a243229c04741e491abb1f92ae4cc7a379c0cba31b81446f9be4e5b3f`)
   - **reARMP** (Ret-HZ, GPL-2.0) — `herramientas/reARMP/reARMP.py` <https://github.com/Ret-HZ/reARMP>
-    (a copy with its LICENSE is in `entrega/Herramientas para traduccion/programas/reARMP/`)
+    (a copy with its LICENSE is in `terceros/reARMP/`)
   - **texconv** (Microsoft DirectXTex, MIT) — `herramientas/kit_atlas/texconv/texconv.exe`
     <https://github.com/microsoft/DirectXTex/releases>
   - Fonts for redrawn textures (Google Fonts, OFL/Apache) — `herramientas/fuentes_img/`:

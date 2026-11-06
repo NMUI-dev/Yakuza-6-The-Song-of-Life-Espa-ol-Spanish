@@ -12,6 +12,8 @@ uni = {u['id']: u for u in json.load(open(f'{D}/unidades.json', encoding='utf-8'
 nuevo = {uni[int(i)]['en']: s for i, s in json.load(open(f'{D}/traducido.json', encoding='utf-8')).items()}
 
 def teclear(frase, largo):
+    # (05-11, claude1) Fuera etiquetas <...>: «<font_kind=yakuza_italic>» acababa tecleándose «FONT KIND».
+    frase = re.sub(r'<[^>]*>', '', frase)
     s = unicodedata.normalize('NFD', frase.replace('~', 'í').replace('|', 'Í'))
     s = ''.join(c for c in s if unicodedata.category(c) != 'Mn').upper()
     s = re.sub(r"[^A-Z0-9? ]", ' ', s); palabras = s.split()
