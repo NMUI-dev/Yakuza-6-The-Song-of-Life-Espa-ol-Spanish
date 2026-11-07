@@ -33,6 +33,11 @@ def armar(destino, pares):
           destino.stat().st_size / 2 ** 20, hashlib.sha256(destino.read_bytes()).hexdigest()[:16]))
 
 
+# (07-11) el LEEME llevaba «644 textos corregidos» a mano cuando ya eran 677: ahora se comprueba antes de empaquetar
+import json
+n_corr = len(json.load(open(Path(__file__).resolve().parent / "correcciones.json", encoding="utf-8")))
+if "%d textos corregidos" % n_corr not in (ORIG / "LEEME.txt").read_text(encoding="utf-8-sig"):
+    sys.exit("PARO: el LEEME no dice «%d textos corregidos» (correcciones.json)" % n_corr)
 pares = [(ORIG / f, f) for f in ["AVISO.txt", "INSTALAR o QUITAR.bat", "LEEME.txt", "instalar.ps1"]]
 for base, _, nombres in os.walk(ORIG / "archivos"):
     for n in nombres:

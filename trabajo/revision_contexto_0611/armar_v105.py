@@ -58,9 +58,11 @@ def meter():
             continue
         antes, es, de = quiero[en]
         actual = norm(f[i_es])
-        if antes is not None and actual != antes.replace("í", "í"):
+        # (07-11) rearmar sobre lo ya armado: si la frase ya trae el texto nuevo, está bien (la comparación con la v1.0.4 lo comprueba)
+        # vacío = la herramienta no saca español igual al inglés (correcciones que dejan «Mama», «Forkball» como el inglés)
+        if antes is not None and actual not in (antes, es) and not (actual == "" and norm(es) == en):
             raras.append("%s: el CSV dice %r y la corrección esperaba %r" % (de, actual[:60], antes[:60]))
-        if antes is None and actual and actual != en:
+        if antes is None and actual and actual not in (en, es):
             raras.append("%s: ya tenía traducción %r" % (de, actual[:60]))
         f[i_es] = es
         puestas.add(en)

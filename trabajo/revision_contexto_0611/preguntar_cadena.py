@@ -64,7 +64,8 @@ def preguntar(quien, texto):
         return limpiar(re.sub(r"\x1b\[[0-9;]*m", "", p.stdout))
     from google import genai
     from google.genai import types
-    r = genai.Client().models.generate_content(model=m, contents=texto, config=types.GenerateContentConfig(
+    cli = genai.Client()   # (07-11) en una línea aparte: si no, «client has been closed» (aviso de claude2)
+    r = cli.models.generate_content(model=m, contents=texto, config=types.GenerateContentConfig(
         response_mime_type="application/json", temperature=0.5, http_options=types.HttpOptions(timeout=900000)))
     return limpiar(r.text)
 

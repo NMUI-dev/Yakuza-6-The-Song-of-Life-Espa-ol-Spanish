@@ -5849,6 +5849,24 @@
   "veces": 1,
   "donde": "talk | kaisou/e/ryu02.par"
  },
+ "24419": {
+  "en": "Yeah. I have to go to English class every day.\nI'm sick of it.",
+  "antes": "Sí. Tengo que ir a mi clase de inglés todos los días.\nEstoy harto.",
+  "es": "No. Tengo que ir a mi clase de inglés todos los días.\nEstoy harto.",
+  "tipo": "sentido",
+  "motivo": "paradoja sí/no (ronda final, Gemini): a «¿No te importa?» Sakito contesta que NO le importa el inglés; «Sí» en español diría lo contrario",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "4481": {
+  "en": "Mash to Lift",
+  "antes": "Presiona repetidamente para levantar",
+  "es": "Presiona rápido para levantar",
+  "tipo": "término",
+  "motivo": "igual que #4479 «Presiona rápido para levantar la barra» y más corto para la guía de botones (ronda final, Gemini)",
+  "veces": 2,
+  "donde": "controller_guide | buttons/#//#"
+ },
  "29199": {
   "en": "<symbol=bullet_point>Collect 12 points by completing games.\n(Easy = 1 point; Medium = 2 points)\n<symbol=bullet_point>Win at least one game of either type.\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\n\nYou currently have 3 points and have not won any games.",
   "antes": "<symbol=bullet_point>Suma 12 pts jugando partidas.\n(Fácil=1 pt; Media=2 pts)\n<symbol=bullet_point>Gana al menos una partida.\n<symbol=bullet_point>Cuota de participación: 50.000 yenes.\n\nTienes 3 pts y no has ganado ninguna partida.",

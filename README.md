@@ -42,7 +42,7 @@ The translation tools (`herramienta_traduccion.py extraer|aplicar`) and the step
 - Whole-translation review scene by scene (`trabajo/revision_contexto_0611/`): `armar_escenas.py` puts every cutscene,
   speech list and talk in order with who speaks; free AI reviewers (`revisar_escenas.py`) flagged 398 possible errors and
   each one was decided by hand with the scene in front (`decididas_escenas.json` = fixed, `rechazadas.json` = not an error,
-  with the reason). 677 fixes in `correcciones.json` (built by `correcciones_v105.py`, which checks tags, line breaks and
+  with the reason). 679 fixes in `correcciones.json` (built by `correcciones_v105.py`, which checks tags, line breaks and
   byte limits): line breaks, terms, tú/usted, numbers, profanity restored to the original strength, gender, meaning.
 - Tool fix (tools repository): one-word lines with "." or "-" ("B-Bullshit.", "Th-Thanks...") were taken for internal codes
   and never extracted, so 136 lines stayed in English; plus 34 visible cells in lower case or with "/". 53 texts translated

@@ -3,18 +3,19 @@
 Traducción hecha por fans del inglés oficial al español neutro latinoamericano. Gratis, prohibido venderla.
 
 CAMBIOS EN LA v1.0.5 (revisión de TODA la traducción escena por escena)
-- Revisadas todas las escenas enteras, en orden y sabiendo quién habla y a quién: 644 textos corregidos.
+- Revisadas todas las escenas enteras, en orden y sabiendo quién habla y a quién: 679 textos corregidos.
 - 53 textos que seguían en INGLÉS sin que se supiera (frases cortas como «B-Bullshit.», «Th-Thanks...»,
   «Loading...», guías de botones, entradas del béisbol, chat en vivo): ahora en español.
 - Tú y usted coherentes en cada conversación (62): dependientes y personal de SEGA de usted, Kurusu y Someya de
   usted con Kiryu, Kiryu tutea a Yoshida y a Someya...
 - Groserías con la misma fuerza que el original (42): no se suaviza nada («Don't fuck with me» ya no es
   «No te metas conmigo»).
-- Un nombre, una traducción (111): «Pequeña Asia» en todo el juego, «Mama» para la dueña del bar, nombres de
+- Un nombre, una traducción (112): «Pequeña Asia» en todo el juego, «Mama» para la dueña del bar, nombres de
   objetos y locales iguales en las frases y en los menús.
 - Renglones partidos por mal sitio (269), textos que se salían (27), subtítulos que no daba tiempo a
   leer (25), letras que la fuente no tiene («6.º» -> «6.°», 20), cifras («yenes», 51),
-  género (11), sentido (11), erratas (12) y palabras de España o de un solo país (7).
+  signos (punto fuera de las comillas, ¿ ¡; 42), género (11), sentido (12), erratas (13) y palabras de España o
+  de un solo país (7).
 CAMBIOS EN LA v1.0.4 (tras un comentario en Steam: «a veces el género está mal»)
 - Revisadas una a una, con la escena delante, las 3.158 frases que dicen cómo es una persona (seguro/segura, listo/lista,
   bueno/buena...). Corregidas las que tenían el género mal: Kiyomi decía «no estoy enojado», Kiryu decía «me ofrezco a

@@ -5,21 +5,21 @@ Revisión de toda la traducción por ESCENAS enteras (quién habla, a quién, qu
 del usuario: entender el contexto antes de tocar una frase, ser fiel al original y localizar solo cuando haga falta,
 NUNCA CENSURAR, anotar cada error y cada arreglo. Hecho por claude1 (el Yakuza 6 es suyo).
 
-1. CAMBIOS: 644 textos distintos (1200 apariciones en el juego) + 53 frases que seguían en inglés
+1. CAMBIOS: 679 textos distintos (1265 apariciones en el juego) + 53 frases que seguían en inglés
 ------------------------------------------------------------------------------
   Renglón partido por mal sitio (acababa en artículo o preposición)       269
-  Un nombre, una traducción (mapa/objeto/habilidad igual en las frases)   111
+  Un nombre, una traducción (mapa/objeto/habilidad igual en las frases)   112
   Tú / usted                                                               62
   Cifras (miles con coma, yenes)                                           51
+  Signos ¿? ¡!                                                             42
   Groserías suavizadas, devueltas a la fuerza del original (NUNCA CENSURAR)   42
   Renglón más largo que el inglés (texto que se salía)                     27
   Subtítulos que no daba tiempo a leer                                     25
   Letras que la fuente del juego no tiene (º ª « » à)                      20
-  Erratas                                                                  12
-  Sentido                                                                  11
+  Erratas                                                                  13
+  Sentido                                                                  12
   Género                                                                   11
   Español de España                                                         4
-  Signos ¿? ¡!                                                              4
   Palabra de un solo país                                                   3
   Frase hecha o chiste localizado                                           2
   Mayúsculas                                                                1
@@ -32,6 +32,8 @@ NUNCA CENSURAR, anotar cada error y cada arreglo. Hecho por claude1 (el Yakuza 6
 ------------------------------------------------------------------------------
   Paquetes revisados: 102 de 102. Avisos de los revisores: 398. Cada aviso se decidió a mano con la escena delante:
   342 no eran error (motivo anotado en rechazadas.json).
+  Ronda final de preguntas en cadena (cada IA recibe todo lo hecho y lo que ya dijeron las anteriores): Kilo, xing4.0-29b-a4b, gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash;
+  29 ideas nuevas, cada una convertida en barrido (ideas_cadena2/3/4.py) y revisada a mano.
 
 3. LO QUE NO SE TOCÓ A PROPÓSITO (y por qué)
 ------------------------------------------------------------------------------
@@ -54,7 +56,7 @@ NUNCA CENSURAR, anotar cada error y cada arreglo. Hecho por claude1 (el Yakuza 6
 
 5. COMPROBADO
 ------------------------------------------------------------------------------
-  Comparación celda a celda de las tablas db_e con la v1.0.4 publicada: 102 tablas distintas, 1329 celdas cambiadas por las correcciones, 2 celdas que seguían en inglés y ahora usan la traducción común, 0 inesperadas.
+  Comparación celda a celda de las tablas db_e con la v1.0.4 publicada: 104 tablas distintas, 1384 celdas cambiadas por las correcciones, 2 celdas que seguían en inglés y ahora usan la traducción común, 0 inesperadas.
   Ida y vuelta: se volvió a extraer lo armado y cada una de las filas de textos.csv coincide con lo que se quería
     meter (tablas, diálogos de talk.par y escenas sueltas): 0 diferencias. Ningún diálogo quedó en inglés por no caber.
   Todas las letras usadas existen en la fuente del juego (letras_fuente.py: 0 que falten).
