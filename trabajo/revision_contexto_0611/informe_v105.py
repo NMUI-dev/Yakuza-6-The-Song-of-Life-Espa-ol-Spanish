@@ -51,12 +51,13 @@ w("2. REVISIÓN POR ESCENAS")
 w("-" * 78)
 w("  Paquetes revisados: %d de %d. Avisos de los revisores: %d. Cada aviso se decidió a mano con la escena delante:" % (len(paquetes), total_paq, avisos))
 w("  %d no eran error (motivo anotado en rechazadas.json)." % len(rech))
-pasos = [json.load(open(p, encoding="utf-8")) for p in sorted((aqui / "cadena_final").glob("paso_*.json"))]
+pasos = sorted((json.load(open(p, encoding="utf-8")) for p in (aqui / "cadena_final").glob("*.json")), key=lambda d: d.get("paso", 0))
 if pasos:
     w("  Ronda final de preguntas en cadena (cada IA recibe todo lo hecho y lo que ya dijeron las anteriores): %s;"
-      % ", ".join("Kilo" if p["quien"].startswith("kilo:") else p["quien"].split(":", 1)[1].split("/")[-1].replace(":free", "")
+      % ", ".join("Kilo" if p["quien"].startswith("kilo:") else {"manual:gemini-usuario": "Gemini del usuario", "manual:grok-usuario": "Grok del usuario",
+                "manual:grok-usuario-2": "Grok del usuario (2.ª)"}.get(p["quien"]) or p["quien"].split(":", 1)[1].split("/")[-1].replace(":free", "")
                 for p in pasos))
-    w("  %d ideas nuevas, cada una convertida en barrido (ideas_cadena2/3/4.py) y revisada a mano." % sum(len(p["respuesta"].get("nuevas", [])) for p in pasos))
+    w("  %d ideas nuevas, cada una convertida en barrido (ideas_cadena2 a 7.py) y revisada a mano." % sum(len(p["respuesta"].get("nuevas", [])) for p in pasos))
 w("")
 w("3. LO QUE NO SE TOCÓ A PROPÓSITO (y por qué)")
 w("-" * 78)

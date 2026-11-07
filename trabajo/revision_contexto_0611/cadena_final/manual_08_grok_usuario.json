@@ -1,0 +1,8 @@
+{"quien": "manual:grok-usuario-2", "paso": 8, "respuesta": {"nuevas": [
+ {"aspecto": "Calcos de phrasal verbs e idioms ingleses", "por_que": "suenan a traducción", "como_detectar": "hacer sentido, llamar de vuelta, en la misma página, dar un chance, hacer un punto, pensar fuera de la caja", "prioridad": "alta"},
+ {"aspecto": "Insultos de fuerza o registro desajustado", "por_que": "suaves o de España", "como_detectar": "revisar groserías por hablante", "prioridad": "alta"},
+ {"aspecto": "Humor y sarcasmo aplastado por literalidad", "por_que": "pierde el golpe", "como_detectar": "diálogos cómicos", "prioridad": "media"},
+ {"aspecto": "Gerundios calcados (estar + gerundio)", "por_que": "poco natural", "como_detectar": "estoy/estás/está + -ndo", "prioridad": "media"},
+ {"aspecto": "Faltan muletillas orales latinas (la neta, qué onda, pues)", "por_que": "suena plano", "como_detectar": "frecuencia por personaje", "prioridad": "media"},
+ {"aspecto": "Vocativos y apodos desiguales (hermano, jefe, carnal, compa)", "por_que": "habla callejera", "como_detectar": "vocativos por relación", "prioridad": "baja"}
+]}}

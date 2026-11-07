@@ -1,0 +1,10 @@
+{"quien": "manual:grok-usuario", "paso": 7, "respuesta": {"nuevas": [
+ {"aspecto": "Colectivos en singular/plural de forma desigual (la yakuza / los yakuza, el clan)", "por_que": "inconsistencia de número", "como_detectar": "contar las formas de cada colectivo y su verbo", "prioridad": "alta"},
+ {"aspecto": "Artículo delante de nombres de locales que aparece y desaparece", "por_que": "descuido de localización", "como_detectar": "contar apariciones con y sin artículo de cada local del mapa", "prioridad": "alta"},
+ {"aspecto": "Onomatopeyas y gritos que quedan en inglés (Ugh, Argh, Gah, Hmph)", "por_que": "coherencia", "como_detectar": "buscar interjecciones inglesas en el español", "prioridad": "alta"},
+ {"aspecto": "Platos japoneses escritos de varias formas", "por_que": "el nombre cambia entre menú, inventario y diálogo", "como_detectar": "variantes de transliteración de cada plato", "prioridad": "alta"},
+ {"aspecto": "Referencias culturales japonesas sin contexto", "por_que": "chistes que no se entienden", "como_detectar": "a ojo", "prioridad": "media"},
+ {"aspecto": "Subtítulos más largos que el audio", "por_que": "desaparecen antes de que acabe la voz", "como_detectar": "duración vs caracteres", "prioridad": "alta"},
+ {"aspecto": "Mayúsculas distintas en el mismo título según la pantalla", "por_que": "falta de pulido", "como_detectar": "comparar capitalización del mismo título", "prioridad": "media"},
+ {"aspecto": "Nombres de canciones del karaoke distintos en cada pantalla", "por_que": "(respuesta cortada)", "como_detectar": "(respuesta cortada)", "prioridad": "?"}
+]}}

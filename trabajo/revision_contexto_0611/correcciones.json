@@ -5867,6 +5867,87 @@
   "veces": 2,
   "donde": "controller_guide | buttons/#//#"
  },
+ "12501": {
+  "en": "Ugh, such a meanie, Kiryu-san!\nBut, a model or a TV personality might work.",
+  "antes": "¡Ugh, qué malo eres, Kiryu-san!\nPero modelo o figura de televisión podría funcionar.",
+  "es": "¡Ay, qué malo eres, Kiryu-san!\nPero modelo o figura de televisión podría funcionar.",
+  "tipo": "errata",
+  "motivo": "interjección inglesa «Ugh» (ronda final, Grok del usuario): en el juego «Ugh» salía de 5 formas; se usa la española según la escena (broma cariñosa)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "22441": {
+  "en": "Urgh... That trash bag...\nWhat did I do wrong...?",
+  "antes": "Ugh... Esa bolsa de basura...\n¿Qué hice mal...?",
+  "es": "Agh... Esa bolsa de basura...\n¿Qué hice mal...?",
+  "tipo": "errata",
+  "motivo": "interjección inglesa «Ugh» (ronda final, Grok del usuario): en el juego «Ugh» salía de 5 formas; se usa la española según la escena (dolor)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "23176": {
+  "en": "Ugh, fine.\nIn that case...",
+  "antes": "Ugh, bien.\nEn ese caso...",
+  "es": "Uf, bien.\nEn ese caso...",
+  "tipo": "errata",
+  "motivo": "interjección inglesa «Ugh» (ronda final, Grok del usuario): en el juego «Ugh» salía de 5 formas; se usa la española según la escena (resignación)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "23392": {
+  "en": "Huh? So you won't deny it?\nUgh, you're the lowest of the low!",
+  "antes": "¿Qué? ¿Así que no lo vas a negar?\n¡Ugh, eres el peor de los peores!",
+  "es": "¿Qué? ¿Así que no lo vas a negar?\n¡Agh, eres el peor de los peores!",
+  "tipo": "errata",
+  "motivo": "interjección inglesa «Ugh» (ronda final, Grok del usuario): en el juego «Ugh» salía de 5 formas; se usa la española según la escena (asco)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "24661": {
+  "en": "Ugh, that's enough sleeping on the ground for me.",
+  "antes": "Ugh, ya basta de dormir en el suelo.",
+  "es": "Uf, ya basta de dormir en el suelo.",
+  "tipo": "errata",
+  "motivo": "interjección inglesa «Ugh» (ronda final, Grok del usuario): en el juego «Ugh» salía de 5 formas; se usa la española según la escena (cansancio)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "24678": {
+  "en": "Ugh, I wish I didn't pass out every time.",
+  "antes": "Ugh, ojalá no me desmayara cada vez.",
+  "es": "Uf, ojalá no me desmayara cada vez.",
+  "tipo": "errata",
+  "motivo": "interjección inglesa «Ugh» (ronda final, Grok del usuario): en el juego «Ugh» salía de 5 formas; se usa la española según la escena (cansancio)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "11915": {
+  "en": "Yeah! I auditioned, made it through the test,\nand managed to get a call back!",
+  "antes": "¡Sí! Hice la audición, pasé la prueba\ny conseguí que me llamaran de vuelta.",
+  "es": "¡Sí! Hice la audición, pasé la prueba\ny conseguí que me volvieran a llamar.",
+  "tipo": "localización",
+  "motivo": "calco de «callback» (ronda final, Grok del usuario)",
+  "veces": 2,
+  "donde": "sound_auth | table/#//#"
+ },
+ "5793": {
+  "en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　Pulling this move off will help you keep up the offensive.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_n2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　This can also be done with <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>.\n　If used as a Counter Hit, continue the combo with <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Use this strike to gain the advantage. Always stay on the offensive!\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Watch out: Opponents can dodge this move if they are crouching.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　A Throw representative of Pai's character. The finishing pose is distinct as well!",
+  "antes": "<color=mg_relu_topic>[Ataque medio]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　Si lo ejecutas bien, te ayudará a mantener la ofensiva.\n<color=mg_relu_topic>[Inicio de combo]　</color> <symbol=vf5_key_arrow_n2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　También se puede hacer con <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>.\n　Si conecta como Counter Hit, continúa el combo con <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Ataque bajo]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Usa este golpe para tomar ventaja. ¡No sueltes nunca la ofensiva!\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Cuidado: los rivales pueden esquivar este movimiento si están agachados.\n<color=mg_relu_topic>[Agarre]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Un agarre muy característico de Pai. ¡La pose final también es única!",
+  "es": "<color=mg_relu_topic>[Ataque medio]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p>\n　Si lo ejecutas bien, te ayudará a mantener la ofensiva.\n<color=mg_relu_topic>[Inicio de combo]　</color> <symbol=vf5_key_arrow_n2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>\n　También se puede hacer con <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_p> + <symbol=vf5_key_k>.\n　Si conecta como Counter Hit, continúa el combo con <symbol=vf5_key_p> <symbol=vf5_key_p> <symbol=vf5_key_k> <symbol=vf5_key_k>.\n<color=mg_relu_topic>[Ataque bajo]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Usa este golpe para sacar ventaja. ¡No sueltes nunca la ofensiva!\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Cuidado: los rivales pueden esquivar este movimiento si están agachados.\n<color=mg_relu_topic>[Agarre]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　Un agarre muy característico de Pai. ¡La pose final también es única!",
+  "tipo": "localización",
+  "motivo": "calco de «take advantage» (ronda final, Grok del usuario)",
+  "veces": 1,
+  "donde": "manual | table/#//#"
+ },
+ "5797": {
+  "en": "<color=mg_relu_topic>[Mid Attack]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\n　You will be left vulnerable if this attack is blocked.\n　Mix things up by stopping after only one  <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Combo Starter]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\n　Pulling this move off will launch your opponent into the air.\n　Continue the combo with <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Low Attack]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Use this strike to gain the advantage. Always stay on the offensive!\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　This high damage attack will catch your opponents as they attempt to dodge.\n<color=mg_relu_topic>[Throw]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　This is the strongest of all of Jeffry's Throw techniques.\n　Try to be proactive in using this one!",
+  "antes": "<color=mg_relu_topic>[Ataque medio]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\n　Quedarás expuesto si bloquean este ataque.\n　Varía tu juego deteniéndote tras un solo  <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Inicio de combo]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\n　Si lo ejecutas bien, lanzará al rival por los aires.\n　Continúa el combo con <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Ataque bajo]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Usa este golpe para tomar ventaja. ¡No sueltes nunca la ofensiva!\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Este ataque de gran daño atrapará a los rivales cuando intenten esquivar.\n<color=mg_relu_topic>[Agarre]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　El más fuerte de todos los agarres de Jeffry.\n　¡Úsalo sin miedo y toma la iniciativa!",
+  "es": "<color=mg_relu_topic>[Ataque medio]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>\n　Quedarás expuesto si bloquean este ataque.\n　Varía tu juego deteniéndote tras un solo  <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Inicio de combo]　</color> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_k>\n　Si lo ejecutas bien, lanzará al rival por los aires.\n　Continúa el combo con <symbol=vf5_key_arrow_w6> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> <symbol=vf5_key_p>.\n<color=mg_relu_topic>[Ataque bajo]　</color> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Usa este golpe para sacar ventaja. ¡No sueltes nunca la ofensiva!\n<color=mg_relu_topic>[Circular]　</color> <symbol=vf5_key_k> + <symbol=vf5_key_g>\n　Este ataque de gran daño atrapará a los rivales cuando intenten esquivar.\n<color=mg_relu_topic>[Agarre]　</color> <symbol=vf5_key_arrow_w4> <symbol=vf5_key_arrow_w1> <symbol=vf5_key_arrow_w2> <symbol=vf5_key_arrow_w3> <symbol=vf5_key_arrow_w6> <symbol=vf5_key_p> + <symbol=vf5_key_g>\n　El más fuerte de todos los agarres de Jeffry.\n　¡Úsalo sin miedo y toma la iniciativa!",
+  "tipo": "localización",
+  "motivo": "calco de «take advantage» (ronda final, Grok del usuario)",
+  "veces": 1,
+  "donde": "manual | table/#//#"
+ },
  "29199": {
   "en": "<symbol=bullet_point>Collect 12 points by completing games.\n(Easy = 1 point; Medium = 2 points)\n<symbol=bullet_point>Win at least one game of either type.\n<symbol=bullet_point>Pay a participation fee of 50,000 yen.\n\nYou currently have 3 points and have not won any games.",
   "antes": "<symbol=bullet_point>Suma 12 pts jugando partidas.\n(Fácil=1 pt; Media=2 pts)\n<symbol=bullet_point>Gana al menos una partida.\n<symbol=bullet_point>Cuota de participación: 50.000 yenes.\n\nTienes 3 pts y no has ganado ninguna partida.",

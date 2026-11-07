@@ -1,0 +1,4 @@
+{"quien": "manual:gemini-usuario", "paso": 6, "respuesta": {"nuevas": [
+ {"aspecto": "Trato tú/usted mezclado en santuarios, Jizo y ofrendas", "por_que": "imperativos dispares (reza/rece, ofrece/ofrezca) en un mismo bloque", "como_detectar": "filtrar jizo/shrine/temple/offertory y buscar imperativos de tú y de usted mezclados", "prioridad": "media"},
+ {"aspecto": "Concordancia de número en recompensas y ascensos del Creador de Clanes", "por_que": "plural genérico del inglés que no concuerda en español", "como_detectar": "en clan_creator, sustantivo plural (tropas, unidades, bonificaciones) con adjetivo singular o al revés", "prioridad": "baja"}
+]}}
