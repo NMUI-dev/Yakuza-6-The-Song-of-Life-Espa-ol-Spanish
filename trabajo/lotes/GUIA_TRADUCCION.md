@@ -50,11 +50,17 @@ Completion List → Lista de logros (del juego); Save Data → Datos guardados; 
 Minijuegos: Clan Creator → Creador de Clanes; Cabaret Club → Club de cabaré; hostess → anfitriona; Live Chat → Chat en vivo;
 Spearfishing → Pesca submarina; Sandlot Baseball → Béisbol de barrio; Batting Center → Centro de bateo; Gym → Gimnasio;
 Cat Café → Café de gatos; Karaoke → Karaoke; Darts → Dardos; Mahjong → Mahjong; Troublr → Troublr; Snack bar → bar snack.
-Dinero: yen (no «yenes» en menús: «10,000 yen»; en diálogo «yenes» está bien).
+Dinero: «yenes» en todo el juego, también en menús («10,000 yenes»), como el glosario oficial de la saga (corregido 06-11; antes decía «yen» en menús).
 
 ## Español NEUTRO LATINO (pedido del usuario, 19-10-2026)
 Nada de España (vosotros, coche, móvil, ordenador, vale, tío, chaval, crío, gafas, zumo, piso, conducir, aparcar, enfadarse,
-cabrear, pillar, coger, joder, coño, hostia, gilipollas) ni jerga marcada de un solo país (ahorita, chido, güey, neta,
+cabrear, pillar, coger, «¡joder!» como exclamación, coño, hostia, gilipollas) ni jerga marcada de un solo país (ahorita, chido, güey, neta,
 pinche, órale, che, boludo, pibe, laburo, chévere, parcero, vos). Usar: auto, celular, computadora, está bien/de acuerdo,
 amigo, muchacho/niño, lentes, jugo, departamento, manejar, estacionar, enojarse, agarrar/atrapar, tomar, maldición/carajo/
 demonios, imbécil. Barrido: python -X utf8 herramientas/buscar_fallos.py
+
+## NUNCA CENSURAR (regla del usuario, 06-11-2026: «nunca censurar las traducciones, hay que mantener la esencia de la obra»)
+- Groserías, insultos, sexo y violencia con la MISMA fuerza que el original; no suavizar ni quitar. Si una grosería es de
+  España, se cambia por otra IGUAL de fuerte que se use en toda Latinoamérica (¡Joder! -> ¡Mierda!/¡Carajo!), nunca por una
+  más suave. «Joder» como verbo («no me jodas», «estamos jodidos») se usa en toda Latinoamérica: se deja.
+- Lo que el original censura (f***, s***), se censura igual: inicial + puntos («hijo de p...»).

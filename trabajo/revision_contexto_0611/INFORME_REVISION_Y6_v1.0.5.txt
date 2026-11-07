@@ -1,0 +1,71 @@
+YAKUZA 6: THE SONG OF LIFE - INFORME DE LA TRADUCCIÓN v1.0.5 (06-11-2026)
+==============================================================================
+
+Revisión de toda la traducción por ESCENAS enteras (quién habla, a quién, qué se dijo antes y después), con las reglas
+del usuario: entender el contexto antes de tocar una frase, ser fiel al original y localizar solo cuando haga falta,
+NUNCA CENSURAR, anotar cada error y cada arreglo. Hecho por claude1 (el Yakuza 6 es suyo).
+
+1. CAMBIOS: 644 textos distintos (1200 apariciones en el juego) + 53 frases que seguían en inglés
+------------------------------------------------------------------------------
+  Renglón partido por mal sitio (acababa en artículo o preposición)       269
+  Un nombre, una traducción (mapa/objeto/habilidad igual en las frases)   111
+  Tú / usted                                                               62
+  Cifras (miles con coma, yenes)                                           51
+  Groserías suavizadas, devueltas a la fuerza del original (NUNCA CENSURAR)   42
+  Renglón más largo que el inglés (texto que se salía)                     27
+  Subtítulos que no daba tiempo a leer                                     25
+  Letras que la fuente del juego no tiene (º ª « » à)                      20
+  Erratas                                                                  12
+  Sentido                                                                  11
+  Género                                                                   11
+  Español de España                                                         4
+  Signos ¿? ¡!                                                              4
+  Palabra de un solo país                                                   3
+  Frase hecha o chiste localizado                                           2
+  Mayúsculas                                                                1
+  le/lo/la con el referente equivocado                                      1
+  Frases de una palabra que la herramienta nunca extraía (seguían en inglés)   53
+
+  Lista completa (inglés, antes, después, tipo y motivo): correcciones.json y nuevas_v105.json.
+
+2. REVISIÓN POR ESCENAS
+------------------------------------------------------------------------------
+  Paquetes revisados: 102 de 102. Avisos de los revisores: 398. Cada aviso se decidió a mano con la escena delante:
+  342 no eran error (motivo anotado en rechazadas.json).
+
+3. LO QUE NO SE TOCÓ A PROPÓSITO (y por qué)
+------------------------------------------------------------------------------
+  - Formato de los subtítulos de sound_auth: una coma sola en su renglón y renglones partidos con un espacio vienen IGUAL en el inglés original; es formato del juego, no errata.
+  - Habla rota de algunos personajes («¿Por qué tú aquí?», «Esto ser correcto»): igual que el inglés.
+  - Erratas a propósito del chat en vivo («reljaa»), como el original.
+  - «Joder» como verbo y «jodido» se usan en toda Latinoamérica: se dejan (solo «¡Joder!» exclamación es de España).
+  - «preparatoria» (doblaje latino), «hacer sombra» (boxeo), «guio» sin tilde (RAE 2010).
+  - Tratos que cambian con motivo: Joon-gi Han pasa de usted a tú con Yuta al pasar de «Usami-san» a «Yuta-kun»;
+  -   Torafuru pasa a tú después de presentarse. Detalle en NOTAS_AGENTES/COMUN/TRADUCCIONES/YAKUZA_PERSONAJES_Y_GENERO.md.
+
+4. FALLO DE LA HERRAMIENTA ENCONTRADO Y ARREGLADO
+------------------------------------------------------------------------------
+  es_texto() tomaba por código toda palabra suelta con «.» o «-» («B-Bullshit.», «Th-Thanks...», «Loading...»), así que
+  esas frases nunca se extraían y seguían en INGLÉS: 136 distintas, 585 apariciones (el informe de la v1.0.4 decía
+  que solo quedaban nombres: no era así). Arreglado en la herramienta pública, con una prueba (prueba_filtro.py).
+  De las 136, 21 se tradujeron; las otras 115 son nombres e interjecciones que en español se escriben igual.
+  Además, 32 textos visibles que el filtro dejaba fuera por ir en minúscula o con «/» (guías de botones «Pause/Quit»,
+  entradas del béisbol «1st» -> «1.°», «points», «seconds», chat en vivo «shiiit») se añadieron a datos/celdas_extra.
+
+5. COMPROBADO
+------------------------------------------------------------------------------
+  Comparación celda a celda de las tablas db_e con la v1.0.4 publicada: 102 tablas distintas, 1329 celdas cambiadas por las correcciones, 2 celdas que seguían en inglés y ahora usan la traducción común, 0 inesperadas.
+  Ida y vuelta: se volvió a extraer lo armado y cada una de las filas de textos.csv coincide con lo que se quería
+    meter (tablas, diálogos de talk.par y escenas sueltas): 0 diferencias. Ningún diálogo quedó en inglés por no caber.
+  Todas las letras usadas existen en la fuente del juego (letras_fuente.py: 0 que falten).
+  Prueba en el juego (copia de laboratorio, sin tocar Steam): título, menú principal, dificultad, aviso de autoguardado
+    y subtítulos de las primeras escenas en español, con tildes, ñ y ¡¿ bien dibujados.
+  Barridos fijos repetidos al final: groserías suavizadas 0, honoríficos perdidos 0, «pulsa» 0, variables %s/%d en
+    otro orden 0, letras que faltan 0.
+
+6. LO QUE QUEDA SIN ARREGLAR (y por qué)
+------------------------------------------------------------------------------
+  - 10 subtítulos algo rápidos (más de 20 letras por segundo): acortarlos quitaría sentido o suavizaría una grosería.
+  - 567 renglones que terminan en artículo o preposición y no se pueden partir mejor sin que la caja del subtítulo crezca.
+  - Lo que se deja en inglés a propósito (nombres, marcas, términos de dardos, karaoke en japonés): carpeta
+  -   «Lo que queda en ingles v1.0.5».

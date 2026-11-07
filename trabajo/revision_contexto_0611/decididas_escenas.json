@@ -1,0 +1,4006 @@
+[
+[
+"1675",
+"¿Te apetece un trago?",
+"¿Quieres un trago?",
+"españa",
+"«apetecer» suena a España; la guía pide neutro latino"
+],
+[
+"1693",
+"¿Te apetece un trago?",
+"¿Quieres un trago?",
+"españa",
+"igual que 1675 (misma escena repetida)"
+],
+[
+"1743",
+"Sé que es un hombre ocupado.",
+"Sé que eres un hombre ocupado.",
+"trato",
+"Hirose tutea a Lo en toda la escena (eres abuelo, te gustaría)"
+],
+[
+"365",
+"Menuda vista, ¿no?",
+"Qué vista, ¿no?",
+"españa",
+"«menuda» suena a España; neutro"
+],
+[
+"11399",
+"Ay, tú también no, Kiryu-san...",
+"Ay, ¿tú también, Kiryu-san...?",
+"sentido",
+"«not you too» = «¿tú también?» (también la cree menor); «tú también no» no es español"
+],
+[
+"11499",
+"eres la única a la que miro",
+"eres el único al que miro",
+"género",
+"Erina se lo dice a Kiryu (H)"
+],
+[
+"11673",
+"recogiste tú misma",
+"recogiste tú mismo",
+"género",
+"Erina le habla a Kiryu (H)"
+],
+[
+"11702",
+"...No me preocuparía por osos entrando a bailar.",
+"...No creo que entre ningún oso así como así.",
+"sentido",
+"«waltzing in» = entrar como si nada, no bailar"
+],
+[
+"11768",
+"",
+"Ay, Kiryu-san. <symbol=heart_with_outline>",
+"errata",
+"estaba vacía: salía en inglés"
+],
+[
+"11777",
+"practicamos ser enérgicas",
+"practicamos ser enérgicos",
+"género",
+"lo dice Kiryu (H) incluyéndose: plural mixto"
+],
+[
+"12292",
+"¿Puedo preguntarle su nombre, señor?",
+"¿Puedo preguntarte tu nombre, señor?",
+"trato",
+"Riona lo tutea justo después («contigo»): mismo trato en la presentación"
+],
+[
+"12859",
+"hablar así de\nrelajado",
+"hablar así de\nrelajada",
+"género",
+"Kiryu habla de Saki (M)"
+],
+[
+"12923",
+"¡Demasiado cerca!",
+"¡Estuvo cerca!",
+"sentido",
+"«Too close!» = casi la ve («estuvo cerca»), no distancia"
+],
+[
+"21583",
+"Espera.\n¿Puedo preguntarte algo primero?",
+"Espere.\n¿Puedo preguntarle algo primero?",
+"trato",
+"Kiryu trata de usted a Ishigaki al empezar (21546, 21589); pasa a tú solo al desenmascararlo (21597), a propósito"
+],
+[
+"21736",
+"¿Sabes dónde puedo conseguir algunos?",
+"¿Sabe dónde puedo conseguir algunos?",
+"trato",
+"Kiryu empieza de usted con el desconocido («Disculpe... hacerle una pregunta»)"
+],
+[
+"21855",
+"Toma, ¡te hice un dibujo!",
+"Tome, ¡le hice un dibujo!",
+"trato",
+"la niña lo trata de usted («señor Kazuma», «haberlo encontrado») en toda la escena"
+],
+[
+"23558",
+"¡Procesaré su membresía ahora mismo!",
+"¡Procesaré tu membresía ahora mismo!",
+"trato",
+"el entrenador de RIZAP tutea a Kiryu en toda la escena"
+],
+[
+"23562",
+"Si cambia de opinión, vuelva, por favor.\n¡Lo recibiremos con los brazos abiertos!",
+"Si cambias de opinión, vuelve, por favor.\n¡Te recibiremos con los brazos abiertos!",
+"trato",
+"el entrenador de RIZAP tutea a Kiryu en toda la escena"
+],
+[
+"24424",
+"Ah, sí, eres amigo de papá, ¿verdad?",
+"Ah, sí, usted es amigo de papá, ¿verdad?",
+"trato",
+"el niño lo trata de usted («Señor Kazuma-san», «¿cómo era usted?»)"
+],
+[
+"20283",
+"que te los lleves y\nlos escondas",
+"que se los lleve y\nlos esconda",
+"trato",
+"Someya trata de usted a Kiryu («Cuarto Presidente», «siga», «matarlo») y a mitad de escena pasaba a tú sin motivo"
+],
+[
+"20285",
+"preferiría que lo olvidaras.",
+"preferiría que lo olvidara.",
+"trato",
+"Someya trata de usted a Kiryu («Cuarto Presidente», «siga», «matarlo») y a mitad de escena pasaba a tú sin motivo"
+],
+[
+"20286",
+"tú y yo tendremos",
+"usted y yo tendremos",
+"trato",
+"Someya trata de usted a Kiryu («Cuarto Presidente», «siga», «matarlo») y a mitad de escena pasaba a tú sin motivo"
+],
+[
+"20287",
+"Y no te haré esperar mucho.",
+"Y no lo haré esperar mucho.",
+"trato",
+"Someya trata de usted a Kiryu («Cuarto Presidente», «siga», «matarlo») y a mitad de escena pasaba a tú sin motivo"
+],
+[
+"10305",
+"antes\ndel ¡BUUUM!",
+"antes\ndel BUUUM!",
+"signos",
+"signo de apertura de más: «¡Aquí va... del ¡BUUUM!»"
+],
+[
+"16802",
+"que pague, ¿¡eh!?",
+"que pague? ¡¿Eh?!",
+"signos",
+"la pregunta «¿Por qué tengo yo...» no se cerraba"
+],
+[
+"8154",
+"¡Rozó el bate y era casi segura... se le cae!?",
+"Rozó el bate y era casi segura... ¡¿se le cae?!",
+"signos",
+"«¡...se le cae!?» mezclaba ¡ con ?: falta la apertura de la pregunta"
+],
+[
+"1899",
+"usaste a Yuta y a Haruto.",
+"Usaste a Yuta y a Haruto.",
+"mayúscula",
+"subtítulo nuevo tras «Para proteger este secreto...»: empieza en mayúscula"
+],
+[
+"344",
+"Nunca me había dado cuenta de lo dura que puede ser la vida.",
+"Nunca me había dado cuenta de\nlo dura que puede ser la vida.",
+"largo",
+"línea de 60 letras > 59 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"1806",
+"Por tanto, solo le quedaba una forma\nde asegurarse de que el secreto de Onomichi siguiera a salvo.",
+"Por tanto, solo le quedaba una forma de asegurarse\nde que el secreto de Onomichi siguiera a salvo.",
+"largo",
+"línea de 61 letras > 59 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"1961",
+"Cuando les preguntamos quién dirigía esta pequeña operación...",
+"Cuando les preguntamos quién\ndirigía esta pequeña operación...",
+"largo",
+"línea de 62 letras > 59 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"2230",
+"Todavía me parece una locura que ella saliera bien de aquello.",
+"Todavía me parece una locura que\nella saliera bien de aquello.",
+"largo",
+"línea de 62 letras > 59 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"19382",
+"De ninguna manera. Se lo conté porque, una vez que lo reduzca a un cadáver,\nya no tendré la oportunidad.",
+"De ninguna manera. Se lo conté porque, una vez que\nlo reduzca a un cadáver, ya no tendré la oportunidad.",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"19860",
+"Daidoji-san fue un oficial de alto rango de\nla marina de la Segunda Guerra Mundial, pero tras la ocupación estadounidense...",
+"Daidoji-san fue un oficial de alto rango de la marina de la\nSegunda Guerra Mundial, pero tras la ocupación estadounidense...",
+"largo",
+"línea de 80 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"20117",
+"Por eso, cuando las fuerzas de ocupación ordenaron la desmilitarización de nuestro país,\noptamos en cambio por ocultar el acorazado.",
+"Por eso, cuando las fuerzas de ocupación ordenaron la desmilitarización\nde nuestro país, optamos en cambio por ocultar el acorazado.",
+"largo",
+"línea de 88 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"20956",
+"Sabes, el año pasado un jugador de béisbol se casó con la mamá de su amigo.",
+"Sabes, el año pasado un jugador de\nbéisbol se casó con la mamá de su amigo.",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"20960",
+"¿Acaso no siempre te he dicho que no te preocupes por la edad o la apariencia?",
+"¿Acaso no siempre te he dicho que no te\npreocupes por la edad o la apariencia?",
+"largo",
+"línea de 78 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"20967",
+"Total, no quieres ver a tu querido profesor con aspecto de viejo, ¿verdad?",
+"Total, no quieres ver a tu querido\nprofesor con aspecto de viejo, ¿verdad?",
+"largo",
+"línea de 74 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"20995",
+"Me gasté un dineral en el último modelo, ¿sabes? Asegúrate de cantar mucho.",
+"Me gasté un dineral en el último modelo,\n¿sabes? Asegúrate de cantar mucho.",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21185",
+"Pero luego, después de una pelea, te das gusto con comidas deliciosas, ¿no?",
+"Pero luego, después de una pelea, te\ndas gusto con comidas deliciosas, ¿no?",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21187",
+"Después de una pelea, el estómago no acepta la comida, así que no puedo comer enseguida.",
+"Después de una pelea, el estómago no acepta\nla comida, así que no puedo comer enseguida.",
+"largo",
+"línea de 88 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21230",
+"Sí. De lo contrario, podrías tratar a alguien de una forma de la que después te arrepentirías.",
+"Sí. De lo contrario, podrías tratar a alguien\nde una forma de la que después te arrepentirías.",
+"largo",
+"línea de 94 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21232",
+"Ahora, tener miedo a los desconocidos es prácticamente parte de mi personalidad.",
+"Ahora, tener miedo a los desconocidos es\nprácticamente parte de mi personalidad.",
+"largo",
+"línea de 80 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21242",
+"Sí, ya sean buenas o malas, es mejor tener un montón de personas con personalidad propia.",
+"Sí, ya sean buenas o malas, es mejor tener un\nmontón de personas con personalidad propia.",
+"largo",
+"línea de 89 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21245",
+"Lo de la personalidad es cierto, pero también dejé de perseguir sueños después de los 20.",
+"Lo de la personalidad es cierto, pero también\ndejé de perseguir sueños después de los 20.",
+"largo",
+"línea de 89 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21249",
+"Olvidé que Gen-san era carpintero. Pero lo del Año Nuevo es nuevo para mí.",
+"Olvidé que Gen-san era carpintero.\nPero lo del Año Nuevo es nuevo para mí.",
+"largo",
+"línea de 74 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21260",
+"Sabes, es como cuando una banda que te gusta empieza a volverse comercial.",
+"Sabes, es como cuando una banda que\nte gusta empieza a volverse comercial.",
+"largo",
+"línea de 74 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21283",
+"Mis preocupaciones desaparecen cuando bebo con el resto de los habituales.",
+"Mis preocupaciones desaparecen cuando\nbebo con el resto de los habituales.",
+"largo",
+"línea de 74 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21771",
+"Debido al retiro conflictivo de Haruka-san, todos sus artículos\nhan desaparecido de las estanterías. Eso ha hecho subir muchísimo el precio de reventa.",
+"Debido al retiro conflictivo de Haruka-san, todos sus artículos han desaparecido\nde las estanterías. Eso ha hecho subir muchísimo el precio de reventa.",
+"largo",
+"línea de 87 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"21777",
+"Un momento. Aún es posible que solo seas\nun vil revendedor que espera conseguir un buen botín para venderlo después.",
+"Un momento. Aún es posible que solo seas un vil revendedor\nque espera conseguir un buen botín para venderlo después.",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"22621",
+"A diferencia de mí, estoy seguro de que los demás tipos a los que engañaste\nno tenían forma de borrar los videos de tu teléfono.",
+"A diferencia de mí, estoy seguro de que los demás tipos a los que\nengañaste no tenían forma de borrar los videos de tu teléfono.",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"23967",
+"Todos, tanto el público como quienes miren por TV,\nse van a sorprender mucho. Saliré corriendo del escenario y desapareceré para siempre.",
+"Todos, tanto el público como quienes miren por TV, se van a sorprender\nmucho. Saliré corriendo del escenario y desapareceré para siempre.",
+"largo",
+"línea de 86 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"24779",
+"¡Para empezar, tenemos su encantadora cara, cuidadosamente modelada a partir de\nla naranja hassaku, especialidad local de Setouchi!",
+"¡Para empezar, tenemos su encantadora cara, cuidadosamente modelada\na partir de la naranja hassaku, especialidad local de Setouchi!",
+"largo",
+"línea de 79 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"25482",
+"Aunque estés en el cuerpo de un hombre, por dentro sigues siendo una mujer,\n¿verdad? No puedo dejar sola a una dama en peligro.",
+"Aunque estés en el cuerpo de un hombre, por dentro sigues siendo\nuna mujer, ¿verdad? No puedo dejar sola a una dama en peligro.",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"25767",
+"Por fin llega la hora de enfrentarnos al equipo de reserva de los Thunders.",
+"Por fin llega la hora de enfrentarnos\nal equipo de reserva de los Thunders.",
+"largo",
+"línea de 75 letras > 73 (la más larga del inglés en esa tabla): mismas palabras, saltos repartidos"
+],
+[
+"13970",
+"lo que le hicieron a mis hombres",
+"lo que les hicieron a mis hombres",
+"errata",
+"«a mis hombres» es plural: les"
+],
+[
+"10089",
+"Le hiciste un\ngran servicio a tus semejantes",
+"Les hiciste un\ngran servicio a tus semejantes",
+"errata",
+"«a tus semejantes» es plural: les"
+],
+[
+"25929",
+"No puedo creer que le hayamos ganado a los Legends",
+"No puedo creer que les hayamos ganado a los Legends",
+"errata",
+"«a los Legends» es plural: les"
+],
+[
+"22197",
+"¿Por qué no le cuentas\na todos tus amigos",
+"¿Por qué no les cuentas\na todos tus amigos",
+"errata",
+"«a todos tus amigos» es plural: les"
+],
+[
+"17",
+"Al 6.º piso",
+"Al 6.° piso",
+"fuente",
+"la fuente del juego no tiene «º» (sale en blanco): «°», que sí tiene"
+],
+[
+"18",
+"Al 2.º piso",
+"Al 2.° piso",
+"fuente",
+"la fuente del juego no tiene «º»: «°»"
+],
+[
+"2668",
+"VE AL 6.º PISO",
+"VE AL 6.° PISO",
+"fuente",
+"la fuente del juego no tiene «º»: «°»"
+],
+[
+"4249",
+"Queda 1.º en",
+"Queda 1.° en",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismo largo, cabe en la lista de logros)"
+],
+[
+"4250",
+"Queda 1.º en",
+"Queda 1.° en",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismo largo, cabe en la lista de logros)"
+],
+[
+"4251",
+"Queda 1.º en",
+"Queda 1.° en",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismo largo, cabe en la lista de logros)"
+],
+[
+"4252",
+"Queda 1.º en",
+"Queda 1.° en",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismo largo, cabe en la lista de logros)"
+],
+[
+"4253",
+"Queda 1.º en",
+"Queda 1.° en",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismo largo, cabe en la lista de logros)"
+],
+[
+"4254",
+"Queda 1.º en",
+"Queda 1.° en",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismo largo, cabe en la lista de logros)"
+],
+[
+"8282",
+"en la baja de la 9.ª.",
+"en la baja de la novena.",
+"fuente",
+"la fuente del juego no tiene «ª»: ordinal en letra"
+],
+[
+"8473",
+"Estirón de la 7.ª",
+"Estirón de la séptima",
+"fuente",
+"la fuente del juego no tiene «ª»: ordinal en letra"
+],
+[
+"8474",
+"en la 7.ª entrada",
+"en la séptima entrada",
+"fuente",
+"la fuente del juego no tiene «ª»: ordinal en letra"
+],
+[
+"8566",
+"n.º ",
+"n.° ",
+"fuente",
+"la fuente del juego no tiene «º»: «°»"
+],
+[
+"9640",
+"1.ª victoria",
+"Primera victoria",
+"fuente",
+"la fuente del juego no tiene «ª»: ordinal en letra"
+],
+[
+"9641",
+"2.ª victoria",
+"Segunda victoria",
+"fuente",
+"la fuente del juego no tiene «ª»: ordinal en letra"
+],
+[
+"9642",
+"3.ª victoria",
+"Tercera victoria",
+"fuente",
+"la fuente del juego no tiene «ª»: ordinal en letra"
+],
+[
+"24327",
+"un déjà vu",
+"un deja vu",
+"fuente",
+"la fuente del juego no tiene «à»: sin la tilde francesa"
+],
+[
+"29117",
+"de la 4.ª División",
+"de la Cuarta División",
+"fuente",
+"la fuente del juego no tiene «ª»: ordinal en letra"
+],
+[
+"29183",
+"2.º lugar",
+"2.° lugar",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismos bytes, la tabla no se descuadra)"
+],
+[
+"29183",
+"4.º lugar",
+"4.° lugar",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismos bytes, la tabla no se descuadra)"
+],
+[
+"29209",
+"2.º puesto",
+"2.° puesto",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismos bytes, la tabla no se descuadra)"
+],
+[
+"29209",
+"4.º puesto",
+"4.° puesto",
+"fuente",
+"la fuente del juego no tiene «º»: «°» (mismos bytes, la tabla no se descuadra)"
+],
+[
+"571",
+"¿Cuándo se enteraron del accidente\nde Haruka?",
+"¿Cuándo se enteró del accidente\nde Haruka?",
+"trato",
+"Kiryu le pregunta a Sugai (usted, singular) y Sugai contesta «Me informó»"
+],
+[
+"579",
+"¿Diste tú esa orden, Sugai?",
+"¿Dio usted esa orden, Sugai?",
+"trato",
+"Kiryu trata de usted a Sugai en toda la escena («su ayuda», «su pequeña guerra»)"
+],
+[
+"606",
+"Tu valor como yakuza está directamente\nrelacionado con tu número de bajas.",
+"El valor de un yakuza está directamente\nrelacionado con su número de bajas.",
+"trato",
+"«your» genérico en una escena de usted: impersonal, para no tutear a Kiryu"
+],
+[
+"2558",
+"Inténtelo.",
+"Adelante.",
+"trato",
+"«Try me.» sale 5 veces: Kiryu a Iwami (usted) y Joe a sus rivales (tú). «Adelante.» vale para los dos tratos"
+],
+[
+"1109",
+"¡¿Q-Quiénes son ustedes?!",
+"¡¿Q-Quiénes son?!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"847",
+"Tú también puedes venir.",
+"Ven tú también.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"2098",
+"Pero... yo no voy a rendirme contigo.",
+"Pero... no me rendiré contigo.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1063",
+"Bien, entonces, Cuarto Presidente...",
+"Bueno, Cuarto Presidente...",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"550",
+"Adelante.",
+"Pase.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"735",
+"¡Cabeza de chorlito!",
+"¡Tarado!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"885",
+"¿Verdad, muchachos?",
+"¿Verdad, chicos?",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"269",
+"...yo me he encargado de ellos.",
+"...ya me encargué de ellos.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1923",
+"¡¿Qué diablos está pasando?!",
+"¡¿Qué diablos pasa?!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"2232",
+"Parece que la pistola con la que apuntaba a Kiyomi-san\nestaba cargada con balas de fogueo.",
+"Parece que la pistola con que apuntaba a Kiyomi-san\ntenía balas de fogueo.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"2185",
+"¡Todavía podemos salvarte!",
+"¡Aún podemos salvarte!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1121",
+"¡Eres más tonto que una piedra!",
+"¡Qué tonto eres!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1318",
+"Lo único que pido es...",
+"Solo pido...",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1323",
+"¡Vamos, vamos, vamos!",
+"¡Vamos, vamos!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1673",
+"[Quítame las manos de encima.]",
+"[No me toques.]",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"2555",
+"¿Todos los yakuza son así de estúpidos?",
+"¿Todos los yakuza son tan estúpidos?",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1873",
+"Pero no tiene por qué preocuparse.",
+"Pero no se preocupe.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1583",
+"¡Mantengan a salvo a Hirose-san y a Haruto!",
+"¡Protejan a Hirose-san y a Haruto!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"2191",
+"Puedes descansar tranquilo.",
+"Descansa tranquilo.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1990",
+"Perdón por llegar tarde.",
+"Perdón, llego tarde.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"257",
+"No hay problema.",
+"Sin problema.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"2271",
+"Y a mí me parece muchísimo más lógico que sea temprano.",
+"A mí me parece mucho más lógico que sea antes.",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"2430",
+"¿¡Q-Qué demonios está pasando!?",
+"¿¡Q-Qué demonios pasa!?",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1597",
+"¡Entonces quítate de mi camino!",
+"¡Entonces quítate!",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1966",
+"¿Es eso lo que harían los verdaderos amigos?",
+"¿Eso harían los verdaderos amigos?",
+"velocidad",
+"subtítulo demasiado rápido para leer (más de 20 letras/s y bastante más que el inglés): más corto, mismo sentido"
+],
+[
+"1581",
+"¿¡Quién demonios son estos tipos!?",
+"¿¡Quiénes demonios son estos tipos!?",
+"errata",
+"«son estos tipos» es plural: Quiénes"
+],
+[
+"8850",
+"¿Quién diablos son estos tipos?",
+"¿Quiénes diablos son estos tipos?",
+"errata",
+"«son estos tipos» es plural: Quiénes"
+],
+[
+"25950",
+"¿Quién demonios son estos tipos...?",
+"¿Quiénes demonios son estos tipos...?",
+"errata",
+"«son estos tipos» es plural: Quiénes"
+],
+[
+"16547",
+"ese\nhuevón de Nagumo",
+"ese\nidiota de Nagumo",
+"región",
+"«huevón» es de Chile/Perú/Venezuela: neutro"
+],
+[
+"22857",
+"vamos por la plata de este tipo",
+"vamos por el dinero de este tipo",
+"región",
+"«plata» (dinero) es del Cono Sur: neutro"
+],
+[
+"12771",
+"Interjecciones.",
+"Ánimos.",
+"término",
+"glosario: Karaoke Interjections -> Ánimos (y Haruka repite «¿A-Ánimos?» en 12772)"
+],
+[
+"14760",
+"Los que han vencido hasta ahora son solo los",
+"Los que ustedes han derrotado hasta ahora son solo los",
+"sentido",
+"«The ones you've beaten»: «los que han vencido» parecía «los que ganaron»"
+],
+[
+"14938",
+"¡Tranquilo! Cálmense",
+"¡Tranquilos! Cálmense",
+"trato",
+"Naito habla al grupo («guys», Cálmense): en español va en plural; sigue siendo su muletilla"
+],
+[
+"15183",
+"Cuerpo doler mucho...",
+"Mi cuerpo doler mucho...",
+"sentido",
+"el inglés dice «My body»; fiel al original sin quitar la habla rota"
+],
+[
+"15184",
+"Estómago doler mucho...",
+"Mi estómago doler mucho...",
+"sentido",
+"«My stomach»"
+],
+[
+"15185",
+"Espalda doler mucho...",
+"Mi espalda doler mucho...",
+"sentido",
+"«My back»"
+],
+[
+"857",
+"No se van a salir con la suya.",
+"No se van a salir con esa mierda.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (shit like that)"
+],
+[
+"868",
+"No tienes ni idea de",
+"No tienes ni puta idea de",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (don't know shit)"
+],
+[
+"1114",
+"Esto es una locura.",
+"Esta mierda es una locura.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (this shit)"
+],
+[
+"1258",
+"parta la cara yo mismo",
+"saque la mierda a golpes yo mismo",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (beat the shit out of)"
+],
+[
+"1361",
+"Esto es un verdadero fastidio.",
+"Esto es un maldito fastidio.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"1401",
+"ese viejo acabado",
+"ese viejo de mierda acabado",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (old fuck)"
+],
+[
+"1402",
+"¿Viejo acabado?",
+"¿Viejo de mierda?",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Old fuck?)"
+],
+[
+"1639",
+"de caca y pipí.",
+"de mierda y orines.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (shit n' piss)"
+],
+[
+"2329",
+"Yo no era más que un don nadie...",
+"Yo no era más que un mocoso de mierda...",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (little shit)"
+],
+[
+"2481",
+"¡No te metas conmigo!",
+"¡No me jodas!",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Don't fuck with me)"
+],
+[
+"2594",
+"volver a ver tu lamentable cara por aquí.",
+"volver a ver tu asqueroso trasero por aquí.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (sorry ass; igual que #148, mismo inglés)"
+],
+[
+"7131",
+"quitate esa porqueria ya",
+"quitate esa mierda ya",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (that shit)"
+],
+[
+"7167",
+"Sí esa cosa es una maravilla",
+"Sí esa mierda es una maravilla",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (that shit)"
+],
+[
+"7293",
+"si quitate esa porqueria",
+"si quitate esa mierda",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (that shit)"
+],
+[
+"7364",
+"te queda genial eso bro",
+"esa mierda te queda genial bro",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (shit looks so good)"
+],
+[
+"7379",
+"pagaría por eso si",
+"pagaría por esa mierda si",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (that shit)"
+],
+[
+"10081",
+"Habrá sido\nun fastidio,",
+"Habrá sido\nun maldito fastidio,",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"10219",
+"moliendo a\ngolpes a esos matones.",
+"sacándoles la mierda\na golpes a esos matones.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (beating the living shit out of)"
+],
+[
+"11061",
+"Qué fastidio.",
+"Qué maldito fastidio.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"12253",
+"es un dolor de cabeza.",
+"es un maldito fastidio.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"13862",
+"son un dolor de cabeza",
+"son un maldito fastidio",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"13933",
+"todas las tonterías que",
+"todas las estupideces que",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (lame shit)"
+],
+[
+"15018",
+"pelear con debiluchos.",
+"pelear con debiluchos de mierda.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (weak shits)"
+],
+[
+"15318",
+"¡Basta de tus porquerías!",
+"¡Basta de tus mierdas!",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Enough o' yer shit)"
+],
+[
+"15415",
+"¡Ven acá de una vez!",
+"¡Trae tu trasero aquí!",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Get yer ass over here; igual que #799)"
+],
+[
+"15496",
+"¡Deja de fastidiar!",
+"¡Deja de joder!",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Stop fuckin' around)"
+],
+[
+"16454",
+"a este tipo sospechoso",
+"a este desgraciado sospechoso",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (fishy bastard)"
+],
+[
+"16816",
+"¡Un debilucho como él",
+"¡Un debilucho de mierda como él",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (weak-ass punk)"
+],
+[
+"16924",
+"Esto pasa casi a diario.",
+"Esta mierda pasa casi a diario.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (This shit happens)"
+],
+[
+"17615",
+"No tienes que ser tan pesado, Capi.",
+"No tienes que ser tan imbécil, Capi.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (be an ass)"
+],
+[
+"18042",
+"fue una verdadera salvajada.",
+"fue una verdadera mierda.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (real messed up shit)"
+],
+[
+"18334",
+"[Accidente, un cuerno. Como sea.]",
+"[Accidente, una mierda. Como sea.]",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (my ass; además «un cuerno» es de España)"
+],
+[
+"19856",
+"¡Rómpanle la cara!",
+"¡Jódanlo!",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Fuck him up)"
+],
+[
+"21966",
+"¡¿Esta porquería está hablando mal",
+"¡¿Este imbécil de mierda está hablando mal",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (little asshole; además «esta porquería» cambiaba el género)"
+],
+[
+"22356",
+"Sea como sea, mala suerte.",
+"Sea como sea, te jodiste.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (shit outta luck)"
+],
+[
+"23090",
+"¡Al diablo!",
+"¡A la mierda!",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Fuck it)"
+],
+[
+"23229",
+"¡Claro que sí!\nPero",
+"¡Claro que sí, carajo!\nPero",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (Sure as shit)"
+],
+[
+"23704",
+"Qué fastidio.\nLo siento",
+"Qué maldito fastidio.\nLo siento",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"24924",
+"¡Una ridiculez así nunca",
+"¡Una mierda así de ridícula nunca",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (lame shit)"
+],
+[
+"27945",
+"Es un tipo insoportable.",
+"Es un maldito fastidio.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"28752",
+"Me la pasé muy mal.",
+"Pasé por mucha mierda.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (went through a lot of shit)"
+],
+[
+"21602",
+"Qué fastidio.",
+"Qué maldito fastidio.",
+"censura",
+"no censurar: misma fuerza que el inglés (regla del usuario 06-11) (pain in the ass)"
+],
+[
+"26217",
+"viejo y cambiado....",
+"viejo y cambiado...",
+"errata",
+"cuatro puntos: en español, puntos suspensivos son tres (RAE)"
+],
+[
+"15304",
+"No estoy tan seguro de eso.",
+"No lo tengo tan claro.",
+"género",
+"frase compartida por 5 hablantes sin género conocido: forma que vale para hombre y mujer, mismo sentido"
+],
+[
+"15267",
+"No estoy tan seguro de eso.",
+"No lo tengo tan claro.",
+"género",
+"compartida por 2 hablantes sin género conocido"
+],
+[
+"16390",
+"estar presente\nel nacimiento",
+"estar presente en\nel nacimiento",
+"errata",
+"faltaba «en»"
+],
+[
+"17927",
+"para enseñarle a Tagashira y a mí",
+"para enseñarnos a Tagashira y a mí",
+"referente",
+"incluye al hablante: «nos»"
+],
+[
+"18729",
+"Una fuerzas conmigo, por favor.",
+"Unamos fuerzas, por favor.",
+"sentido",
+"«Una fuerzas» (imperativo de usted) se leía como un error; misma intención"
+],
+[
+"15853",
+"¡Puedo hacerlo todo yo solo!",
+"¡Puedo hacerlo todo por mi cuenta!",
+"género",
+"P1653 (niño o niña de Morning Glory) sin género conocido: forma neutra, mismo sentido"
+],
+[
+"15483",
+"¡Vengan con todo!",
+"¡Con todo!",
+"trato",
+"se usa x4: un rival a Kiryu solo (singular) y un equipo a otro (plural): forma que vale para los dos"
+],
+[
+"16353",
+"Todos estamos medio fregados",
+"Todos estamos medio jodidos",
+"región",
+"«fregados» es de México; «jodidos» se entiende en toda Latinoamérica y es la misma fuerza que «screwed» (nunca censurar)"
+],
+[
+"17349",
+"¿Olvidaste que Someya",
+"¿Olvidaron que Someya",
+"trato",
+"Kiryu habla al grupo (siguen «entran», «Piensen»)"
+],
+[
+"17365",
+"supongo que tienes razón.",
+"supongo que tiene razón.",
+"trato",
+"el mismo hombre trata de usted a su patriarca en 17363"
+],
+[
+"17426",
+"gran respeto por ti, un yakuza legendario.",
+"gran respeto por usted, un yakuza legendario.",
+"trato",
+"Kurusu (P1829) trata de usted a Kiryu en 17411-17414 y 17449: toda la escena en usted"
+],
+[
+"17427",
+"tu sello de aprobación",
+"su sello de aprobación",
+"trato",
+"Kurusu (P1829) trata de usted a Kiryu en 17411-17414 y 17449: toda la escena en usted"
+],
+[
+"17431",
+"¿cuál es tu respuesta?",
+"¿cuál es su respuesta?",
+"trato",
+"Kurusu (P1829) trata de usted a Kiryu en 17411-17414 y 17449: toda la escena en usted"
+],
+[
+"17433",
+"¿Te importaría explicar por qué?",
+"¿Le importaría explicar por qué?",
+"trato",
+"Kurusu (P1829) trata de usted a Kiryu en 17411-17414 y 17449: toda la escena en usted"
+],
+[
+"17737",
+"Solo soy un fan tuyo muy devoto.",
+"Solo soy un fan suyo muy devoto.",
+"trato",
+"Joon-gi Han trata de usted a Kiryu en toda la escena (17734-17853)"
+],
+[
+"17866",
+"¿Quiere decir que...?",
+"¿Quieres decir que...?",
+"trato",
+"Kiryu tutea a Yuta en todo el juego"
+],
+[
+"17876",
+"No se preocupe por mí, Aniki.",
+"No te preocupes por mí, Aniki.",
+"trato",
+"Yuta tutea a Kiryu (17856, 17878)"
+],
+[
+"17910",
+"Eso no es asunto suyo.",
+"Eso no es asunto tuyo.",
+"trato",
+"Kiryu tutea a Joon-gi Han en toda la escena (17836, 17844, 17854)"
+],
+[
+"18555",
+"¿Qué harás?\n¿Me ayudarás o no?",
+"¿Qué hará?\n¿Me ayudará o no?",
+"trato",
+"Someya trata de usted a Kiryu («Cuarto Presidente», «su pregunta» 18554, 18595)"
+],
+[
+"18592",
+"Ya lo verás cuando lleguemos.",
+"Ya lo verá cuando lleguemos.",
+"trato",
+"Someya trata de usted a Kiryu («Cuarto Presidente», «su pregunta» 18554, 18595)"
+],
+[
+"18556",
+"Regrese aquí más tarde esta noche\ny lo llevaré conmigo",
+"Regresa aquí más tarde esta noche\ny te llevaré conmigo",
+"trato",
+"Kiryu tutea a Someya en el resto (18558 «debes saber», 18584)"
+],
+[
+"18602",
+"Lo único que encontrarás allí",
+"Lo único que encontrará allí",
+"trato",
+"Someya trata de usted a Kiryu («Cuarto Presidente», 18595, 18604)"
+],
+[
+"5333",
+"10,000 yen",
+"10,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11000",
+"730 yen",
+"730 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11005",
+"20,000 yen",
+"20,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11009",
+"640 yen",
+"640 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11011",
+"20,000 yen",
+"20,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11012",
+"640 yen",
+"640 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11016",
+"20,000 yen",
+"20,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11078",
+"6,000 yen",
+"6,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11078",
+"2,000 yen",
+"2,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"11079",
+"2,000 yen",
+"2,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"15665",
+"1,000 yen",
+"1,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"15666",
+"10,000 yen",
+"10,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"15667",
+"100,000 yen",
+"100,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"17594",
+"1,000 yen",
+"1,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"18262",
+"50,000 yen",
+"50,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"20643",
+"25,000 yen",
+"25,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"20646",
+"50,000 yen",
+"50,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"20649",
+"50,000 yen",
+"50,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"23434",
+"5,000 yen",
+"5,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"26344",
+"10,000 yen",
+"10,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"28303",
+"100 yen",
+"100 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"28637",
+"10,000 yen",
+"10,000 yenes",
+"número",
+"plural de yen = yenes (RAE), como en las otras 77 frases"
+],
+[
+"10933",
+"¡Y no vuelvas!",
+"¡Y no vuelva!",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10934",
+"¿Cómo pudiste hacer eso...?\nPor favor, aléjate",
+"¿Cómo pudo hacer eso...?\nPor favor, aléjese",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10946",
+"¡Y no vuelvas nunca!",
+"¡Y no vuelva nunca!",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10947",
+"¿Cómo pudiste hacer esto...?\nPor favor, aléjate",
+"¿Cómo pudo hacer esto...?\nPor favor, aléjese",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10949",
+"¡Y no vuelvas nunca!",
+"¡Y no vuelva nunca!",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10950",
+"¿Cómo pudiste hacer esto...?\nSolo aléjate",
+"¿Cómo pudo hacer esto...?\nSolo aléjese",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10969",
+"¡Y no vuelvas nunca!",
+"¡Y no vuelva nunca!",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10974",
+"¡Lárgate de mi tienda!",
+"¡Lárguese de mi tienda!",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10991",
+"¡No vuelvas nunca!",
+"¡No vuelva nunca!",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10993",
+"¡Y no vuelvas nunca!",
+"¡Y no vuelva nunca!",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"10999",
+"Por hoy te salvas.",
+"Por hoy se salva.",
+"trato",
+"dependiente que trata de usted a Kiryu en el resto de su lista (vuelva pronto, retírese, discúlpese): usted también al enfadarse (mismo criterio que el Y5)"
+],
+[
+"21637",
+"¿Q-Qué quieres?",
+"¿Q-Qué quiere?",
+"trato",
+"la niña trata de usted a Kiryu («señor», 21640, 21643, 21664)"
+],
+[
+"21686",
+"¿No te parece",
+"¿No le parece",
+"trato",
+"la niña trata de usted a Kiryu («señor»)"
+],
+[
+"22282",
+"Sí eres yakuza, ¿verdad?",
+"Usted sí es yakuza, ¿verdad?",
+"trato",
+"trata de usted a Kiryu en 22275-22278"
+],
+[
+"21546",
+"¿Usted es Ishigaki-san?",
+"¿Tú eres Ishigaki-san?",
+"trato",
+"Kiryu tutea al estafador en el resto (21583, 21597, 21598)"
+],
+[
+"21590",
+"Usted ha... pasado tiempo",
+"Tú has... pasado tiempo",
+"trato",
+"Kiryu tutea al estafador en el resto"
+],
+[
+"26502",
+"Este, disculpe... ¿Sabría decirme",
+"Este, disculpa... ¿Sabrías decirme",
+"trato",
+"Tsunashima tutea a Kiryu en el resto (26504, 26506)"
+],
+[
+"20266",
+"¿Y por qué viene a verme con todo esto?\n¿Cuál es su objetivo?",
+"¿Y por qué vienes a verme con todo esto?\n¿Cuál es tu objetivo?",
+"trato",
+"Kiryu tutea a Someya (20249, 20251, 18556)"
+],
+[
+"27363",
+"para que los disfrutes.",
+"para que los disfrute.",
+"trato",
+"personal de SEGA a un cliente: usted («bienvenido», como en las tiendas)"
+],
+[
+"21161",
+"Así que pasó algo bueno?",
+"¿Así que pasó algo bueno?",
+"signos",
+"faltaba el ¿"
+],
+[
+"21809",
+"¡D-Devuélvenmela!",
+"¡D-Devuélvanmela!",
+"trato",
+"la fan habla a los matones (varios)"
+],
+[
+"22136",
+"que crees que soy un humano",
+"que crees que soy un ser humano",
+"género",
+"Hiji es mujer: «un ser humano» vale para ella (Kiryu dice «un humano» en una línea compartida x3)"
+],
+[
+"22308",
+"¡No sea imbécil!",
+"¡No seas imbécil!",
+"trato",
+"Tsutsui tutea a quien le habla (22306 «Cállate tú»)"
+],
+[
+"22377",
+"¿Y recuerdas hacia dónde se iba?",
+"¿Y recuerdan hacia dónde se iba?",
+"trato",
+"Kiryu pregunta a los dos chicos"
+],
+[
+"9546",
+"¿Seguro?",
+"¿De verdad?",
+"género",
+"x8: lo dicen hombres y Erina; forma que vale para todos (como «You sure?» en la v1.0.4)"
+],
+[
+"22537",
+"Destruiste cualquier esperanza",
+"Destruyó cualquier esperanza",
+"trato",
+"el enmascarado trata de usted a Kiryu (22532, 22534, 22539)"
+],
+[
+"23116",
+"¿Usted</font_kind> es Yoshida?",
+"¿Tú</font_kind> eres Yoshida?",
+"trato",
+"Kiryu tutea a Yoshida en toda la escena (23120, 23125, 23148, 23172, 23177, 23205)"
+],
+[
+"23136",
+"¿Y cómo llegó a tener ese sueño?",
+"¿Y cómo llegaste a tener ese sueño?",
+"trato",
+"Kiryu tutea a Yoshida en toda la escena (23120, 23125, 23148, 23172, 23177, 23205)"
+],
+[
+"23190",
+"¿por qué no se une a mi equipo?",
+"¿por qué no te unes a mi equipo?",
+"trato",
+"Kiryu tutea a Yoshida en toda la escena (23120, 23125, 23148, 23172, 23177, 23205)"
+],
+[
+"23192",
+"¿Antes jugaba usted al béisbol, verdad?",
+"¿Antes jugabas al béisbol, verdad?",
+"trato",
+"Kiryu tutea a Yoshida en toda la escena (23120, 23125, 23148, 23172, 23177, 23205)"
+],
+[
+"23194",
+"Quiero que se una a mi equipo.",
+"Quiero que te unas a mi equipo.",
+"trato",
+"Kiryu tutea a Yoshida en toda la escena (23120, 23125, 23148, 23172, 23177, 23205)"
+],
+[
+"23203",
+"¿No se lo había mencionado?",
+"¿No te lo había mencionado?",
+"trato",
+"Kiryu tutea a Yoshida en toda la escena (23120, 23125, 23148, 23172, 23177, 23205)"
+],
+[
+"23082",
+"¿Qué crees que estás haciendo?",
+"¿Qué cree que está haciendo?",
+"trato",
+"Riona trata de usted al cliente (23087, 23088): anfitriona a cliente"
+],
+[
+"29277",
+"\"Envíalas ya.\nTengo prisa.\"",
+"\"Solo mándalas de una vez.\nTengo prisa.\"",
+"término",
+"misma frase que #9991 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"28967",
+"\"Bien. Nos vemos.\"",
+"\"Está bien. Veámonos.\"",
+"término",
+"misma frase que #9992 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"28968",
+"\"La azotea del Edificio Senryo.\"",
+"\"En la azotea del Edificio Senryo.\"",
+"término",
+"misma frase que #9993 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"28962",
+"\"¡¿Qué demonios está pasando, Kiryu?!\"",
+"\"¡¿Qué diablos está pasando, Kiryu?!\"",
+"término",
+"misma frase que #9994 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"28963",
+"\"¡No era a mí con quien hablabas!\"",
+"\"¡No era yo con quien hablabas!\"",
+"término",
+"misma frase que #9996 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"29275",
+"\"Veré qué puedo hacer.\nEse estafador no se saldrá con la suya.\"",
+"\"Veré qué puedo hacer.\nEse estafador no se va a salir con la suya.\"",
+"término",
+"misma frase que #9999 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"28973",
+"\"¡Kiryu, me acabo de enterar de que hackearon mi cuenta!\"",
+"\"¡Kiryu, acabo de enterarme de que hackearon mi cuenta!\"",
+"término",
+"misma frase que #10001 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"28975",
+"\"Enviaré a algunos tipos a resolver esto.\"",
+"\"Mandaré a unos muchachos a limpiar esto.\"",
+"término",
+"misma frase que #10004 (sin comillas, en pause_mail): una sola traducción"
+],
+[
+"9997",
+"¡Tus 50,000 yenes podrían estar en cualquier parte ya!",
+"¡Tus 50 mil pueden estar en cualquier lado!",
+"término",
+"misma frase que #28964 (talk), que no cabe más larga: una sola traducción"
+],
+[
+"9998",
+"¡No, maldita sea!",
+"¡No, carajo!",
+"término",
+"misma frase que #28965 (talk, 15 bytes): una sola traducción, misma fuerza"
+],
+[
+"220",
+"Pero te advierto que esto quizá no\nsalga como esperas.",
+"Pero te advierto que esto quizá\nno salga como esperas.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"484",
+"Tengo malas noticias. Todavía no\nconozco todos los detalles...",
+"Tengo malas noticias. Todavía\nno conozco todos los detalles...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"502",
+"En cuidados intensivos. No está en\ncondiciones de recibir visitas.",
+"En cuidados intensivos. No está\nen condiciones de recibir visitas.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"539",
+"Seguro que su tiempo tras las rejas lo\nha dejado agotado, y además...",
+"Seguro que su tiempo tras las rejas\nlo ha dejado agotado, y además...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"544",
+"¿Y es él quien mandó a\nese tipo a seguirme?",
+"¿Y es él quien mandó\na ese tipo a seguirme?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"593",
+"De todos modos, a los chinos no les\nserviría de nada ir tras él.",
+"De todos modos, a los chinos\nno les serviría de nada ir tras él.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"731",
+"¡Mírenlo! ¿Esa cara de feo no\nles dan ganas de llorar?",
+"¡Mírenlo! ¿Esa cara de feo\nno les dan ganas de llorar?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"941",
+"Capitán de la Alianza Yomei y patriarca de\nmi propia familia. Me llamo Koshimizu.",
+"Capitán de la Alianza Yomei y patriarca\nde mi propia familia. Me llamo Koshimizu.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"946",
+"...pero para mí, el dragón de tu\nespalda es clarísimo.",
+"...pero para mí, el dragón\nde tu espalda es clarísimo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1159",
+"Si las ganancias se han vuelto más importantes que\nel sueño, entonces los yakuza están acabados.",
+"Si las ganancias se han vuelto más importantes\nque el sueño, entonces los yakuza están acabados.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1366",
+"¿Así que tú eres el jefe de\nesta organización?",
+"¿Así que tú eres el jefe\nde esta organización?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1386",
+"Reúnete con él en las ruinas de un\nburdel llamado Shangri-La.",
+"Reúnete con él en las ruinas\nde un burdel llamado Shangri-La.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1400",
+"Este es el amanecer de su tiempo al\nfrente del clan, Someya-san.",
+"Este es el amanecer de su tiempo\nal frente del clan, Someya-san.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1401",
+"Dígale a ese viejo de mierda acabado que\nse arrastre de vuelta a su agujero.",
+"Dígale a ese viejo de mierda acabado\nque se arrastre de vuelta a su agujero.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1440",
+"Aunque sería distinto si se uniera a\nla Tríada Saio jurándome lealtad.",
+"Aunque sería distinto si se uniera\na la Tríada Saio jurándome lealtad.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1465",
+"Ese desgraciado ya no va a\nvivir a costa tuya.",
+"Ese desgraciado ya no va\na vivir a costa tuya.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1522",
+"No quieres que la gente te\ntome fotos, ¿verdad?",
+"No quieres que la gente\nte tome fotos, ¿verdad?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1605",
+"¿Quieres adivinar qué es lo que\nme molesta ahora mismo?",
+"¿Quieres adivinar qué es\nlo que me molesta ahora mismo?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1719",
+"¡¿De verdad vas a dejar que\ncrezca sin padre?!",
+"¡¿De verdad vas a dejar\nque crezca sin padre?!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1754",
+"La Tríada Saio ha invertido una fuerte suma de\ndinero en este local de Pequeña Asia.",
+"La Tríada Saio ha invertido una fuerte suma\nde dinero en este local de Pequeña Asia.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1798",
+"Yo estaba en mi complejo, protegido por\nmás de cien hombres capaces.",
+"Yo estaba en mi complejo, protegido\npor más de cien hombres capaces.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"1849",
+"Por favor, dele mis saludos a su\npadre. Debemos irnos.",
+"Por favor, dele mis saludos\na su padre. Debemos irnos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11027",
+"Esta zona está actualmente cerrada por\nobras. Disculpe las molestias.",
+"Esta zona está actualmente cerrada\npor obras. Disculpe las molestias.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11078",
+"Ofrecemos un paquete de 6,000 yenes con un cargo por\nservicio adicional de 2,000 yenes.",
+"Ofrecemos un paquete de 6,000 yenes con un cargo\npor servicio adicional de 2,000 yenes.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11187",
+"Mmm. Supongo que debo tener más cuidado con\ncómo me interpreta la gente.",
+"Mmm. Supongo que debo tener más cuidado\ncon cómo me interpreta la gente.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11209",
+"Un chico al que consideraba solo un amigo me\nconfesó sus sentimientos...",
+"Un chico al que consideraba solo un amigo\nme confesó sus sentimientos...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11212",
+"Fui a una escuela solo de mujeres, así que tal vez no\nsé cuánta distancia poner con un hombre.",
+"Fui a una escuela solo de mujeres, así que tal vez\nno sé cuánta distancia poner con un hombre.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11249",
+"¡Simplemente fui más consciente de\nmí misma, a mi manera!",
+"¡Simplemente fui más consciente\nde mí misma, a mi manera!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11251",
+"Gracias. Si sigo así, ¿crees que\npodré hacer aún más amigos?",
+"Gracias. Si sigo así, ¿crees\nque podré hacer aún más amigos?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11329",
+"¡El público se siente tan cerca del artista en\nesos lugares pequeños que es increíble!",
+"¡El público se siente tan cerca del artista\nen esos lugares pequeños que es increíble!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11405",
+"Pero ¿así pasarías alguna vez de la etapa de\nconocidos? Eso no parece una amistad.",
+"Pero ¿así pasarías alguna vez de la etapa\nde conocidos? Eso no parece una amistad.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11455",
+"Mmm, la verdad es que siento que la mayoría de los\nchicos que hablan conmigo ya tienen novia.",
+"Mmm, la verdad es que siento que la mayoría\nde los chicos que hablan conmigo ya tienen novia.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11476",
+"¡Yo también me divierto! Ojalá esto no tuviera que\nterminar nunca... Es broma.",
+"¡Yo también me divierto! Ojalá esto no tuviera\nque terminar nunca... Es broma.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11544",
+"Sí. Incluso ahora, cuando paso por delante, siento que\npodría entrar y él seguiría sentado ahí.",
+"Sí. Incluso ahora, cuando paso por delante, siento\nque podría entrar y él seguiría sentado ahí.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11553",
+"¿Eh? ¿Cómo acaba uno siendo el blanco de\nuna organización así?",
+"¿Eh? ¿Cómo acaba uno siendo el blanco\nde una organización así?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11556",
+"La verdad, uno se pregunta qué pasa por\nla cabeza de la gente así.",
+"La verdad, uno se pregunta qué pasa\npor la cabeza de la gente así.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11626",
+"Ay, Kiryu-san. Eres un pervertido... Te lo\ndiré, pero... es un secreto, ¿sí?",
+"Ay, Kiryu-san. Eres un pervertido...\nTe lo diré, pero... es un secreto, ¿sí?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11649",
+"Kiryu-san, no sabía que fueras capaz de\nalgo tan cursi. ¡No me lo esperaba!",
+"Kiryu-san, no sabía que fueras capaz\nde algo tan cursi. ¡No me lo esperaba!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11657",
+"¡Ni en un millón de años! ¿Tú perdonarías a tu\nnovia si te fuera infiel?",
+"¡Ni en un millón de años! ¿Tú perdonarías\na tu novia si te fuera infiel?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11693",
+"¿En serio? Parece que tú sí estás en el rango de\nedad adecuado para eso. ¡Ya me emocioné! <symbol=note_with_outline>",
+"¿En serio? Parece que tú sí estás en el rango\nde edad adecuado para eso. ¡Ya me emocioné! <symbol=note_with_outline>",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11787",
+"Perdón, perdón. Pero hizo que fueras un\npoco más enérgica, ¿no?",
+"Perdón, perdón. Pero hizo que fueras\nun poco más enérgica, ¿no?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11801",
+"¿¡Eh!? Oh, no, no podría. Por favor, no\ndesperdicies tu dinero en algo así.",
+"¿¡Eh!? Oh, no, no podría. Por favor,\nno desperdicies tu dinero en algo así.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11807",
+"¡Me esforzaré a mi manera, relajada! Espero que\nvuelvas y me ayudes a lograrlo.",
+"¡Me esforzaré a mi manera, relajada! Espero\nque vuelvas y me ayudes a lograrlo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11832",
+"Pero si algún día puedes decir desde el fondo de\ntu corazón que quieres ser idol, te apoyo.",
+"Pero si algún día puedes decir desde el fondo\nde tu corazón que quieres ser idol, te apoyo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11833",
+"Todos admiran a las idols, y las idols tienen que\ncargar con esos sueños. No es ningún paseo.",
+"Todos admiran a las idols, y las idols tienen\nque cargar con esos sueños. No es ningún paseo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11846",
+"Sí. De hecho, estaba pensando en\ncómo decírtelo hoy.",
+"Sí. De hecho, estaba pensando\nen cómo decírtelo hoy.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11864",
+"¿Qué tal: \"¡Soy una chica tan alegre, enérgica y\nradiante que vas a necesitar lentes de sol!\"?",
+"¿Qué tal: \"¡Soy una chica tan alegre, enérgica\ny radiante que vas a necesitar lentes de sol!\"?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11871",
+"¿Qué tal \"¡Abran paso a la princesa del\nReino Sanador!\"?",
+"¿Qué tal \"¡Abran paso a la princesa\ndel Reino Sanador!\"?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11873",
+"Bueno, creo que tu dulzura es lo que\nte hace tan única.",
+"Bueno, creo que tu dulzura es\nlo que te hace tan única.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11892",
+"Sí, bueno... en realidad eso es parte de tu\nencanto, supongo.",
+"Sí, bueno... en realidad eso es parte\nde tu encanto, supongo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11923",
+"¡Lo haré! De hecho, tengo una reunión con la\nagencia después de esto.",
+"¡Lo haré! De hecho, tengo una reunión\ncon la agencia después de esto.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11963",
+"Me viene a la mente el tipo de hombre que ayuda a\nuna anciana a cargar algo pesado.",
+"Me viene a la mente el tipo de hombre que ayuda\na una anciana a cargar algo pesado.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"11991",
+"En la escuela empecé a oír hablar de\nlos \"padres monstruo\".",
+"En la escuela empecé a oír hablar\nde los \"padres monstruo\".",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12027",
+"¿Sabías que hoy en día se puede jugar en el\ncelular? Últimamente lo hago mucho.",
+"¿Sabías que hoy en día se puede jugar\nen el celular? Últimamente lo hago mucho.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12059",
+"¿Eh? ¡¿Yo?! ¿Te aseguraste de que\nsaliera linda?",
+"¿Eh? ¡¿Yo?! ¿Te aseguraste\nde que saliera linda?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12126",
+"¡Hola a ti también! Los saludos son la\nbase de la interacción humana.",
+"¡Hola a ti también! Los saludos son\nla base de la interacción humana.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12162",
+"No todo el mundo es capaz de reflexionar sobre sus\nactos. Eres una buena persona, Kazuma-chan. <symbol=note_with_outline>",
+"No todo el mundo es capaz de reflexionar sobre\nsus actos. Eres una buena persona, Kazuma-chan. <symbol=note_with_outline>",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12173",
+"Pero seguramente le hace feliz que lo\nrecuerdes así, Kiryu-san.",
+"Pero seguramente le hace feliz\nque lo recuerdes así, Kiryu-san.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12184",
+"En mi caso, eso podría meterme en\naún más peleas, la verdad...",
+"En mi caso, eso podría meterme\nen aún más peleas, la verdad...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12188",
+"¿Ah, sí? Aunque pareces de los\nque van con todo.",
+"¿Ah, sí? Aunque pareces\nde los que van con todo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12275",
+"¡Fue muy divertido! <symbol=heart_with_outline> ¡Es difícil encontrar un\ncliente que sea divertido en una cita!",
+"¡Fue muy divertido! <symbol=heart_with_outline> ¡Es difícil encontrar\nun cliente que sea divertido en una cita!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12294",
+"¿Kiryu-san, entonces? Tengo muchas ganas de\npasar un rato contigo hoy.",
+"¿Kiryu-san, entonces? Tengo muchas ganas\nde pasar un rato contigo hoy.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12324",
+"Sí. Trato de que mis clientes no gasten más de\nlo necesario y no insisto con las bebidas.",
+"Sí. Trato de que mis clientes no gasten más\nde lo necesario y no insisto con las bebidas.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12327",
+"No todos los clientes están forrados de dinero, y si los\npresiono para gastar, van a terminar sufriendo...",
+"No todos los clientes están forrados de dinero, y si\nlos presiono para gastar, van a terminar sufriendo...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12379",
+"Entonces deberías seguir haciéndolo. No te preocupes por lo\nque piensen los demás. La decisión es tuya.",
+"Entonces deberías seguir haciéndolo. No te preocupes\npor lo que piensen los demás. La decisión es tuya.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12400",
+"Tienes razón, tal vez esté trabajando un\npoco de más últimamente.",
+"Tienes razón, tal vez esté trabajando\nun poco de más últimamente.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12424",
+"Kiryu-san, qué adulador. ¡Espero que no\nestés esperando nada especial!",
+"Kiryu-san, qué adulador. ¡Espero\nque no estés esperando nada especial!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12427",
+"No durarás mucho en este trabajo si piensas de\nese modo. Ya no soy tan joven como antes.",
+"No durarás mucho en este trabajo si piensas\nde ese modo. Ya no soy tan joven como antes.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12492",
+"¡Gracias! ¡Me esforzaré para que sea mi\nobjetivo concreto! ¡Deséame suerte!",
+"¡Gracias! ¡Me esforzaré para que sea\nmi objetivo concreto! ¡Deséame suerte!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12723",
+"Probablemente cuando era estudiante. Había un\nsenpai lindo que me gustaba mucho.",
+"Probablemente cuando era estudiante. Había\nun senpai lindo que me gustaba mucho.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12821",
+"Kiryu-san, tenía la esperanza de que\naparecieras... <symbol=heart_with_outline>",
+"Kiryu-san, tenía la esperanza\nde que aparecieras... <symbol=heart_with_outline>",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12859",
+"Es broma. Pero sí creo que hablar así de\nrelajada es parte de tu encanto.",
+"Es broma. Pero sí creo que hablar así\nde relajada es parte de tu encanto.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12897",
+"¡Debería seguir trabajando aquí y apuntar a lo\nmás alto por ellos!",
+"¡Debería seguir trabajando aquí y apuntar\na lo más alto por ellos!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12899",
+"Totalmente. ¡También iré por el cinturón de\ncampeona en el mundo del cabaré!",
+"Totalmente. ¡También iré por el cinturón\nde campeona en el mundo del cabaré!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"12959",
+"Luego lo escribo todo en un cuaderno para\npoder leerlo de nuevo si quiero.",
+"Luego lo escribo todo en un cuaderno\npara poder leerlo de nuevo si quiero.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13261",
+"Broma, broma. <symbol=heart_with_outline> Si puedes ser cortés con\nextraños, sé cortés con tus amigos.",
+"Broma, broma. <symbol=heart_with_outline> Si puedes ser cortés\ncon extraños, sé cortés con tus amigos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13265",
+"Uf, decir todo esto me hace sonar como una\nvieja. Tengo que cuidarme.",
+"Uf, decir todo esto me hace sonar como\nuna vieja. Tengo que cuidarme.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13288",
+"Paso la mayor parte del tiempo charlando con\nel barman, bebiendo una copa de licor.",
+"Paso la mayor parte del tiempo charlando\ncon el barman, bebiendo una copa de licor.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13439",
+"Por supuesto. Se nota que vas por\nel camino recto.",
+"Por supuesto. Se nota que vas\npor el camino recto.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13491",
+"Bueno... preferiría un lugar con un\npoco más de ambiente.",
+"Bueno... preferiría un lugar\ncon un poco más de ambiente.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13588",
+"Ah, y hace poco me envicié con juegos de romance para\nhombres en los que conquistas a chicas lindas.",
+"Ah, y hace poco me envicié con juegos de romance\npara hombres en los que conquistas a chicas lindas.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13723",
+"Solo se me ocurre una cosa que se volvió una\nrutina diaria, y es meterme en peleas.",
+"Solo se me ocurre una cosa que se volvió\nuna rutina diaria, y es meterme en peleas.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13814",
+"JUSTIS es tal como indica su nombre<symbol=em_dash_with_outline>una reunión de\npersonas afines decididas a impartir justicia.",
+"JUSTIS es tal como indica su nombre<symbol=em_dash_with_outline>una reunión\nde personas afines decididas a impartir justicia.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13829",
+"Seguro creíste que podías escapar de\nnosotros... ¡pero te equivocaste!",
+"Seguro creíste que podías escapar\nde nosotros... ¡pero te equivocaste!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13864",
+"Este, Kiryu-san. Perdón por esto. Mi hermano y\nsu amigo son un verdadero fastidio.",
+"Este, Kiryu-san. Perdón por esto. Mi hermano\ny su amigo son un verdadero fastidio.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13887",
+"Creo que al salvarme, te pusiste en\nuna pésima posición.",
+"Creo que al salvarme, te pusiste\nen una pésima posición.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13946",
+"Aunque nosotros también tenemos un ejército grande. Puede que\nsean más, pero podremos ganar si tenemos cuidado.",
+"Aunque nosotros también tenemos un ejército grande. Puede\nque sean más, pero podremos ganar si tenemos cuidado.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14111",
+"Y cuando ocurra, necesitaremos un líder fuerte para\nmantener el orden. Ahí es donde entras tú.",
+"Y cuando ocurra, necesitaremos un líder fuerte\npara mantener el orden. Ahí es donde entras tú.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14220",
+"La verdad es que tengo una razón para\nhaber venido hasta Onomichi.",
+"La verdad es que tengo una razón\npara haber venido hasta Onomichi.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14266",
+"Además, su grupo es muy diferente a la pandilla de\nineptos con la que me vine hasta acá.",
+"Además, su grupo es muy diferente a la pandilla\nde ineptos con la que me vine hasta acá.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14571",
+"Pero poco después, Okada cambió y convirtió a\nJUSTIS en la pandilla que es hoy en día.",
+"Pero poco después, Okada cambió y convirtió\na JUSTIS en la pandilla que es hoy en día.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14583",
+"Sí. Si hubiéramos sabido lo grave que fue, sin\nduda habríamos intentado contraatacar.",
+"Sí. Si hubiéramos sabido lo grave que fue,\nsin duda habríamos intentado contraatacar.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14631",
+"Por supuesto. Si significa mantener viva su\namistad, haré lo que haga falta.",
+"Por supuesto. Si significa mantener viva\nsu amistad, haré lo que haga falta.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14696",
+"Como uno de los fundadores de JUSTIS, tengo que\nasumir la responsabilidad. ¡Los destruiré!",
+"Como uno de los fundadores de JUSTIS, tengo\nque asumir la responsabilidad. ¡Los destruiré!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14733",
+"¡Si en verdad creen que pueden vencer a\nRainmaker, vengan y peleen conmigo!",
+"¡Si en verdad creen que pueden vencer\na Rainmaker, vengan y peleen conmigo!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14760",
+"Los que ustedes han derrotado hasta ahora son solo los\nque me rechazaron y se mantuvieron leales a Okada.",
+"Los que ustedes han derrotado hasta ahora son solo\nlos que me rechazaron y se mantuvieron leales a Okada.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14807",
+"¿Entonces por qué...? ¿Por qué dijiste que\nme entregarías las riendas de JUSTIS?",
+"¿Entonces por qué...? ¿Por qué dijiste\nque me entregarías las riendas de JUSTIS?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"14893",
+"Je... Ustedes dos me recuerdan un poco a\nmí cuando tenía su edad.",
+"Je... Ustedes dos me recuerdan un poco\na mí cuando tenía su edad.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15042",
+"Ah, sí. Estaba pensando en formas de\npoder compensarte por eso.",
+"Ah, sí. Estaba pensando en formas\nde poder compensarte por eso.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15059",
+"Un amigo mío está en el negocio, así que pensé que\ntal vez querrías conocerlo, Kiryu-san.",
+"Un amigo mío está en el negocio, así que pensé\nque tal vez querrías conocerlo, Kiryu-san.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15791",
+"...es de haber decidido acogerla y\ncriarla como a mi propia hija.",
+"...es de haber decidido acogerla\ny criarla como a mi propia hija.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15844",
+"Entonces... ¿eso significa que vas a\ndejarnos aquí otra vez?",
+"Entonces... ¿eso significa que vas\na dejarnos aquí otra vez?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15879",
+"Y cuando lo haga, iremos todos juntos a\napoyarte. Da todo lo que tengas, ¿sí?",
+"Y cuando lo haga, iremos todos juntos\na apoyarte. Da todo lo que tengas, ¿sí?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15883",
+"Aunque dijo que a todos aquí en\nMorning Glory les iba bien.",
+"Aunque dijo que a todos aquí\nen Morning Glory les iba bien.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15893",
+"¡Tío Kaz! ¡Será mejor que la hagas entrar en\nrazón cuando descubras dónde está!",
+"¡Tío Kaz! ¡Será mejor que la hagas entrar\nen razón cuando descubras dónde está!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15894",
+"¡Hazle saber que queremos tenerla con\nnosotros, pase lo que pase!",
+"¡Hazle saber que queremos tenerla\ncon nosotros, pase lo que pase!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15907",
+"No lo haré. Mitsuo, buena suerte con\ntu entrenamiento de béisbol.",
+"No lo haré. Mitsuo, buena suerte\ncon tu entrenamiento de béisbol.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15918",
+"¿En serio? Les estuve insistiendo en que\nme avisaran cuando salieras.",
+"¿En serio? Les estuve insistiendo\nen que me avisaran cuando salieras.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"15958",
+"Dicho esto, he oído rumores de que\nlas tríadas van tras él.",
+"Dicho esto, he oído rumores\nde que las tríadas van tras él.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16015",
+"A decir verdad, no. Dejó de dar sus\npaseos por aquí hace un tiempo.",
+"A decir verdad, no. Dejó de dar\nsus paseos por aquí hace un tiempo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16058",
+"Qué raro. No hablo ni una palabra de\nchino, pero capté la idea.",
+"Qué raro. No hablo ni una palabra\nde chino, pero capté la idea.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16081",
+"Oí que Akiyama ha estado evitando a los\nchinos desde entonces.",
+"Oí que Akiyama ha estado evitando\na los chinos desde entonces.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16212",
+"Para colmo, otros grupos se están metiendo en\nKamurocho para aprovechar el caos.",
+"Para colmo, otros grupos se están metiendo\nen Kamurocho para aprovechar el caos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16289",
+"Acabo de pasar tres años en prisión para\nquitarme el hedor del Clan Tojo.",
+"Acabo de pasar tres años en prisión\npara quitarme el hedor del Clan Tojo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16390",
+"...Le daré una lección sobre estar presente en\nel nacimiento de un hijo.",
+"...Le daré una lección sobre estar presente\nen el nacimiento de un hijo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16526",
+"Los departamentos están bajando por la\ncosta y luego hacia el oeste.",
+"Los departamentos están bajando\npor la costa y luego hacia el oeste.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16670",
+"Vas a necesitar energía para buscar al\npadre de Haruto mañana, ¿no?",
+"Vas a necesitar energía para buscar\nal padre de Haruto mañana, ¿no?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16681",
+"Bueno, Ino-kun está en un equipo local y\ntienen un partido hoy.",
+"Bueno, Ino-kun está en un equipo local\ny tienen un partido hoy.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16829",
+"Mira, no tienes por qué hacer esto. Espera a\nsu familia. Nadie espera tu ayuda.",
+"Mira, no tienes por qué hacer esto. Espera\na su familia. Nadie espera tu ayuda.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16884",
+"Aniki, déjame presentarte a\nnuestro patriarca. Pasa.",
+"Aniki, déjame presentarte\na nuestro patriarca. Pasa.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"16904",
+"No puedes mantener un bar si vas a golpear a tus\nclientes por cada tontería.",
+"No puedes mantener un bar si vas a golpear\na tus clientes por cada tontería.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17237",
+"En cuanto nos mostraste esa foto en la\noficina, supimos quién eras.",
+"En cuanto nos mostraste esa foto\nen la oficina, supimos quién eras.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17309",
+"Así que decidí ofrecerle un futón en\nmi casa, al menos por una noche.",
+"Así que decidí ofrecerle un futón\nen mi casa, al menos por una noche.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17523",
+"La verdad es que sufrió un atropello con fuga en\nKamurocho. Todavía no saben quién lo hizo.",
+"La verdad es que sufrió un atropello con fuga\nen Kamurocho. Todavía no saben quién lo hizo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17539",
+"Kiryu-aniki. ¿De verdad vas a\nvolver a Kamurocho?",
+"Kiryu-aniki. ¿De verdad vas\na volver a Kamurocho?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17625",
+"¡P-Perdón por esto! ¡Voy al\nPoppo un momento!",
+"¡P-Perdón por esto! ¡Voy\nal Poppo un momento!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17693",
+"Sí, aunque hace muchísimo que\nno nos vemos.",
+"Sí, aunque hace muchísimo\nque no nos vemos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17703",
+"Lo usaron para acaparar casi todos los\nmejores inmuebles de Kamurocho.",
+"Lo usaron para acaparar casi todos\nlos mejores inmuebles de Kamurocho.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17791",
+"¡Debo decir que me preocupó lo mucho que\ntardó en llegar, Kiryu-san!",
+"¡Debo decir que me preocupó lo mucho\nque tardó en llegar, Kiryu-san!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17828",
+"Cuando llegué por primera vez a Kamurocho, parecía que\neste país estaba decidido a reprimir el deseo.",
+"Cuando llegué por primera vez a Kamurocho, parecía\nque este país estaba decidido a reprimir el deseo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17838",
+"¿No está buscando a\nun tal Tatsukawa?",
+"¿No está buscando\na un tal Tatsukawa?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17852",
+"Pero el evento principal de hoy será una prueba de\nhabilidad entre el Dragón de Dojima y yo.",
+"Pero el evento principal de hoy será una prueba\nde habilidad entre el Dragón de Dojima y yo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17915",
+"Como es de esperarse, también sabemos de\nsu relación con usted, Kiryu-san.",
+"Como es de esperarse, también sabemos\nde su relación con usted, Kiryu-san.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"17929",
+"Supongo que lo aprendiste con la esperanza de\nconquistar a alguna chica china adorable.",
+"Supongo que lo aprendiste con la esperanza\nde conquistar a alguna chica china adorable.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18130",
+"Tienes que pasar por toda una red de\ngente si quieres contactarlo.",
+"Tienes que pasar por toda una red\nde gente si quieres contactarlo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18180",
+"Dices eso, pero parece que\nte estás divirtiendo.",
+"Dices eso, pero parece\nque te estás divirtiendo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18269",
+"Mama dijo que lo puso en nuestra cuenta, así que\naveriguaremos cómo manejar esto después.",
+"Mama dijo que lo puso en nuestra cuenta, así\nque averiguaremos cómo manejar esto después.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18287",
+"(Akiyama dijo que nos viéramos afuera de\nPequeña Asia. Deberíamos irnos...)",
+"(Akiyama dijo que nos viéramos afuera\nde Pequeña Asia. Deberíamos irnos...)",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18304",
+"Eso nos llevará directo a una ventana en\nel tercer piso por donde colarnos.",
+"Eso nos llevará directo a una ventana\nen el tercer piso por donde colarnos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18364",
+"Bien, hagamos subir a\nlos otros dos.",
+"Bien, hagamos subir\na los otros dos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18413",
+"Incluso así, el Clan Tojo está en guerra con\nlas tríadas. Deberían ser sus enemigos.",
+"Incluso así, el Clan Tojo está en guerra\ncon las tríadas. Deberían ser sus enemigos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18461",
+"Kiryu-san. ¿De verdad vas a\nreunirte con Lo mañana?",
+"Kiryu-san. ¿De verdad vas\na reunirte con Lo mañana?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18496",
+"Si no involucra a Haruka, que se\nqueden con sus secretos.",
+"Si no involucra a Haruka,\nque se queden con sus secretos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18527",
+"Jimmy era un oficial de la Saio a cargo de\norganizar sus fuerzas en Kamurocho.",
+"Jimmy era un oficial de la Saio a cargo\nde organizar sus fuerzas en Kamurocho.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18571",
+"Asegúrese de estar listo para\nlo que sea, Kiryu-san.",
+"Asegúrese de estar listo\npara lo que sea, Kiryu-san.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18637",
+"¿Y bien? ¿Siente siquiera una pizca de\nresponsabilidad, Cuarto Presidente?",
+"¿Y bien? ¿Siente siquiera una pizca\nde responsabilidad, Cuarto Presidente?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18788",
+"No estoy del todo seguro, pero, por\nlo que dices que te dijo Lo...",
+"No estoy del todo seguro, pero,\npor lo que dices que te dijo Lo...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18795",
+"Esos cabezas huecas van a\nterminar atrapados.",
+"Esos cabezas huecas van\na terminar atrapados.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18797",
+"...A la Alianza Yomei no le va a\nimportar de verdad.",
+"...A la Alianza Yomei no le va\na importar de verdad.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18853",
+"No, para nada. Estaba sonriendo y\nbromeando, como siempre.",
+"No, para nada. Estaba sonriendo\ny bromeando, como siempre.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18861",
+"Quizá el jefe solo esté escondiendo a Haruto para\nque nadie más pueda acercarse a él.",
+"Quizá el jefe solo esté escondiendo a Haruto\npara que nadie más pueda acercarse a él.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18886",
+"Y antes de darme cuenta, ya tenía 30. Mis años en\nel negocio me dieron demasiada confianza.",
+"Y antes de darme cuenta, ya tenía 30. Mis años\nen el negocio me dieron demasiada confianza.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"18908",
+"Uno de sus subordinados nos atrapó. Y después de\nrecuperar a nuestra hija, Someya me golpeó.",
+"Uno de sus subordinados nos atrapó. Y después\nde recuperar a nuestra hija, Someya me golpeó.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19017",
+"N-No sé. Solo estamos haciendo lo que\nnos dijo el capitán Koshimizu.",
+"N-No sé. Solo estamos haciendo\nlo que nos dijo el capitán Koshimizu.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19025",
+"Interesante. En ese caso, parece que\nte ha estado mintiendo.",
+"Interesante. En ese caso, parece\nque te ha estado mintiendo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19254",
+"¿Y lo que volvió a unirlos? El asunto de los\n<font_kind=yakuza_italic>heihaizi</font_kind>.",
+"¿Y lo que volvió a unirlos? El asunto\nde los <font_kind=yakuza_italic>heihaizi</font_kind>.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19275",
+"Tal vez tenga todos esos contactos por\nun poder oculto que nadie conoce.",
+"Tal vez tenga todos esos contactos\npor un poder oculto que nadie conoce.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19291",
+"Disculpa, Kiryu-san. Ino y yo vamos a\nquedarnos a vigilar el barco.",
+"Disculpa, Kiryu-san. Ino y yo vamos\na quedarnos a vigilar el barco.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19315",
+"No obstante, el panorama cambió con su\ninvasión a Pequeña Asia.",
+"No obstante, el panorama cambió\ncon su invasión a Pequeña Asia.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19346",
+"Nuestra parte era simplemente avivar las llamas de\nla guerra entre el Clan Tojo y la Tríada Saio.",
+"Nuestra parte era simplemente avivar las llamas\nde la guerra entre el Clan Tojo y la Tríada Saio.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19452",
+"Después de unirme a la Familia Hirose, sentí que\nde verdad tenía un lugar al que pertenecer.",
+"Después de unirme a la Familia Hirose, sentí\nque de verdad tenía un lugar al que pertenecer.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19466",
+"...Pero si no hago algo, ¡no dejarán de\nperseguir a Haruka-chan y a Haruto!",
+"...Pero si no hago algo, ¡no dejarán\nde perseguir a Haruka-chan y a Haruto!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19530",
+"Sí, gracias. Necesito pedirle que\ncuide a Haruto un rato.",
+"Sí, gracias. Necesito pedirle\nque cuide a Haruto un rato.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19610",
+"La Tríada Saio está en pánico por el incendio de\nPequeña Asia y la desaparición de su jefe.",
+"La Tríada Saio está en pánico por el incendio\nde Pequeña Asia y la desaparición de su jefe.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19707",
+"Ese hecho me permitió presionar a Kurusu acerca del\nsecreto de Onomichi que me reveló mi padre.",
+"Ese hecho me permitió presionar a Kurusu acerca\ndel secreto de Onomichi que me reveló mi padre.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19729",
+"Después de todo, no podía arriesgarme a que descubriera mi\nfarol sobre el secreto de Onomichi.",
+"Después de todo, no podía arriesgarme a que descubriera\nmi farol sobre el secreto de Onomichi.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19755",
+"El secreto de Onomichi ya no es más que\nuna maldición para Kurusu y Hirose.",
+"El secreto de Onomichi ya no es más\nque una maldición para Kurusu y Hirose.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19812",
+"Sí. Pero antes de hacer eso, tendré que\nhablar con la Familia Hirose.",
+"Sí. Pero antes de hacer eso, tendré\nque hablar con la Familia Hirose.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19891",
+"Bien, pero... ¿Y si aparece para proteger el\nsecreto de Onomichi? ¿Qué hacemos?",
+"Bien, pero... ¿Y si aparece para proteger\nel secreto de Onomichi? ¿Qué hacemos?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"19955",
+"Así que si quisieras usar esta tabla para\nescribir \"konnichiwa\"...",
+"Así que si quisieras usar esta tabla\npara escribir \"konnichiwa\"...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20013",
+"Mar, ejército, agua, soldado, nombre de\nmontaña, camino, grande, tumba.",
+"Mar, ejército, agua, soldado, nombre\nde montaña, camino, grande, tumba.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20096",
+"Parece que estamos en una especie de\nviejo astillero.",
+"Parece que estamos en una especie\nde viejo astillero.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20131",
+"Para Daidoji y la administración, era un secreto que\nde ningún modo podían permitirse hacer público.",
+"Para Daidoji y la administración, era un secreto\nque de ningún modo podían permitirse hacer público.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20159",
+"Pero conozco el secreto de\nOnomichi desde siempre.",
+"Pero conozco el secreto\nde Onomichi desde siempre.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20196",
+"Dices eso, pero ¿recuerdas el juramento que\nintenté negociar con el Clan Tojo?",
+"Dices eso, pero ¿recuerdas el juramento\nque intenté negociar con el Clan Tojo?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20272",
+"Por eso, vendrá por usted y por la\nFamilia Hirose.",
+"Por eso, vendrá por usted\ny por la Familia Hirose.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20321",
+"Ah, sí, hoy Haruto se puso de pie sin\nayuda de ninguno de los dos.",
+"Ah, sí, hoy Haruto se puso de pie\nsin ayuda de ninguno de los dos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20622",
+"Muy bien, señor. Por favor, regrese a este mostrador y\navíseme si alguna vez reúne el valor necesario.",
+"Muy bien, señor. Por favor, regrese a este mostrador\ny avíseme si alguna vez reúne el valor necesario.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20785",
+"Todo lo divertido o sabroso es malo para la\nsalud. Al menos, así lo veo yo.",
+"Todo lo divertido o sabroso es malo\npara la salud. Al menos, así lo veo yo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20799",
+"Prefiero tener la piel en mal estado antes que\nno poder venir aquí nunca más.",
+"Prefiero tener la piel en mal estado antes\nque no poder venir aquí nunca más.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"20810",
+"Él tiene razón, te estresarías tanto que\ntu piel estaría aún peor.",
+"Él tiene razón, te estresarías tanto\nque tu piel estaría aún peor.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"21323",
+"Pero casi todos vienen a coquetear con Mama o\nnos ignoran y hablan de sí mismos...",
+"Pero casi todos vienen a coquetear con Mama\no nos ignoran y hablan de sí mismos...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"21529",
+"Le diré que te espere cerca de\nla Torre Millennium.",
+"Le diré que te espere cerca\nde la Torre Millennium.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"21590",
+"Tú has... pasado tiempo con\nTaichi antes, ¿verdad?",
+"Tú has... pasado tiempo\ncon Taichi antes, ¿verdad?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"21652",
+"Este... ¡hace mucho tiempo! Cuando vivía en\nOsaka, fui a uno de sus eventos de fans.",
+"Este... ¡hace mucho tiempo! Cuando vivía\nen Osaka, fui a uno de sus eventos de fans.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"22310",
+"¿Eh? ¡Eres el ciudadano común que\nparecía totalmente yakuza!",
+"¿Eh? ¡Eres el ciudadano común\nque parecía totalmente yakuza!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"22452",
+"\nLo único que sé con certeza es que oí al tipo que\npuso esa bolsa de basura hablar en chino.",
+"\nLo único que sé con certeza es que oí al tipo\nque puso esa bolsa de basura hablar en chino.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"22856",
+"Este tipo de aquí... es un gran fan de\nalguien muy especial para mí.",
+"Este tipo de aquí... es un gran fan\nde alguien muy especial para mí.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"22948",
+"Entiendo... Entonces, ¿más o menos como la\nmujer japonesa tradicional?",
+"Entiendo... Entonces, ¿más o menos como\nla mujer japonesa tradicional?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"22993",
+"Tenía tantas ganas de encontrarme contigo que\nme adelanté un poco. <symbol=note_with_outline>",
+"Tenía tantas ganas de encontrarme contigo\nque me adelanté un poco. <symbol=note_with_outline>",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23000",
+"No puedo quitarme la sensación de que\nnos están vigilando...",
+"No puedo quitarme la sensación\nde que nos están vigilando...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23020",
+"¡S-S-Solo te estaba vigilando para asegurarme de que\nno le hicieras nada malo a Erina-chan!",
+"¡S-S-Solo te estaba vigilando para asegurarme\nde que no le hicieras nada malo a Erina-chan!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23022",
+"Pobre, dulce Erina-chan... Obligada a pasar el rato con\neste yakuza grandote...",
+"Pobre, dulce Erina-chan... Obligada a pasar el rato\ncon este yakuza grandote...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23026",
+"¡N-No somos \"pareja\", y definitivamente no\nestamos enamorados!",
+"¡N-No somos \"pareja\", y definitivamente\nno estamos enamorados!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23034",
+"¿Por qué no dejas a este bruto y vienes a\ndivertirte conmigo, Erina-chan?",
+"¿Por qué no dejas a este bruto y vienes\na divertirte conmigo, Erina-chan?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23077",
+"¡¿Y después de pedir la mitad del menú, haces que\nme expulsen del club?! ¡Perra!",
+"¡¿Y después de pedir la mitad del menú, haces\nque me expulsen del club?! ¡Perra!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23222",
+"Pero ha sido duro. La liga como que\nme dejó de lado por mi actitud.",
+"Pero ha sido duro. La liga como\nque me dejó de lado por mi actitud.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23404",
+"Lo siento, pero no puedo opinar si no\nsé de qué estás hablando.",
+"Lo siento, pero no puedo opinar si\nno sé de qué estás hablando.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23414",
+"Una sala de chat... Es una especie de\ngrupo de mensajería en línea, ¿no?",
+"Una sala de chat... Es una especie\nde grupo de mensajería en línea, ¿no?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23520",
+"¡Así es! Primero tendrá que pasar por\nuna sesión de asesoría gratuita.",
+"¡Así es! Primero tendrá que pasar\npor una sesión de asesoría gratuita.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23613",
+"También te enviaré mis consejos por mensaje al número que\nproporcionaste al registrarte como socio de RIZAP.",
+"También te enviaré mis consejos por mensaje al número\nque proporcionaste al registrarte como socio de RIZAP.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"23884",
+"¡Dije que no! ¡No son más que\nuna pandilla de matones!",
+"¡Dije que no! ¡No son más\nque una pandilla de matones!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24011",
+"Solo estaba de paso. En realidad no\nsoy de por aquí. Me llamo Kiryu.",
+"Solo estaba de paso. En realidad\nno soy de por aquí. Me llamo Kiryu.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24037",
+"La policía no moverá un dedo hasta que\ntenga pruebas sólidas.",
+"La policía no moverá un dedo hasta\nque tenga pruebas sólidas.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24111",
+"Debe ser una señal de que nos orientamos hacia la\nluz de Munan Chohept Onast el mismo día.",
+"Debe ser una señal de que nos orientamos hacia\nla luz de Munan Chohept Onast el mismo día.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24146",
+"¡Sea como sea, tenemos que impedir que\nles haga esa donación!",
+"¡Sea como sea, tenemos que impedir\nque les haga esa donación!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24255",
+"Este es solo tu primer día en nuestra orden, pero queda claro que\nllevas a Munan Chohept Onast muy cerca del corazón.",
+"Este es solo tu primer día en nuestra orden, pero queda claro\nque llevas a Munan Chohept Onast muy cerca del corazón.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24365",
+"Jeh, igualmente. Ya no gritas con\nlas mismas ganas que antes.",
+"Jeh, igualmente. Ya no gritas\ncon las mismas ganas que antes.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24451",
+"Pero... ¿dónde podría encontrar un auto de\nPocket Circuit hoy en día?",
+"Pero... ¿dónde podría encontrar un auto\nde Pocket Circuit hoy en día?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24536",
+"No... no tengo derecho a\nllamarme su padre.",
+"No... no tengo derecho\na llamarme su padre.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24571",
+"¡¿Y por qué estás vestido con\nesa estúpida ropa vieja?!",
+"¡¿Y por qué estás vestido\ncon esa estúpida ropa vieja?!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24682",
+"Son rápidos, pero les prometo que no van a\nagarrarme desprevenido en mucho tiempo.",
+"Son rápidos, pero les prometo que no van\na agarrarme desprevenido en mucho tiempo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24743",
+"Claro. Un chico de medio tiempo que se ponía el disfraz de\nMichio-kun para repartir alegría por el mundo.",
+"Claro. Un chico de medio tiempo que se ponía el disfraz\nde Michio-kun para repartir alegría por el mundo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"24770",
+"¡Ahora, manos a la obra! Cuanto antes te transformes en\nOno Michio-kun, mejor. ¡Vamos!",
+"¡Ahora, manos a la obra! Cuanto antes te transformes\nen Ono Michio-kun, mejor. ¡Vamos!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25243",
+"Después de que esa chica se someta a la cirugía, estoy segura de que\nle encantaría que Michio-kun estuviera allí para felicitarla.",
+"Después de que esa chica se someta a la cirugía, estoy segura\nde que le encantaría que Michio-kun estuviera allí para felicitarla.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25456",
+"Señora, debo insistir en que\nvuelva a casa.",
+"Señora, debo insistir\nen que vuelva a casa.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25476",
+"¿Todo este tiempo mintieron sobre lo\ndel intercambio de cuerpos?",
+"¿Todo este tiempo mintieron sobre\nlo del intercambio de cuerpos?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25623",
+"Exacto... Pero si no entrenamos, mi sueño de\nhacerme profesional se...",
+"Exacto... Pero si no entrenamos, mi sueño\nde hacerme profesional se...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25631",
+"Pero volviendo a la realidad, es una pena que no\npodamos entrenar porque nos faltan...",
+"Pero volviendo a la realidad, es una pena\nque no podamos entrenar porque nos faltan...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25694",
+"Nunca le conseguí una victoria al equipo, pero un\ncazatalentos notó que tenía ganas de destacar.",
+"Nunca le conseguí una victoria al equipo, pero\nun cazatalentos notó que tenía ganas de destacar.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25763",
+"Sí... Pero eso significa que tenemos que\nseguir agrandando el equipo.",
+"Sí... Pero eso significa que tenemos\nque seguir agrandando el equipo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25843",
+"¡Nuestro equipo ha cambiado desde que\nllegó el capitán Kiryu!",
+"¡Nuestro equipo ha cambiado desde\nque llegó el capitán Kiryu!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25881",
+"Claro, después de todo son claramente mejores que\nlos Thunders, así que ¿qué tienen que perder?",
+"Claro, después de todo son claramente mejores\nque los Thunders, así que ¿qué tienen que perder?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25886",
+"Esa actitud valiente ante la\nadversidad...",
+"Esa actitud valiente ante\nla adversidad...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"25965",
+"Entonces queda decidido... El próximo partido será por\nel título de equipo más fuerte de Onomichi.",
+"Entonces queda decidido... El próximo partido será\npor el título de equipo más fuerte de Onomichi.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26146",
+"No hay problema. Si te cuesta hablar con\nél, quizá pueda acompañarte.",
+"No hay problema. Si te cuesta hablar\ncon él, quizá pueda acompañarte.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26157",
+"Pero estaba equivocado. Una niña se convierte en\nmujer, y tiene que dejar el nido...",
+"Pero estaba equivocado. Una niña se convierte\nen mujer, y tiene que dejar el nido...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26244",
+"Perfecto, entonces te buscaré en el\ncampo, Akiyoshi-san.",
+"Perfecto, entonces te buscaré\nen el campo, Akiyoshi-san.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26274",
+"Odio los aparatos porque siento que\nme estoy quedando en el pasado.",
+"Odio los aparatos porque siento\nque me estoy quedando en el pasado.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26318",
+"¿Cómo va todo? ¿Ya eres experto en\nusar la máquina de karaoke?",
+"¿Cómo va todo? ¿Ya eres experto\nen usar la máquina de karaoke?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26378",
+"¡¿Hiciste que tu nuevo hombre vendiera el anillo de Ando después de\ncortar toda comunicación con él?!",
+"¡¿Hiciste que tu nuevo hombre vendiera el anillo de Ando después\nde cortar toda comunicación con él?!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26461",
+"Bueno, entonces, toca celebrarlo con\nunas bebidas.",
+"Bueno, entonces, toca celebrarlo\ncon unas bebidas.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26517",
+"Un grupo de matones había rodeado a una\nchica indefensa que estaba sola.",
+"Un grupo de matones había rodeado\na una chica indefensa que estaba sola.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26522",
+"Sea cual sea la razón, los boxeadores profesionales no\npueden alzar las manos contra civiles...",
+"Sea cual sea la razón, los boxeadores profesionales\nno pueden alzar las manos contra civiles...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26613",
+"Recuerdo con toda claridad la primera vez que\ncompartí una copa contigo.",
+"Recuerdo con toda claridad la primera vez\nque compartí una copa contigo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26724",
+"Ah, ya entiendo. Un hombre solo puede concentrarse en su\ntrabajo si sabe que su hogar está a salvo.",
+"Ah, ya entiendo. Un hombre solo puede concentrarse\nen su trabajo si sabe que su hogar está a salvo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"26763",
+"Me dijeron unos amigos buzos que\nvas a la pesca submarina.",
+"Me dijeron unos amigos buzos\nque vas a la pesca submarina.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"27136",
+"Sí. Déjame preguntarte: ¿cuál crees que es la\nprincipal amenaza para el Japón de hoy?",
+"Sí. Déjame preguntarte: ¿cuál crees que es\nla principal amenaza para el Japón de hoy?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"27143",
+"Entonces... ¿por qué estaba tirado en el suelo un\nprofesional de la gestión de crisis?",
+"Entonces... ¿por qué estaba tirado en el suelo\nun profesional de la gestión de crisis?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"27154",
+"Como estoy quebrado, necesito encontrar a alguien en\nOnomichi que me ayude a terminar esta técnica.",
+"Como estoy quebrado, necesito encontrar a alguien\nen Onomichi que me ayude a terminar esta técnica.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"27172",
+"¿Compañero? No me digas... ¿crees que me\nquedaré aquí para ayudarte?",
+"¿Compañero? No me digas... ¿crees\nque me quedaré aquí para ayudarte?",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"27233",
+"En realidad, estoy pensando en\nvolver a ir al extranjero.",
+"En realidad, estoy pensando\nen volver a ir al extranjero.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29106",
+"Los sucesos de Yakuza\n\nPasaron diez años...\nDiciembre de 2005. Kiryu sale de prisión a un mundo distinto.\n\nNishikiyama había perdido a su hermana y sufrido mucho en esos\ndiez años, convirtiéndose en un monstruo obsesionado con\nel poder y con ascender en el Clan Tojo.\n\nNi siquiera Shintaro Kazama, patriarca de la Familia Kazama y\nfundador del Orfanato Sunflower, una figura paterna para ambos,\npudo detener la oscura transformación de Nishikiyama.",
+"Los sucesos de Yakuza\n\nPasaron diez años...\nDiciembre de 2005. Kiryu sale de prisión a un mundo distinto.\n\nNishikiyama había perdido a su hermana y sufrido mucho en esos\ndiez años, convirtiéndose en un monstruo obsesionado\ncon el poder y con ascender en el Clan Tojo.\n\nNi siquiera Shintaro Kazama, patriarca de la Familia Kazama y\nfundador del Orfanato Sunflower, una figura paterna para ambos,\npudo detener la oscura transformación de Nishikiyama.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29108",
+"Los sucesos de Yakuza\n\nMientras Kiryu se veía envuelto en el conflicto interno del Clan Tojo,\ncontinuó buscando a Yumi, aún desaparecida tras todos estos años.\n\nBuscando pistas en Serena, supo que Yumi tenía una hermana menor\nllamada Mizuki. Creyendo que era su única pista, Kiryu se sumergió\nen la oscuridad de la ciudad para encontrarla.\n\nPero el rastro de Mizuki estaba tan frío como el de Yumi y, cuando la\nesperanza se apagaba, Kiryu tuvo suerte<symbol=em_dash_with_outline>se topó con una niña\nque decía ser la hija de Mizuki.",
+"Los sucesos de Yakuza\n\nMientras Kiryu se veía envuelto en el conflicto interno del Clan Tojo,\ncontinuó buscando a Yumi, aún desaparecida tras todos estos años.\n\nBuscando pistas en Serena, supo que Yumi tenía una hermana menor\nllamada Mizuki. Creyendo que era su única pista, Kiryu se sumergió\nen la oscuridad de la ciudad para encontrarla.\n\nPero el rastro de Mizuki estaba tan frío como el de Yumi y, cuando\nla esperanza se apagaba, Kiryu tuvo suerte<symbol=em_dash_with_outline>se topó con una niña\nque decía ser la hija de Mizuki.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29109",
+"Los sucesos de Yakuza\n\nLa niña se llamaba Haruka Sawamura.\n\nCon solo nueve años, fue sola a Kamurocho con la esperanza\nde hallar a su madre, Mizuki. Como Kiryu, Haruka también se crio en\nel Orfanato Sunflower, y su tía Yumi le había confiado un colgante\nque decían que \"valía diez mil millones de yenes\".\n\nEl submundo criminal se vio atraído hacia la niña y el colgante como\npolillas a la luz. Kamurocho se vio envuelta en conspiración y traición,\ncon Nishikiyama en el centro del conflicto.\n",
+"Los sucesos de Yakuza\n\nLa niña se llamaba Haruka Sawamura.\n\nCon solo nueve años, fue sola a Kamurocho con la esperanza\nde hallar a su madre, Mizuki. Como Kiryu, Haruka también se crio\nen el Orfanato Sunflower, y su tía Yumi le había confiado un colgante\nque decían que \"valía diez mil millones de yenes\".\n\nEl submundo criminal se vio atraído hacia la niña y el colgante como\npolillas a la luz. Kamurocho se vio envuelta en conspiración y traición,\ncon Nishikiyama en el centro del conflicto.\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29112",
+"Los sucesos de Yakuza\n\nUna explosión sacudió la Torre Millennium donde estaba el dinero.\nMientras los billetes caían a la calle, los seres más queridos de Kiryu\ndieron su último aliento en este mundo.\n\nYumi, quien protegió a Kiryu de una bala de Jingu.\n\nNishikiyama, quien sonrió a Kiryu al detonar la bomba para\nasumir su responsabilidad y poner fin a la matanza...",
+"Los sucesos de Yakuza\n\nUna explosión sacudió la Torre Millennium donde estaba el dinero.\nMientras los billetes caían a la calle, los seres más queridos de Kiryu\ndieron su último aliento en este mundo.\n\nYumi, quien protegió a Kiryu de una bala de Jingu.\n\nNishikiyama, quien sonrió a Kiryu al detonar la bomba\npara asumir su responsabilidad y poner fin a la matanza...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29118",
+"Los sucesos de Yakuza 2\n\nLa mafia Jingweon, un sindicato criminal coreano, fue casi exterminada\nen una redada organizada por Sohei Dojima a principios de los 80.\n\nBajo sus órdenes, fue nada menos que Shintaro Kazama, el hombre que\ncrió a Kiryu, quien lideró la redada.\n\nPero hubo supervivientes, entre ellos un muy joven Ryuji Goda...\n\nLos supervivientes solo buscaban venganza, y más de 20 años después,\nsurgió la oportunidad de envolver al Clan Tojo en una guerra total\nentre el este y el oeste.\n",
+"Los sucesos de Yakuza 2\n\nLa mafia Jingweon, un sindicato criminal coreano, fue casi exterminada\nen una redada organizada por Sohei Dojima a principios de los 80.\n\nBajo sus órdenes, fue nada menos que Shintaro Kazama, el hombre\nque crió a Kiryu, quien lideró la redada.\n\nPero hubo supervivientes, entre ellos un muy joven Ryuji Goda...\n\nLos supervivientes solo buscaban venganza, y más de 20 años después,\nsurgió la oportunidad de envolver al Clan Tojo en una guerra total\nentre el este y el oeste.\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29123",
+"Los sucesos de Yakuza 3\n\nShigeru Nakahara, patriarca de la Familia Ryudo, creía que el complejo\nera la clave de un futuro próspero para Okinawa, a pesar de su amor por la\nserenidad que este destruiría.\n\nLa determinación de Kiryu por proteger el hogar de los niños le mostró\na Nakahara lo que se perdería, y así nació una amistad.\n\nPero poco más de un año después... le dispararon a Nakahara.",
+"Los sucesos de Yakuza 3\n\nShigeru Nakahara, patriarca de la Familia Ryudo, creía que el complejo\nera la clave de un futuro próspero para Okinawa, a pesar de su amor\npor la serenidad que este destruiría.\n\nLa determinación de Kiryu por proteger el hogar de los niños le mostró\na Nakahara lo que se perdería, y así nació una amistad.\n\nPero poco más de un año después... le dispararon a Nakahara.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29124",
+"Los sucesos de Yakuza 3\n\nKiryu no pudo contener su rabia. La hija adoptiva de Nakahara vio\nal culpable y dibujó su rostro... Kiryu no podía creer lo que veía.\nEra la viva imagen de Kazama, su figura paterna, que murió en sus\nbrazos.\n\nPoco después, le llegaron noticias de otro tiroteo: Daigo Dojima,\na quien Kiryu confió el futuro del Clan Tojo, también recibió un disparo\npor el misterioso asesino idéntico a Kazama.",
+"Los sucesos de Yakuza 3\n\nKiryu no pudo contener su rabia. La hija adoptiva de Nakahara vio\nal culpable y dibujó su rostro... Kiryu no podía creer lo que veía.\nEra la viva imagen de Kazama, su figura paterna, que murió\nen sus brazos.\n\nPoco después, le llegaron noticias de otro tiroteo: Daigo Dojima,\na quien Kiryu confió el futuro del Clan Tojo, también recibió un disparo\npor el misterioso asesino idéntico a Kazama.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29128",
+"Los sucesos de Yakuza 3\n\nLa lucha del Clan Tojo acabó con Mine en la cima. Se alió con la\nFamilia Tamashiro de Ryukyugai y el orfanato Morning Glory no pudo\nresistir su fuerza combinada. Un ataque sorpresa arrasó la estructura.\n\nPero el orfanato no fue la única víctima. Rikiya, el joven capitán\nde la Familia Ryudo, fue alcanzado por Tamashiro y murió en brazos de Kiryu.\n\nAtacar vidas inocentes era demasiado para Kiryu, que apretó los\npuños listo para enfrentarse a Mine con todas sus fuerzas...",
+"Los sucesos de Yakuza 3\n\nLa lucha del Clan Tojo acabó con Mine en la cima. Se alió\ncon la Familia Tamashiro de Ryukyugai y el orfanato Morning Glory no pudo\nresistir su fuerza combinada. Un ataque sorpresa arrasó la estructura.\n\nPero el orfanato no fue la única víctima. Rikiya, el joven capitán\nde la Familia Ryudo, fue alcanzado por Tamashiro y murió en brazos de Kiryu.\n\nAtacar vidas inocentes era demasiado para Kiryu, que apretó\nlos puños listo para enfrentarse a Mine con todas sus fuerzas...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29130",
+"Los sucesos de Yakuza 3\n\nMine concluyó que Daigo no podría volver a vivir como antes y decidió acabar\ncon la vida de Daigo para perpetuar el legado del Clan Tojo.\n\nAunque Kiryu y Mine crecieron como huérfanos, sus ideologías no\npodían ser más opuestas, y ambos hombres se enfrentaron.\n\nLa batalla terminó con el líder de Black Monday, Andre Richardson,\napuntando con su arma a Mine.",
+"Los sucesos de Yakuza 3\n\nMine concluyó que Daigo no podría volver a vivir como antes y decidió acabar\ncon la vida de Daigo para perpetuar el legado del Clan Tojo.\n\nAunque Kiryu y Mine crecieron como huérfanos, sus ideologías\nno podían ser más opuestas, y ambos hombres se enfrentaron.\n\nLa batalla terminó con el líder de Black Monday, Andre Richardson,\napuntando con su arma a Mine.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29133",
+"Los sucesos de Yakuza 4\n\nMarzo de 2010. Un asesino en serie andaba suelto por Kamurocho y la\ntensión era palpable e insostenible.\n\nUn prestamista llamado Shun Akiyama se hizo famoso como el\n\"Salvavidas de Kamurocho\" por prestar dinero al tipo de gente que\ncualquier otra financiera rechazaría.\n\n\"Toda jungla necesita su león\".\n\nAkiyama creía que, sin Kazuma Kiryu en escena, Kamurocho se había\ndescontrolado a manos de las bestias.\n\n",
+"Los sucesos de Yakuza 4\n\nMarzo de 2010. Un asesino en serie andaba suelto por Kamurocho\ny la tensión era palpable e insostenible.\n\nUn prestamista llamado Shun Akiyama se hizo famoso como el\n\"Salvavidas de Kamurocho\" por prestar dinero al tipo de gente que\ncualquier otra financiera rechazaría.\n\n\"Toda jungla necesita su león\".\n\nAkiyama creía que, sin Kazuma Kiryu en escena, Kamurocho se había\ndescontrolado a manos de las bestias.\n\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29138",
+"Los sucesos de Yakuza 4\n\nCon la absolución de su hermano como señuelo, Yasuko se convirtió en una\nasesina en serie<symbol=em_dash_with_outline>era la culpable tras los asesinatos en Kamurocho.\n\nTres hombres se vincularon al destino de esta mujer<symbol=em_dash_with_outline>Taiga Saejima,\nShun Akiyama y Masayoshi Tanimura.\n\nTras fugarse del penal, Saejima termina a la deriva en el mar y llega\na la playa de un orfanato... dirigido por el Dragón de Dojima, Kazuma Kiryu.",
+"Los sucesos de Yakuza 4\n\nCon la absolución de su hermano como señuelo, Yasuko se convirtió\nen una asesina en serie<symbol=em_dash_with_outline>era la culpable tras los asesinatos en Kamurocho.\n\nTres hombres se vincularon al destino de esta mujer<symbol=em_dash_with_outline>Taiga Saejima,\nShun Akiyama y Masayoshi Tanimura.\n\nTras fugarse del penal, Saejima termina a la deriva en el mar y llega\na la playa de un orfanato... dirigido por el Dragón de Dojima, Kazuma Kiryu.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29140",
+"Los sucesos de Yakuza 4\n\nLa corrupción de Munakata no acabó en el encubrimiento del golpe. La\nfinanciación de la Prisión de Okinawa 2 fue su obra y se iba a\nobtener de Kyohei Jingu en 2005. Pero ese dinero se esfumó.\n\nCon las manos en la policía y los bajos fondos, Munakata amasó tanto\npoder que ni el Estado ni Daigo Dojima, sexto presidente del Clan Tojo,\npodían tocarlo.",
+"Los sucesos de Yakuza 4\n\nLa corrupción de Munakata no acabó en el encubrimiento del golpe.\nLa financiación de la Prisión de Okinawa 2 fue su obra y se iba\na obtener de Kyohei Jingu en 2005. Pero ese dinero se esfumó.\n\nCon las manos en la policía y los bajos fondos, Munakata amasó tanto\npoder que ni el Estado ni Daigo Dojima, sexto presidente del Clan Tojo,\npodían tocarlo.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29141",
+"Los sucesos de Yakuza 4\n\nA petición de Munakata, Daigo hizo arrestar a Goro Majima, quien con los\ncuatro vinculados a Yasuko se volvió un obstáculo.\n\nLos únicos que quedaban para seguir luchando eran los ajenos a sus\norganizaciones<symbol=em_dash_with_outline>Kiryu, Tanimura, Saejima y Akiyama.\n",
+"Los sucesos de Yakuza 4\n\nA petición de Munakata, Daigo hizo arrestar a Goro Majima, quien\ncon los cuatro vinculados a Yasuko se volvió un obstáculo.\n\nLos únicos que quedaban para seguir luchando eran los ajenos\na sus organizaciones<symbol=em_dash_with_outline>Kiryu, Tanimura, Saejima y Akiyama.\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29142",
+"Los sucesos de Yakuza 4\n\nUsando la enorme fortuna de Akiyama como cebo, Munakata y sus secuaces\nfueron atraídos a la azotea de la Torre Millennium.\n\nSaejima luchó para vengar a su hermana, a quien Katsuragi le disparó\nal recrudecerse el conflicto.\n\nTanimura luchó por la justicia, buscando acabar con Munakata y los\nencubrimientos que ocultaban al asesino de su padre.\n\nKiryu luchó por el honor. Él había puesto a Daigo como sexto presidente\ny sería él quien lo reconduciría al buen camino.",
+"Los sucesos de Yakuza 4\n\nUsando la enorme fortuna de Akiyama como cebo, Munakata y sus secuaces\nfueron atraídos a la azotea de la Torre Millennium.\n\nSaejima luchó para vengar a su hermana, a quien Katsuragi le disparó\nal recrudecerse el conflicto.\n\nTanimura luchó por la justicia, buscando acabar con Munakata\ny los encubrimientos que ocultaban al asesino de su padre.\n\nKiryu luchó por el honor. Él había puesto a Daigo como sexto presidente\ny sería él quien lo reconduciría al buen camino.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29143",
+"Los sucesos de Yakuza 4\n\nCon su corrupción al descubierto y el fracaso de su plan, Munakata\nse quitó la vida.\n\nCon la lucha acabada, cuatro hombres dieron pasos para forjar un\nmañana mejor...\n",
+"Los sucesos de Yakuza 4\n\nCon su corrupción al descubierto y el fracaso de su plan, Munakata\nse quitó la vida.\n\nCon la lucha acabada, cuatro hombres dieron pasos para forjar\nun mañana mejor...\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29145",
+"Los sucesos de Yakuza 5\n\nKiryu volvió al Morning Glory, pero se vio forzado a alejarse cuando una\nagencia de talentos de Osaka fichó a Haruka Sawamura.\n\nAl estar tan unido a Haruka, Kiryu no podía dejar que su pasado criminal\nsaliera a la luz, o destruiría las oportunidades de ella.\n\nKiryu rehízo su vida en Nagasugai como \"Suzuki\", un humilde taxista.\nPero tras llevar a Daigo Dojima en su taxi, este desapareció y el\n\"Dragón de Dojima\" se vio envuelto de nuevo en la yakuza...\n",
+"Los sucesos de Yakuza 5\n\nKiryu volvió al Morning Glory, pero se vio forzado a alejarse cuando\nuna agencia de talentos de Osaka fichó a Haruka Sawamura.\n\nAl estar tan unido a Haruka, Kiryu no podía dejar que su pasado criminal\nsaliera a la luz, o destruiría las oportunidades de ella.\n\nKiryu rehízo su vida en Nagasugai como \"Suzuki\", un humilde taxista.\nPero tras llevar a Daigo Dojima en su taxi, este desapareció\ny el \"Dragón de Dojima\" se vio envuelto de nuevo en la yakuza...\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29147",
+"Los sucesos de Yakuza 5\n\nCuando el Clan Tojo se agitó, la Alianza Omi también lo hizo, con dos\ncapitanes en lucha encarnizada por la sucesión de Omi: Masaru Watase\ny Naoki Katsuya.\n\nEran polos opuestos. Watase era impulsivo y listo para la guerra;\nKatsuya, tranquilo y calculador, controlaba el espectáculo en Osaka.\nPero el aparente suicidio de Mirei Park, la mujer que había fichado a\nHaruka Sawamura, ensombreció su influencia.",
+"Los sucesos de Yakuza 5\n\nCuando el Clan Tojo se agitó, la Alianza Omi también lo hizo, con dos\ncapitanes en lucha encarnizada por la sucesión de Omi: Masaru Watase\ny Naoki Katsuya.\n\nEran polos opuestos. Watase era impulsivo y listo para la guerra;\nKatsuya, tranquilo y calculador, controlaba el espectáculo en Osaka.\nPero el aparente suicidio de Mirei Park, la mujer que había fichado\na Haruka Sawamura, ensombreció su influencia.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29150",
+"Los sucesos de Yakuza 5\n\nComo por destino, el rastro llevó a Kamurocho, y Kiryu, Saejima, Shinada,\nAkiyama y Haruka se hallaron en el ojo del huracán.\n\nLa mente maestra que sospechaba Daigo al fin se reveló<symbol=em_dash_with_outline>\nTsubasa Kurosawa, séptimo presidente de la Alianza Omi, quien actuaba en las\nsombras como Serizawa, el policía de Osaka.\n\nKurosawa, muriendo de cáncer, planeó librar al mundo de yakuza\n\"legendarios\" como Kiryu para legar el poder y lo construido a su hijo.\n",
+"Los sucesos de Yakuza 5\n\nComo por destino, el rastro llevó a Kamurocho, y Kiryu, Saejima, Shinada,\nAkiyama y Haruka se hallaron en el ojo del huracán.\n\nLa mente maestra que sospechaba Daigo al fin se reveló<symbol=em_dash_with_outline>\nTsubasa Kurosawa, séptimo presidente de la Alianza Omi, quien actuaba\nen las sombras como Serizawa, el policía de Osaka.\n\nKurosawa, muriendo de cáncer, planeó librar al mundo de yakuza\n\"legendarios\" como Kiryu para legar el poder y lo construido a su hijo.\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29151",
+"Los sucesos de Yakuza 5\n\nKurosawa infiltró agentes por todo el país y sus planes aterraban a los\nyakuza más reputados.\n\nAl estallar el conflicto, Haruka dio su primer concierto real en el Japan\nDome y, sin saberlo, se volvió parte del plan para abatir a Kiryu con\nel asesinato de ella.\n\nMientras caían sus amigos, Kiryu fue a la sede del Clan Tojo, donde halló\na Masato Aizawa, el hijo de Kurosawa.\n",
+"Los sucesos de Yakuza 5\n\nKurosawa infiltró agentes por todo el país y sus planes aterraban\na los yakuza más reputados.\n\nAl estallar el conflicto, Haruka dio su primer concierto real en el Japan\nDome y, sin saberlo, se volvió parte del plan para abatir a Kiryu\ncon el asesinato de ella.\n\nMientras caían sus amigos, Kiryu fue a la sede del Clan Tojo, donde halló\na Masato Aizawa, el hijo de Kurosawa.\n",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29152",
+"Los sucesos de Yakuza 5\n\nA pesar de todo lo que hizo Kurosawa por darle el mundo a Aizawa, este\nno vio valor en ello, luchando por entender los motivos de su padre\npara dejarle semejante legado.\n\nPero eso no le impide aceptarlo. Este padre e hijo fueron responsables de\nincalculables tragedias, y Kiryu aceptó el desafío de poner fin a su\ntoma de poder convirtiéndose en un muro insuperable para Aizawa.",
+"Los sucesos de Yakuza 5\n\nA pesar de todo lo que hizo Kurosawa por darle el mundo a Aizawa, este\nno vio valor en ello, luchando por entender los motivos de su padre\npara dejarle semejante legado.\n\nPero eso no le impide aceptarlo. Este padre e hijo fueron responsables\nde incalculables tragedias, y Kiryu aceptó el desafío de poner fin\na su toma de poder convirtiéndose en un muro insuperable para Aizawa.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29258",
+"¡Ahora puedes beber con Akiyoshi-san!\n\nA medida que te acercas a los clientes, tu rango en\nel bar aumentará. Con un rango mayor, podrás\nbeber con más gente.\n\nSé directo al acercarte a la gente, o crea lazos\nen el karaoke o los dardos.",
+"¡Ahora puedes beber con Akiyoshi-san!\n\nA medida que te acercas a los clientes, tu rango\nen el bar aumentará. Con un rango mayor, podrás\nbeber con más gente.\n\nSé directo al acercarte a la gente, o crea lazos\nen el karaoke o los dardos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29259",
+"¡Ahora puedes beber con Gen-san!\n\n\nA medida que te acercas a los clientes, tu rango en\nel bar aumentará. Con un rango mayor, podrás\nbeber con más gente.\n\nSé directo al acercarte a la gente, o crea lazos\nen el karaoke o los dardos.",
+"¡Ahora puedes beber con Gen-san!\n\n\nA medida que te acercas a los clientes, tu rango\nen el bar aumentará. Con un rango mayor, podrás\nbeber con más gente.\n\nSé directo al acercarte a la gente, o crea lazos\nen el karaoke o los dardos.",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29260",
+"¡Ahora puedes beber con Ando-san y Kaneko-san!\n\nA medida que te acercas a los clientes, tu rango en\nel bar aumentará. Con un rango mayor, podrás\nbeber con más gente.\n\nSé directo al acercarte a la gente, o crea lazos\nen el karaoke o los dardos.\n\nSería genial que todos se llevaran bien.\nSeguro que Mama estaría contenta...",
+"¡Ahora puedes beber con Ando-san y Kaneko-san!\n\nA medida que te acercas a los clientes, tu rango\nen el bar aumentará. Con un rango mayor, podrás\nbeber con más gente.\n\nSé directo al acercarte a la gente, o crea lazos\nen el karaoke o los dardos.\n\nSería genial que todos se llevaran bien.\nSeguro que Mama estaría contenta...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29268",
+"(¡Ahí está Soji! Tengo que atraparlo y\nrecuperar ese anillo para Fujita.)",
+"(¡Ahí está Soji! Tengo que atraparlo\ny recuperar ese anillo para Fujita.)",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29293",
+"Las estadísticas de tus jugadores suben cuando\njuegan partidos.\n\nSi un jugador te parece prometedor, usa los\nBoletos de entrenamiento que ganas tras los\npartidos para mejorar mucho sus estadísticas.\n\n¡Juega y entrena a tu equipo para el siguiente reto!",
+"Las estadísticas de tus jugadores suben cuando\njuegan partidos.\n\nSi un jugador te parece prometedor, usa\nlos Boletos de entrenamiento que ganas tras\nlos partidos para mejorar mucho sus estadísticas.\n\n¡Juega y entrena a tu equipo para el siguiente reto!",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"29343",
+"Sé que tengo que esforzarme por\nser más femenina...",
+"Sé que tengo que esforzarme\npor ser más femenina...",
+"renglón",
+"renglón acababa en palabra suelta (artículo/preposición): se baja al siguiente sin agrandar la caja (regla de Netflix es-419)"
+],
+[
+"13968",
+"Asumí que eras más débil",
+"Supuse que eras más débil",
+"sentido",
+"falso amigo: «assume» = suponer; «asumir» con ese sentido es anglicismo (RAE, DPD)"
+],
+[
+"24176",
+"¿Y ahora qué, anciano?",
+"¿Y ahora qué, viejo?",
+"término",
+"Kiryu llama «viejo» a este hombre en la escena (24102, 24142): una sola forma"
+],
+[
+"24190",
+"(El anciano miente con descaro",
+"(El viejo miente con descaro",
+"término",
+"Kiryu llama «viejo» a este hombre en la escena"
+],
+[
+"24501",
+"¿Tengo razón, Luchador de Pocket Circuit?",
+"¿Me equivoco, Luchador de Pocket Circuit?",
+"sentido",
+"fiel al original («Am I wrong?»)"
+],
+[
+"25444",
+"A mí tampoco me tiene sentido...",
+"Para mí tampoco tiene sentido...",
+"errata",
+"«tener sentido» no lleva «me»"
+],
+[
+"28098",
+"¡Yo tampoco soy rica!",
+"¡Yo tampoco soy rico!",
+"género",
+"opción de respuesta de Kiryu en el cabaré (sube el rango de Riona)"
+],
+[
+"28132",
+"Quiero probarlo yo misma.",
+"Quiero probarlo yo mismo.",
+"género",
+"opción de respuesta de Kiryu en el cabaré (sube el rango de Sora)"
+],
+[
+"28558",
+"Una mina también es útil.",
+"Una mina también es poderosa.",
+"sentido",
+"fiel al original («a powerful too[l]»), opción absurda a propósito"
+],
+[
+"6166",
+"La gente me busca\npelea muy seguido.",
+"Me buscan pelea\nmuy seguido.",
+"renglón",
+"«busca / pelea» partía la frase hecha; mismo sentido y cabe en el hueco del inglés"
+],
+[
+"9336",
+"Aunque, ya puestos, mejor le doy lo que quiere.",
+"Aunque, ya que estamos, mejor le doy lo que quiere.",
+"españa",
+"«ya puestos» es de España; «ya que estamos» en neutro (era la única del juego)"
+],
+[
+"7463",
+"hola gracias por favor",
+"jola, pol favol",
+"localización",
+"el inglés («herro prease») imita un acento a propósito; fiel a la intención (nunca censurar)"
+],
+[
+"6054",
+"Bola de tenedor",
+"Forkball",
+"término",
+"las descripciones del bateo dicen «Forkball» (como Slider, Splitter, Cutter): una sola forma"
+],
+[
+"6217",
+"Mamá",
+"Mama",
+"término",
+"título de la dueña del bar, «Mama» en todo el juego (Hazte amigo de Mama, Jugar con Mama)"
+],
+[
+"784",
+"Mamá.",
+"Mama.",
+"término",
+"le hablan a Kiyomi, dueña del bar: «Mama» como en el resto del juego"
+],
+[
+"5098",
+"de este\ndumpling de sésamo.",
+"de esta\nbolita de sésamo.",
+"término",
+"el objeto se llama «Bolitas de sésamo» (5097); «dumpling» era inglés colado"
+],
+[
+"1977",
+"¿Un problema \"de personal\"?\n\"Hirose, encárgate.\"",
+"¿Un problema \"de personal\"?\n\"Hirose, encárgate\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"16363",
+"¿Quieres saber qué dijo después?\n\"Que se lo lleve, a mí qué me importa.\"",
+"¿Quieres saber qué dijo después?\n\"Que se lo lleve, a mí qué me importa\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"18567",
+"\"Mantén a tus amigos cerca,\ny a tus enemigos más cerca.\"",
+"\"Mantén a tus amigos cerca,\ny a tus enemigos más cerca\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"20014",
+"Esos kanji se combinan para formar...\n\"La tumba del soldado naval Yamano Dodai.\"",
+"Esos kanji se combinan para formar...\n\"La tumba del soldado naval Yamano Dodai\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"21059",
+"Se llama \"Today is a Diamond.\"",
+"Se llama \"Today is a Diamond\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"21657",
+"\"Yo tampoco soy tan buena haciendo amigos,\npero puedes hacerlo si simplemente sigues sonriendo.\"",
+"\"Yo tampoco soy tan buena haciendo amigos,\npero puedes hacerlo si simplemente sigues sonriendo\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22287",
+"Estoy grabando material para un video titulado\n\"Yakuza de Kamurocho: de cerca y personal.\"",
+"Estoy grabando material para un video titulado\n\"Yakuza de Kamurocho: de cerca y personal\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22360",
+"\"Un mocoso molesto se disculpa por todo.\"\nBueno, ¿empezamos a filmar?",
+"\"Un mocoso molesto se disculpa por todo\".\nBueno, ¿empezamos a filmar?",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22438",
+"Financiarlos es hacerse cómplice.\nIncluso quienes les pagan por \"protección.\"",
+"Financiarlos es hacerse cómplice.\nIncluso quienes les pagan por \"protección\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22649",
+"\"Perdón, ahora mismo estoy ocupado.\"",
+"\"Perdón, ahora mismo estoy ocupado\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22656",
+"\"Ya me encargo.\"",
+"\"Ya me encargo\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22660",
+"\"Está bien. Te avisaré más tarde.\"",
+"\"Está bien. Te avisaré más tarde\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22675",
+"\"Conseguí las tarjetas.\"",
+"\"Conseguí las tarjetas\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22679",
+"\"Aquí están las fotos.\"",
+"\"Aquí están las fotos\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22682",
+"\"Te envié las fotos que pediste.\"",
+"\"Te envié las fotos que pediste\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22683",
+"\"No entiendo.\"",
+"\"No entiendo\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22687",
+"\"Me parece bien.\"",
+"\"Me parece bien\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22695",
+"\"Prefiero darte las tarjetas en persona.\nNo me salen bien las fotos.\"",
+"\"Prefiero darte las tarjetas en persona.\nNo me salen bien las fotos\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22697",
+"\"Sería más rápido dártelas en persona.\nTambién estoy en Kamurocho.\"",
+"\"Sería más rápido dártelas en persona.\nTambién estoy en Kamurocho\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22701",
+"\"Nos vemos pronto.\"",
+"\"Nos vemos pronto\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22710",
+"\"No te preocupes. Ya lo resolví.\"",
+"\"No te preocupes. Ya lo resolví\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22711",
+"\"Como siempre.\"",
+"\"Como siempre\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"22713",
+"\"Seguro que sí.\"",
+"\"Seguro que sí\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"26512",
+"Quiero que le des esta foto a Kaneko\ny le digas: \"Muchas gracias.\"",
+"Quiero que le des esta foto a Kaneko\ny le digas: \"Muchas gracias\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"26550",
+"La chica a la que salvaste visitó el gimnasio,\npara decirte: \"Gracias por ayudarme.\"",
+"La chica a la que salvaste visitó el gimnasio,\npara decirte: \"Gracias por ayudarme\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"28957",
+"\"¿Por favor? De verdad necesito tu ayuda.\"",
+"\"¿Por favor? De verdad necesito tu ayuda\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"28958",
+"\"Gracias. Compra cinco tarjetas de \\10,000.\"",
+"\"Gracias. Compra cinco tarjetas de \\10,000\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"28959",
+"\"Avísame cuando las consigas.\"",
+"\"Avísame cuando las consigas\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"28966",
+"\"Problemas familiares.\"",
+"\"Problemas familiares\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"28967",
+"\"Está bien. Veámonos.\"",
+"\"Está bien. Veámonos\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"28968",
+"\"En la azotea del Edificio Senryo.\"",
+"\"En la azotea del Edificio Senryo\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"28975",
+"\"Mandaré a unos muchachos a limpiar esto.\"",
+"\"Mandaré a unos muchachos a limpiar esto\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"29272",
+"\"¿Importa?\nSolo necesito algunas.\"",
+"\"¿Importa?\nSolo necesito algunas\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"29273",
+"\"Bien. Ahora mándame fotos\nde los números de cada una.\"",
+"\"Bien. Ahora mándame fotos\nde los números de cada una\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"29275",
+"\"Veré qué puedo hacer.\nEse estafador no se va a salir con la suya.\"",
+"\"Veré qué puedo hacer.\nEse estafador no se va a salir con la suya\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"29277",
+"\"Solo mándalas de una vez.\nTengo prisa.\"",
+"\"Solo mándalas de una vez.\nTengo prisa\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"29278",
+"\"Ahórrame los detalles, pero parece\nque te debo un trago.\"",
+"\"Ahórrame los detalles, pero parece\nque te debo un trago\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"29276",
+"para compensar.\"",
+"para compensar\".",
+"signos",
+"el punto va después de la comilla de cierre (RAE; guía de Netflix es-419); ronda final de las IA"
+],
+[
+"29116",
+"el patriarca de el Clan Go-Ryu",
+"el patriarca del Clan Go-Ryu",
+"errata",
+"«de el» se contrae en «del» (ronda final de las IA)"
+]
+]

@@ -2,7 +2,7 @@
 
 ## Para jugar / To play
 
-**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)** (`Yakuza.6.-.Traduccion.al.espanol.v1.0.4.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
+**No descargues el código (botón verde «Code»): no trae la traducción lista.** Descarga el zip de la última versión en **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)** (`Yakuza.6.-.Traduccion.al.espanol.v1.0.5.zip`), descomprímelo en una carpeta, haz doble clic en **`INSTALAR o QUITAR.bat`** y escribe `1` (instalar). El instalador encuentra el juego de Steam solo y guarda una copia de los archivos originales para poder quitarla. Lee el `LEEME.txt` del zip.
 
 *Do not download the source (green «Code» button): it does not contain the ready translation.* Get the zip from **[Releases](https://github.com/NMUI-dev/Yakuza-6-The-Song-of-Life-Espa-ol-Spanish/releases/latest)**, unzip it into a folder, double-click **`INSTALAR o QUITAR.bat`** and type `1` (install). The installer finds the Steam game by itself and backs up the original files so it can be removed.
 
@@ -13,7 +13,7 @@
 The rest of this page is the source code, for people who want to rebuild or check the mod.
 
 Source code and translation data for the fan-made Spanish (Latin American neutral) translation of
-*Yakuza 6: The Song of Life* (Steam, PC). Release v1.0.4.
+*Yakuza 6: The Song of Life* (Steam, PC). Release v1.0.5.
 
 **This repository contains no game files.** Everything here is our own scripts, the translated text and the
 specifications used to redraw in-image text. To build the mod you need your own copy of the game from Steam.
@@ -36,6 +36,19 @@ option 2 restores the backup. It downloads nothing and runs nothing else.
 
 The translation tools (`herramienta_traduccion.py extraer|aplicar`) and the step-by-step guide are in a
 [separate repository](https://github.com/NMUI-dev/Yakuza-6-Herramientas-de-traduccion), which includes ParTool and reARMP.
+
+## v1.0.5
+
+- Whole-translation review scene by scene (`trabajo/revision_contexto_0611/`): `armar_escenas.py` puts every cutscene,
+  speech list and talk in order with who speaks; free AI reviewers (`revisar_escenas.py`) flagged 398 possible errors and
+  each one was decided by hand with the scene in front (`decididas_escenas.json` = fixed, `rechazadas.json` = not an error,
+  with the reason). 677 fixes in `correcciones.json` (built by `correcciones_v105.py`, which checks tags, line breaks and
+  byte limits): line breaks, terms, tú/usted, numbers, profanity restored to the original strength, gender, meaning.
+- Tool fix (tools repository): one-word lines with "." or "-" ("B-Bullshit.", "Th-Thanks...") were taken for internal codes
+  and never extracted, so 136 lines stayed in English; plus 34 visible cells in lower case or with "/". 53 texts translated
+  (`nuevas_v105.json`).
+- Built with `armar_v105.py` (extract with the fixed tool, put the fixes by their English text, apply, compare cell by cell
+  with the published v1.0.4: only the intended cells change). A second extract of the build matches every row.
 
 ## v1.0.4
 
@@ -73,6 +86,7 @@ trabajo/imagenes/atlas_hechos/*.json   per-texture specs: box, English text, Spa
 trabajo/imagenes_ui/*.json   specs for title/pause/mission banners (atlas_es.json, rotulos_es.json)
 entrega/               installer, exactly as shipped
 terceros/reARMP/       reARMP (Ret-HZ, GPL-2.0), copied to herramientas/reARMP by PREPARAR TODO.bat
+trabajo/revision_contexto_0611/ v1.0.5 review: scene-by-scene review, fixes and their reasons, build and checks
 trabajo/revision_steam_0511/   v1.0.4 review: fixes, speakers and their gender, review scripts
 ```
 
